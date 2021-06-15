@@ -1,0 +1,31 @@
+header{
+  background: radial-gradient(ellipse at center,  rgba(0,17,68,0.5) 0%,rgba(0,0,0,1) 100%);
+  color: white;
+.headerContainer {
+
+  // background-color: #94b1ea;
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid;
+  a {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    img {
+      width: 5%;
+      min-width: 75px;
+      float: left;
+      margin-left: 5vh;
+      margin-bottom: 10px;
+      margin-top: 10px;
+    }
+  }
+  p {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    width: 100%;
+  }
+}
+
+}

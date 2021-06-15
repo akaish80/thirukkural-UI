@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { withRouter } from 'react-router-dom';
+import './App.scss';
+import Header from './components/header/header.component';
+import Footer from './components/footer/footer.component';
+import Nav from './components/nav/nav.component';
+import NotFound from './pages/PageNotFound/pagenotfound.component';
+import { nav } from './components/constants';
+import Routes from './Routes';
 
-function App() {
+
+function App({ history }) {
+  const { location } = history;
+  const { pathname } = location;
+  const isPathFound = nav.some((item) => item.link.toLowerCase() === pathname.toLowerCase());
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Header />
       </header>
+      {isPathFound ? (
+        <>
+          <Nav location={history.location} />
+          <div id="content">
+            <Routes />
+          </div>
+        </>
+      ) : (
+        <div id="content" className="pageNotFound">
+          <NotFound />
+        </div>
+      )}
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
 
-export default App;
+export default withRouter(App);

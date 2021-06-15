@@ -1,0 +1,39 @@
+nav {
+  padding-bottom: 0px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+  overflow: hidden;
+  font-family: "Raleway", sans-serif;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  background: white;
+  .menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    .item {
+      display: flex;
+      color: #8e8e8e;
+      a {
+        color: #8e8e8e;
+        padding: 10px 14px;
+
+        text-decoration: none;
+        &:hover {
+          background-color: #f6f6f6;
+          color: #484848;
+        }
+      }
+      &.active a{
+        color: #484848;
+        background-color: #f6f6f6;
+      }
+    }
+  }
+}

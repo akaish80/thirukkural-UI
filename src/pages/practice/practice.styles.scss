@@ -1,0 +1,40 @@
+.container {
+  .itemList {
+    margin-right: 20px;
+  }
+  .practiceContainer {
+    color: black;
+    padding: 20px;
+    margin-left: 30px;
+    width: 70%;
+
+    .tableContainer {
+      .tableHeader {
+        display: flex;
+        justify-content: space-around;
+        p {
+          width: 25%;
+          text-decoration: underline;
+        }
+      }
+      .tableBody {
+        .row {
+          display: flex;
+          justify-content: space-evenly;
+        }
+        p {
+          width: 25%;
+        }
+      }
+      .examContainer{
+        display: flex;
+        flex-flow: row;
+        justify-content: space-around;
+      .dragDropContainer{
+          display: flex;
+          flex-flow: column;
+      }
+    }
+    }
+  }
+}

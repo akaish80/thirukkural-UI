@@ -1,0 +1,53 @@
+.fillInTheBlanksContainer {
+  float: left;
+  clear: both;
+
+  p.title {
+    margin: 20px 0px;
+    width: auto;
+    clear: both;
+    display: flex;
+    span {
+      display: block;
+      float: left;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+  }
+  .kurralFillContainer {
+    .line {
+      justify-content: flex-start;
+      display: flex;
+      &.wrapcontent {
+        display: flex;
+        p {
+          margin: 0px 10px;
+          font-weight: normal;
+          text-decoration: none;
+        }
+        p:first-child{
+            margin: 0;
+        }
+        
+        input {
+            margin-left: 10px;
+            &:first-child, &:last-child {
+                margin-left: 0;
+            }
+        }
+      }
+      p{
+          margin: 10px 0;
+      }
+
+      input {
+        width: 60px;
+      }
+    }
+  }
+
+  .errorField{
+      font-size: 10px;
+      color: red;
+  }
+}
