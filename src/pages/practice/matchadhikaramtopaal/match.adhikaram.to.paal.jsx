@@ -1,9 +1,10 @@
+/* eslint-disable no-debugger */
 import React, { useEffect, useState } from 'react';
 import { DragContainer } from '../../../components/DragAndDrop/DragContainer';
 import { DropContainer } from '../../../components/DragAndDrop/DropContainer';
 import { getRandomList, isEmpty } from '../../../components/utils';
-import adikaram from '../../Common/adikaram_data';
-import paalList from '../../Common/paalList_data';
+import adikaram from '../../../Common/adikaram_data';
+import paalList from '../../../Common/paalList_data';
 
 const MatchAdhikaramToPaal = ({ selPractice }) => {
   const [listOfAdhikaram, setListOfAdhikaram] = useState([]);
@@ -12,7 +13,6 @@ const MatchAdhikaramToPaal = ({ selPractice }) => {
   useEffect(() => {
     setListOfAdhikaram(getRandomList(adikaram, 10));
   }, []);
-
 
   const handleDrop = (index, item) => {
     const { name } = item;
@@ -30,6 +30,7 @@ const MatchAdhikaramToPaal = ({ selPractice }) => {
 
     listOfAdhikaram.splice(indexCp, 1);
     setCurrentPaalList(updatePaalList);
+    debugger;
   };
 
   return (
@@ -47,7 +48,7 @@ const MatchAdhikaramToPaal = ({ selPractice }) => {
                   return (
                     <div>
                       <DragContainer
-                        name={`${item.Tamil} (${item.count})`}
+                        name={`${item.Tamil} (${item.count})`}
                         type={item.Tamil}
                         accept={item.adikaram}
                         onDrop={(item) => handleDrop(index, item)}

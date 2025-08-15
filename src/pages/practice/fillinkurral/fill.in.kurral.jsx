@@ -4,7 +4,7 @@ import {
   getRandomList,
   returnMatchedLine,
 } from '../../../components/utils';
-import kurral from '../../Common/kurral_data';
+import kurral from '../../../Common/kurral_data';
 import './fill.in.kurral.styles.scss';
 
 const FillInKurral = () => {
@@ -53,14 +53,6 @@ const FillInKurral = () => {
     newKurLst[index].error = false;
 
     setKurralList(newKurLst);
-    //   const newKurral = kurralList[index]
-
-    //   newKurral.inputWord = e.target.value;
-    //   newKurral.error = false
-    // //   setKurralList()
-    // debugger;
-    // setKurralList([...kurralList, newKurral]);
-    // debugger;
   };
 
   const getInputField = ({ line, inputWord, rowNum }) => {
@@ -72,7 +64,7 @@ const FillInKurral = () => {
         value={inputWord}
       />
     ) : (
-      <p key={index}>{`${item} `}</p>
+      <p key={index}>{`${item} `}</p>
     )));
   };
 
@@ -108,13 +100,12 @@ const FillInKurral = () => {
               return (
                 <div key={index} className="fillInTheBlanksContainer">
                   <p className="title">
-                    <span>{`குறள் - ${index + 1}`}</span>
+                    <span>{`குறள் - ${index + 1}`}</span>
                   </p>
                   <div className="kurralFillContainer">
                     <div
-                      className={`line ${
-                        item.line1Replace ? 'wrapcontent' : ''
-                      }`}
+                      className={`line ${item.line1Replace ? 'wrapcontent' : ''
+                        }`}
                     >
                       {!item.line1Replace ? (
                         <p>{item.line1}</p>
@@ -127,9 +118,8 @@ const FillInKurral = () => {
                       )}
                     </div>
                     <div
-                      className={`line ${
-                        item.line2Replace ? 'wrapcontent' : ''
-                      }`}
+                      className={`line ${item.line2Replace ? 'wrapcontent' : ''
+                        }`}
                     >
                       {!item.line2Replace ? (
                         <p>{item.line2}</p>
@@ -141,12 +131,12 @@ const FillInKurral = () => {
                         })
                       )}
                     </div>
-                    {item.error && <p className="errorField"> Error </p>}
+                    {item.error && <p className="errorField"> Error </p>}
                   </div>
                 </div>
               );
             })}
-          <button onClick={handleSubmit}> Submit </button>
+          <button onClick={handleSubmit}> Submit </button>
         </>
       ) : (
         <p>Success</p>

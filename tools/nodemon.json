@@ -1,0 +1,5 @@
+{
+    "quiet": true,
+    "exec": "node build/server.bunder.js",
+    "watch": "build/server.bunder.js"
+}

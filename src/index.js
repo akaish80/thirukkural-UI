@@ -1,22 +1,28 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
+import { Provider } from 'react-redux';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { register } from './serviceWorker';
+import { store } from './redux/store';
 
-ReactDOM.render(
+const container = document.getElementById('root');
+const root = createRoot(container);
+
+root.render(
   <React.StrictMode>
     <BrowserRouter>
       <DndProvider backend={HTML5Backend}>
-        <App />
+        <Provider store={store}>
+          <App />
+        </Provider>
       </DndProvider>
     </BrowserRouter>
-  </React.StrictMode>,
-  document.getElementById('root'),
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function

@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import ListGroup from '../../components/ListGroup';
-import { Container } from '../Common/common.styles';
-import paalList from '../Common/paalList_data';
-import adikaram from '../Common/adikaram_data';
-import kurral from '../Common/kurral_data';
+import { Container } from '../../Common/common.styles';
+import paalList from '../../Common/paalList_data';
+import adikaram from '../../Common/adikaram_data';
+import kurral from '../../Common/kurral_data';
 import './thirukurral.styles.scss';
 
 // const test = require('test');

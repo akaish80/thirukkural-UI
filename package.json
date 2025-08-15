@@ -2,32 +2,42 @@
   "name": "thirukurral",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
-    "@loadable/component": "^5.15.0",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "axios": "^0.21.1",
-    "prop-types": "^15.7.2",
-    "react": "^17.0.2",
-    "react-dnd": "^14.0.2",
-    "react-dnd-html5-backend": "^14.0.0",
-    "react-dom": "^17.0.2",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
-    "styled-components": "^5.3.0",
-    "web-vitals": "^1.0.1"
+    "@loadable/component": "^5.16.4",
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.5.2",
+    "axios": "^1.7.3",
+    "eslint-import-resolver-webpack": "^0.13.8",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-router": "^6.26.0",
+    "react-router-dom": "^6.26.0",
+    "react-scripts": "5.0.1",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.3.0",
+    "reselect": "^5.1.1",
+    "styled-components": "^6.1.12",
+    "web-vitals": "^4.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint src ",
+    "lint": "eslint src",
     "lint:fix": "yarn run lint --fix",
     "browsers": "browserslist",
-    "deploy": "react-scripts build && aws s3 rm s3://mythirukurral.com/ --recursive && aws s3 cp ./build s3://mythirukurral.com/ --recursive --acl public-read "
+    "deploy": "react-scripts build && aws s3 rm s3://mythirukurral.com/ --recursive && aws s3 cp ./build s3://mythirukurral.com/ --recursive --acl public-read"
   },
   "eslintConfig": {
     "extends": [
@@ -36,16 +46,10 @@
     ]
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "browserslist": "^4.16.6",
-    "eslint": "^7.26.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-compat": "^3.9.0",
-    "eslint-plugin-import": "^2.23.2",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-lodash": "^7.2.0",
-    "eslint-plugin-react": "^7.23.2",
-    "sass": "^1.32.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "browserslist": "^4.23.3",
+    "eslint": "^8.57.0",
+    "sass": "^1.77.8"
   },
   "browserslist": [
     "defaults"
