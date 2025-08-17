@@ -3,14 +3,14 @@ function isEmpty(obj) {
 }
 
 function getRandomList(lstObj, count) {
-  let arrLst = [];
-  const mySet1 = new Set();
-
-  do {
-    mySet1.add(lstObj[Math.floor(Math.random() * lstObj.length)]);
-    arrLst = Array.from(mySet1);
-  } while (arrLst.length < count);
-  return arrLst;
+  if (!Array.isArray(lstObj) || lstObj.length === 0 || count <= 0) return [];
+  const arr = [...lstObj];
+  // Fisher-Yates shuffle
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr.slice(0, Math.min(count, arr.length));
 }
 
 function returnMatchedLine(line1, line2, randomWord) {

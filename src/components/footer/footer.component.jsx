@@ -16,7 +16,7 @@ const Footer = () => {
           </div>
 
           <div className="footer-section">
-            <h4 className="section-title">சிக்षণம्</h4>
+            <h4 className="section-title">சிக்ஷணம்</h4>
             <div className="footer-links">
               <a href="/thirukurral" className="footer-link">குறள் கற்க</a>
               <a href="/practice" className="footer-link">பயிற்சி</a>
@@ -29,7 +29,7 @@ const Footer = () => {
             <div className="footer-links">
               <a href="/about" className="footer-link">இந்த செயலி</a>
               <a href="/contact" className="footer-link">தொடர்பு</a>
-              <a href="/privacy" className="footer-link">தனியுரिमै</a>
+              <a href="/privacy" className="footer-link">தனியுரிமை</a>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ const Footer = () => {
 
         <div className="footer-bottom">
           <div className="copyright">
-            <p>© {currentYear} திருக்குறள் | அனைத்து உरिमైகळும் பாतুकाप्पागिदे</p>
+            <p>© {currentYear} திருக்குறள் | அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை</p>
           </div>
 
           <div className="footer-social">

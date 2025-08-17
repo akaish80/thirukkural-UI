@@ -45,7 +45,7 @@ drag-container {
     }
 }
 
-.drop-container {
+.drop-container, .drag-container {
     border: 2px dashed var(--border-secondary);
     background-color: var(--bg-primary);
     color: var(--text-primary);
