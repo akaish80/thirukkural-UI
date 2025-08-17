@@ -6,8 +6,6 @@ import adikaram from '../../Common/adikaram_data';
 import kurral from '../../Common/kurral_data';
 import './thirukurral.styles.scss';
 
-// const test = require('test');
-
 const Thirukkural = () => {
   const [paalListData, updatePaalListData] = useState([...paalList]);
   const [adhikaramList, updateAdhikaramList] = useState([]);
@@ -42,12 +40,10 @@ const Thirukkural = () => {
     );
 
     const kurralData = kurralList[0];
-    // kurralData.map((item) => (item.isClicked = false));
     kurralData.isClicked = true;
     updateKurralDataList(kurralList);
 
     updateAdhikaramList(newAdhikaramList);
-    // updateSelectedKurral(kurralList[0].kurral[0]);
     updateSelectedKurral(kurralData);
   };
 
@@ -61,71 +57,82 @@ const Thirukkural = () => {
 
   return (
     <Container>
-      <p>List Page</p>
-      <div className="container">
-        <div className="palVagaiContainer">
-          <ListGroup
-            listData={paalListData}
-            className="palVagaiList"
-            handleButtonClick={handlePaalListClick}
-          />
-        </div>
-        {adhikaramList.length > 0 && (
-          <div className="adikaramListContainer">
-            <ListGroup
-              listData={adhikaramList}
-              className="adikaramList"
-              handleButtonClick={handleAdikaramClick}
-            />
+      <div className="thirukurral-page" style={{ fontFamily: "'Noto Sans Tamil', 'Segoe UI', 'Helvetica Neue', Arial, 'sans-serif'" }}>
+        <h1 className="page-title">திருக்குறள் பட்டியல்</h1>
+        <div className="listing-sections">
+          <div className="section paal-section">
+            <h2 className="section-title">பால் வகைகள்</h2>
+            <div className="section-content">
+              <ListGroup
+                listData={paalListData}
+                className="palVagaiList"
+                handleButtonClick={handlePaalListClick}
+              />
+            </div>
           </div>
-        )}
-
-        {kurralDataList.length > 0 && (
-          <div className="kurralListContainer">
-            <div className="childContainer">
-              {kurralDataList.map((_item, index) => {
-                return (
+          {adhikaramList.length > 0 && (
+            <div className="section adikaram-section">
+              <h2 className="section-title">அதிகாரங்கள்</h2>
+              <div className="section-content">
+                <ListGroup
+                  listData={adhikaramList}
+                  className="adikaramList"
+                  handleButtonClick={handleAdikaramClick}
+                />
+              </div>
+            </div>
+          )}
+          {kurralDataList.length > 0 && (
+            <div className="section kurral-section">
+              <h2 className="section-title">குறள்கள்</h2>
+              <div className="section-content kurral-buttons">
+                {kurralDataList.map((_item, index) => (
                   <button
                     key={index}
                     onClick={handleOnClick}
-                    className={`${_item.isClicked ? 'active' : ''}`}
+                    className={`kurral-btn${_item.isClicked ? ' active' : ''}`}
                   >
                     {_item.Index}
                   </button>
-                );
-              })}
+                ))}
+              </div>
               {selectedKurral && (
-                <div className="kurralContainer">
-                  <p className="title">
-                    குறள் -
-                    {selectedKurral.Index}
+                <div className="kurral-details-card">
+                  <p className="kurral-title">
+                    குறள் - {selectedKurral.Index}
                   </p>
                   <p
+                    className="kurral-tamil"
                     dangerouslySetInnerHTML={{ __html: selectedKurral.Tamil }}
                   />
-                  <p className="urraiTitle">மு.வ உரை</p>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: selectedKurral.MuVaUrai,
-                    }}
-                  />
-                  <p className="urraiTitle">சாலமன் பாப்பையா உரை</p>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: selectedKurral.SolomonPaapaiyaUrai,
-                    }}
-                  />
-                  <p className="urraiTitle">கலைஞர் உரை</p>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: selectedKurral.KalaignarUrai,
-                    }}
-                  />
+                  <div className="urai-section">
+                    <p className="urai-title">மு.வ உரை</p>
+                    <p
+                      className="urai-text"
+                      dangerouslySetInnerHTML={{
+                        __html: selectedKurral.MuVaUrai,
+                      }}
+                    />
+                    <p className="urai-title">சாலமன் பாப்பையா உரை</p>
+                    <p
+                      className="urai-text"
+                      dangerouslySetInnerHTML={{
+                        __html: selectedKurral.SolomonPaapaiyaUrai,
+                      }}
+                    />
+                    <p className="urai-title">கலைஞர் உரை</p>
+                    <p
+                      className="urai-text"
+                      dangerouslySetInnerHTML={{
+                        __html: selectedKurral.KalaignarUrai,
+                      }}
+                    />
+                  </div>
                 </div>
               )}
             </div>
-          </div>
-        )}
+          )}
+        </div>
       </div>
     </Container>
   );

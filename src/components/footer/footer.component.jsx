@@ -43,7 +43,7 @@ const Footer = () => {
 
           <div className="footer-social">
             <span className="social-text">Developed with ❤️ by</span>
-            <span className="developer-name">Arun & Co</span>
+            <span className="developer-name"><a href="http://www.darunk.com" target='_blank' rel="noreferrer">Arun</a></span>
           </div>
         </div>
       </div>

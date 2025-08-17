@@ -11,10 +11,10 @@ const Nav = (props) => {
   // Add icons to menu items
   const getIcon = (text) => {
     switch (text.toLowerCase()) {
-      case 'home': return '🏠';
-      case 'thirukurral': return '📖';
-      case 'practice': return '✍️';
-      default: return '📄';
+    case 'home': return '🏠';
+    case 'thirukurral': return '📖';
+    case 'practice': return '✍️';
+    default: return '📄';
     }
   };
 

@@ -105,7 +105,7 @@ const FillInKurral = () => {
                   <div className="kurralFillContainer">
                     <div
                       className={`line ${item.line1Replace ? 'wrapcontent' : ''
-                        }`}
+                      }`}
                     >
                       {!item.line1Replace ? (
                         <p>{item.line1}</p>
@@ -119,7 +119,7 @@ const FillInKurral = () => {
                     </div>
                     <div
                       className={`line ${item.line2Replace ? 'wrapcontent' : ''
-                        }`}
+                      }`}
                     >
                       {!item.line2Replace ? (
                         <p>{item.line2}</p>
