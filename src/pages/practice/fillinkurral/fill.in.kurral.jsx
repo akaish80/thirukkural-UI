@@ -136,7 +136,8 @@ const FillInKurral = () => {
                 </div>
               );
             })}
-          <button onClick={handleSubmit}> Submit </button>
+          <div className="controls">
+            <button onClick={handleSubmit}>Submit</button></div>
         </>
       ) : (
         <p>Success</p>

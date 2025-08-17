@@ -161,3 +161,18 @@
     }
   }
 }
+
+
+  .controls{
+    button{
+      background-color: var(--color-primary);
+      color: var(--bg-primary);
+      border: none;
+      padding: 12px 30px;
+      font-size: 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-weight: 600;
+    }
+  }
