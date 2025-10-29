@@ -1,49 +1,42 @@
-import React from 'react';
+
 import './footer.styles.scss';
+import { useSelector } from 'react-redux';
 
 const Footer = () => {
+  const content = useSelector(state => state.content.data?.footer);
   const currentYear = new Date().getFullYear();
+
+  if (!content) return null; // or a loader
 
   return (
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3 className="footer-title">திருக்குறள்</h3>
-            <p className="footer-description">
-              திருவள்ளுவர் அருளிய உலகப்பொதுமறை
-            </p>
+            <h3 className="footer-title">{content.title}</h3>
+            <p className="footer-description">{content.description}</p>
           </div>
-
-          <div className="footer-section">
-            <h4 className="section-title">சிக்ஷணம்</h4>
-            <div className="footer-links">
-              <a href="/thirukurral" className="footer-link">குறள் கற்க</a>
-              <a href="/practice" className="footer-link">பயிற்சி</a>
-              <a href="/adhikarams" className="footer-link">அதிகாரங்கள்</a>
+          {content.sections.map((section, idx) => (
+            <div className="footer-section" key={idx}>
+              <h4 className="section-title">{section.title}</h4>
+              <div className="footer-links">
+                {section.links.map((link, lidx) => (
+                  <a href={link.href} className="footer-link" key={lidx}>{link.label}</a>
+                ))}
+              </div>
             </div>
-          </div>
-
-          <div className="footer-section">
-            <h4 className="section-title">பற்றி</h4>
-            <div className="footer-links">
-              <a href="/about" className="footer-link">இந்த செயலி</a>
-              <a href="/contact" className="footer-link">தொடர்பு</a>
-              <a href="/privacy" className="footer-link">தனியுரிமை</a>
-            </div>
-          </div>
+          ))}
         </div>
-
         <div className="footer-divider"></div>
-
         <div className="footer-bottom">
           <div className="copyright">
-            <p>© {currentYear} திருக்குறள் | அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை</p>
+            <p>{content.copyright.replace('{year}', currentYear)}</p>
           </div>
-
           <div className="footer-social">
-            <span className="social-text">Developed with ❤️ by</span>
-            <span className="developer-name"><a href="http://www.darunk.com" target='_blank' rel="noreferrer">Arun</a></span>
+            <span className="social-text">{content.developedBy}</span>
+            <span className="developer-name">
+              <a href={content.developerUrl} target='_blank' rel="noreferrer">{content.developerName}</a>
+            </span>
           </div>
         </div>
       </div>

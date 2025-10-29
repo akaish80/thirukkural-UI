@@ -13,6 +13,7 @@ const AppRoutes = () => {
     <Routes>
       <Route path="/" element={<HomePageWrapper />} />
       <Route path="/kurral" element={<ThirrukurralWrapper />} />
+      <Route path="/kurral/:id" element={<ThirrukurralWrapper />} />
       <Route path="/kurral/excercise" element={<ExcerciseWrapper />} />
       <Route path="*" element={<NotFound />} />
     </Routes>

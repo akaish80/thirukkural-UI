@@ -1,24 +1,16 @@
-import { createStore, applyMiddleware } from 'redux';
-// import { persistStore } from 'redux-persist';
-import logger from 'redux-logger';
-import createSagaMiddleware from 'redux-saga';
-import rootReducer from './root-reducer';
-import rootSaga from './root.sagas';
+import { configureStore } from '@reduxjs/toolkit';
+import contentReducer from './content/content.slice'; // see next step for slice creation
+import userReducer from './user/user.slice';
+import kurralReducer from './kurral/kurral.slice';
 
-const sagaMiddleware = createSagaMiddleware();
 
-const middlewares = [sagaMiddleware];
+const store = configureStore({
+  reducer: {
+    content: contentReducer,
+    user: userReducer,
+    kurral: kurralReducer
+  },
+  // Redux DevTools and thunk middleware are included by default
+});
 
-if (process.env.NODE_ENV === 'development') {
-  middlewares.push(logger);
-}
-
-export const store = createStore(rootReducer, applyMiddleware(...middlewares));
-
-sagaMiddleware.run(rootSaga);
-
-// export const persistor = persistStore(store);
-
-// export default { store, persistStore };
-const storeConfig = { store };
-export default storeConfig;
+export default store;
