@@ -1,8 +1,17 @@
 /* eslint-disable import/order */
+// Register ts-node to handle TypeScript imports
+require('ts-node').register({
+  transpileOnly: true,
+  compilerOptions: {
+    module: 'commonjs'
+  }
+});
+
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const path = require('path');
+const fs = require('fs');
 // const compression = require("compression");
  
 // const enforce = require('express-sslify');
@@ -20,7 +29,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 
-console.log(`Arun -> ${process.env.NODE_ENV}`);
+// console.log(`Arun -> ${process.env.NODE_ENV}`);
 
 // Mount chatbot service API routes so the chat API runs on the same origin
 try {
