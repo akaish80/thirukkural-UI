@@ -41,11 +41,11 @@ const DrawLetter = () => {
     { letter: 'ழ', name: 'Zha', type: 'Consonant', sound: '/ɻ/ retroflex approximant' },
     { letter: 'ள', name: 'La', type: 'Consonant', sound: '/ɭ/ retroflex L' },
     { letter: 'ற', name: 'Ra', type: 'Consonant', sound: '/r/ hard R' },
-    { letter: 'ன', name: 'Na', type: 'Consonant', sound: '/n/ alveolar N' }
+    { letter: 'ன', name: 'Na', type: 'Consonant', sound: '/n/ alveolar N' },
   ];
 
   const getCurrentLetterInfo = () => {
-    return tamilLetters.find(item => item.letter === currentLetter) || tamilLetters[0];
+    return tamilLetters.find((item) => item.letter === currentLetter) || tamilLetters[0];
   };
 
   useEffect(() => {
@@ -85,7 +85,9 @@ const DrawLetter = () => {
     }
   }, [showGuide, currentLetter]);
 
-  const getCanvasCoordinates = (e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
+  const getCanvasCoordinates = (
+    e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>,
+  ) => {
     const canvas = canvasRef.current;
     if (!canvas) return { x: 0, y: 0 };
     const rect = canvas.getBoundingClientRect();
@@ -96,18 +98,20 @@ const DrawLetter = () => {
       // Touch events
       return {
         x: (e.touches[0].clientX - rect.left) * scaleX,
-        y: (e.touches[0].clientY - rect.top) * scaleY
+        y: (e.touches[0].clientY - rect.top) * scaleY,
       };
     } else {
       // Mouse events
       return {
         x: (e.clientX - rect.left) * scaleX,
-        y: (e.clientY - rect.top) * scaleY
+        y: (e.clientY - rect.top) * scaleY,
       };
     }
   };
 
-  const startDrawing = (e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
+  const startDrawing = (
+    e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>,
+  ) => {
     e.preventDefault();
     setIsDrawing(true);
     const coords = getCanvasCoordinates(e);
@@ -132,13 +136,15 @@ const DrawLetter = () => {
     ctx.stroke();
   };
 
-  const stopDrawing = (e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
+  const stopDrawing = (
+    e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>,
+  ) => {
     e.preventDefault();
     if (!isDrawing) return;
     setIsDrawing(false);
 
     // Get current letter info for feedback
-    const letterInfo = tamilLetters.find(item => item.letter === currentLetter);
+    const letterInfo = tamilLetters.find((item) => item.letter === currentLetter);
     const letterName = letterInfo ? letterInfo.name : currentLetter;
 
     // Provide feedback based on stroke count
@@ -203,7 +209,7 @@ const DrawLetter = () => {
       `${currentLetter} is pronounced as ${currentInfo.sound}`,
       `Focus on the unique features of ${currentLetter}`,
       'Draw slowly and deliberately for better muscle memory',
-      'Use the guide to understand the proper proportions'
+      'Use the guide to understand the proper proportions',
     ];
     const randomTip = tips[Math.floor(Math.random() * tips.length)];
     setFeedback(`💡 Tip: ${randomTip}`);
@@ -223,39 +229,43 @@ const DrawLetter = () => {
             <div className="vowels-section">
               <h5>உயிர் எழுத்துகள் (Vowels)</h5>
               <div className="letter-grid">
-                {tamilLetters.filter(item => item.type === 'Vowel').map((item) => (
-                  <button
-                    key={item.letter}
-                    className={`letter-button ${currentLetter === item.letter ? 'selected' : ''}`}
-                    onClick={() => selectLetter(item.letter)}
-                    title={`${item.name} - ${item.sound}`}
-                  >
-                    {item.letter}
-                  </button>
-                ))}
+                {tamilLetters
+                  .filter((item) => item.type === 'Vowel')
+                  .map((item) => (
+                    <button
+                      key={item.letter}
+                      className={`letter-button ${currentLetter === item.letter ? 'selected' : ''}`}
+                      onClick={() => selectLetter(item.letter)}
+                      title={`${item.name} - ${item.sound}`}
+                    >
+                      {item.letter}
+                    </button>
+                  ))}
               </div>
             </div>
 
             <div className="consonants-section">
               <h5>மெய் எழுத்துகள் (Consonants)</h5>
               <div className="letter-grid">
-                {tamilLetters.filter(item => item.type === 'Consonant').map((item) => (
-                  <button
-                    key={item.letter}
-                    className={`letter-button ${currentLetter === item.letter ? 'selected' : ''}`}
-                    onClick={() => selectLetter(item.letter)}
-                    title={`${item.name} - ${item.sound}`}
-                  >
-                    {item.letter}
-                  </button>
-                ))}
+                {tamilLetters
+                  .filter((item) => item.type === 'Consonant')
+                  .map((item) => (
+                    <button
+                      key={item.letter}
+                      className={`letter-button ${currentLetter === item.letter ? 'selected' : ''}`}
+                      onClick={() => selectLetter(item.letter)}
+                      title={`${item.name} - ${item.sound}`}
+                    >
+                      {item.letter}
+                    </button>
+                  ))}
               </div>
             </div>
           </div>
 
           <div className="quick-actions">
             <button onClick={getRandomLetter} className="random-button">
-                            🎲 Random Letter
+              🎲 Random Letter
             </button>
           </div>
         </div>
@@ -264,13 +274,13 @@ const DrawLetter = () => {
           <h4>Practice Letter:</h4>
           <div className="large-letter">{currentLetter}</div>
           <div className="letter-info">
-            {tamilLetters.find(item => item.letter === currentLetter) && (
+            {tamilLetters.find((item) => item.letter === currentLetter) && (
               <>
                 <p className="letter-name">
-                  {tamilLetters.find(item => item.letter === currentLetter)?.name}
+                  {tamilLetters.find((item) => item.letter === currentLetter)?.name}
                 </p>
                 <p className="letter-sound">
-                                    Sound: {tamilLetters.find(item => item.letter === currentLetter)?.sound}
+                  Sound: {tamilLetters.find((item) => item.letter === currentLetter)?.sound}
                 </p>
               </>
             )}
@@ -291,23 +301,19 @@ const DrawLetter = () => {
               onTouchEnd={stopDrawing}
             />
 
-            {feedback && (
-              <div className="drawing-feedback">
-                {feedback}
-              </div>
-            )}
+            {feedback && <div className="drawing-feedback">{feedback}</div>}
           </div>
 
           <div className="controls-section">
             <div className="control-buttons">
               <button onClick={clearCanvas} className="clear-button">
-                                🗑️ Clear Canvas
+                🗑️ Clear Canvas
               </button>
               <button onClick={toggleGuide} className="guide-button">
                 {showGuide ? '👁️ Hide Guide' : '👁️ Show Guide'}
               </button>
               <button onClick={giveTip} className="tip-button">
-                                💡 Get Tip
+                💡 Get Tip
               </button>
             </div>
 

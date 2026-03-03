@@ -9,7 +9,10 @@ const ThemeDemo = () => {
     <div className="theme-demo">
       <div className="demo-header">
         <h1>🎨 Theme System Demo</h1>
-        <p>Experience the complete theme system with multiple color schemes and dark/light mode support.</p>
+        <p>
+          Experience the complete theme system with multiple color schemes and dark/light mode
+          support.
+        </p>
         <ThemeSelector />
       </div>
 
@@ -17,10 +20,11 @@ const ThemeDemo = () => {
         <div className="demo-card">
           <h3>Current Theme</h3>
           <div className="theme-info">
-            <span className="theme-badge">
-              {isDark ? '🌙 Dark' : '☀️ Light'} Mode
-            </span>
-            <span className="color-badge" style={{ backgroundColor: 'var(--color-primary)', color: 'white' }}>
+            <span className="theme-badge">{isDark ? '🌙 Dark' : '☀️ Light'} Mode</span>
+            <span
+              className="color-badge"
+              style={{ backgroundColor: 'var(--color-primary)', color: 'white' }}
+            >
               {colorScheme.charAt(0).toUpperCase() + colorScheme.slice(1)} Scheme
             </span>
           </div>
@@ -46,10 +50,18 @@ const ThemeDemo = () => {
         <div className="demo-card">
           <h3>Colors</h3>
           <div className="color-showcase">
-            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary)' }}>Primary</div>
-            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary-dark)' }}>Primary Dark</div>
-            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary-light)' }}>Primary Light</div>
-            <div className="color-sample" style={{ backgroundColor: 'var(--color-accent)' }}>Accent</div>
+            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary)' }}>
+              Primary
+            </div>
+            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary-dark)' }}>
+              Primary Dark
+            </div>
+            <div className="color-sample" style={{ backgroundColor: 'var(--color-primary-light)' }}>
+              Primary Light
+            </div>
+            <div className="color-sample" style={{ backgroundColor: 'var(--color-accent)' }}>
+              Accent
+            </div>
           </div>
         </div>
 
@@ -66,11 +78,21 @@ const ThemeDemo = () => {
         <div className="demo-card">
           <h3>System Integration</h3>
           <div className="system-info">
-            <p><strong>Effective Theme:</strong> {effectiveTheme}</p>
-            <p><strong>Color Scheme:</strong> {colorScheme}</p>
-            <p><strong>System Preference:</strong> Auto-detected</p>
-            <p><strong>Persistence:</strong> LocalStorage</p>
-            <p><strong>CSS Variables:</strong> Dynamic</p>
+            <p>
+              <strong>Effective Theme:</strong> {effectiveTheme}
+            </p>
+            <p>
+              <strong>Color Scheme:</strong> {colorScheme}
+            </p>
+            <p>
+              <strong>System Preference:</strong> Auto-detected
+            </p>
+            <p>
+              <strong>Persistence:</strong> LocalStorage
+            </p>
+            <p>
+              <strong>CSS Variables:</strong> Dynamic
+            </p>
           </div>
         </div>
       </div>

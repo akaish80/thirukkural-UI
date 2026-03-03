@@ -13,7 +13,11 @@ function getRandomList<T>(lstObj: T[], count: number): T[] {
   return arr.slice(0, Math.min(count, arr.length));
 }
 
-function returnMatchedLine(line1: string, line2: string, randomWord: string): { matchedLine: string; replacedString: string } {
+function returnMatchedLine(
+  line1: string,
+  line2: string,
+  randomWord: string,
+): { matchedLine: string; replacedString: string } {
   let arr = line1.split(' ');
   let arrInd = arr.findIndex((item: string) => item === randomWord);
   if (arrInd !== -1) {
@@ -27,8 +31,4 @@ function returnMatchedLine(line1: string, line2: string, randomWord: string): { 
   return { matchedLine: 'line2', replacedString: arr.join(' ') };
 }
 
-export {
-  isEmpty,
-  getRandomList,
-  returnMatchedLine,
-};
+export { isEmpty, getRandomList, returnMatchedLine };

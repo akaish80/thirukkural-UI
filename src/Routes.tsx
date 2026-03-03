@@ -4,11 +4,20 @@ import { Routes, Route } from 'react-router-dom';
 import NotFound from './pages/PageNotFound/pagenotfound.component';
 
 const AppRoutes = () => {
-  const HomePageWrapper = loadable(() => import(/* webpackChunkName: 'app-home' */ './pages/homepage/homepage.component'));
+  const HomePageWrapper = loadable(
+    () => import(/* webpackChunkName: 'app-home' */ './pages/homepage/homepage.component'),
+  );
 
-  const ThirrukurralWrapper = loadable(() => import(/* webpackChunkName: 'app-thirrukurral' */ './pages/thirukurral/thirukurral.component'));
+  const ThirrukurralWrapper = loadable(
+    () =>
+      import(
+        /* webpackChunkName: 'app-thirrukurral' */ './pages/thirukurral/thirukurral.component'
+      ),
+  );
 
-  const ExcerciseWrapper = loadable(() => import(/* webpackChunkName: 'app-practice' */ './pages/practice/practice.component'));
+  const ExcerciseWrapper = loadable(
+    () => import(/* webpackChunkName: 'app-practice' */ './pages/practice/practice.component'),
+  );
   return (
     <Routes>
       <Route path="/" element={<HomePageWrapper />} />
@@ -19,6 +28,5 @@ const AppRoutes = () => {
     </Routes>
   );
 };
-
 
 export default AppRoutes;

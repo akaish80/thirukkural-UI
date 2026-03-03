@@ -10,13 +10,16 @@ interface ListGroupProps {
 }
 
 const ListGroup = (props: ListGroupProps) => {
-  const {
-    listData, className, handleButtonClick, selectedId,
-  } = props;
+  const { listData, className, handleButtonClick, selectedId } = props;
   return (
     <ul className={`itemList ${className}`}>
       {listData.map((data: any) => (
-        <li key={data.Index} className={`itemData ${data.Index === selectedId ? 'active' : ''}`} onClick={handleButtonClick} data-id={data.Index}>
+        <li
+          key={data.Index}
+          className={`itemData ${data.Index === selectedId ? 'active' : ''}`}
+          onClick={handleButtonClick}
+          data-id={data.Index}
+        >
           {data.Tamil}
           {/* <button /> */}
         </li>
@@ -34,7 +37,7 @@ ListGroup.propTypes = {
 ListGroup.defaultProps = {
   listData: [],
   className: '',
-  handleButtonClick: () => { },
+  handleButtonClick: () => {},
   selectedId: -1,
 };
 export default ListGroup;

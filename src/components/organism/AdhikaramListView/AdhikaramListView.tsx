@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React, { useState } from 'react';
 import ListGroup from '../../ListGroup';
 
 interface AdhikaramListViewProps {
@@ -8,17 +8,37 @@ interface AdhikaramListViewProps {
 }
 
 const AdhikaramListView = ({ data, selectedId, handleListClick }: AdhikaramListViewProps) => {
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filteredData, setFilteredData] = useState(data);
+
+  React.useEffect(() => {
+    setFilteredData(
+      data.filter(
+        (item) =>
+          item.Tamil.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          (item.Index + '').includes(searchTerm)
+      )
+    );
+  }, [searchTerm, data]);
+
   const handleClick = (e: React.MouseEvent<HTMLLIElement>) => {
     const id = Number(e.currentTarget.getAttribute('data-id'));
     handleListClick(id);
   };
 
   return (
-    <div className='adikaramListContainer'>
+    <div className="adikaramListContainer">
+      <input
+        type="text"
+        placeholder="Search Adhikaram..."
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+        style={{ marginBottom: '10px', width: '100%' }}
+      />
       <ListGroup
-        listData={data}
+        listData={filteredData}
         selectedId={selectedId}
-        className='adikaramList'
+        className="adikaramList"
         handleButtonClick={handleClick}
       />
     </div>

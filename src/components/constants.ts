@@ -16,6 +16,4 @@ const nav = [
   },
 ];
 
-export {
-  nav,
-};
+export { nav };

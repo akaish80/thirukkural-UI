@@ -10,11 +10,18 @@ function parseArgs() {
   const out = { input: null, output: null, report: null };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
-    if ((a === '--input' || a === '-i') && argv[i+1]) { out.input = argv[++i]; }
-    else if ((a === '--output' || a === '-o') && argv[i+1]) { out.output = argv[++i]; }
-    else if ((a === '--report' || a === '-r') && argv[i+1]) { out.report = argv[++i]; }
+    if ((a === '--input' || a === '-i') && argv[i + 1]) {
+      out.input = argv[++i];
+    } else if ((a === '--output' || a === '-o') && argv[i + 1]) {
+      out.output = argv[++i];
+    } else if ((a === '--report' || a === '-r') && argv[i + 1]) {
+      out.report = argv[++i];
+    }
   }
-  if (!out.input) { console.error('Missing --input'); process.exit(2); }
+  if (!out.input) {
+    console.error('Missing --input');
+    process.exit(2);
+  }
   out.output = out.output || 'src/Common/kurral_data.cleaned.json';
   out.report = out.report || 'src/Common/kurral_data.recovery_report.txt';
   return out;
@@ -34,13 +41,26 @@ function extractObjects(text) {
     for (; j < n; j++) {
       const ch = text[j];
       if (inString) {
-        if (escape) { escape = false; }
-        else if (ch === '\\') { escape = true; }
-        else if (ch === '"') { inString = false; }
+        if (escape) {
+          escape = false;
+        } else if (ch === '\\') {
+          escape = true;
+        } else if (ch === '"') {
+          inString = false;
+        }
       } else {
-        if (ch === '"') { inString = true; }
-        else if (ch === '{') { depth++; }
-        else if (ch === '}') { depth--; if (depth === 0) { objs.push(text.slice(start, j+1)); i = j+1; break; } }
+        if (ch === '"') {
+          inString = true;
+        } else if (ch === '{') {
+          depth++;
+        } else if (ch === '}') {
+          depth--;
+          if (depth === 0) {
+            objs.push(text.slice(start, j + 1));
+            i = j + 1;
+            break;
+          }
+        }
       }
     }
     if (j >= n) break;
@@ -58,11 +78,18 @@ function simpleRepair(fragment) {
   for (let i = 0; i < repaired.length; i++) {
     const ch = repaired[i];
     if (inString) {
-      if (esc) { out += ch; esc = false; }
-      else if (ch === '\\') { out += ch; esc = true; }
-      else if (ch === '"') { out += ch; inString = false; }
-      else if (ch === '\n' || ch === '\r') { out += '\\n'; }
-      else out += ch;
+      if (esc) {
+        out += ch;
+        esc = false;
+      } else if (ch === '\\') {
+        out += ch;
+        esc = true;
+      } else if (ch === '"') {
+        out += ch;
+        inString = false;
+      } else if (ch === '\n' || ch === '\r') {
+        out += '\\n';
+      } else out += ch;
     } else {
       out += ch;
       if (ch === '"') inString = true;
@@ -98,7 +125,12 @@ function main() {
         recovered.push(obj);
         continue;
       } catch (eRep) {
-        failures.push({ index: idx+1, error_raw: String(eRaw), error_repaired: String(eRep), snippet: frag.slice(0,400).replace(/\n/g,'\\n') + (frag.length>400?'...':'' ) });
+        failures.push({
+          index: idx + 1,
+          error_raw: String(eRaw),
+          error_repaired: String(eRep),
+          snippet: frag.slice(0, 400).replace(/\n/g, '\\n') + (frag.length > 400 ? '...' : ''),
+        });
       }
     }
   }

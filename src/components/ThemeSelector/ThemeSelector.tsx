@@ -12,7 +12,6 @@ const ThemeSelector = ({ isCompact = false }) => {
     changeColorScheme,
     toggleTheme,
     isDark,
-    isAuto
   } = useTheme();
 
   const [isOpen, setIsOpen] = useState(false);
@@ -22,20 +21,20 @@ const ThemeSelector = ({ isCompact = false }) => {
       value: THEMES.AUTO,
       label: 'Auto',
       icon: '🌓',
-      description: `Follows system (${systemPrefersDark ? 'Dark' : 'Light'})`
+      description: `Follows system (${systemPrefersDark ? 'Dark' : 'Light'})`,
     },
     {
       value: THEMES.LIGHT,
       label: 'Light',
       icon: '☀️',
-      description: 'Always light mode'
+      description: 'Always light mode',
     },
     {
       value: THEMES.DARK,
       label: 'Dark',
       icon: '🌙',
-      description: 'Always dark mode'
-    }
+      description: 'Always dark mode',
+    },
   ];
 
   const colorOptions = [
@@ -44,7 +43,7 @@ const ThemeSelector = ({ isCompact = false }) => {
     { value: THEME_COLORS.GREEN, label: 'Green', color: '#27ae60' },
     { value: THEME_COLORS.ORANGE, label: 'Orange', color: '#e67e22' },
     { value: THEME_COLORS.RED, label: 'Red', color: '#e74c3c' },
-    { value: THEME_COLORS.TEAL, label: 'Teal', color: '#16a085' }
+    { value: THEME_COLORS.TEAL, label: 'Teal', color: '#16a085' },
   ];
 
   if (isCompact) {
@@ -69,7 +68,7 @@ const ThemeSelector = ({ isCompact = false }) => {
         aria-expanded={isOpen}
       >
         <span className="current-theme-icon">
-          {themeModeOptions.find(option => option.value === themeMode)?.icon}
+          {themeModeOptions.find((option) => option.value === themeMode)?.icon}
         </span>
         <span className="current-theme-label">Theme</span>
         <span className={`dropdown-arrow ${isOpen ? 'open' : ''}`}>▼</span>
@@ -96,9 +95,7 @@ const ThemeSelector = ({ isCompact = false }) => {
                       <span className="theme-label">{option.label}</span>
                       <span className="theme-description">{option.description}</span>
                     </div>
-                    {themeMode === option.value && (
-                      <span className="active-indicator">✓</span>
-                    )}
+                    {themeMode === option.value && <span className="active-indicator">✓</span>}
                   </button>
                 ))}
               </div>
@@ -119,9 +116,7 @@ const ThemeSelector = ({ isCompact = false }) => {
                   >
                     <div className="color-preview" />
                     <span className="color-label">{color.label}</span>
-                    {colorScheme === color.value && (
-                      <span className="active-indicator">✓</span>
-                    )}
+                    {colorScheme === color.value && <span className="active-indicator">✓</span>}
                   </button>
                 ))}
               </div>
@@ -132,7 +127,7 @@ const ThemeSelector = ({ isCompact = false }) => {
                 <span className="info-label">Current:</span>
                 <span className="info-value">
                   {effectiveTheme === THEMES.DARK ? 'Dark' : 'Light'} •
-                  {colorOptions.find(c => c.value === colorScheme)?.label}
+                  {colorOptions.find((c) => c.value === colorScheme)?.label}
                 </span>
               </div>
             </div>

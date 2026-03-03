@@ -1,10 +1,8 @@
-import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Container } from '../../Common/common.styles';
 import './homepage.component.scss';
 
 const Homepage = () => {
-  const [showAlert, setShowAlert] = useState(false);
+  const showAlert = false;
 
   const features = [
     {
@@ -12,29 +10,29 @@ const Homepage = () => {
       title: 'Read Thirukkural',
       description: 'Explore the timeless wisdom of Thiruvalluvar through beautiful Tamil verses.',
       link: '/kurral',
-      color: 'blue'
+      color: 'blue',
     },
     {
       icon: '✍️',
       title: 'Practice Writing',
       description: 'Learn to write Tamil letters with interactive drawing exercises.',
       link: '/kurral/excercise',
-      color: 'green'
+      color: 'green',
     },
     {
       icon: '🎯',
       title: 'Interactive Games',
       description: 'Test your knowledge with engaging Tamil learning games.',
       link: '/kurral/excercise',
-      color: 'purple'
+      color: 'purple',
     },
     {
       icon: '🎨',
       title: 'Themes',
       description: 'Customize your learning experience with beautiful themes.',
       link: '/',
-      color: 'orange'
-    }
+      color: 'orange',
+    },
   ];
 
   return (
@@ -46,8 +44,8 @@ const Homepage = () => {
             <span className="subtitle">Thirukkural Learning Platform</span>
           </h1>
           <p className="hero-description">
-            Discover the eternal wisdom of Thiruvalluvar through interactive learning.
-            Master Tamil literature with modern teaching methods.
+            Discover the eternal wisdom of Thiruvalluvar through interactive learning. Master Tamil
+            literature with modern teaching methods.
           </p>
           <div className="hero-actions">
             <Link to="/kurral" className="btn btn-primary btn-large">
@@ -87,11 +85,7 @@ const Homepage = () => {
           <h2 className="section-title">Explore Learning Features</h2>
           <div className="features-grid">
             {features.map((feature, index) => (
-              <Link
-                key={index}
-                to={feature.link}
-                className={`feature-card ${feature.color}`}
-              >
+              <Link key={index} to={feature.link} className={`feature-card ${feature.color}`}>
                 <div className="feature-icon">{feature.icon}</div>
                 <h3 className="feature-title">{feature.title}</h3>
                 <p className="feature-description">{feature.description}</p>

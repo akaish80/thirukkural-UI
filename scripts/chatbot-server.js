@@ -26,19 +26,22 @@ app.get('/adikaram/:num', (req, res) => {
   const a = service.getAdikaramInfo(n);
   if (!a) return res.status(404).json({ error: 'not found' });
   // also include kurrals in that adikaram
-  const kurrals = service.kurrals.filter(k => Number(k.adikaram_number) === n);
+  const kurrals = service.kurrals.filter((k) => Number(k.adikaram_number) === n);
   res.json({ adikaram: a, kurrals });
 });
 
 // Chat endpoint: accepts { query, topN }
 app.post('/chat', (req, res) => {
   const { query, topN } = req.body || {};
-  if (!query || typeof query !== 'string') return res.status(400).json({ error: 'query (string) required' });
+  if (!query || typeof query !== 'string')
+    return res.status(400).json({ error: 'query (string) required' });
   const result = service.search(query, topN || 10);
   res.json({ query, result });
 });
 
 const port = process.env.PORT || 3947;
 app.listen(port, () => {
-  console.log(`Chatbot API listening on http://localhost:${port} — kurrals=${service.kurrals.length}`);
+  console.log(
+    `Chatbot API listening on http://localhost:${port} — kurrals=${service.kurrals.length}`,
+  );
 });

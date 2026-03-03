@@ -1,4 +1,3 @@
-
 import './footer.styles.scss';
 import { useSelector } from 'react-redux';
 
@@ -31,7 +30,9 @@ const Footer = () => {
               <h4 className="section-title">{section.title}</h4>
               <div className="footer-links">
                 {section.links.map((link: Link, lidx: number) => (
-                  <a href={link.href} className="footer-link" key={lidx}>{link.label}</a>
+                  <a href={link.href} className="footer-link" key={lidx}>
+                    {link.label}
+                  </a>
                 ))}
               </div>
             </div>
@@ -45,7 +46,9 @@ const Footer = () => {
           <div className="footer-social">
             <span className="social-text">{content.developedBy}</span>
             <span className="developer-name">
-              <a href={content.developerUrl} target='_blank' rel="noreferrer">{content.developerName}</a>
+              <a href={content.developerUrl} target="_blank" rel="noreferrer">
+                {content.developerName}
+              </a>
             </span>
           </div>
         </div>

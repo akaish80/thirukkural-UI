@@ -6,45 +6,51 @@ import MatchAdhikaramToPaal from './matchadhikaramtopaal/match.adhikaram.to.paal
 import FillInKurral from './fillinkurral/fill.in.kurral';
 import PracticeLetter from './practiceletter/practice.letter';
 import DrawLetter from './drawletter/draw.letter';
+import QuizPractice from './QuizPractice';
 
 const practiceTypes = [
   {
     Tamil: 'Match Paal to Adhikaram',
     index: 1,
     icon: '🎯',
-    description: 'பாலுடன் அதிகாரத்தை பொருத்துக'
+    description: 'பாலுடன் அதிகாரத்தை பொருத்துக',
   },
   {
     Tamil: 'Fill in Kurral Data',
     index: 2,
     icon: '✏️',
-    description: 'குறள் வரிகளை நிரப்புக'
+    description: 'குறள் வரிகளை நிரப்புக',
   },
   {
     Tamil: 'Practice Letter அ',
     index: 3,
     icon: '📝',
-    description: 'தமிழ் எழுத்துக்கள் பயிற்சி'
+    description: 'தமிழ் எழுத்துக்கள் பயிற்சி',
   },
   {
     Tamil: 'Draw Letter அ',
     index: 4,
     icon: '🎨',
-    description: 'எழுத்துக்களை வரையுங்கள்'
+    description: 'எழுத்துக்களை வரையுங்கள்',
+  },
+  {
+    Tamil: 'Quiz Practice',
+    index: 5,
+    icon: '❓',
+    description: 'திருக்குறள் Quiz பயிற்சி',
   },
 ];
 
 const Excercise = () => {
   const [selectedExcercise, setSelectedExcercise] = useState(practiceTypes[0]);
 
-  const handleClick = (practice: typeof practiceTypes[0]) => {
+  const handleClick = (practice: (typeof practiceTypes)[0]) => {
     setSelectedExcercise(practice);
   };
 
   // const isEmptyObj = isEmpty(selectedExcercise)
 
-  
-  const getExcerciseSessionContainer = (selInd: typeof practiceTypes[0]) => {
+  const getExcerciseSessionContainer = (selInd: (typeof practiceTypes)[0]) => {
     if (selInd.index === 1) {
       return <MatchAdhikaramToPaal selPractice={selectedExcercise} />;
     } else if (selInd.index === 2) {
@@ -53,15 +59,15 @@ const Excercise = () => {
       return <PracticeLetter />;
     } else if (selInd.index === 4) {
       return <DrawLetter />;
+    } else if (selInd.index === 5) {
+      return <QuizPractice />;
     }
   };
 
-
   if (!selectedExcercise) {
     console.log('Selected Exercise:', selectedExcercise);
-    return null
+    return null;
   }
-
 
   return (
     <Container>
@@ -116,9 +122,7 @@ const Excercise = () => {
               <div className="welcome-content">
                 <div className="welcome-icon">📚</div>
                 <h2 className="welcome-title">வணக்கம்!</h2>
-                <p className="welcome-text">
-                  தயவுசெய்து ஒரு பயிற்சி வகையை தேர்ந்தெடுக்கவும்
-                </p>
+                <p className="welcome-text">தயவுசெய்து ஒரு பயிற்சி வகையை தேர்ந்தெடுக்கவும்</p>
                 <div className="welcome-features">
                   <div className="feature">
                     <span className="feature-icon">🎯</span>

@@ -1,9 +1,6 @@
 /* eslint-disable array-callback-return */
 import React, { useEffect, useState } from 'react';
-import {
-  getRandomList,
-  returnMatchedLine,
-} from '../../../components/utils';
+import { getRandomList, returnMatchedLine } from '../../../components/utils';
 import kurral from '../../../Common/kurral_data';
 import './fill.in.kurral.styles.scss';
 
@@ -44,7 +41,7 @@ const FillInKurral = () => {
         const { matchedLine, replacedString } = returnMatchedLine(
           item.line1,
           item.line2,
-          randomWord
+          randomWord,
         );
         if (matchedLine === 'line1') {
           item.line1 = replacedString;
@@ -67,26 +64,30 @@ const FillInKurral = () => {
     setKurralList(newKurLst);
   };
 
-  const getInputField = ({ line, inputWord, rowNum }: { line: string; inputWord: string | undefined; rowNum: number }) => {
+  const getInputField = ({
+    line,
+    inputWord,
+    rowNum,
+  }: {
+    line: string;
+    inputWord: string | undefined;
+    rowNum: number;
+  }) => {
     const spltStr = line.split(' ');
-    return spltStr.map((item, index) => (item === '_' ? (
-      <input
-        key={index}
-        onChange={(e) => handleChange(e, rowNum)}
-        value={inputWord}
-      />
-    ) : (
-      <p key={index}>{`${item} `}</p>
-    )));
+    return spltStr.map((item, index) =>
+      item === '_' ? (
+        <input key={index} onChange={(e) => handleChange(e, rowNum)} value={inputWord} />
+      ) : (
+        <p key={index}>{`${item} `}</p>
+      ),
+    );
   };
 
   const handleSubmit = () => {
     const newKurralList = kurralList.map((item: KurralItem) => {
       item.error = true;
       if (
-        acceptedWords.findIndex(
-          (acceptedWord: string) => item.inputWord === acceptedWord
-        ) !== -1
+        acceptedWords.findIndex((acceptedWord: string) => item.inputWord === acceptedWord) !== -1
       ) {
         item.error = false;
       }
@@ -107,18 +108,15 @@ const FillInKurral = () => {
     <>
       {!success ? (
         <>
-          {kurralList.length > 0
-            && kurralList.map((item, index) => {
+          {kurralList.length > 0 &&
+            kurralList.map((item, index) => {
               return (
                 <div key={index} className="fillInTheBlanksContainer">
                   <p className="title">
                     <span>{`குறள் - ${index + 1}`}</span>
                   </p>
                   <div className="kurralFillContainer">
-                    <div
-                      className={`line ${item.line1Replace ? 'wrapcontent' : ''
-                      }`}
-                    >
+                    <div className={`line ${item.line1Replace ? 'wrapcontent' : ''}`}>
                       {!item.line1Replace ? (
                         <p>{item.line1}</p>
                       ) : (
@@ -129,10 +127,7 @@ const FillInKurral = () => {
                         })
                       )}
                     </div>
-                    <div
-                      className={`line ${item.line2Replace ? 'wrapcontent' : ''
-                      }`}
-                    >
+                    <div className={`line ${item.line2Replace ? 'wrapcontent' : ''}`}>
                       {!item.line2Replace ? (
                         <p>{item.line2}</p>
                       ) : (
@@ -149,7 +144,8 @@ const FillInKurral = () => {
               );
             })}
           <div className="controls">
-            <button onClick={handleSubmit}>Submit</button></div>
+            <button onClick={handleSubmit}>Submit</button>
+          </div>
         </>
       ) : (
         <p>Success</p>

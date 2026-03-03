@@ -2,8 +2,8 @@
   font-family: 'Noto Sans Tamil', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   padding: 2rem 0;
   min-height: 60vh;
-    background: var(--bg-primary);
-    color: var(--text-primary);
+  background: var(--bg-primary);
+  color: var(--text-primary);
 
   .title {
     text-align: center;
@@ -17,7 +17,7 @@
   .tableContainer {
     background: #fff;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
     padding: 2rem;
     max-width: 900px;
     margin: 0 auto;
@@ -28,7 +28,7 @@
     justify-content: space-between;
     font-size: 1.2rem;
     font-weight: 600;
-            color: var(--color-accent);
+    color: var(--color-accent);
     margin-bottom: 1.5rem;
     border-bottom: 1px solid #e2e8f0;
     padding-bottom: 0.5rem;
@@ -60,11 +60,12 @@
       gap: 1rem;
     }
 
-    .drag-item, .drop-item {
+    .drag-item,
+    .drop-item {
       background: #f7fafc;
       border-radius: 8px;
       padding: 0.7rem 1rem;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
       transition: background 0.2s;
       &:hover {
         background: #e2e8f0;
