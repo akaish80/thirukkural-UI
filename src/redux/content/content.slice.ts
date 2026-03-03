@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import { fetchContent } from '../../services/contentService';
 
 interface ContentState {
-  data: any;
+  data: Record<string, unknown> | null;
   loading: boolean;
   error: string | null;
 }

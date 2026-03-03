@@ -1,4 +1,4 @@
-@import "../../assets/styles/variables.scss";
+@import '../../assets/styles/variables.scss';
 
 .footer {
   background: linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary));
@@ -198,15 +198,19 @@
 
 // Theme-specific enhancements
 .theme-dark .footer {
-  background: linear-gradient(135deg,
-      rgba(18, 18, 18, 0.95) 0%,
-      rgba(30, 30, 30, 0.95) 50%,
-      rgba(24, 24, 24, 0.95) 100%);
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 18, 0.95) 0%,
+    rgba(30, 30, 30, 0.95) 50%,
+    rgba(24, 24, 24, 0.95) 100%
+  );
 }
 
 .theme-light .footer {
-  background: linear-gradient(135deg,
-      rgba(248, 249, 250, 0.95) 0%,
-      rgba(255, 255, 255, 0.95) 50%,
-      rgba(250, 251, 252, 0.95) 100%);
+  background: linear-gradient(
+    135deg,
+    rgba(248, 249, 250, 0.95) 0%,
+    rgba(255, 255, 255, 0.95) 50%,
+    rgba(250, 251, 252, 0.95) 100%
+  );
 }

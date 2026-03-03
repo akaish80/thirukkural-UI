@@ -26,13 +26,11 @@ async function run() {
     let paal_index = 1;
 
     for (let i = 0; i < list.length; i++) {
-      if (list[i].adikaram_number === 39 )
-        paal_index = 2
-      else if (list[i].adikaram_number === 109 )
-        paal_index = 3
+      if (list[i].adikaram_number === 39) paal_index = 2;
+      else if (list[i].adikaram_number === 109) paal_index = 3;
       const item = {
-        "table": "adikaram_master",
-        "data": { ...list[i], "paal_number": paal_index }
+        table: 'adikaram_master',
+        data: { ...list[i], paal_number: paal_index },
       };
       // write item JSON to a local file (append) for audit / dry-run instead of console.log
       try {
@@ -44,9 +42,15 @@ async function run() {
       }
       try {
         const result = await postItem(item);
-        console.log(`${i + 1}/${list.length} inserted: kurral_id=${item.data.kurral_id}`, result && result.message ? `=> ${result.message}` : '');
+        console.log(
+          `${i + 1}/${list.length} inserted: kurral_id=${item.data.kurral_id}`,
+          result && result.message ? `=> ${result.message}` : '',
+        );
       } catch (err: any) {
-        console.error(`${i + 1}/${list.length} FAILED: kurral_id=${item.data.kurral_id}`, err.response?.data || err.message);
+        console.error(
+          `${i + 1}/${list.length} FAILED: kurral_id=${item.data.kurral_id}`,
+          err.response?.data || err.message,
+        );
         // continue with next item
       }
       // small delay to avoid bursting the endpoint

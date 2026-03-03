@@ -21,7 +21,7 @@ app.get('/api/getKurral', async (req: any, res: any) => {
     const response = await nodeFetch(targetUrl, {
       headers: {
         'x-api-key': apiKey,
-        method: 'GET'
+        method: 'GET',
         // Add other headers if needed
       },
     });

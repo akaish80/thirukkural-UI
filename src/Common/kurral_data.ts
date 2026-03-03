@@ -4,8 +4,7 @@ const kurral = [
     Tamil: 'அகர முதல எழுத்தெல்லாம் ஆதி<br />பகவன் முதற்றே உலகு',
     line1: 'அகர முதல எழுத்தெல்லாம் ஆதி',
     line2: 'பகவன் முதற்றே உலகு',
-    KalaignarUrai:
-      'அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை',
+    KalaignarUrai: 'அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை',
     MuVaUrai:
       'எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல உலகம் கடவுளை அடிப்படையாக கொண்டிருக்கிறது.',
     SolomonPaapaiyaUrai:
@@ -14,8 +13,7 @@ const kurral = [
       "A, as its first of letters, every speech maintains;<br />The Primal Deity is first through all the world's domains",
     EnglishMeaning:
       'As the letter A is the first of all letters, so the eternal God is first in the world',
-    Transliteration:
-      'Akara Mudhala  Ezhuththellaam  Aadhi<br />Pakavan  Mudhatre  Ulaku',
+    Transliteration: 'Akara Mudhala  Ezhuththellaam  Aadhi<br />Pakavan  Mudhatre  Ulaku',
   },
   {
     Index: 2,
@@ -32,8 +30,7 @@ const kurral = [
       "No fruit have men of all their studied lore,<br />Save they the 'Purely Wise One's' feet adore",
     EnglishMeaning:
       'What Profit have those derived from learning, who worship not the good feet of Him who is possessed of pure knowledge ?',
-    Transliteration:
-      'Katradhanaal Aaya  Payanenkol  Vaalarivan<br />Natraal  Thozhaaar  Enin',
+    Transliteration: 'Katradhanaal Aaya  Payanenkol  Vaalarivan<br />Natraal  Thozhaaar  Enin',
   },
   {
     Index: 3,
@@ -50,8 +47,7 @@ const kurral = [
       "His feet, 'Who o'er the full-blown flower hath past,' who gain<br />In bliss long time shall dwell above this earthly plain",
     EnglishMeaning:
       'They who are united to the glorious feet of Him who passes swiftly over the flower of the mind, shall flourish long above all worlds',
-    Transliteration:
-      'Malarmisai Ekinaan  Maanati  Serndhaar<br />Nilamisai  Neetuvaazh  Vaar',
+    Transliteration: 'Malarmisai Ekinaan  Maanati  Serndhaar<br />Nilamisai  Neetuvaazh  Vaar',
   },
   {
     Index: 4,
@@ -68,13 +64,11 @@ const kurral = [
       "His foot, 'Whom want affects not, irks not grief,' who gain<br />Shall not, through every time, of any woes complain",
     EnglishMeaning:
       'To those who meditate the feet of Him who is void of desire or aversion, evil shall never come',
-    Transliteration:
-      'Ventudhal Ventaamai  Ilaanati  Serndhaarkku<br />Yaantum  Itumpai  Ila',
+    Transliteration: 'Ventudhal Ventaamai  Ilaanati  Serndhaarkku<br />Yaantum  Itumpai  Ila',
   },
   {
     Index: 5,
-    Tamil:
-      'இருள்சேர் இருவினையும் சேரா இறைவன்<br />பொருள்சேர் புகழ்புரிந்தார் மாட்டு',
+    Tamil: 'இருள்சேர் இருவினையும் சேரா இறைவன்<br />பொருள்சேர் புகழ்புரிந்தார் மாட்டு',
     line1: 'இருள்சேர் இருவினையும் சேரா இறைவன்',
     line2: 'பொருள்சேர் புகழ்புரிந்தார் மாட்டு',
     KalaignarUrai:
@@ -87,13 +81,11 @@ const kurral = [
       "The men, who on the 'King's' true praised delight to dwell,<br />Affects not them the fruit of deeds done ill or well",
     EnglishMeaning:
       'The two-fold deeds that spring from darkness shall not adhere to those who delight in the true praise of God',
-    Transliteration:
-      'Irulser Iruvinaiyum  Seraa  Iraivan<br />Porulser  Pukazhpurindhaar  Maattu',
+    Transliteration: 'Irulser Iruvinaiyum  Seraa  Iraivan<br />Porulser  Pukazhpurindhaar  Maattu',
   },
   {
     Index: 6,
-    Tamil:
-      'பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க<br />நெறிநின்றார் நீடுவாழ் வார்',
+    Tamil: 'பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க<br />நெறிநின்றார் நீடுவாழ் வார்',
     line1: 'பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க',
     line2: 'நெறிநின்றார் நீடுவாழ் வார்',
     KalaignarUrai:
@@ -111,8 +103,7 @@ const kurral = [
   },
   {
     Index: 7,
-    Tamil:
-      'தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்<br />மனக்கவலை மாற்றல் அரிது',
+    Tamil: 'தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்<br />மனக்கவலை மாற்றல் அரிது',
     line1: 'தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்',
     line2: 'மனக்கவலை மாற்றல் அரிது',
     KalaignarUrai:
@@ -161,8 +152,7 @@ const kurral = [
       "Before His foot, 'the Eight-fold Excellence,' with unbent head,<br />Who stands, like palsied sense, is to all living functions dead",
     EnglishMeaning:
       'The head that worships not the feet of Him who is possessed of eight attributes, is as useless as a sense without the power of sensation',
-    Transliteration:
-      'Kolil Poriyin  Kunamilave  Enkunaththaan<br />Thaalai  Vanangaath  Thalai',
+    Transliteration: 'Kolil Poriyin  Kunamilave  Enkunaththaan<br />Thaalai  Vanangaath  Thalai',
   },
   {
     Index: 10,
@@ -179,16 +169,14 @@ const kurral = [
       "They swim the sea of births, the 'Monarch's' foot who gain;<br />None others reach the shore of being's mighty main",
     EnglishMeaning:
       'None can swim the great sea of births but those who are united to the feet of God',
-    Transliteration:
-      'Piravip Perungatal  Neendhuvar  Neendhaar<br />Iraivan  Atiseraa  Thaar',
+    Transliteration: 'Piravip Perungatal  Neendhuvar  Neendhaar<br />Iraivan  Atiseraa  Thaar',
   },
   {
     Index: 11,
     Tamil: 'வானின் றுலகம் வழங்கி வருதலால்<br />தானமிழ்தம் என்றுணரற் பாற்று',
     line1: 'வானின் றுலகம் வழங்கி வருதலால்',
     line2: 'தானமிழ்தம் என்றுணரற் பாற்று',
-    KalaignarUrai:
-      'உலகத்தை வாழ வைப்பது மழையாக அமைந்திருப்பதால் அதுவே அமிழ்தம் எனப்படுகிறது',
+    KalaignarUrai: 'உலகத்தை வாழ வைப்பது மழையாக அமைந்திருப்பதால் அதுவே அமிழ்தம் எனப்படுகிறது',
     MuVaUrai:
       'மழை பெய்ய உலகம் வாழ்ந்து வருவதால், மழையானது உலகத்து வாழும் உயிர்களுக்கு அமிழ்தம் என்று உணரத்தக்கதாகும்',
     SolomonPaapaiyaUrai:
@@ -202,8 +190,7 @@ const kurral = [
   },
   {
     Index: 12,
-    Tamil:
-      'துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்<br />துப்பாய தூஉ மழை',
+    Tamil: 'துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்<br />துப்பாய தூஉ மழை',
     line1: 'துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்',
     line2: 'துப்பாய தூஉ மழை',
     KalaignarUrai:
@@ -220,8 +207,7 @@ const kurral = [
   },
   {
     Index: 13,
-    Tamil:
-      'விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து<br />உள்நின் றுடற்றும் பசி',
+    Tamil: 'விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து<br />உள்நின் றுடற்றும் பசி',
     line1: 'விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து',
     line2: 'உள்நின் றுடற்றும் பசி',
     KalaignarUrai:
@@ -234,16 +220,14 @@ const kurral = [
       "If clouds, that promised rain, deceive, and in the sky remain,<br />Famine, sore torment, stalks o'er earth's vast ocean-girdled plain",
     EnglishMeaning:
       'If the cloud, withholding rain, deceive (our hopes) hunger will long distress the sea-girt spacious world',
-    Transliteration:
-      'Vinindru Poippin  Virineer  Viyanulakaththu<br />Ulnindru  Utatrum  Pasi',
+    Transliteration: 'Vinindru Poippin  Virineer  Viyanulakaththu<br />Ulnindru  Utatrum  Pasi',
   },
   {
     Index: 14,
     Tamil: 'ஏரின் உழாஅர் உழவர் புயல்என்னும்<br />வாரி வளங்குன்றிக் கால்',
     line1: 'ஏரின் உழாஅர் உழவர் புயல்என்னும்',
     line2: 'வாரி வளங்குன்றிக் கால்',
-    KalaignarUrai:
-      'மழை என்னும் வருவாய் வளம் குன்றிவிட்டால், உழவுத் தொழில் குன்றி விடும்',
+    KalaignarUrai: 'மழை என்னும் வருவாய் வளம் குன்றிவிட்டால், உழவுத் தொழில் குன்றி விடும்',
     MuVaUrai:
       'மழை என்னும் வருவாய் வளம் குன்றி விட்டால், ( உணவுப் பொருள்களை உண்டாக்கும்) உழவரும் ஏர் கொண்டு உழமாட்டார்',
     SolomonPaapaiyaUrai:
@@ -252,13 +236,11 @@ const kurral = [
       "If clouds their wealth of waters fail on earth to pour,<br />The ploughers plough with oxen's sturdy team no more",
     EnglishMeaning:
       'If the abundance of wealth imparting rain diminish, the labour of the plough must cease',
-    Transliteration:
-      'Erin Uzhaaar  Uzhavar  Puyalennum<br />Vaari  Valangundrik  Kaal',
+    Transliteration: 'Erin Uzhaaar  Uzhavar  Puyalennum<br />Vaari  Valangundrik  Kaal',
   },
   {
     Index: 15,
-    Tamil:
-      'கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே<br />எடுப்பதூஉம் எல்லாம் மழை',
+    Tamil: 'கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே<br />எடுப்பதூஉம் எல்லாம் மழை',
     line1: 'கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே',
     line2: 'எடுப்பதூஉம் எல்லாம் மழை',
     KalaignarUrai:
@@ -269,15 +251,13 @@ const kurral = [
       'பெய்யாமல் மக்களைக் கெடுப்பதும்; பெய்து கெட்டவரைத் திருத்துவதும் எல்லாமே மழைதான்',
     English:
       "'Tis rain works all: it ruin spreads, then timely aid supplies;<br />As, in the happy days before, it bids the ruined rise",
-    EnglishMeaning:
-      'Rain by its absence ruins men; and by its existence restores them to fortune',
+    EnglishMeaning: 'Rain by its absence ruins men; and by its existence restores them to fortune',
     Transliteration:
       'Ketuppadhooum Kettaarkkuch  Chaarvaaimar  Raange<br />Etuppadhooum  Ellaam  Mazhai',
   },
   {
     Index: 16,
-    Tamil:
-      'விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே<br />பசும்புல் தலைகாண் பரிது',
+    Tamil: 'விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே<br />பசும்புல் தலைகாண் பரிது',
     line1: 'விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே',
     line2: 'பசும்புல் தலைகாண் பரிது',
     KalaignarUrai:
@@ -290,13 +270,11 @@ const kurral = [
       "If from the clouds no drops of rain are shed<br />'Tis rare to see green herb lift up its head",
     EnglishMeaning:
       '4 If no drop falls from the clouds, not even the green blade of grass will be seen',
-    Transliteration:
-      'Visumpin Thuliveezhin  Allaalmar  Raange<br />Pasumpul  Thalaikaanpu  Aridhu',
+    Transliteration: 'Visumpin Thuliveezhin  Allaalmar  Raange<br />Pasumpul  Thalaikaanpu  Aridhu',
   },
   {
     Index: 17,
-    Tamil:
-      'நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி<br />தான்நல்கா தாகி விடின்',
+    Tamil: 'நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி<br />தான்நல்கா தாகி விடின்',
     line1: 'நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி',
     line2: 'தான்நல்கா தாகி விடின்',
     KalaignarUrai:
@@ -327,8 +305,7 @@ const kurral = [
       'If heaven grow dry, with feast and offering never more,<br />Will men on earth the heavenly ones adore',
     EnglishMeaning:
       'If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials',
-    Transliteration:
-      'Sirappotu Poosanai  Sellaadhu  Vaanam<br />Varakkumel  Vaanorkkum  Eentu',
+    Transliteration: 'Sirappotu Poosanai  Sellaadhu  Vaanam<br />Varakkumel  Vaanorkkum  Eentu',
   },
   {
     Index: 19,
@@ -345,8 +322,7 @@ const kurral = [
       "If heaven its watery treasures ceases to dispense,<br />Through the wide world cease gifts, and deeds of 'penitence'",
     EnglishMeaning:
       'If rain fall not, penance and alms-deeds will not dwell within this spacious world',
-    Transliteration:
-      'Thaanam Thavamirantum  Thangaa  Viyanulakam<br />Vaanam  Vazhangaa  Thenin',
+    Transliteration: 'Thaanam Thavamirantum  Thangaa  Viyanulakam<br />Vaanam  Vazhangaa  Thenin',
   },
   {
     Index: 20,
@@ -386,8 +362,7 @@ const kurral = [
   },
   {
     Index: 22,
-    Tamil:
-      'துறந்தார் பெருமை துணைக்கூறின் வையத்து<br />இறந்தாரை எண்ணிக்கொண் டற்று',
+    Tamil: 'துறந்தார் பெருமை துணைக்கூறின் வையத்து<br />இறந்தாரை எண்ணிக்கொண் டற்று',
     line1: 'துறந்தார் பெருமை துணைக்கூறின் வையத்து',
     line2: 'இறந்தாரை எண்ணிக்கொண் டற்று',
     KalaignarUrai:
@@ -418,13 +393,11 @@ const kurral = [
       "Their greatness earth transcends, who, way of both worlds weighed,<br />In this world take their stand, in virtue's robe arrayed",
     EnglishMeaning:
       'The greatness of those who have discovered the properties of both states of being, and renounced the world, shines forth on earth (beyond all others)',
-    Transliteration:
-      'Irumai Vakaidherindhu  Eentuaram  Poontaar<br />Perumai  Pirangitru  Ulaku',
+    Transliteration: 'Irumai Vakaidherindhu  Eentuaram  Poontaar<br />Perumai  Pirangitru  Ulaku',
   },
   {
     Index: 24,
-    Tamil:
-      'உரனென்னுந் தோட்டியான் ஓரைந்தும் காப்பான்<br />வரனென்னும் வைப்பிற்கோர் வித்து',
+    Tamil: 'உரனென்னுந் தோட்டியான் ஓரைந்தும் காப்பான்<br />வரனென்னும் வைப்பிற்கோர் வித்து',
     line1: 'உரனென்னுந் தோட்டியான் ஓரைந்தும் காப்பான்',
     line2: 'வரனென்னும் வைப்பிற்கோர் வித்து',
     KalaignarUrai:
@@ -442,8 +415,7 @@ const kurral = [
   },
   {
     Index: 25,
-    Tamil:
-      'ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்<br />இந்திரனே சாலுங் கரி',
+    Tamil: 'ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்<br />இந்திரனே சாலுங் கரி',
     line1: 'ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்',
     line2: 'இந்திரனே சாலுங் கரி',
     KalaignarUrai:
@@ -474,8 +446,7 @@ const kurral = [
       'Things hard in the doing will great men do;<br />Things hard in the doing the mean eschew',
     EnglishMeaning:
       'The great will do those things which is difficult to be done; but the mean cannot do them',
-    Transliteration:
-      'Seyarkariya Seyvaar  Periyar  Siriyar<br />Seyarkariya  Seykalaa  Thaar',
+    Transliteration: 'Seyarkariya Seyvaar  Periyar  Siriyar<br />Seyarkariya  Seykalaa  Thaar',
   },
   {
     Index: 27,
@@ -492,8 +463,7 @@ const kurral = [
       'Taste, light, touch, sound, and smell: who knows the way<br />Of all the five,- the world submissive owns his sway',
     EnglishMeaning:
       'The world is within the knowledge of him who knows the properties of taste, sight, touch, hearing and smell',
-    Transliteration:
-      'Suvaioli Ooruosai  Naatramendru  Aindhin<br />Vakaidherivaan  Katte  Ulaku',
+    Transliteration: 'Suvaioli Ooruosai  Naatramendru  Aindhin<br />Vakaidherivaan  Katte  Ulaku',
   },
   {
     Index: 28,
@@ -510,8 +480,7 @@ const kurral = [
       "The might of men whose word is never vain,<br />The 'secret word' shall to the earth proclaim",
     EnglishMeaning:
       'The hidden words of the men whose words are full of effect, will shew their greatness to the world',
-    Transliteration:
-      'Niraimozhi Maandhar  Perumai  Nilaththu<br />Maraimozhi  Kaatti  Vitum',
+    Transliteration: 'Niraimozhi Maandhar  Perumai  Nilaththu<br />Maraimozhi  Kaatti  Vitum',
   },
   {
     Index: 29,
@@ -528,32 +497,27 @@ const kurral = [
       "The wrath 'tis hard e'en for an instant to endure,<br />Of those who virtue's hill have scaled, and stand secure",
     EnglishMeaning:
       'The anger of those who have ascended the mountain of goodness, though it continue but for a moment, cannot be resisted',
-    Transliteration:
-      'Kunamennum Kundreri  Nindraar  Vekuli<br />Kanameyum  Kaaththal  Aridhu',
+    Transliteration: 'Kunamennum Kundreri  Nindraar  Vekuli<br />Kanameyum  Kaaththal  Aridhu',
   },
   {
     Index: 30,
-    Tamil:
-      'அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்<br />செந்தண்மை பூண்டொழுக லான்',
+    Tamil: 'அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்<br />செந்தண்மை பூண்டொழுக லான்',
     line1: 'அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்',
     line2: 'செந்தண்மை பூண்டொழுக லான்',
     KalaignarUrai:
       'அனைத்து உயிர்களிடத்திலும் அன்புகொண்டு அருள் பொழியும் சான்றோர் எவராயினும் அவர் அந்தணர் எனப்படுவார்',
     MuVaUrai:
       'எல்லா உயிர்களிடத்திலும் செம்மையான அருளை மேற்கொண்டு ஒழுகுவதால், அறவோரே அந்தணர் எனப்படுவோர் ஆவர்.',
-    SolomonPaapaiyaUrai:
-      'எல்லா உயிர்களிடத்திலும் இரக்கம் கொண்டு வாழ்பவரே அறவோர்; அவரே அந்தணர்.',
+    SolomonPaapaiyaUrai: 'எல்லா உயிர்களிடத்திலும் இரக்கம் கொண்டு வாழ்பவரே அறவோர்; அவரே அந்தணர்.',
     English:
       "Towards all that breathe, with seemly graciousness adorned they live;<br />And thus to virtue's sons the name of 'Anthanar' men give",
     EnglishMeaning:
       'The virtuous are truly called Anthanar; because in their conduct towards all creatures they are clothed in kindness',
-    Transliteration:
-      'Andhanar Enpor  Aravormar  Revvuyir  Kkum<br />Sendhanmai  Poontozhuka  Laan',
+    Transliteration: 'Andhanar Enpor  Aravormar  Revvuyir  Kkum<br />Sendhanmai  Poontozhuka  Laan',
   },
   {
     Index: 31,
-    Tamil:
-      'சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு<br />ஆக்கம் எவனோ உயிர்க்கு',
+    Tamil: 'சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு<br />ஆக்கம் எவனோ உயிர்க்கு',
     line1: 'சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு',
     line2: 'ஆக்கம் எவனோ உயிர்க்கு',
     KalaignarUrai:
@@ -566,8 +530,7 @@ const kurral = [
       'It yields distinction, yields prosperity; what gain<br />Greater than virtue can a living man obtain',
     EnglishMeaning:
       'Virtue will confer heaven and wealth; what greater source of happiness can man possess ?',
-    Transliteration:
-      'Sirappu Eenum  Selvamum  Eenum  Araththinooungu<br />Aakkam  Evano  Uyirkku',
+    Transliteration: 'Sirappu Eenum  Selvamum  Eenum  Araththinooungu<br />Aakkam  Evano  Uyirkku',
   },
   {
     Index: 32,
@@ -584,8 +547,7 @@ const kurral = [
       'No greater gain than virtue aught can cause;<br />No greater loss than life oblivious of her laws',
     EnglishMeaning:
       'There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it',
-    Transliteration:
-      'Araththinooungu Aakkamum  Illai  Adhanai<br />Maraththalin  Oongillai  Ketu',
+    Transliteration: 'Araththinooungu Aakkamum  Illai  Adhanai<br />Maraththalin  Oongillai  Ketu',
   },
   {
     Index: 33,
@@ -596,22 +558,18 @@ const kurral = [
       'செய்யக்கூடிய செயல்கள் எவை ஆயினும், அவை எல்லா இடங்களிலும் தொய்வில்லாத அறவழியிலேயே செய்யப்பட வேண்டும்',
     MuVaUrai:
       'செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.',
-    SolomonPaapaiyaUrai:
-      'இடைவிடாமல் இயன்ற மட்டும் எல்லா இடங்களிலும் அறச்செயலைச் செய்க.',
+    SolomonPaapaiyaUrai: 'இடைவிடாமல் இயன்ற மட்டும் எல்லா இடங்களிலும் அறச்செயலைச் செய்க.',
     English:
       "To finish virtue's work with ceaseless effort strive,<br />What way thou may'st, where'er thou see'st the work may thrive",
-    EnglishMeaning:
-      'As much as possible, in every way, incessantly practise virtue',
-    Transliteration:
-      'Ollum Vakaiyaan  Aravinai  Ovaadhe<br />Sellumvaai  Ellaanj  Cheyal',
+    EnglishMeaning: 'As much as possible, in every way, incessantly practise virtue',
+    Transliteration: 'Ollum Vakaiyaan  Aravinai  Ovaadhe<br />Sellumvaai  Ellaanj  Cheyal',
   },
   {
     Index: 34,
     Tamil: 'மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்<br />ஆகுல நீர பிற',
     line1: 'மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்',
     line2: 'ஆகுல நீர பிற',
-    KalaignarUrai:
-      'மனம் தூய்மையாக இருப்பதே அறம்; மற்றவை ஆரவாரத்தைத் தவிர வேறொன்றுமில்லை',
+    KalaignarUrai: 'மனம் தூய்மையாக இருப்பதே அறம்; மற்றவை ஆரவாரத்தைத் தவிர வேறொன்றுமில்லை',
     MuVaUrai:
       'ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.',
     SolomonPaapaiyaUrai:
@@ -620,8 +578,7 @@ const kurral = [
       "Spotless be thou in mind! This only merits virtue's name;<br />All else, mere pomp of idle sound, no real worth can claim",
     EnglishMeaning:
       'Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show',
-    Transliteration:
-      'Manaththukkan Maasilan  Aadhal  Anaiththu  Aran<br />Aakula  Neera  Pira',
+    Transliteration: 'Manaththukkan Maasilan  Aadhal  Anaiththu  Aran<br />Aakula  Neera  Pira',
   },
   {
     Index: 35,
@@ -638,8 +595,7 @@ const kurral = [
       "'Tis virtue when, his footsteps sliding not through envy, wrath,<br />Lust, evil speech-these four, man onwards moves in ordered path",
     EnglishMeaning:
       'That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech',
-    Transliteration:
-      'Azhukkaaru Avaavekuli  Innaachchol  Naankum<br />Izhukkaa  Iyandradhu  Aram',
+    Transliteration: 'Azhukkaaru Avaavekuli  Innaachchol  Naankum<br />Izhukkaa  Iyandradhu  Aram',
   },
   {
     Index: 36,
@@ -674,13 +630,11 @@ const kurral = [
       "Needs not in words to dwell on virtue's fruits: compare<br />The man in litter borne with them that toiling bear",
     EnglishMeaning:
       'The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein',
-    Transliteration:
-      'Araththaaru Ithuvena  Ventaa  Sivikai<br />Poruththaanotu  Oorndhaan  Itai',
+    Transliteration: 'Araththaaru Ithuvena  Ventaa  Sivikai<br />Poruththaanotu  Oorndhaan  Itai',
   },
   {
     Index: 38,
-    Tamil:
-      'வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்<br />வாழ்நாள் வழியடைக்கும் கல்',
+    Tamil: 'வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்<br />வாழ்நாள் வழியடைக்கும் கல்',
     line1: 'வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்',
     line2: 'வாழ்நாள் வழியடைக்கும் கல்',
     KalaignarUrai:
@@ -705,14 +659,12 @@ const kurral = [
       'தூய்மையான நெஞ்சுடன் நடத்தும் அறவழி வாழ்க்கையில் வருகின்ற புகழால் ஏற்படுவதே இன்பமாகும் அதற்கு மாறான வழியில் வருவது புகழும் ஆகாது; இன்பமும் ஆகாது',
     MuVaUrai:
       'அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை.',
-    SolomonPaapaiyaUrai:
-      'அறத்துடன் வருவதே இன்பம்; பிற வழிகளில் வருவன துன்பமே; புகழும் ஆகா',
+    SolomonPaapaiyaUrai: 'அறத்துடன் வருவதே இன்பம்; பிற வழிகளில் வருவன துன்பமே; புகழும் ஆகா',
     English:
       "What from virtue floweth, yieldeth dear delight;<br />All else extern, is void of glory's light",
     EnglishMeaning:
       'Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise',
-    Transliteration:
-      'Araththaan Varuvadhe  Inpam  Mar  Rellaam<br />Puraththa  Pukazhum  Ila',
+    Transliteration: 'Araththaan Varuvadhe  Inpam  Mar  Rellaam<br />Puraththa  Pukazhum  Ila',
   },
   {
     Index: 40,
@@ -723,19 +675,16 @@ const kurral = [
       'பழிக்கத் தக்கவைகளைச் செய்யாமல் பாராட்டத்தக்க அறவழிச் செயல்களில் நாட்டம் கொள்வதே ஒருவர்க்குப் புகழ் சேர்க்கும்',
     MuVaUrai:
       'ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.',
-    SolomonPaapaiyaUrai:
-      'ஒருவன் செய்யத் தக்கது அறமே; விட்டுவிடத் தக்கவை தீய செயல்களே.',
+    SolomonPaapaiyaUrai: 'ஒருவன் செய்யத் தக்கது அறமே; விட்டுவிடத் தக்கவை தீய செயல்களே.',
     English:
       "'Virtue' sums the things that should be done;<br />'Vice' sums the things that man should shun",
     EnglishMeaning:
       'That is virtue which each ought to do, and that is vice which each should shun',
-    Transliteration:
-      'Seyarpaala Thorum  Arane  Oruvarku<br />Uyarpaala  Thorum  Pazhi',
+    Transliteration: 'Seyarpaala Thorum  Arane  Oruvarku<br />Uyarpaala  Thorum  Pazhi',
   },
   {
     Index: 41,
-    Tamil:
-      'இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்<br />நல்லாற்றின் நின்ற துணை',
+    Tamil: 'இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்<br />நல்லாற்றின் நின்ற துணை',
     line1: 'இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்',
     line2: 'நல்லாற்றின் நின்ற துணை',
     KalaignarUrai:
@@ -748,13 +697,11 @@ const kurral = [
       'The men of household virtue, firm in way of good, sustain<br />The other orders three that rule professed maintain',
     EnglishMeaning:
       '7 He will be called a (true) householder, who is a firm support to the virtuous of the three orders in',
-    Transliteration:
-      'Ilvaazhvaan Enpaan  Iyalputaiya  Moovarkkum<br />Nallaatrin  Nindra  Thunai',
+    Transliteration: 'Ilvaazhvaan Enpaan  Iyalputaiya  Moovarkkum<br />Nallaatrin  Nindra  Thunai',
   },
   {
     Index: 42,
-    Tamil:
-      'துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்<br />இல்வாழ்வான் என்பான் துணை',
+    Tamil: 'துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்<br />இல்வாழ்வான் என்பான் துணை',
     line1: 'துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்',
     line2: 'இல்வாழ்வான் என்பான் துணை',
     KalaignarUrai:
@@ -772,8 +719,7 @@ const kurral = [
   },
   {
     Index: 43,
-    Tamil:
-      'தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு<br />ஐம்புலத்தா றோம்பல் தலை',
+    Tamil: 'தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு<br />ஐம்புலத்தா றோம்பல் தலை',
     line1: 'தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு',
     line2: 'ஐம்புலத்தா றோம்பல் தலை',
     KalaignarUrai:
@@ -791,8 +737,7 @@ const kurral = [
   },
   {
     Index: 44,
-    Tamil:
-      'பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை<br />வழியெஞ்சல் எஞ்ஞான்றும் இல',
+    Tamil: 'பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை<br />வழியெஞ்சல் எஞ்ஞான்றும் இல',
     line1: 'பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை',
     line2: 'வழியெஞ்சல் எஞ்ஞான்றும் இல',
     KalaignarUrai:
@@ -823,13 +768,11 @@ const kurral = [
       'If love and virtue in the household reign,<br />This is of life the perfect grace and gain',
     EnglishMeaning:
       'If the married life possess love and virtue, these will be both its duty and reward',
-    Transliteration:
-      'Anpum Aranum  Utaiththaayin  Ilvaazhkkai<br />Panpum  Payanum  Adhu',
+    Transliteration: 'Anpum Aranum  Utaiththaayin  Ilvaazhkkai<br />Panpum  Payanum  Adhu',
   },
   {
     Index: 46,
-    Tamil:
-      'அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்<br />போஒய்ப் பெறுவ தெவன்',
+    Tamil: 'அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்<br />போஒய்ப் பெறுவ தெவன்',
     line1: 'அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்',
     line2: 'போஒய்ப் பெறுவ தெவன்',
     KalaignarUrai:
@@ -847,8 +790,7 @@ const kurral = [
   },
   {
     Index: 47,
-    Tamil:
-      'இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்<br />முயல்வாருள் எல்லாம் தலை',
+    Tamil: 'இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்<br />முயல்வாருள் எல்லாம் தலை',
     line1: 'இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்',
     line2: 'முயல்வாருள் எல்லாம் தலை',
     KalaignarUrai:
@@ -861,13 +803,11 @@ const kurral = [
       "In nature's way who spends his calm domestic days,<br />'Mid all that strive for virtue's crown hath foremost place",
     EnglishMeaning:
       'Among all those who labour (for future happiness) he is greatest who lives well in the household state',
-    Transliteration:
-      'Iyalpinaan Ilvaazhkkai  Vaazhpavan  Enpaan<br />Muyalvaarul  Ellaam  Thalai',
+    Transliteration: 'Iyalpinaan Ilvaazhkkai  Vaazhpavan  Enpaan<br />Muyalvaarul  Ellaam  Thalai',
   },
   {
     Index: 48,
-    Tamil:
-      'ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை<br />நோற்பாரின் நோன்மை உடைத்து',
+    Tamil: 'ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை<br />நோற்பாரின் நோன்மை உடைத்து',
     line1: 'ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை',
     line2: 'நோற்பாரின் நோன்மை உடைத்து',
     KalaignarUrai:
@@ -880,17 +820,14 @@ const kurral = [
       "Others it sets upon their way, itself from virtue ne'er declines;<br />Than stern ascetics' pains such life domestic brighter shines",
     EnglishMeaning:
       'The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance',
-    Transliteration:
-      'Aatrin Ozhukki  Aranizhukkaa  Ilvaazhkkai<br />Norpaarin  Nonmai  Utaiththu',
+    Transliteration: 'Aatrin Ozhukki  Aranizhukkaa  Ilvaazhkkai<br />Norpaarin  Nonmai  Utaiththu',
   },
   {
     Index: 49,
-    Tamil:
-      'அறன்எனப் பட்டதே இல்வாழ்க்கை அஃதும்<br />பிறன்பழிப்ப தில்லாயின் நன்று',
+    Tamil: 'அறன்எனப் பட்டதே இல்வாழ்க்கை அஃதும்<br />பிறன்பழிப்ப தில்லாயின் நன்று',
     line1: 'அறன்எனப் பட்டதே இல்வாழ்க்கை அஃதும்',
     line2: 'பிறன்பழிப்ப தில்லாயின் நன்று',
-    KalaignarUrai:
-      'பழிப்புக்கு இடமில்லாத இல்வாழ்க்கை இல்லறம் எனப் போற்றப்படும்',
+    KalaignarUrai: 'பழிப்புக்கு இடமில்லாத இல்வாழ்க்கை இல்லறம் எனப் போற்றப்படும்',
     MuVaUrai:
       'அறம் என்று சிறப்பித்து சொல்லப்பட்டது இல்வாழ்க்கையே ஆகும். அதுவும் மற்றவன் பழிக்கும் குற்றம் இல்லாமல் விளங்கினால் மேலும் நன்மையாகும்.',
     SolomonPaapaiyaUrai:
@@ -904,8 +841,7 @@ const kurral = [
   },
   {
     Index: 50,
-    Tamil:
-      'வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்<br />தெய்வத்துள் வைக்கப் படும்',
+    Tamil: 'வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்<br />தெய்வத்துள் வைக்கப் படும்',
     line1: 'வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்',
     line2: 'தெய்வத்துள் வைக்கப் படும்',
     KalaignarUrai:
@@ -923,8 +859,7 @@ const kurral = [
   },
   {
     Index: 51,
-    Tamil:
-      'மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்<br />வளத்தக்காள் வாழ்க்கைத் துணை',
+    Tamil: 'மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்<br />வளத்தக்காள் வாழ்க்கைத் துணை',
     line1: 'மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்',
     line2: 'வளத்தக்காள் வாழ்க்கைத் துணை',
     KalaignarUrai:
@@ -942,8 +877,7 @@ const kurral = [
   },
   {
     Index: 52,
-    Tamil:
-      'மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை<br />எனைமாட்சித் தாயினும் இல்',
+    Tamil: 'மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை<br />எனைமாட்சித் தாயினும் இல்',
     line1: 'மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை',
     line2: 'எனைமாட்சித் தாயினும் இல்',
     KalaignarUrai:
@@ -974,8 +908,7 @@ const kurral = [
       'There is no lack within the house, where wife in worth excels,<br />There is no luck within the house, where wife dishonoured dwells',
     EnglishMeaning:
       'If his wife be eminent (in virtue), what does (that man) not possess ? If she be without excellence, what does (he) possess ?',
-    Transliteration:
-      'Illadhen Illaval  Maanpaanaal  Ulladhen<br />Illaval  Maanaak  Katai?',
+    Transliteration: 'Illadhen Illaval  Maanpaanaal  Ulladhen<br />Illaval  Maanaak  Katai?',
   },
   {
     Index: 54,
@@ -988,12 +921,10 @@ const kurral = [
       'இல்வாழ்க்கையில் கற்பு என்னும் உறுதிநிலை இருக்கப் பெற்றால், பெண்ணைவிட பெருமையுடையவை வேறு என்ன இருக்கின்றன?',
     SolomonPaapaiyaUrai:
       'கற்பு எனப்படும் மன உறுதி மட்டும் பெண்ணிடம் இருக்குமானால் மனைவியைக் காட்டிலும் மேலானவை எவை?',
-    English:
-      'If woman might of chastity retain,<br />What choicer treasure doth the world contain',
+    English: 'If woman might of chastity retain,<br />What choicer treasure doth the world contain',
     EnglishMeaning:
       'What is more excellent than a wife, if she possess the stability of chastity ?',
-    Transliteration:
-      'Pennin Perundhakka  Yaavula  Karpennum<br />Thinmaiun  Taakap  Perin',
+    Transliteration: 'Pennin Perundhakka  Yaavula  Karpennum<br />Thinmaiun  Taakap  Perin',
   },
   {
     Index: 55,
@@ -1010,13 +941,11 @@ const kurral = [
       'No God adoring, low she bends before her lord;<br />Then rising, serves: the rain falls instant at her word',
     EnglishMeaning:
       "If she, who does not worship God, but who rising worships her husband, say, 'let it rain,' it will rain",
-    Transliteration:
-      'Theyvam Thozhaaal  Kozhunan  Thozhudhezhuvaal<br />Peyyenap  Peyyum  Mazhai',
+    Transliteration: 'Theyvam Thozhaaal  Kozhunan  Thozhudhezhuvaal<br />Peyyenap  Peyyum  Mazhai',
   },
   {
     Index: 56,
-    Tamil:
-      'தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற<br />சொற்காத்துச் சோர்விலாள் பெண்',
+    Tamil: 'தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற<br />சொற்காத்துச் சோர்விலாள் பெண்',
     line1: 'தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற',
     line2: 'சொற்காத்துச் சோர்விலாள் பெண்',
     KalaignarUrai:
@@ -1034,8 +963,7 @@ const kurral = [
   },
   {
     Index: 57,
-    Tamil:
-      'சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்<br />நிறைகாக்கும் காப்பே தலை',
+    Tamil: 'சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்<br />நிறைகாக்கும் காப்பே தலை',
     line1: 'சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர்',
     line2: 'நிறைகாக்கும் காப்பே தலை',
     KalaignarUrai:
@@ -1044,17 +972,14 @@ const kurral = [
       'மகளிரைக் காவல் வைத்துக் காக்கும் காப்பு முறை என்ன பயனை உண்டாக்கும்? அவர்கள் நிறை என்னும் பண்பால் தம்மைத் தான் காக்கும் கற்பே சிறிந்தது.',
     SolomonPaapaiyaUrai:
       'இத்தனை குணங்களும் இருக்கும்படி பெண்ணைச் சிறை வைத்துக் காவல் காப்பதில் பயன் என்ன? பெண்கள் தங்களைத் தாங்களே மன அடக்கத்தால் காக்கும் காவலே முதன்மையானது.',
-    English:
-      "Of what avail is watch and ward?<br />Honour's woman's safest guard",
+    English: "Of what avail is watch and ward?<br />Honour's woman's safest guard",
     EnglishMeaning:
       'What avails the guard of a prison ? The chief guard of a woman is her chastity',
-    Transliteration:
-      'Siraikaakkum Kaappevan  Seyyum  Makalir<br />Niraikaakkum  Kaappe  Thalai',
+    Transliteration: 'Siraikaakkum Kaappevan  Seyyum  Makalir<br />Niraikaakkum  Kaappe  Thalai',
   },
   {
     Index: 58,
-    Tamil:
-      'பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்<br />புத்தேளிர் வாழும் உலகு',
+    Tamil: 'பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்<br />புத்தேளிர் வாழும் உலகு',
     line1: 'பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப்',
     line2: 'புத்தேளிர் வாழும் உலகு',
     KalaignarUrai:
@@ -1067,8 +992,7 @@ const kurral = [
       'If wife be wholly true to him who gained her as his bride,<br />Great glory gains she in the world where gods bliss abide',
     EnglishMeaning:
       'If women shew reverence to their husbands, they will obtain great excellence in the world where the gods flourish',
-    Transliteration:
-      'Petraar Perinperuvar  Pentir  Perunjirappup<br />Puththelir  Vaazhum  Ulaku',
+    Transliteration: 'Petraar Perinperuvar  Pentir  Perunjirappup<br />Puththelir  Vaazhum  Ulaku',
   },
   {
     Index: 59,
@@ -1085,8 +1009,7 @@ const kurral = [
       "Who have not spouses that in virtue's praise delight,<br />They lion-like can never walk in scorner's sight",
     EnglishMeaning:
       'The man whose wife seeks not the praise (of chastity) cannot walk with lion-like stately step, before those who revile them',
-    Transliteration:
-      'Pukazhpurindha Illilorkku  Illai  Ikazhvaarmun<br />Erupol  Peetu  Natai',
+    Transliteration: 'Pukazhpurindha Illilorkku  Illai  Ikazhvaarmun<br />Erupol  Peetu  Natai',
   },
   {
     Index: 60,
@@ -1103,16 +1026,14 @@ const kurral = [
       "The house's 'blessing', men pronounce the house-wife excellent;<br />The gain of blessed children is its goodly ornament",
     EnglishMeaning:
       'The excellence of a wife is the good of her husband; and good children are the jewels of that goodness',
-    Transliteration:
-      'Mangalam Enpa  Manaimaatchi  Matru  Adhan<br />Nankalam  Nanmakkat  Peru',
+    Transliteration: 'Mangalam Enpa  Manaimaatchi  Matru  Adhan<br />Nankalam  Nanmakkat  Peru',
   },
   {
     Index: 61,
     Tamil: 'பெறுமவற்றுள் யாமறிவ தில்லை அறிவறிந்த<br />மக்கட்பே றல்ல பிற',
     line1: 'பெறுமவற்றுள் யாமறிவ தில்லை அறிவறிந்த',
     line2: 'மக்கட்பே றல்ல பிற',
-    KalaignarUrai:
-      'அறிவில் சிறந்த நல்ல பிள்ளைகளைவிட இல்வாழ்க்கையில் சிறந்த பேறு வேறு எதுவுமில்லை',
+    KalaignarUrai: 'அறிவில் சிறந்த நல்ல பிள்ளைகளைவிட இல்வாழ்க்கையில் சிறந்த பேறு வேறு எதுவுமில்லை',
     MuVaUrai:
       'பெறத்தகுந்த பேறுகளில் அறிய வேண்டியவைகளை அறியும் நன்மக்களைப் பெறுவதைத் தவிர, மற்றப்பேறுகளை யாம் மதிப்பதில்லை.',
     SolomonPaapaiyaUrai:
@@ -1121,8 +1042,7 @@ const kurral = [
       'Of all that men acquire, we know not any greater gain,<br />Than that which by the birth of learned children men obtain',
     EnglishMeaning:
       'Among all the benefits that may be acquired, we know no greater benefit than the acquisition of intelligent children',
-    Transliteration:
-      'Perumavatrul Yaamarivadhu  Illai  Arivarindha<br />Makkatperu  Alla  Pira',
+    Transliteration: 'Perumavatrul Yaamarivadhu  Illai  Arivarindha<br />Makkatperu  Alla  Pira',
   },
   {
     Index: 62,
@@ -1157,8 +1077,7 @@ const kurral = [
       "'Man's children are his fortune,' say the wise;<br />From each one's deeds his varied fortunes rise",
     EnglishMeaning:
       'Men will call their sons their wealth, because it flows to them through the deeds which they (sons) perform on their behalf',
-    Transliteration:
-      'Thamporul Enpadham  Makkal  Avarporul<br />Thamdham  Vinaiyaan  Varum',
+    Transliteration: 'Thamporul Enpadham  Makkal  Avarporul<br />Thamdham  Vinaiyaan  Varum',
   },
   {
     Index: 64,
@@ -1175,13 +1094,11 @@ const kurral = [
       "Than God's ambrosia sweeter far the food before men laid,<br />In which the little hands of children of their own have play'd",
     EnglishMeaning:
       'The rice in which the little hand of their children has dabbled will be far sweeter (to the parent) than ambrosia',
-    Transliteration:
-      'Amizhdhinum Aatra  Inidhedham  Makkal<br />Sirukai  Alaaviya  Koozh',
+    Transliteration: 'Amizhdhinum Aatra  Inidhedham  Makkal<br />Sirukai  Alaaviya  Koozh',
   },
   {
     Index: 65,
-    Tamil:
-      'மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றவர்<br />சொற்கேட்டல் இன்பம் செவிக்கு',
+    Tamil: 'மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றவர்<br />சொற்கேட்டல் இன்பம் செவிக்கு',
     line1: 'மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றவர்',
     line2: 'சொற்கேட்டல் இன்பம் செவிக்கு',
     KalaignarUrai:
@@ -1194,8 +1111,7 @@ const kurral = [
       'To patent sweet the touch of children dear;<br />Their voice is sweetest music to his ear',
     EnglishMeaning:
       'The touch of children gives pleasure to the body, and the hearing of their words, pleasure to the ear',
-    Transliteration:
-      'Makkalmey Theental  Utarkinpam  Matru  Avar<br />Sorkettal  Inpam  Sevikku',
+    Transliteration: 'Makkalmey Theental  Utarkinpam  Matru  Avar<br />Sorkettal  Inpam  Sevikku',
   },
   {
     Index: 66,
@@ -1230,13 +1146,11 @@ const kurral = [
       'Sire greatest boon on son confers, who makes him meet,<br />In councils of the wise to fill the highest seat',
     EnglishMeaning:
       'The benefit which a father should confer on his son is to give him precedence in the assembly of the learned',
-    Transliteration:
-      'Thandhai Makarkaatrum  Nandri  Avaiyaththu<br />Mundhi  Iruppach  Cheyal',
+    Transliteration: 'Thandhai Makarkaatrum  Nandri  Avaiyaththu<br />Mundhi  Iruppach  Cheyal',
   },
   {
     Index: 68,
-    Tamil:
-      'தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து<br />மன்னுயிர்க் கெல்லாம் இனிது',
+    Tamil: 'தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து<br />மன்னுயிர்க் கெல்லாம் இனிது',
     line1: 'தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து',
     line2: 'மன்னுயிர்க் கெல்லாம் இனிது',
     KalaignarUrai:
@@ -1272,8 +1186,7 @@ const kurral = [
   },
   {
     Index: 70,
-    Tamil:
-      'மகன் தந்தைக் காற்றும் உதவி இவன்தந்தை<br />என்நோற்றான் கொல்லெனும் சொல்',
+    Tamil: 'மகன் தந்தைக் காற்றும் உதவி இவன்தந்தை<br />என்நோற்றான் கொல்லெனும் சொல்',
     line1: 'மகன் தந்தைக் காற்றும் உதவி இவன்தந்தை',
     line2: 'என்நோற்றான் கொல்லெனும் சொல்',
     KalaignarUrai:
@@ -1286,8 +1199,7 @@ const kurral = [
       "To sire, what best requital can by grateful child be done?<br />To make men say, 'What merit gained the father such a son?'",
     EnglishMeaning:
       "(So to act) that it may be said 'by what great penance did his father beget him,' is the benefit which a son should render to his father",
-    Transliteration:
-      'Makandhandhaikku Aatrum  Udhavi  Ivandhandhai<br />Ennotraan  Kol  Enum  Sol',
+    Transliteration: 'Makandhandhaikku Aatrum  Udhavi  Ivandhandhai<br />Ennotraan  Kol  Enum  Sol',
   },
   {
     Index: 71,
@@ -1304,13 +1216,11 @@ const kurral = [
       "And is there bar that can even love restrain?<br />The tiny tear shall make the lover's secret plain",
     EnglishMeaning:
       'Is there any fastening that can shut in love ? Tears of the affectionate will publish the love that is within',
-    Transliteration:
-      'Anpirkum Unto  Ataikkundhaazh  Aarvalar<br />Punkaneer  Poosal  Tharum',
+    Transliteration: 'Anpirkum Unto  Ataikkundhaazh  Aarvalar<br />Punkaneer  Poosal  Tharum',
   },
   {
     Index: 72,
-    Tamil:
-      'அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்<br />என்பும் உரியர் பிறர்க்கு',
+    Tamil: 'அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்<br />என்பும் உரியர் பிறர்க்கு',
     line1: 'அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்',
     line2: 'என்பும் உரியர் பிறர்க்கு',
     KalaignarUrai:
@@ -1323,16 +1233,14 @@ const kurral = [
       "The loveless to themselves belong alone;<br />The loving men are others' to the very bone",
     EnglishMeaning:
       'Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones to belong to others',
-    Transliteration:
-      'Anpilaar Ellaam  Thamakkuriyar  Anputaiyaar<br />Enpum  Uriyar  Pirarkku',
+    Transliteration: 'Anpilaar Ellaam  Thamakkuriyar  Anputaiyaar<br />Enpum  Uriyar  Pirarkku',
   },
   {
     Index: 73,
     Tamil: 'அன்போ டியைந்த வழக்கென்ப ஆருயிர்க்கு<br />என்போ டியைந்த தொடர்பு',
     line1: 'அன்போ டியைந்த வழக்கென்ப ஆருயிர்க்கு',
     line2: 'என்போ டியைந்த தொடர்பு',
-    KalaignarUrai:
-      'உயிரும் உடலும்போல் அன்பும் செயலும் இணைந்திருப்பதே உயர்ந்த பொருத்தமாகும்',
+    KalaignarUrai: 'உயிரும் உடலும்போல் அன்பும் செயலும் இணைந்திருப்பதே உயர்ந்த பொருத்தமாகும்',
     MuVaUrai:
       'அருமையான உயிர்க்கு உடம்போடு பொருந்தி இருக்கின்ற உறவு, அன்போடு பொருந்தி வாழும் வாழ்க்கையின் பயன்என்று கூறுவர்.',
     SolomonPaapaiyaUrai:
@@ -1341,8 +1249,7 @@ const kurral = [
       "Of precious soul with body's flesh and bone,<br />The union yields one fruit, the life of love alone",
     EnglishMeaning:
       'They say that the union of soul and body in man is the fruit of the union of love and virtue (in a former birth)',
-    Transliteration:
-      'Anpotu Iyaindha  Vazhakkenpa  Aaruyirkku<br />Enpotu  Iyaindha  Thotarpu',
+    Transliteration: 'Anpotu Iyaindha  Vazhakkenpa  Aaruyirkku<br />Enpotu  Iyaindha  Thotarpu',
   },
   {
     Index: 74,
@@ -1359,13 +1266,11 @@ const kurral = [
       'From love fond yearning springs for union sweet of minds;<br />And that the bond of rare excelling friendship binds',
     EnglishMeaning:
       'Love begets desire: and that (desire) begets the immeasureable excellence of friendship',
-    Transliteration:
-      'Anpu Eenum  Aarvam  Utaimai  Adhueenum<br />Nanpu  Ennum  Naataach  Chirappu',
+    Transliteration: 'Anpu Eenum  Aarvam  Utaimai  Adhueenum<br />Nanpu  Ennum  Naataach  Chirappu',
   },
   {
     Index: 75,
-    Tamil:
-      'அன்புற் றமர்ந்த வழக்கென்ப வையகத்து<br />இன்புற்றார் எய்தும் சிறப்பு',
+    Tamil: 'அன்புற் றமர்ந்த வழக்கென்ப வையகத்து<br />இன்புற்றார் எய்தும் சிறப்பு',
     line1: 'அன்புற் றமர்ந்த வழக்கென்ப வையகத்து',
     line2: 'இன்புற்றார் எய்தும் சிறப்பு',
     KalaignarUrai:
@@ -1377,8 +1282,7 @@ const kurral = [
     English:
       'Sweetness on earth and rarest bliss above,<br />These are the fruits of tranquil life of love',
     EnglishMeaning: 'These are the fruits of tranquil life of love',
-    Transliteration:
-      'Anputru Amarndha  Vazhakkenpa  Vaiyakaththu<br />Inputraar  Eydhum  Sirappu',
+    Transliteration: 'Anputru Amarndha  Vazhakkenpa  Vaiyakaththu<br />Inputraar  Eydhum  Sirappu',
   },
   {
     Index: 76,
@@ -1395,8 +1299,7 @@ const kurral = [
       'The unwise deem love virtue only can sustain,<br />It also helps the man who evil would restrain',
     EnglishMeaning:
       'The ignorant say that love is an ally to virtue only, but it is also a help to get out of vice',
-    Transliteration:
-      'Araththirke Anpusaar  Penpa  Ariyaar<br />Maraththirkum  Aqdhe  Thunai',
+    Transliteration: 'Araththirke Anpusaar  Penpa  Ariyaar<br />Maraththirkum  Aqdhe  Thunai',
   },
   {
     Index: 77,
@@ -1413,17 +1316,14 @@ const kurral = [
       "As sun's fierce ray dries up the boneless things,<br />So loveless beings virtue's power to nothing brings",
     EnglishMeaning:
       'Virtue will burn up the soul which is without love, even as the sun burns up the creature which is without bone, ie worms',
-    Transliteration:
-      'Enpi Ladhanai  Veyilpolak  Kaayume<br />Anpi  Ladhanai  Aram',
+    Transliteration: 'Enpi Ladhanai  Veyilpolak  Kaayume<br />Anpi  Ladhanai  Aram',
   },
   {
     Index: 78,
-    Tamil:
-      'அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்<br />வற்றல் மரந்தளிர்த் தற்று',
+    Tamil: 'அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்<br />வற்றல் மரந்தளிர்த் தற்று',
     line1: 'அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்',
     line2: 'வற்றல் மரந்தளிர்த் தற்று',
-    KalaignarUrai:
-      'மனத்தில் அன்பு இல்லாதவருடைய வாழ்க்கை, பாலைவனத்தில் பட்டமரம் தளிர்த்தது போன்றது',
+    KalaignarUrai: 'மனத்தில் அன்பு இல்லாதவருடைய வாழ்க்கை, பாலைவனத்தில் பட்டமரம் தளிர்த்தது போன்றது',
     MuVaUrai:
       'அகத்தில் அன்பு இல்லாமல் வாழும் உயிர் வாழக்கை வளமற்ற பாலைநிலத்தில் பட்டமரம் தளிர்த்தாற் போன்றது.',
     SolomonPaapaiyaUrai:
@@ -1437,8 +1337,7 @@ const kurral = [
   },
   {
     Index: 79,
-    Tamil:
-      'புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை<br />அகத்துறுப் பன்பி லவர்க்கு',
+    Tamil: 'புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை<br />அகத்துறுப் பன்பி லவர்க்கு',
     line1: 'புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை',
     line2: 'அகத்துறுப் பன்பி லவர்க்கு',
     KalaignarUrai:
@@ -1451,8 +1350,7 @@ const kurral = [
       "Though every outward part complete, the body's fitly framed;<br />What good, when soul within, of love devoid, lies halt and maimed",
     EnglishMeaning:
       'Of what avail are all the external members (of the body) to those who are destitute of love, the internal member',
-    Transliteration:
-      'Puraththurup Pellaam  Evanseyyum  Yaakkai<br />Akaththuruppu  Anpi  Lavarkku',
+    Transliteration: 'Puraththurup Pellaam  Evanseyyum  Yaakkai<br />Akaththuruppu  Anpi  Lavarkku',
   },
   {
     Index: 80,
@@ -1469,13 +1367,11 @@ const kurral = [
       'Bodies of loveless men are bony framework clad with skin;<br />Then is the body seat of life, when love resides within',
     EnglishMeaning:
       'That body alone which is inspired with love contains a living soul: if void of it, (the body) is bone overlaid with skin',
-    Transliteration:
-      'Anpin Vazhiyadhu  Uyirnilai  Aqdhilaarkku<br />Enpudhol  Porththa  Utampu',
+    Transliteration: 'Anpin Vazhiyadhu  Uyirnilai  Aqdhilaarkku<br />Enpudhol  Porththa  Utampu',
   },
   {
     Index: 81,
-    Tamil:
-      'இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி<br />வேளாண்மை செய்தற் பொருட்டு',
+    Tamil: 'இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி<br />வேளாண்மை செய்தற் பொருட்டு',
     line1: 'இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி',
     line2: 'வேளாண்மை செய்தற் பொருட்டு',
     KalaignarUrai:
@@ -1488,13 +1384,11 @@ const kurral = [
       'All household cares and course of daily life have this in view<br />Guests to receive with courtesy, and kindly acts to do',
     EnglishMeaning:
       'The whole design of living in the domestic state and laying up (property) is (to be able) to exercise the benevolence of hospitality',
-    Transliteration:
-      'Irundhompi Ilvaazhva  Thellaam  Virundhompi<br />Velaanmai  Seydhar  Poruttu',
+    Transliteration: 'Irundhompi Ilvaazhva  Thellaam  Virundhompi<br />Velaanmai  Seydhar  Poruttu',
   },
   {
     Index: 82,
-    Tamil:
-      'விருந்து புறத்ததாத் தானுண்டல் சாவா<br />மருந்தெனினும் வேண்டற்பாற் றன்று',
+    Tamil: 'விருந்து புறத்ததாத் தானுண்டல் சாவா<br />மருந்தெனினும் வேண்டற்பாற் றன்று',
     line1: 'விருந்து புறத்ததாத் தானுண்டல் சாவா',
     line2: 'மருந்தெனினும் வேண்டற்பாற் றன்று',
     KalaignarUrai:
@@ -1512,8 +1406,7 @@ const kurral = [
   },
   {
     Index: 83,
-    Tamil:
-      'வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை<br />பருவந்து பாழ்படுதல் இன்று',
+    Tamil: 'வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை<br />பருவந்து பாழ்படுதல் இன்று',
     line1: 'வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை',
     line2: 'பருவந்து பாழ்படுதல் இன்று',
     KalaignarUrai:
@@ -1531,8 +1424,7 @@ const kurral = [
   },
   {
     Index: 84,
-    Tamil:
-      'அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து<br />நல்விருந் தோம்புவான் இல்',
+    Tamil: 'அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து<br />நல்விருந் தோம்புவான் இல்',
     line1: 'அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து',
     line2: 'நல்விருந் தோம்புவான் இல்',
     KalaignarUrai:
@@ -1545,13 +1437,11 @@ const kurral = [
       "With smiling face he entertains each virtuous guest,<br />'Fortune' with gladsome mind shall in his dwelling rest",
     EnglishMeaning:
       'Lakshmi with joyous mind shall dwell in the house of that man who, with cheerful countenance, entertains the good as guests',
-    Transliteration:
-      'Akanamarndhu Seyyaal  Uraiyum  Mukanamarndhu<br />Nalvirundhu  Ompuvaan  Il',
+    Transliteration: 'Akanamarndhu Seyyaal  Uraiyum  Mukanamarndhu<br />Nalvirundhu  Ompuvaan  Il',
   },
   {
     Index: 85,
-    Tamil:
-      'வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி<br />மிச்சில் மிசைவான் புலம்',
+    Tamil: 'வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி<br />மிச்சில் மிசைவான் புலம்',
     line1: 'வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி',
     line2: 'மிச்சில் மிசைவான் புலம்',
     KalaignarUrai:
@@ -1564,13 +1454,11 @@ const kurral = [
       "Who first regales his guest, and then himself supplies,<br />O'er all his fields, unsown, shall plenteous harvests rise",
     EnglishMeaning:
       'Is it necessary to sow the field of the man who, having feasted his guests, eats what may remain ?',
-    Transliteration:
-      'Viththum Italventum  Kollo  Virundhompi<br />Michchil  Misaivaan  Pulam',
+    Transliteration: 'Viththum Italventum  Kollo  Virundhompi<br />Michchil  Misaivaan  Pulam',
   },
   {
     Index: 86,
-    Tamil:
-      'செல்விருந் தோம்பி வருவிருந்து பார்த்திருப்பான்<br />நல்விருந்து வானத் தவர்க்கு',
+    Tamil: 'செல்விருந் தோம்பி வருவிருந்து பார்த்திருப்பான்<br />நல்விருந்து வானத் தவர்க்கு',
     line1: 'செல்விருந் தோம்பி வருவிருந்து பார்த்திருப்பான்',
     line2: 'நல்விருந்து வானத் தவர்க்கு',
     KalaignarUrai:
@@ -1588,8 +1476,7 @@ const kurral = [
   },
   {
     Index: 87,
-    Tamil:
-      'இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்<br />துணைத்துணை வேள்விப் பயன்',
+    Tamil: 'இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்<br />துணைத்துணை வேள்விப் பயன்',
     line1: 'இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்',
     line2: 'துணைத்துணை வேள்விப் பயன்',
     KalaignarUrai:
@@ -1607,8 +1494,7 @@ const kurral = [
   },
   {
     Index: 88,
-    Tamil:
-      'பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி<br />வேள்வி தலைப்படா தார்',
+    Tamil: 'பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி<br />வேள்வி தலைப்படா தார்',
     line1: 'பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி',
     line2: 'வேள்வி தலைப்படா தார்',
     KalaignarUrai:
@@ -1621,8 +1507,7 @@ const kurral = [
       "With pain they guard their stores, yet 'All forlorn are we,' they'll cry,<br />Who cherish not their guests, nor kindly help supply",
     EnglishMeaning:
       "Those who have taken no part in the benevolence of hospitality shall (at length lament) saying, 'we have laboured and laid up wealth and are now without support.'",
-    Transliteration:
-      'Parindhompip Patratrem  Enpar  Virundhompi<br />Velvi  Thalaippataa  Thaar',
+    Transliteration: 'Parindhompip Patratrem  Enpar  Virundhompi<br />Velvi  Thalaippataa  Thaar',
   },
   {
     Index: 89,
@@ -1639,13 +1524,11 @@ const kurral = [
       "To turn from guests is penury, though worldly goods abound;<br />'Tis senseless folly, only with the senseless found",
     EnglishMeaning:
       'That stupidity which excercises no hospitality is poverty in the midst of wealth It is the property of the stupid',
-    Transliteration:
-      'Utaimaiyul Inmai  Virundhompal  Ompaa<br />Matamai  Matavaarkan  Untu',
+    Transliteration: 'Utaimaiyul Inmai  Virundhompal  Ompaa<br />Matamai  Matavaarkan  Untu',
   },
   {
     Index: 90,
-    Tamil:
-      'மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து<br />நோக்கக் குழையும் விருந்து',
+    Tamil: 'மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து<br />நோக்கக் குழையும் விருந்து',
     line1: 'மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து',
     line2: 'நோக்கக் குழையும் விருந்து',
     KalaignarUrai:
@@ -1658,13 +1541,11 @@ const kurral = [
       "The flower of 'Anicha' withers away, If you do but its fragrance inhale;<br />If the face of the host cold welcome convey, The guest's heart within him will fail",
     EnglishMeaning:
       'As the Anicham flower fades in smelling, so fades the guest when the face is turned away',
-    Transliteration:
-      'Moppak Kuzhaiyum  Anichcham  Mukandhirindhu<br />Nokkak  Kuzhaiyum  Virundhu',
+    Transliteration: 'Moppak Kuzhaiyum  Anichcham  Mukandhirindhu<br />Nokkak  Kuzhaiyum  Virundhu',
   },
   {
     Index: 91,
-    Tamil:
-      'இன்சொலால் ஈரம் அளைஇப் படிறிலவாம்<br />செம்பொருள் கண்டார்வாய்ச் சொல்',
+    Tamil: 'இன்சொலால் ஈரம் அளைஇப் படிறிலவாம்<br />செம்பொருள் கண்டார்வாய்ச் சொல்',
     line1: 'இன்சொலால் ஈரம் அளைஇப் படிறிலவாம்',
     line2: 'செம்பொருள் கண்டார்வாய்ச் சொல்',
     KalaignarUrai:
@@ -1677,8 +1558,7 @@ const kurral = [
       'Pleasant words are words with all pervading love that burn;<br />Words from his guileless mouth who can the very truth discern',
     EnglishMeaning:
       'Sweet words are those which imbued with love and free from deceit flow from the mouth of the virtuous',
-    Transliteration:
-      'Insolaal Eeram  Alaiip  Patiruilavaam<br />Semporul  Kantaarvaaich  Chol',
+    Transliteration: 'Insolaal Eeram  Alaiip  Patiruilavaam<br />Semporul  Kantaarvaaich  Chol',
   },
   {
     Index: 92,
@@ -1695,16 +1575,14 @@ const kurral = [
       "A pleasant word with beaming smile's preferred,<br />Even to gifts with liberal heart conferred",
     EnglishMeaning:
       'Sweet speech, with a cheerful countenance is better than a gift made with a joyous mind',
-    Transliteration:
-      'Akanamarndhu Eedhalin  Nandre  Mukanamarndhu<br />Insolan  Aakap  Perin',
+    Transliteration: 'Akanamarndhu Eedhalin  Nandre  Mukanamarndhu<br />Insolan  Aakap  Perin',
   },
   {
     Index: 93,
     Tamil: 'முகத்தான் அமர்ந்தின்து நோக்கி அகத்தானாம்<br />இன்சொ லினதே அறம்',
     line1: 'முகத்தான் அமர்ந்தின்து நோக்கி அகத்தானாம்',
     line2: 'இன்சொ லினதே அறம்',
-    KalaignarUrai:
-      'முகம் மலர நோக்கி, அகம் மலர இனிய சொற்களைக் கூறுவதே அறவழியில் அமைந்த பண்பாகும்',
+    KalaignarUrai: 'முகம் மலர நோக்கி, அகம் மலர இனிய சொற்களைக் கூறுவதே அறவழியில் அமைந்த பண்பாகும்',
     MuVaUrai:
       'முகத்தால் விரும்பி- இனிமையுடன் நோக்கி- உள்ளம் கலந்து இன்சொற்களைக் கூறும் தன்மையில் உள்ளதே அறமாகும்.',
     SolomonPaapaiyaUrai:
@@ -1713,13 +1591,11 @@ const kurral = [
       'With brightly beaming smile, and kindly light of loving eye,<br />And heart sincere, to utter pleasant words is charity',
     EnglishMeaning:
       'Sweet speech, flowing from the heart (uttered) with a cheerful countenance and a sweet look, is true virtue',
-    Transliteration:
-      'Mukaththaan Amarndhuinidhu  Nokki  Akaththaanaam<br />Inso  Linadhe  Aram',
+    Transliteration: 'Mukaththaan Amarndhuinidhu  Nokki  Akaththaanaam<br />Inso  Linadhe  Aram',
   },
   {
     Index: 94,
-    Tamil:
-      'துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்<br />இன்புறூஉம் இன்சொ லவர்க்கு',
+    Tamil: 'துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்<br />இன்புறூஉம் இன்சொ லவர்க்கு',
     line1: 'துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்',
     line2: 'இன்புறூஉம் இன்சொ லவர்க்கு',
     KalaignarUrai:
@@ -1732,8 +1608,7 @@ const kurral = [
       "The men of pleasant speech that gladness breathe around,<br />Through indigence shall never sorrow's prey be found",
     EnglishMeaning:
       'Sorrow-increasing poverty shall not come upon those who use towards all, pleasure-increasing sweetness of speech',
-    Transliteration:
-      'Thunpurooum Thuvvaamai  Illaakum  Yaarmaattum<br />Inpurooum  Inso  Lavarkku',
+    Transliteration: 'Thunpurooum Thuvvaamai  Illaakum  Yaarmaattum<br />Inpurooum  Inso  Lavarkku',
   },
   {
     Index: 95,
@@ -1750,8 +1625,7 @@ const kurral = [
       'Humility with pleasant speech to man on earth,<br />Is choice adornment; all besides is nothing worth',
     EnglishMeaning:
       'Humility and sweetness of speech are the ornaments of man; all others are not (ornaments)',
-    Transliteration:
-      'Panivutaiyan Insolan  Aadhal  Oruvarku<br />Aniyalla  Matrup  Pira',
+    Transliteration: 'Panivutaiyan Insolan  Aadhal  Oruvarku<br />Aniyalla  Matrup  Pira',
   },
   {
     Index: 96,
@@ -1768,8 +1642,7 @@ const kurral = [
       'Who seeks out good, words from his lips of sweetness flow;<br />In him the power of vice declines, and virtues grow',
     EnglishMeaning:
       'If a man, while seeking to speak usefully, speaks also sweetly, his sins will diminish and his virtue increase',
-    Transliteration:
-      'Allavai Theya  Aramperukum  Nallavai<br />Naati  Iniya  Solin',
+    Transliteration: 'Allavai Theya  Aramperukum  Nallavai<br />Naati  Iniya  Solin',
   },
   {
     Index: 97,
@@ -1804,8 +1677,7 @@ const kurral = [
       'Sweet kindly words, from meanness free, delight of heart,<br />In world to come and in this world impart',
     EnglishMeaning:
       'Sweet speech, free from harm to others, will give pleasure both in this world and in the next',
-    Transliteration:
-      'Sirumaiyul Neengiya  Insol  Marumaiyum<br />Immaiyum  Inpam  Tharum',
+    Transliteration: 'Sirumaiyul Neengiya  Insol  Marumaiyum<br />Immaiyum  Inpam  Tharum',
   },
   {
     Index: 99,
@@ -1822,8 +1694,7 @@ const kurral = [
       'Who sees the pleasure kindly speech affords,<br />Why makes he use of harsh, repellant words',
     EnglishMeaning:
       'Why does he use harsh words, who sees the pleasure which sweet speech yields ?',
-    Transliteration:
-      'Insol Inidheendral  Kaanpaan  Evankolo<br />Vansol  Vazhangu  Vadhu?',
+    Transliteration: 'Insol Inidheendral  Kaanpaan  Evankolo<br />Vansol  Vazhangu  Vadhu?',
   },
   {
     Index: 100,
@@ -1840,8 +1711,7 @@ const kurral = [
       'When pleasant words are easy, bitter words to use,<br />Is, leaving sweet ripe fruit, the sour unripe to choose',
     EnglishMeaning:
       'To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe',
-    Transliteration:
-      'Iniya Ulavaaka  Innaadha  Kooral<br />Kaniiruppak  Kaaikavarn  Thatru',
+    Transliteration: 'Iniya Ulavaaka  Innaadha  Kooral<br />Kaniiruppak  Kaaikavarn  Thatru',
   },
   {
     Index: 101,
@@ -1858,8 +1728,7 @@ const kurral = [
       "Assistance given by those who ne'er received our aid,<br />Is debt by gift of heaven and earth but poorly paid",
     EnglishMeaning:
       '(The gift of) heaven and earth is not an equivalent for a benefit which is conferred where none had been received',
-    Transliteration:
-      'Seyyaamal Seydha  Udhavikku  Vaiyakamum<br />Vaanakamum  Aatral  Aridhu',
+    Transliteration: 'Seyyaamal Seydha  Udhavikku  Vaiyakamum<br />Vaanakamum  Aatral  Aridhu',
   },
   {
     Index: 102,
@@ -1894,8 +1763,7 @@ const kurral = [
       "Kindness shown by those who weigh not what the return may be:<br />When you ponder right its merit, 'Tis vaster than the sea",
     EnglishMeaning:
       'If we weigh the excellence of a benefit which is conferred without weighing the return, it is larger than the sea',
-    Transliteration:
-      'Payandhookkaar Seydha  Udhavi  Nayandhookkin<br />Nanmai  Katalin  Peridhu',
+    Transliteration: 'Payandhookkaar Seydha  Udhavi  Nayandhookkin<br />Nanmai  Katalin  Peridhu',
   },
   {
     Index: 104,
@@ -1930,8 +1798,7 @@ const kurral = [
       "The kindly aid's extent is of its worth no measure true;<br />Its worth is as the worth of him to whom the act you do",
     EnglishMeaning:
       'The benefit itself is not the measure of the benefit; the worth of those who have received it is its measure',
-    Transliteration:
-      'Udhavi Varaiththandru  Udhavi  Udhavi<br />Seyappattaar  Saalpin  Varaiththu',
+    Transliteration: 'Udhavi Varaiththandru  Udhavi  Udhavi<br />Seyappattaar  Saalpin  Varaiththu',
   },
   {
     Index: 106,
@@ -1960,14 +1827,12 @@ const kurral = [
       'ஏழேழு தலைமுறைக்கு என்றும் ஏழேழு பிறவிக்கு என்றும் மிகைப்படுத்திச் சொல்வதுபோல, ஒருவருடைய துன்பத்தைப் போக்கியவரின் தூய்மையான நட்பை நினைத்துப் போற்றுவதற்குக் கால எல்லையே கிடையாது',
     MuVaUrai:
       'தம்முடைய துன்பத்தைப் போக்கி உதவியவரின் நட்பைப் பல்வேறு வகையான பிறவியிலும் மறவாமல் போற்றுவர் பெரியோர்.',
-    SolomonPaapaiyaUrai:
-      'தம் துன்பத்தைப் போக்கியவரின் நட்பை ஏழேழு பிறப்பிலும் நல்லவர் எண்ணுவர்',
+    SolomonPaapaiyaUrai: 'தம் துன்பத்தைப் போக்கியவரின் நட்பை ஏழேழு பிறப்பிலும் நல்லவர் எண்ணுவர்',
     English:
       "Through all seven worlds, in seven-fold birth, Remains in mem'ry of the wise<br />Friendship of those who wiped on earth, The tears of sorrow from their eyes",
     EnglishMeaning:
       '(The wise) will remember throughout their seven-fold births the love of those who have wiped away their affliction',
-    Transliteration:
-      'Ezhumai Ezhupirappum  Ulluvar  Thangan<br />Vizhuman  Thutaiththavar  Natpu',
+    Transliteration: 'Ezhumai Ezhupirappum  Ulluvar  Thangan<br />Vizhuman  Thutaiththavar  Natpu',
   },
   {
     Index: 108,
@@ -1984,8 +1849,7 @@ const kurral = [
       "'Tis never good to let the thought of good things done thee pass away;<br />Of things not good, 'tis good to rid thy memory that very day",
     EnglishMeaning:
       'It is not good to forget a benefit; it is good to forget an injury even in the very moment (in which it is inflicted)',
-    Transliteration:
-      'Nandri Marappadhu  Nandrandru  Nandralladhu<br />Andre  Marappadhu  Nandru',
+    Transliteration: 'Nandri Marappadhu  Nandrandru  Nandralladhu<br />Andre  Marappadhu  Nandru',
   },
   {
     Index: 109,
@@ -2002,13 +1866,11 @@ const kurral = [
       'Effaced straightway is deadliest injury,<br />By thought of one kind act in days gone by',
     EnglishMeaning:
       'Though one inflict an injury great as murder, it will perish before the thought of one benefit (formerly) conferred',
-    Transliteration:
-      'Kondranna Innaa  Seyinum  Avarseydha<br />Ondrunandru  Ullak  Ketum',
+    Transliteration: 'Kondranna Innaa  Seyinum  Avarseydha<br />Ondrunandru  Ullak  Ketum',
   },
   {
     Index: 110,
-    Tamil:
-      'எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை<br />செய்ந்நன்றி கொன்ற மகற்கு',
+    Tamil: 'எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை<br />செய்ந்நன்றி கொன்ற மகற்கு',
     line1: 'எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை',
     line2: 'செய்ந்நன்றி கொன்ற மகற்கு',
     KalaignarUrai:
@@ -2021,8 +1883,7 @@ const kurral = [
       "Who every good have killed, may yet destruction flee;<br />Who 'benefit' has killed, that man shall ne'er 'scape free",
     EnglishMeaning:
       'He who has killed every virtue may yet escape; there is no escape for him who has killed a benefit',
-    Transliteration:
-      'Ennandri Kondraarkkum  Uyvuntaam  Uyvillai<br />Seynnandri  Kondra  Makarku',
+    Transliteration: 'Ennandri Kondraarkkum  Uyvuntaam  Uyvillai<br />Seynnandri  Kondra  Makarku',
   },
   {
     Index: 111,
@@ -2039,8 +1900,7 @@ const kurral = [
       "If justice, failing not, its quality maintain,<br />Giving to each his due, -'tis man's one highest gain",
     EnglishMeaning:
       'That equity which consists in acting with equal regard to each of (the three) divisions of men [enemies, strangers and friends] is a pre-eminent virtue',
-    Transliteration:
-      'Thakudhi Enavondru  Nandre  Pakudhiyaal<br />Paarpattu  Ozhukap  Perin',
+    Transliteration: 'Thakudhi Enavondru  Nandre  Pakudhiyaal<br />Paarpattu  Ozhukap  Perin',
   },
   {
     Index: 112,
@@ -2075,8 +1935,7 @@ const kurral = [
       "Though only good it seem to give, yet gain<br />By wrong acquired, not e'en one day retain",
     EnglishMeaning:
       'Forsake in the very moment (of acquisition) that gain which, though it should bring advantage, is without equity',
-    Transliteration:
-      'Nandre Tharinum  Natuvikandhaam  Aakkaththai<br />Andre  Yozhiya  Vital',
+    Transliteration: 'Nandre Tharinum  Natuvikandhaam  Aakkaththai<br />Andre  Yozhiya  Vital',
   },
   {
     Index: 114,
@@ -2093,8 +1952,7 @@ const kurral = [
       "Who just or unjust lived shall soon appear:<br />By each one's offspring shall the truth be clear",
     EnglishMeaning:
       'The worthy and unworthy may be known by the existence or otherwise of good offsprings',
-    Transliteration:
-      'Thakkaar Thakavilar  Enpadhu  Avaravar<br />Echchaththaar  Kaanap  Patum',
+    Transliteration: 'Thakkaar Thakavilar  Enpadhu  Avaravar<br />Echchaththaar  Kaanap  Patum',
   },
   {
     Index: 115,
@@ -2111,8 +1969,7 @@ const kurral = [
       "The gain and loss in life are not mere accident;<br />Just mind inflexible is sages' ornament",
     EnglishMeaning:
       'Loss and gain come not without cause; it is the ornament of the wise to preserve evenness of mind (under both)',
-    Transliteration:
-      'Ketum Perukkamum  Illalla  Nenjaththuk<br />Kotaamai  Saandrork  Kani',
+    Transliteration: 'Ketum Perukkamum  Illalla  Nenjaththuk<br />Kotaamai  Saandrork  Kani',
   },
   {
     Index: 116,
@@ -2125,12 +1982,10 @@ const kurral = [
       'தன் நெஞ்சம் நடுவுநிலை நீங்கித் தவறு செய்ய நினைக்குமாயின், நான் கெடப்போகின்றேன் என்று ஒருவன் அறிய வேண்டும்.',
     SolomonPaapaiyaUrai:
       'தன் நெஞ்சம் நீதியை விட்டுவிட்டு அநீதி செய்ய எண்ணி னால், அதுவே தான் கெடப் போவதற்கு உரிய அறிகுறி.\\r\\n',
-    English:
-      "If, right deserting, heart to evil turn,<br />Let man impending ruin's sign discern",
+    English: "If, right deserting, heart to evil turn,<br />Let man impending ruin's sign discern",
     EnglishMeaning:
       "Let him whose mind departing from equity commits sin well consider thus within himself, 'I shall perish.'",
-    Transliteration:
-      'Ketuvalyaan Enpadhu  Arikadhan  Nenjam<br />Natuvoreei  Alla  Seyin',
+    Transliteration: 'Ketuvalyaan Enpadhu  Arikadhan  Nenjam<br />Natuvoreei  Alla  Seyin',
   },
   {
     Index: 117,
@@ -2147,13 +2002,11 @@ const kurral = [
       "The man who justly lives, tenacious of the right,<br />In low estate is never low to wise man's sight",
     EnglishMeaning:
       'The great will not regard as poverty the low estate of that man who dwells in the virtue of equity',
-    Transliteration:
-      'Ketuvaaka Vaiyaadhu  Ulakam  Natuvaaka<br />Nandrikkan  Thangiyaan  Thaazhvu',
+    Transliteration: 'Ketuvaaka Vaiyaadhu  Ulakam  Natuvaaka<br />Nandrikkan  Thangiyaan  Thaazhvu',
   },
   {
     Index: 118,
-    Tamil:
-      'சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபாற்<br />கோடாமை சான்றோர்க் கணி',
+    Tamil: 'சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபாற்<br />கோடாமை சான்றோர்க் கணி',
     line1: 'சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபாற்',
     line2: 'கோடாமை சான்றோர்க் கணி',
     KalaignarUrai:
@@ -2180,12 +2033,10 @@ const kurral = [
       'உள்ளத்தில் கோணுதல் இல்லாத தன்மையை உறுதியாகப் பெற்றால், சொல்லிலும் கோணுதல் இல்லாதிருத்தல் நடுவுநிலைமையாம்.',
     SolomonPaapaiyaUrai:
       'மனம் ஓரஞ் சாராமல் சமமாக நிற்குமானால் சொல்லிலும் அநீதி பிறக்காது; அதுவே நீதி.',
-    English:
-      'Inflexibility in word is righteousness,<br />If men inflexibility of soul possess',
+    English: 'Inflexibility in word is righteousness,<br />If men inflexibility of soul possess',
     EnglishMeaning:
       'Freedom from obliquity of speech is rectitude, if there be (corresponding) freedom from bias of mind',
-    Transliteration:
-      'Sorkottam Illadhu  Seppam  Orudhalaiyaa<br />Utkottam  Inmai  Perin',
+    Transliteration: 'Sorkottam Illadhu  Seppam  Orudhalaiyaa<br />Utkottam  Inmai  Perin',
   },
   {
     Index: 120,
@@ -2202,16 +2053,14 @@ const kurral = [
       "As thriving trader is the trader known,<br />Who guards another's interests as his own",
     EnglishMeaning:
       'The true merchandize of merchants is to guard and do by the things of others as they do by their own',
-    Transliteration:
-      'Vaanikam Seyvaarkku  Vaanikam  Penip<br />Piravum  Thamapol  Seyin',
+    Transliteration: 'Vaanikam Seyvaarkku  Vaanikam  Penip<br />Piravum  Thamapol  Seyin',
   },
   {
     Index: 121,
     Tamil: 'அடக்கம் அமரருள் உய்க்கும் அடங்காமை<br />ஆரிருள் உய்த்து விடும்',
     line1: 'அடக்கம் அமரருள் உய்க்கும் அடங்காமை',
     line2: 'ஆரிருள் உய்த்து விடும்',
-    KalaignarUrai:
-      'அடக்கம் அழியாத புகழைக் கொடுக்கும் அடங்காமை வாழ்வையே இருளாக்கி விடும்',
+    KalaignarUrai: 'அடக்கம் அழியாத புகழைக் கொடுக்கும் அடங்காமை வாழ்வையே இருளாக்கி விடும்',
     MuVaUrai:
       'அடக்கம் ஒருவனை உயர்த்தித் தேவருள் சேர்க்கும்; அடக்கம் இல்லாதிருத்தல், பொல்லாத இருள் போன்ற தீய வாழ்க்கையில் செலுத்தி விடும்.',
     SolomonPaapaiyaUrai:
@@ -2220,8 +2069,7 @@ const kurral = [
       "Control of self does man conduct to bliss th' immortals share;<br />Indulgence leads to deepest night, and leaves him there",
     EnglishMeaning:
       'Self-control will place (a man) among the Gods; the want of it will drive (him) into the thickest darkness (of hell)',
-    Transliteration:
-      'Atakkam Amararul  Uykkum  Atangaamai<br />Aarirul  Uyththu  Vitum',
+    Transliteration: 'Atakkam Amararul  Uykkum  Atangaamai<br />Aarirul  Uyththu  Vitum',
   },
   {
     Index: 122,
@@ -2238,8 +2086,7 @@ const kurral = [
       'Guard thou as wealth the power of self-control;<br />Than this no greater gain to living soul',
     EnglishMeaning:
       'Let self-control be guarded as a treasure; there is no greater source of good for man than that',
-    Transliteration:
-      'Kaakka Porulaa  Atakkaththai  Aakkam<br />Adhaninooung  Killai  Uyirkku',
+    Transliteration: 'Kaakka Porulaa  Atakkaththai  Aakkam<br />Adhaninooung  Killai  Uyirkku',
   },
   {
     Index: 123,
@@ -2256,8 +2103,7 @@ const kurral = [
       "If versed in wisdom's lore by virtue's law you self restrain<br />Your self-repression known will yield you glory's gain",
     EnglishMeaning:
       'Knowing that self-control is knowledge, if a man should control himself, in the prescribed course, such self-control will bring him distinction among the wise',
-    Transliteration:
-      'Serivarindhu Seermai  Payakkum  Arivarindhu<br />Aatrin  Atangap  Perin',
+    Transliteration: 'Serivarindhu Seermai  Payakkum  Arivarindhu<br />Aatrin  Atangap  Perin',
   },
   {
     Index: 124,
@@ -2274,13 +2120,11 @@ const kurral = [
       'In his station, all unswerving, if man self subdue,<br />Greater he than mountain proudly rising to the view',
     EnglishMeaning:
       'More lofty than a mountain will be the greatness of that man who without swerving from his domestic state, controls himself',
-    Transliteration:
-      'Nilaiyin Thiriyaadhu  Atangiyaan  Thotram<br />Malaiyinum  Maanap  Peridhu',
+    Transliteration: 'Nilaiyin Thiriyaadhu  Atangiyaan  Thotram<br />Malaiyinum  Maanap  Peridhu',
   },
   {
     Index: 125,
-    Tamil:
-      'எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்<br />செல்வர்க்கே செல்வம் தகைத்து',
+    Tamil: 'எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்<br />செல்வர்க்கே செல்வம் தகைத்து',
     line1: 'எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்',
     line2: 'செல்வர்க்கே செல்வம் தகைத்து',
     KalaignarUrai:
@@ -2293,8 +2137,7 @@ const kurral = [
       "To all humility is goodly grace; but chief to them<br />With fortune blessed, -'tis fortune's diadem",
     EnglishMeaning:
       'Humility is good in all; but especially in the rich it is (the excellence of) higher riches',
-    Transliteration:
-      'Ellaarkkum Nandraam  Panidhal  Avarullum<br />Selvarkke  Selvam  Thakaiththu',
+    Transliteration: 'Ellaarkkum Nandraam  Panidhal  Avarullum<br />Selvarkke  Selvam  Thakaiththu',
   },
   {
     Index: 126,
@@ -2307,17 +2150,14 @@ const kurral = [
       'ஒரு பிறப்பில், ஆமைபோல் ஐம்பொறிகளையும் அடக்கியாள வல்லவனானால், அஃது அவனுக்குப் பல பிறப்பிலும் காப்பாகும் சிறப்பு உடையது.',
     SolomonPaapaiyaUrai:
       'ஆமை தன் நான்கு கால், ஒரு தலை ஆகிய ஐந்து உறுப்புகளையும் ஆபத்து வரும்போது ஓட்டுக்குள் மறைத்துக் கொள்வது போல, ஒருவன் தன் ஒரு பிறப்பில் மெய், வாய், கண், மூக்கு, செவி ஆகிய ஐந்து பொறிகளையும் அறத்திற்கு மாறான தீமை வரும்போது அடக்கும் ஆற்றல் பெறுவான் என்றால், அது அவனுக்குப் பிறவி தோறும் ஏழு பிறப்பிலும் - அரணாக இருந்து உதவும்.',
-    English:
-      'Like tortoise, who the five restrains<br />In one, through seven world bliss obtains',
+    English: 'Like tortoise, who the five restrains<br />In one, through seven world bliss obtains',
     EnglishMeaning:
       'Should one throughout a single birth, like a tortoise keep in his five senses, the fruit of it will prove a safe-guard to him throughout the seven-fold births.',
-    Transliteration:
-      'Orumaiyul Aamaipol  Aindhatakkal  Aatrin<br />Ezhumaiyum  Emaap  Putaiththu',
+    Transliteration: 'Orumaiyul Aamaipol  Aindhatakkal  Aatrin<br />Ezhumaiyum  Emaap  Putaiththu',
   },
   {
     Index: 127,
-    Tamil:
-      'யாகாவா ராயினும் நாகாக்க காவாக்காற்<br />சோகாப்பர் சொல்லிழுக்குப் பட்டு',
+    Tamil: 'யாகாவா ராயினும் நாகாக்க காவாக்காற்<br />சோகாப்பர் சொல்லிழுக்குப் பட்டு',
     line1: 'யாகாவா ராயினும் நாகாக்க காவாக்காற்',
     line2: 'சோகாப்பர் சொல்லிழுக்குப் பட்டு',
     KalaignarUrai:
@@ -2348,8 +2188,7 @@ const kurral = [
       'Though some small gain of good it seem to bring,<br />The evil word is parent still of evil thing',
     EnglishMeaning:
       "If a man's speech be productive of a single evil, all the good by him will be turned into evil",
-    Transliteration:
-      'Ondraanun Theechchol  Porutpayan  Untaayin<br />Nandraakaa  Thaaki  Vitum',
+    Transliteration: 'Ondraanun Theechchol  Porutpayan  Untaayin<br />Nandraakaa  Thaaki  Vitum',
   },
   {
     Index: 129,
@@ -2366,13 +2205,11 @@ const kurral = [
       'In flesh by fire inflamed, nature may thoroughly heal the sore;<br />In soul by tongue inflamed, the ulcer healeth never more',
     EnglishMeaning:
       'The wound which has been burnt in by fire may heal, but a wound burnt in by the tongue will never heal',
-    Transliteration:
-      'Theeyinaar Suttapun  Ullaarum  Aaraadhe<br />Naavinaar  Sutta  Vatu',
+    Transliteration: 'Theeyinaar Suttapun  Ullaarum  Aaraadhe<br />Naavinaar  Sutta  Vatu',
   },
   {
     Index: 130,
-    Tamil:
-      'கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி<br />அறம்பார்க்கும் ஆற்றின் நுழைந்து',
+    Tamil: 'கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி<br />அறம்பார்க்கும் ஆற்றின் நுழைந்து',
     line1: 'கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி',
     line2: 'அறம்பார்க்கும் ஆற்றின் நுழைந்து',
     KalaignarUrai:
@@ -2403,13 +2240,11 @@ const kurral = [
       "'Decorum' gives especial excellence; with greater care<br />'Decorum' should men guard than life, which all men share",
     EnglishMeaning:
       'Propriety of conduct leads to eminence, it should therefore be preserved more carefully than life',
-    Transliteration:
-      'Ozhukkam Vizhuppan  Tharalaan  Ozhukkam<br />Uyirinum  Ompap  Patum',
+    Transliteration: 'Ozhukkam Vizhuppan  Tharalaan  Ozhukkam<br />Uyirinum  Ompap  Patum',
   },
   {
     Index: 132,
-    Tamil:
-      'பரிந்தோம்பிக் காக்க ஒழுக்கந் தெரிந்தோம்பித்<br />தேரினும் அஃதே துணை',
+    Tamil: 'பரிந்தோம்பிக் காக்க ஒழுக்கந் தெரிந்தோம்பித்<br />தேரினும் அஃதே துணை',
     line1: 'பரிந்தோம்பிக் காக்க ஒழுக்கந் தெரிந்தோம்பித்',
     line2: 'தேரினும் அஃதே துணை',
     KalaignarUrai:
@@ -2422,8 +2257,7 @@ const kurral = [
       "Searching, duly watching, learning, 'decorum' still we find;<br />Man's only aid; toiling, guard thou this with watchful mind",
     EnglishMeaning:
       'Let propriety of conduct be laboriously preserved and guarded; though one know and practise and excel in many virtues, that will be an eminent aid',
-    Transliteration:
-      'Parindhompik Kaakka  Ozhukkam  Therindhompith<br />Therinum  Aqdhe  Thunai',
+    Transliteration: 'Parindhompik Kaakka  Ozhukkam  Therindhompith<br />Therinum  Aqdhe  Thunai',
   },
   {
     Index: 133,
@@ -2436,17 +2270,14 @@ const kurral = [
       'ஒழுக்கம் உடையவராக வாழ்வதே உயர்ந்த குடிப்பிறப்பின் தன்மையாகும்; ஒழுக்கம் தவறுதல் இழிந்த குடிப்பிறப்பின் தன்மையாகி விடும்.',
     SolomonPaapaiyaUrai:
       'தனி மனிதன்  தான் வகிக்கும் பாத்திரத்திற்கு ஏற்ற ஒழுக்கம் உடையவனாக வாழ்வதே குடும்பப் பெருமை; அத்தகைய ஒழுக்கம் இல்லாது போனால் இழிந்த குடும்பத்தில் பிறந்தது ஆகிவிடும்.',
-    English:
-      "'Decorum's' true nobility on earth;<br />'Indecorum's' issue is ignoble birth",
+    English: "'Decorum's' true nobility on earth;<br />'Indecorum's' issue is ignoble birth",
     EnglishMeaning:
       'Propriety of conduct is true greatness of birth, and impropriety will sink into a mean birth',
-    Transliteration:
-      'Ozhukkam Utaimai  Kutimai  Izhukkam<br />Izhindha  Pirappaai  Vitum',
+    Transliteration: 'Ozhukkam Utaimai  Kutimai  Izhukkam<br />Izhindha  Pirappaai  Vitum',
   },
   {
     Index: 134,
-    Tamil:
-      'மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்<br />பிறப்பொழுக்கங் குன்றக் கெடும்',
+    Tamil: 'மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்<br />பிறப்பொழுக்கங் குன்றக் கெடும்',
     line1: 'மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்',
     line2: 'பிறப்பொழுக்கங் குன்றக் கெடும்',
     KalaignarUrai:
@@ -2477,8 +2308,7 @@ const kurral = [
       "The envious soul in life no rich increase of blessing gains,<br />So man of 'due decorum' void no dignity obtains",
     EnglishMeaning:
       'Just as the envious man will be without wealth, so will the man of destitute of propriety of conduct be without greatness',
-    Transliteration:
-      'Azhukkaa Rutaiyaankan  Aakkampondru  Illai<br />Ozhukka  Milaankan  Uyarvu',
+    Transliteration: 'Azhukkaa Rutaiyaankan  Aakkampondru  Illai<br />Ozhukka  Milaankan  Uyarvu',
   },
   {
     Index: 136,
@@ -2495,31 +2325,26 @@ const kurral = [
       "The strong of soul no jot abate of 'strict decorum's' laws,<br />Knowing that 'due decorum's' breach foulest disgrace will cause",
     EnglishMeaning:
       'Those firm in mind will not slacken in their observance of the proprieties of life, knowing, as they do, the misery that flows from the transgression from them',
-    Transliteration:
-      'Ozhukkaththin Olkaar  Uravor  Izhukkaththin<br />Edham  Patupaak  Karindhu',
+    Transliteration: 'Ozhukkaththin Olkaar  Uravor  Izhukkaththin<br />Edham  Patupaak  Karindhu',
   },
   {
     Index: 137,
     Tamil: 'ஒழுக்கத்தி னெய்துவர் மேன்மை இழுக்கத்தின்<br />எய்துவ ரெய்தாப் பழி',
     line1: 'ஒழுக்கத்தி னெய்துவர் மேன்மை இழுக்கத்தின்',
     line2: 'எய்துவ ரெய்தாப் பழி',
-    KalaignarUrai:
-      'நல்ல நடத்தையினால் உயர்வு ஏற்படும்; இல்லையேல் இழிவான பழி வந்து சேரும்',
+    KalaignarUrai: 'நல்ல நடத்தையினால் உயர்வு ஏற்படும்; இல்லையேல் இழிவான பழி வந்து சேரும்',
     MuVaUrai:
       'ஒழுக்கத்தால் எவரும் மேம்பாட்டை அடைவர்; ஒழுக்கத்திலிருந்து தவறுதலால் அடையத் தகாத பெரும் பழியை அடைவர்.',
-    SolomonPaapaiyaUrai:
-      'ஒழுக்கத்தினால் உயர்வை அடைவர்; ஒழுக்கம் இல்லாதவர் வேண்டாத பழியை அடைவர்.',
+    SolomonPaapaiyaUrai: 'ஒழுக்கத்தினால் உயர்வை அடைவர்; ஒழுக்கம் இல்லாதவர் வேண்டாத பழியை அடைவர்.',
     English:
       "'Tis source of dignity when 'true decorum' is preserved;<br />Who break 'decorum's' rules endure e'en censures undeserved",
     EnglishMeaning:
       'From propriety of conduct men obtain greatness; from impropriety comes insufferable disgrace',
-    Transliteration:
-      'Ozhukkaththin Eydhuvar  Menmai  Izhukkaththin<br />Eydhuvar  Eydhaap  Pazhi',
+    Transliteration: 'Ozhukkaththin Eydhuvar  Menmai  Izhukkaththin<br />Eydhuvar  Eydhaap  Pazhi',
   },
   {
     Index: 138,
-    Tamil:
-      'நன்றிக்கு வித்தாகும் நல்லொழுக்கந் தீயொழுக்கம்<br />என்றும் இடும்பை தரும்',
+    Tamil: 'நன்றிக்கு வித்தாகும் நல்லொழுக்கந் தீயொழுக்கம்<br />என்றும் இடும்பை தரும்',
     line1: 'நன்றிக்கு வித்தாகும் நல்லொழுக்கந் தீயொழுக்கம்',
     line2: 'என்றும் இடும்பை தரும்',
     KalaignarUrai:
@@ -2548,10 +2373,8 @@ const kurral = [
       'மறந்தும் தீய சொற்களைத் தம் வாயால் கூறுவது, ஒழுக்கம் உடையவர்க்கு முடியாது.',
     English:
       "It cannot be that they who 'strict decorum's' law fulfil,<br />E'en in forgetful mood, should utter words of ill",
-    EnglishMeaning:
-      'Those who study propriety of conduct will not speak evil, even forgetfully',
-    Transliteration:
-      'Ozhukka Mutaiyavarkku  Ollaave  Theeya<br />Vazhukkiyum  Vaayaar  Solal',
+    EnglishMeaning: 'Those who study propriety of conduct will not speak evil, even forgetfully',
+    Transliteration: 'Ozhukka Mutaiyavarkku  Ollaave  Theeya<br />Vazhukkiyum  Vaayaar  Solal',
   },
   {
     Index: 140,
@@ -2568,13 +2391,11 @@ const kurral = [
       'Who know not with the world in harmony to dwell,<br />May many things have learned, but nothing well',
     EnglishMeaning:
       'Those who know not how to act agreeably to the world, though they have learnt many things, are still ignorant',
-    Transliteration:
-      'Ulakaththotu Otta  Ozhukal  Palakatrum<br />Kallaar  Arivilaa  Thaar',
+    Transliteration: 'Ulakaththotu Otta  Ozhukal  Palakatrum<br />Kallaar  Arivilaa  Thaar',
   },
   {
     Index: 141,
-    Tamil:
-      'பிறன்பொருளான் பெட்டொழுகும் பேதைமை ஞாலத்<br />தறம்பொருள் கண்டார்க ணில்',
+    Tamil: 'பிறன்பொருளான் பெட்டொழுகும் பேதைமை ஞாலத்<br />தறம்பொருள் கண்டார்க ணில்',
     line1: 'பிறன்பொருளான் பெட்டொழுகும் பேதைமை ஞாலத்',
     line2: 'தறம்பொருள் கண்டார்க ணில்',
     KalaignarUrai:
@@ -2605,13 +2426,11 @@ const kurral = [
       "No fools, of all that stand from virtue's pale shut out,<br />Like those who longing lurk their neighbour's gate without",
     EnglishMeaning:
       "Among all those who stand on the outside of virtue, there are no greater fools than those who stand outside their neighbour's door",
-    Transliteration:
-      'Arankatai Nindraarul  Ellaam  Pirankatai<br />Nindraarin  Pedhaiyaar  Il',
+    Transliteration: 'Arankatai Nindraarul  Ellaam  Pirankatai<br />Nindraarin  Pedhaiyaar  Il',
   },
   {
     Index: 143,
-    Tamil:
-      'விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்<br />தீமை புரிந்தொழுகு வார்',
+    Tamil: 'விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்<br />தீமை புரிந்தொழுகு வார்',
     line1: 'விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்',
     line2: 'தீமை புரிந்தொழுகு வார்',
     KalaignarUrai:
@@ -2629,8 +2448,7 @@ const kurral = [
   },
   {
     Index: 144,
-    Tamil:
-      'எனைத்துணைய ராயினும் என்னாந் தினைத்துணையும்<br />தேரான் பிறனில் புகல்',
+    Tamil: 'எனைத்துணைய ராயினும் என்னாந் தினைத்துணையும்<br />தேரான் பிறனில் புகல்',
     line1: 'எனைத்துணைய ராயினும் என்னாந் தினைத்துணையும்',
     line2: 'தேரான் பிறனில் புகல்',
     KalaignarUrai:
@@ -2661,8 +2479,7 @@ const kurral = [
       "'Mere triflel' saying thus, invades the home, so he ensures<br />A gain of guilt that deathless aye endures",
     EnglishMeaning:
       'He who thinks lightly of going into the wife of another acquires guilt that will abide with him imperishably and for ever',
-    Transliteration:
-      'Elidhena Illirappaan  Eydhumenj  Gnaandrum<br />Viliyaadhu  Nirkum  Pazhi',
+    Transliteration: 'Elidhena Illirappaan  Eydhumenj  Gnaandrum<br />Viliyaadhu  Nirkum  Pazhi',
   },
   {
     Index: 146,
@@ -2679,8 +2496,7 @@ const kurral = [
       'Who home ivades, from him pass nevermore,<br />Hatred and sin, fear, foul disgrace; these four',
     EnglishMeaning:
       "Hatred, sin, fear, disgrace; these four will never leave him who goes in to his neighbour's wife",
-    Transliteration:
-      'Pakaipaavam Achcham  Pazhiyena  Naankum<br />Ikavaavaam  Illirappaan  Kan',
+    Transliteration: 'Pakaipaavam Achcham  Pazhiyena  Naankum<br />Ikavaavaam  Illirappaan  Kan',
   },
   {
     Index: 147,
@@ -2697,8 +2513,7 @@ const kurral = [
       "Who sees the wife, another's own, with no desiring eye<br />In sure domestic bliss he dwelleth ever virtuously",
     EnglishMeaning:
       'He who desires not the womanhood of her who should walk according to the will of another will be praised as a virtuous house-holder',
-    Transliteration:
-      'Araniyalaan Ilvaazhvaan  Enpaan  Piraniyalaal<br />Penmai  Nayavaa  Thavan',
+    Transliteration: 'Araniyalaan Ilvaazhvaan  Enpaan  Piraniyalaal<br />Penmai  Nayavaa  Thavan',
   },
   {
     Index: 148,
@@ -2720,8 +2535,7 @@ const kurral = [
   },
   {
     Index: 149,
-    Tamil:
-      'நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்<br />பிறற்குரியாள் தோள்தோயா தார்',
+    Tamil: 'நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்<br />பிறற்குரியாள் தோள்தோயா தார்',
     line1: 'நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்',
     line2: 'பிறற்குரியாள் தோள்தோயா தார்',
     KalaignarUrai:
@@ -2752,8 +2566,7 @@ const kurral = [
       "Though virtue's bounds he pass, and evil deeds hath wrought;<br />At least, 'tis good if neighbour's wife he covet not",
     EnglishMeaning:
       'Though a man perform no virtuous deeds and commit (every) vice, it will be well if he desire not the womanhood of her who is within the limit (of the house) of another',
-    Transliteration:
-      'Aranvaraiyaan Alla  Seyinum  Piranvaraiyaal<br />Penmai  Nayavaamai  Nandru',
+    Transliteration: 'Aranvaraiyaan Alla  Seyinum  Piranvaraiyaal<br />Penmai  Nayavaamai  Nandru',
   },
   {
     Index: 151,
@@ -2784,12 +2597,10 @@ const kurral = [
       'வரம்பு கடந்து பிறர் செய்யும் தீங்கை எப்போதும் பொறுக்க வேண்டும்; அத் தீங்கை நினைவிலும் கொள்ளாமல் மறந்து விடுதல் பொறுத்தலை விட நல்லது.',
     SolomonPaapaiyaUrai:
       'தீமையைத் தண்டிக்க முடியும் என்றபோதும் பொறுத்துக் கொள்க; அந்தத் தீமையை மனத்துள் வைக்காமல் மறந்தே விடுவது பொறுத்தலையும் விட  நல்லது.',
-    English:
-      'Forgiving trespasses is good always;<br />Forgetting them hath even higher praise;',
+    English: 'Forgiving trespasses is good always;<br />Forgetting them hath even higher praise;',
     EnglishMeaning:
       'Bear with reproach even when you can retaliate; but to forget it will be still better than that',
-    Transliteration:
-      'Poruththal Irappinai  Endrum  Adhanai<br />Maraththal  Adhaninum  Nandru',
+    Transliteration: 'Poruththal Irappinai  Endrum  Adhanai<br />Maraththal  Adhaninum  Nandru',
   },
   {
     Index: 153,
@@ -2806,16 +2617,14 @@ const kurral = [
       'The sorest poverty is bidding guest unfed depart;<br />The mightiest might to bear with men of foolish heart',
     EnglishMeaning:
       'To neglect hospitality is poverty of poverty To bear with the ignorant is might of might',
-    Transliteration:
-      'Inmaiyul Inmai  Virundhoraal  Vanmaiyul<br />Vanmai  Matavaarp  Porai',
+    Transliteration: 'Inmaiyul Inmai  Virundhoraal  Vanmaiyul<br />Vanmai  Matavaarp  Porai',
   },
   {
     Index: 154,
     Tamil: 'நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை<br />போற்றி யொழுகப் படும்',
     line1: 'நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை',
     line2: 'போற்றி யொழுகப் படும்',
-    KalaignarUrai:
-      'பொறுமையின் உறைவிடமாக இருப்பவரைத்தான் நிறைவான மனிதர் என்று உலகம் புகழும்',
+    KalaignarUrai: 'பொறுமையின் உறைவிடமாக இருப்பவரைத்தான் நிறைவான மனிதர் என்று உலகம் புகழும்',
     MuVaUrai:
       'நிறை உடையவனாக இருக்கும் தன்மை தன்னை விட்டு நீங்காமல் இருக்க வேண்டினால், பொறுமையைப் போற்றி ஒழுக வேண்டும்.',
     SolomonPaapaiyaUrai:
@@ -2824,13 +2633,11 @@ const kurral = [
       "Seek'st thou honour never tarnished to retain;<br />So must thou patience, guarding evermore, maintain",
     EnglishMeaning:
       'If you desire that greatness should never leave, you preserve in your conduct the exercise of patience',
-    Transliteration:
-      'Niraiyutaimai Neengaamai  Ventin  Poraiyutaimai<br />Potri  Yozhukap  Patum',
+    Transliteration: 'Niraiyutaimai Neengaamai  Ventin  Poraiyutaimai<br />Potri  Yozhukap  Patum',
   },
   {
     Index: 155,
-    Tamil:
-      'ஒறுத்தாரை யொன்றாக வையாரே வைப்பர்<br />பொறுத்தாரைப் பொன்போற் பொதிந்து',
+    Tamil: 'ஒறுத்தாரை யொன்றாக வையாரே வைப்பர்<br />பொறுத்தாரைப் பொன்போற் பொதிந்து',
     line1: 'ஒறுத்தாரை யொன்றாக வையாரே வைப்பர்',
     line2: 'பொறுத்தாரைப் பொன்போற் பொதிந்து',
     KalaignarUrai:
@@ -2848,8 +2655,7 @@ const kurral = [
   },
   {
     Index: 156,
-    Tamil:
-      'ஒறுத்தார்க் கொருநாளை இன்பம் பொறுத்தார்க்குப்<br />பொன்றுந் துணையும் புகழ்',
+    Tamil: 'ஒறுத்தார்க் கொருநாளை இன்பம் பொறுத்தார்க்குப்<br />பொன்றுந் துணையும் புகழ்',
     line1: 'ஒறுத்தார்க் கொருநாளை இன்பம் பொறுத்தார்க்குப்',
     line2: 'பொன்றுந் துணையும் புகழ்',
     KalaignarUrai:
@@ -2880,31 +2686,26 @@ const kurral = [
       'Though others work thee ill, thus shalt thou blessing reap;<br />Grieve for their sin, thyself from vicious action keep',
     EnglishMeaning:
       'Though others inflict injuries on you, yet compassionating the evil (that will come upon them) it will be well not to do them anything contrary to virtue',
-    Transliteration:
-      'Thiranalla Tharpirar  Seyyinum  Nonondhu<br />Aranalla  Seyyaamai  Nandru',
+    Transliteration: 'Thiranalla Tharpirar  Seyyinum  Nonondhu<br />Aranalla  Seyyaamai  Nandru',
   },
   {
     Index: 158,
     Tamil: 'மிகுதியான் மிக்கவை செய்தாரைத் தாந்தந்<br />தகுதியான் வென்று விடல்',
     line1: 'மிகுதியான் மிக்கவை செய்தாரைத் தாந்தந்',
     line2: 'தகுதியான் வென்று விடல்',
-    KalaignarUrai:
-      'ஆணவங் கொண்டு அநீதி விளைவிப்பவர்களை, நாம் நம் பொறுமைக் குணத்தால் வென்று விடலாம்',
+    KalaignarUrai: 'ஆணவங் கொண்டு அநீதி விளைவிப்பவர்களை, நாம் நம் பொறுமைக் குணத்தால் வென்று விடலாம்',
     MuVaUrai:
       'செருக்கினால் தீங்கானவற்றைச் செய்தவரைத் தாம் தம்முடைய பொறுமைப் பண்பினால் பொறுத்து வென்று விட வேண்டும்.',
-    SolomonPaapaiyaUrai:
-      'மனச் செருக்கால் தீமை செய்தவரைப் பொறுமையால் வென்றுவிடுக.',
+    SolomonPaapaiyaUrai: 'மனச் செருக்கால் தீமை செய்தவரைப் பொறுமையால் வென்றுவிடுக.',
     English:
       'With overweening pride when men with injuries assail,<br />By thine own righteous dealing shalt thou mightily prevail',
-    EnglishMeaning:
-      'Let a man by patience overcome those who through pride commit excesses',
+    EnglishMeaning: 'Let a man by patience overcome those who through pride commit excesses',
     Transliteration:
       'Mikudhiyaan Mikkavai  Seydhaaraith  Thaandham<br />Thakudhiyaan  Vendru  Vital',
   },
   {
     Index: 159,
-    Tamil:
-      'துறந்தாரின் தூய்மை யுடையர் இறந்தார்வாய்<br />இன்னாச்சொல் நோற்கிற் பவர்',
+    Tamil: 'துறந்தாரின் தூய்மை யுடையர் இறந்தார்வாய்<br />இன்னாச்சொல் நோற்கிற் பவர்',
     line1: 'துறந்தாரின் தூய்மை யுடையர் இறந்தார்வாய்',
     line2: 'இன்னாச்சொல் நோற்கிற் பவர்',
     KalaignarUrai:
@@ -2922,8 +2723,7 @@ const kurral = [
   },
   {
     Index: 160,
-    Tamil:
-      'உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்<br />இன்னாச்சொ னோற்பாரிற் பின்',
+    Tamil: 'உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்<br />இன்னாச்சொ னோற்பாரிற் பின்',
     line1: 'உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்',
     line2: 'இன்னாச்சொ னோற்பாரிற் பின்',
     KalaignarUrai:
@@ -2936,8 +2736,7 @@ const kurral = [
       "Though 'great' we deem the men that fast and suffer pain,<br />Who others' bitter words endure, the foremost place obtain",
     EnglishMeaning:
       'Those who endure abstinence from food are great, next to those who endure the uncourteous speech of others',
-    Transliteration:
-      'Unnaadhu Norpaar  Periyar  Pirarsollum<br />Innaachchol  Norpaarin  Pin',
+    Transliteration: 'Unnaadhu Norpaar  Periyar  Pirarsollum<br />Innaachchol  Norpaarin  Pin',
   },
   {
     Index: 161,
@@ -2954,13 +2753,11 @@ const kurral = [
       "As 'strict decorum's' laws, that all men bind,<br />Let each regard unenvying grace of mind",
     EnglishMeaning:
       'Let a man esteem that disposition which is free from envy in the same manner as propriety of conduct',
-    Transliteration:
-      'Ozhukkaaraak Kolka  Oruvandhan  Nenjaththu<br />Azhukkaaru  Ilaadha  Iyalpu',
+    Transliteration: 'Ozhukkaaraak Kolka  Oruvandhan  Nenjaththu<br />Azhukkaaru  Ilaadha  Iyalpu',
   },
   {
     Index: 162,
-    Tamil:
-      'விழுப்பேற்றின் அஃதொப்ப தில்லையார் மாட்டும்<br />அழுக்காற்றின் அன்மை பெறின்',
+    Tamil: 'விழுப்பேற்றின் அஃதொப்ப தில்லையார் மாட்டும்<br />அழுக்காற்றின் அன்மை பெறின்',
     line1: 'விழுப்பேற்றின் அஃதொப்ப தில்லையார் மாட்டும்',
     line2: 'அழுக்காற்றின் அன்மை பெறின்',
     KalaignarUrai:
@@ -2973,8 +2770,7 @@ const kurral = [
       "If man can learn to envy none on earth,<br />'Tis richest gift, -beyond compare its worth",
     EnglishMeaning:
       'Amongst all attainable excellences there is none equal to that of being free from envy towords others',
-    Transliteration:
-      'Vizhuppetrin Aqdhoppadhu  Illaiyaar  Maattum<br />Azhukkaatrin  Anmai  Perin',
+    Transliteration: 'Vizhuppetrin Aqdhoppadhu  Illaiyaar  Maattum<br />Azhukkaatrin  Anmai  Perin',
   },
   {
     Index: 163,
@@ -2991,13 +2787,11 @@ const kurral = [
       "Nor wealth nor virtue does that man desire 'tis plain,<br />Whom others' wealth delights not, feeling envious pain",
     EnglishMeaning:
       "Of him who instead of rejoicing in the wealth of others, envies it, it will be said 'he neither desires virtue not wealth.'",
-    Transliteration:
-      'Aranaakkam Ventaadhaan  Enpaan  Piranaakkam<br />Penaadhu  Azhukkarup  Paan',
+    Transliteration: 'Aranaakkam Ventaadhaan  Enpaan  Piranaakkam<br />Penaadhu  Azhukkarup  Paan',
   },
   {
     Index: 164,
-    Tamil:
-      'அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்<br />ஏதம் படுபாக் கறிந்து',
+    Tamil: 'அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்<br />ஏதம் படுபாக் கறிந்து',
     line1: 'அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்',
     line2: 'ஏதம் படுபாக் கறிந்து',
     KalaignarUrai:
@@ -3010,8 +2804,7 @@ const kurral = [
       "The wise through envy break not virtue's laws,<br />Knowing ill-deeds of foul disgrace the cause",
     EnglishMeaning:
       '(The wise) knowing the misery that comes from transgression will not through envy commit unrighteous deeds',
-    Transliteration:
-      'Azhukkaatrin Allavai  Seyyaar  Izhukkaatrin<br />Edham  Patupaakku  Arindhu',
+    Transliteration: 'Azhukkaatrin Allavai  Seyyaar  Izhukkaatrin<br />Edham  Patupaakku  Arindhu',
   },
   {
     Index: 165,
@@ -3022,19 +2815,16 @@ const kurral = [
       'பொறாமைக் குணம் கொண்டவர்களுக்கு அவர்களை வீழ்த்த வேறு பகையே வேண்டா அந்தக் குணமே அவர்களை வீழ்த்தி விடும்',
     MuVaUrai:
       'பொறாமை உடை‌யவர்க்கு வேறு பகை வேண்டா. அஃது ஒன்றே போதும், பகைவர் தீங்கு செய்யத் தவறினாலும் தவறாது கேட்டைத் தருவது அது.',
-    SolomonPaapaiyaUrai:
-      'பொறாமை உடையவர்க்குத் தீமை தரப் பகைவர் வேண்டியதில்லை; பொறாமையே போதும்',
+    SolomonPaapaiyaUrai: 'பொறாமை உடையவர்க்குத் தீமை தரப் பகைவர் வேண்டியதில்லை; பொறாமையே போதும்',
     English:
       'Envy they have within! Enough to seat their fate!<br />Though foemen fail, envy can ruin consummate',
     EnglishMeaning:
       'To those who cherish envy that is enough Though free from enemies that (envy) will bring destruction',
-    Transliteration:
-      'Azhukkaaru Utaiyaarkku  Adhusaalum  Onnaar<br />Vazhukka�yum  Keteen  Padhu',
+    Transliteration: 'Azhukkaaru Utaiyaarkku  Adhusaalum  Onnaar<br />Vazhukka�yum  Keteen  Padhu',
   },
   {
     Index: 166,
-    Tamil:
-      'கொடுப்ப தழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்<br />உண்பதூஉ மின்றிக் கெடும்',
+    Tamil: 'கொடுப்ப தழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்<br />உண்பதூஉ மின்றிக் கெடும்',
     line1: 'கொடுப்ப தழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்',
     line2: 'உண்பதூஉ மின்றிக் கெடும்',
     KalaignarUrai:
@@ -3083,8 +2873,7 @@ const kurral = [
       'Envy, embodied ill, incomparable bane,<br />Good fortune slays, and soul consigns to fiery pain',
     EnglishMeaning:
       "Envy will destroy (a man's) wealth (in his world) and drive him into the pit of fire (in the world to come.)",
-    Transliteration:
-      'Azhukkaaru Enaoru  Paavi  Thiruchchetruth<br />Theeyuzhi  Uyththu  Vitum',
+    Transliteration: 'Azhukkaaru Enaoru  Paavi  Thiruchchetruth<br />Theeyuzhi  Uyththu  Vitum',
   },
   {
     Index: 169,
@@ -3101,21 +2890,18 @@ const kurral = [
       "To men of envious heart, when comes increase of joy,<br />Or loss to blameless men, the 'why' will thoughtful hearts employ",
     EnglishMeaning:
       'The wealth of a man of envious mind and the poverty of the righteous will be pondered',
-    Transliteration:
-      'Avviya Nenjaththaan  Aakkamum  Sevviyaan<br />Ketum  Ninaikkap  Patum',
+    Transliteration: 'Avviya Nenjaththaan  Aakkamum  Sevviyaan<br />Ketum  Ninaikkap  Patum',
   },
   {
     Index: 170,
-    Tamil:
-      'அழுக்கற் றகன்றாரும் இல்லையஃ தில்லார்<br />பெருக்கத்தில் தீர்ந்தாரு மில்',
+    Tamil: 'அழுக்கற் றகன்றாரும் இல்லையஃ தில்லார்<br />பெருக்கத்தில் தீர்ந்தாரு மில்',
     line1: 'அழுக்கற் றகன்றாரும் இல்லையஃ தில்லார்',
     line2: 'பெருக்கத்தில் தீர்ந்தாரு மில்',
     KalaignarUrai:
       'பொறாமை கொண்டதால் புகழ் பெற்று உயர்ந்தோரும் இல்லை; பொறாமை இல்லாத காரணத்தால் புகழ் மங்கி வீழ்ந்தோரும் இல்லை',
     MuVaUrai:
       'பொறாமைப்பட்டுப் பெருமையுற்றவரும் உலகத்தில் இல்லை; பொறாமை இல்லாதவராய் மேம்பாட்டிலிருந்து நீங்கியவரும் இல்லை.',
-    SolomonPaapaiyaUrai:
-      'பொறாமை  கொண்டு உயர்ந்தவரும் இல்லை. அது இல்லாதபோது தாழ்ந்தவரும் இல்லை',
+    SolomonPaapaiyaUrai: 'பொறாமை  கொண்டு உயர்ந்தவரும் இல்லை. அது இல்லாதபோது தாழ்ந்தவரும் இல்லை',
     English:
       'No envious men to large and full felicity attain;<br />No men from envy free have failed a sure increase to gain',
     EnglishMeaning:
@@ -3125,8 +2911,7 @@ const kurral = [
   },
   {
     Index: 171,
-    Tamil:
-      'நடுவின்றி நன்பொருள் வெஃகிற் குடிபொன்றிக்<br />குற்றமும் ஆங்கே தரும்',
+    Tamil: 'நடுவின்றி நன்பொருள் வெஃகிற் குடிபொன்றிக்<br />குற்றமும் ஆங்கே தரும்',
     line1: 'நடுவின்றி நன்பொருள் வெஃகிற் குடிபொன்றிக்',
     line2: 'குற்றமும் ஆங்கே தரும்',
     KalaignarUrai:
@@ -3139,8 +2924,7 @@ const kurral = [
       "With soul unjust to covet others' well-earned store,<br />Brings ruin to the home, to evil opes the door",
     EnglishMeaning:
       'If a man departing from equity covet the property (of others), at that very time will his family be destroyed and guilt be incurred',
-    Transliteration:
-      'Natuvindri Nanporul  Veqkin  Kutipondrik<br />Kutramum  Aange  Tharum',
+    Transliteration: 'Natuvindri Nanporul  Veqkin  Kutipondrik<br />Kutramum  Aange  Tharum',
   },
   {
     Index: 172,
@@ -3157,8 +2941,7 @@ const kurral = [
       'Through lust of gain, no deeds that retribution bring,<br />Do they, who shrink with shame from every unjust thing',
     EnglishMeaning:
       'Those who blush at the want of equity will not commit disgraceful acts through desire of the profit that may be gained',
-    Transliteration:
-      'Patupayan Veqkip  Pazhippatuva  Seyyaar<br />Natuvanmai  Naanu  Pavar',
+    Transliteration: 'Patupayan Veqkip  Pazhippatuva  Seyyaar<br />Natuvanmai  Naanu  Pavar',
   },
   {
     Index: 173,
@@ -3175,8 +2958,7 @@ const kurral = [
       'No deeds of ill, misled by base desire,<br />Do they, whose souls to other joys aspire',
     EnglishMeaning:
       'Those who desire the higher pleasures (of heaven) will not act unjustly through desire of the trifling joy. (in this life.)',
-    Transliteration:
-      'Sitrinpam Veqki  Aranalla  Seyyaare<br />Matrinpam  Ventu  Pavar',
+    Transliteration: 'Sitrinpam Veqki  Aranalla  Seyyaare<br />Matrinpam  Ventu  Pavar',
   },
   {
     Index: 174,
@@ -3193,8 +2975,7 @@ const kurral = [
       "Men who have conquered sense, with sight from sordid vision freed,<br />Desire not other's goods, e'en in the hour of sorest need",
     EnglishMeaning:
       "The wise who have conquered their senses and are free from crime, will not covet (the things of others), with the thought 'we are destitute.'",
-    Transliteration:
-      'Ilamendru Veqkudhal  Seyyaar  Pulamvendra<br />Punmaiyil  Kaatchi  Yavar',
+    Transliteration: 'Ilamendru Veqkudhal  Seyyaar  Pulamvendra<br />Punmaiyil  Kaatchi  Yavar',
   },
   {
     Index: 175,
@@ -3211,13 +2992,11 @@ const kurral = [
       'What gain, though lore refined of amplest reach he learn,<br />His acts towards all mankind if covetous desire to folly turn',
     EnglishMeaning:
       'What is the advantage of extensive and accurate knowledge if a man through covetousness act senselessly towards all ?',
-    Transliteration:
-      'Aqki Akandra  Arivennaam  Yaarmaattum<br />Veqki  Veriya  Seyin',
+    Transliteration: 'Aqki Akandra  Arivennaam  Yaarmaattum<br />Veqki  Veriya  Seyin',
   },
   {
     Index: 176,
-    Tamil:
-      'அருள்வெஃகி யாற்றின்கண் நின்றான் பொருள்வெஃகிப்<br />பொல்லாத சூழக் கெடும்',
+    Tamil: 'அருள்வெஃகி யாற்றின்கண் நின்றான் பொருள்வெஃகிப்<br />பொல்லாத சூழக் கெடும்',
     line1: 'அருள்வெஃகி யாற்றின்கண் நின்றான் பொருள்வெஃகிப்',
     line2: 'பொல்லாத சூழக் கெடும்',
     KalaignarUrai:
@@ -3230,8 +3009,7 @@ const kurral = [
       "Though, grace desiring, he in virtue's way stand strong,<br />He's lost who wealth desires, and ponders deeds of wrong",
     EnglishMeaning:
       'If he, who through desire of the virtue of kindness abides in the domestic state ie, the path in which it may be obtained, covet (the property of others) and think of evil methods (to obtain it), he will perish',
-    Transliteration:
-      'Arulveqki Aatrinkan  Nindraan  Porulveqkip<br />Pollaadha  Soozhak  Ketum',
+    Transliteration: 'Arulveqki Aatrinkan  Nindraan  Porulveqkip<br />Pollaadha  Soozhak  Ketum',
   },
   {
     Index: 177,
@@ -3248,13 +3026,11 @@ const kurral = [
       'Seek not increase by greed of gain acquired;<br />That fruit matured yields never good desired',
     EnglishMeaning:
       'Desire not the gain of covetousness In the enjoyment of its fruits there is no glory',
-    Transliteration:
-      'Ventarka Veqkiyaam  Aakkam  Vilaivayin<br />Maantar  Karidhaam  Payan',
+    Transliteration: 'Ventarka Veqkiyaam  Aakkam  Vilaivayin<br />Maantar  Karidhaam  Payan',
   },
   {
     Index: 178,
-    Tamil:
-      'அஃகாமை செல்வத்திற் கியாதெனின் வெஃகாமை <br />வேண்டும் பிறன்கைப் பொருள்',
+    Tamil: 'அஃகாமை செல்வத்திற் கியாதெனின் வெஃகாமை <br />வேண்டும் பிறன்கைப் பொருள்',
     line1: 'அஃகாமை செல்வத்திற் கியாதெனின் வெஃகாமை ',
     line2: 'வேண்டும் பிறன்கைப் பொருள்',
     KalaignarUrai:
@@ -3267,8 +3043,7 @@ const kurral = [
       "What saves prosperity from swift decline?<br />Absence of lust to make another's cherished riches thine",
     EnglishMeaning:
       "If it is weighed, 'what is the indestructibility of wealth,' it is freedom from covetousness",
-    Transliteration:
-      'Aqkaamai Selvaththirku  Yaadhenin  Veqkaamai<br />Ventum  Pirankaip  Porul',
+    Transliteration: 'Aqkaamai Selvaththirku  Yaadhenin  Veqkaamai<br />Ventum  Pirankaip  Porul',
   },
   {
     Index: 179,
@@ -3285,8 +3060,7 @@ const kurral = [
       'Good fortune draws anigh in helpful time of need,<br />To him who, schooled in virtue, guards his soul from greed',
     EnglishMeaning:
       'Lakshmi, knowing the manner (in which she may approach) will immediately come to those wise men who, knowing that it is virtue, covet not the property of others',
-    Transliteration:
-      'Aranarindhu Veqkaa  Arivutaiyaarch  Cherum<br />Thiranarin  Thaange  Thiru',
+    Transliteration: 'Aranarindhu Veqkaa  Arivutaiyaarch  Cherum<br />Thiranarin  Thaange  Thiru',
   },
   {
     Index: 180,
@@ -3303,8 +3077,7 @@ const kurral = [
       "From thoughtless lust of other's goods springs fatal ill,<br />Greatness of soul that covets not shall triumph still",
     EnglishMeaning:
       'To covet (the wealth of another) regardless of consequences will bring destruction That greatness (of mind) which covets not will give victory',
-    Transliteration:
-      'Iraleenum Ennaadhu  Veqkin  Viraleenum<br />Ventaamai  Ennunj  Cherukku',
+    Transliteration: 'Iraleenum Ennaadhu  Veqkin  Viraleenum<br />Ventaamai  Ennunj  Cherukku',
   },
   {
     Index: 181,
@@ -3321,8 +3094,7 @@ const kurral = [
       "Though virtuous words his lips speak not, and all his deeds are ill<br />If neighbour he defame not, there's good within him still",
     EnglishMeaning:
       "Though one do not even speak of virtue and live in sin, it will be well if it be said of him 'he does not backbite.'",
-    Transliteration:
-      'Arangooraan Alla  Seyinum  Oruvan<br />Purangooraan  Endral  Inidhu',
+    Transliteration: 'Arangooraan Alla  Seyinum  Oruvan<br />Purangooraan  Endral  Inidhu',
   },
   {
     Index: 182,
@@ -3339,13 +3111,11 @@ const kurral = [
       'Than he who virtue scorns, and evil deeds performs, more vile,<br />Is he that slanders friend, then meets him with false smile',
     EnglishMeaning:
       "To smile deceitfully (in another's presence) after having reviled him to his destruction (behind his back) is a greater evil than the commission of (every other) sin and the destruction of (every) virtue",
-    Transliteration:
-      'Aranazheei Allavai  Seydhalin  Theedhe<br />Puranazheeip  Poiththu  Nakai',
+    Transliteration: 'Aranazheei Allavai  Seydhalin  Theedhe<br />Puranazheeip  Poiththu  Nakai',
   },
   {
     Index: 183,
-    Tamil:
-      'புறங்கூறிப் பொய்த்துயிர் வாழ்தலிற் சாதல்<br />அறங்கூறும் ஆக்கந் தரும்',
+    Tamil: 'புறங்கூறிப் பொய்த்துயிர் வாழ்தலிற் சாதல்<br />அறங்கூறும் ஆக்கந் தரும்',
     line1: 'புறங்கூறிப் பொய்த்துயிர் வாழ்தலிற் சாதல்',
     line2: 'அறங்கூறும் ஆக்கந் தரும்',
     KalaignarUrai:
@@ -3363,8 +3133,7 @@ const kurral = [
   },
   {
     Index: 184,
-    Tamil:
-      'கண்ணின்று கண்ணறச் சொல்லினுஞ் சொல்லற்க<br />முன்னின்று பின்னோக்காச் சொல்',
+    Tamil: 'கண்ணின்று கண்ணறச் சொல்லினுஞ் சொல்லற்க<br />முன்னின்று பின்னோக்காச் சொல்',
     line1: 'கண்ணின்று கண்ணறச் சொல்லினுஞ் சொல்லற்க',
     line2: 'முன்னின்று பின்னோக்காச் சொல்',
     KalaignarUrai:
@@ -3377,13 +3146,11 @@ const kurral = [
       'In presence though unkindly words you speak, say not<br />In absence words whose ill result exceeds your thought',
     EnglishMeaning:
       "Though you speak without kindness before another's face speak not in his absence words which regard not the evil subsequently resulting from it",
-    Transliteration:
-      'Kannindru Kannarach  Chollinum  Sollarka<br />Munnindru  Pinnokkaach  Chol',
+    Transliteration: 'Kannindru Kannarach  Chollinum  Sollarka<br />Munnindru  Pinnokkaach  Chol',
   },
   {
     Index: 185,
-    Tamil:
-      'அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்<br />புன்மையாற் காணப் படும்',
+    Tamil: 'அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்<br />புன்மையாற் காணப் படும்',
     line1: 'அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்',
     line2: 'புன்மையாற் காணப் படும்',
     KalaignarUrai:
@@ -3396,8 +3163,7 @@ const kurral = [
       "The slanderous meanness that an absent friend defames,<br />'This man in words owns virtue, not in heart,' proclaims",
     EnglishMeaning:
       "The emptiness of that man's mind who (merely) praises virtue will be seen from the meanness of reviling another behind his back",
-    Transliteration:
-      'Aranjollum Nenjaththaan  Anmai  Puranjollum<br />Punmaiyaar  Kaanap  Patum',
+    Transliteration: 'Aranjollum Nenjaththaan  Anmai  Puranjollum<br />Punmaiyaar  Kaanap  Patum',
   },
   {
     Index: 186,
@@ -3414,13 +3180,11 @@ const kurral = [
       "Who on his neighbours' sins delights to dwell,<br />The story of his sins, culled out with care, the world will tell",
     EnglishMeaning:
       'The character of the faults of that man who publishes abroad the faults of others will be sought out and published',
-    Transliteration:
-      'Piranpazhi Kooruvaan  Thanpazhi  Yullum<br />Thirandherindhu  Koorap  Patum',
+    Transliteration: 'Piranpazhi Kooruvaan  Thanpazhi  Yullum<br />Thirandherindhu  Koorap  Patum',
   },
   {
     Index: 187,
-    Tamil:
-      'பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி<br />நட்பாடல் தேற்றா தவர்',
+    Tamil: 'பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி<br />நட்பாடல் தேற்றா தவர்',
     line1: 'பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி',
     line2: 'நட்பாடல் தேற்றா தவர்',
     KalaignarUrai:
@@ -3433,13 +3197,11 @@ const kurral = [
       'With friendly art who know not pleasant words to say,<br />Speak words that sever hearts, and drive choice friends away',
     EnglishMeaning:
       'Those who know not to live in friendship with amusing conversation will by back-biting estrange even their relatives',
-    Transliteration:
-      'Pakachchollik Kelirp  Pirippar  Nakachcholli<br />Natpaatal  Thetraa  Thavar',
+    Transliteration: 'Pakachchollik Kelirp  Pirippar  Nakachcholli<br />Natpaatal  Thetraa  Thavar',
   },
   {
     Index: 188,
-    Tamil:
-      'துன்னியார் குற்றமுந் தூற்றும் மரபினர்<br />என்னைகொல் ஏதிலார் மாட்டு',
+    Tamil: 'துன்னியார் குற்றமுந் தூற்றும் மரபினர்<br />என்னைகொல் ஏதிலார் மாட்டு',
     line1: 'துன்னியார் குற்றமுந் தூற்றும் மரபினர்',
     line2: 'என்னைகொல் ஏதிலார் மாட்டு',
     KalaignarUrai:
@@ -3452,13 +3214,11 @@ const kurral = [
       "Whose nature bids them faults of closest friends proclaim<br />What mercy will they show to other men's good name",
     EnglishMeaning:
       'What will those not do to strangers whose nature leads them to publish abroad the faults of their intimate friends ?',
-    Transliteration:
-      'Thunniyaar Kutramum  Thootrum  Marapinaar<br />Ennaikol  Edhilaar  Maattu',
+    Transliteration: 'Thunniyaar Kutramum  Thootrum  Marapinaar<br />Ennaikol  Edhilaar  Maattu',
   },
   {
     Index: 189,
-    Tamil:
-      'அறனோக்கி யாற்றுங்கொல் வையம் புறனோக்கிப்<br />புன்சொ லுரைப்பான் பொறை',
+    Tamil: 'அறனோக்கி யாற்றுங்கொல் வையம் புறனோக்கிப்<br />புன்சொ லுரைப்பான் பொறை',
     line1: 'அறனோக்கி யாற்றுங்கொல் வையம் புறனோக்கிப்',
     line2: 'புன்சொ லுரைப்பான் பொறை',
     KalaignarUrai:
@@ -3471,13 +3231,11 @@ const kurral = [
       "'Tis charity, I ween, that makes the earth sustain their load<br />Who, neighbours' absence watching, tales or slander tell abroad",
     EnglishMeaning:
       'The world through charity supports the weight of those who reproach others observing their absence',
-    Transliteration:
-      'Arannokki Aatrungol  Vaiyam  Purannokkip<br />Punsol  Uraippaan  Porai',
+    Transliteration: 'Arannokki Aatrungol  Vaiyam  Purannokkip<br />Punsol  Uraippaan  Porai',
   },
   {
     Index: 190,
-    Tamil:
-      'ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்<br />தீதுண்டோ மன்னு முயிர்க்கு',
+    Tamil: 'ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்<br />தீதுண்டோ மன்னு முயிர்க்கு',
     line1: 'ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்',
     line2: 'தீதுண்டோ மன்னு முயிர்க்கு',
     KalaignarUrai:
@@ -3490,8 +3248,7 @@ const kurral = [
       "If each his own, as neighbours' faults would scan,<br />Could any evil hap to living man",
     EnglishMeaning:
       'If they observed their own faults as they observe the faults of others, would any evil happen to men ?',
-    Transliteration:
-      'Edhilaar Kutrampol  Thangutrang  Kaankirpin<br />Theedhunto  Mannum  Uyirkku',
+    Transliteration: 'Edhilaar Kutrampol  Thangutrang  Kaankirpin<br />Theedhunto  Mannum  Uyirkku',
   },
   {
     Index: 191,
@@ -3504,12 +3261,9 @@ const kurral = [
       'கேட்டவர் பலரும் வெறுக்கும் படியாகப் பயனில்லாத சொற்களைச் சொல்லுகின்றவன், எல்லாராலும் இகழப்படுவான்',
     SolomonPaapaiyaUrai:
       'பலரும் கேட்டு வெறுக்கப், பயனற்ற சொற்களைச் சொல்லுபவன் எல்லாராலும் இகழப்படுவான்.',
-    English:
-      'Words without sense, while chafe the wise,<br />Who babbles, him will all despise',
-    EnglishMeaning:
-      'He who to the disgust of many speaks useless things will be despised by all',
-    Transliteration:
-      'Pallaar Muniyap  Payanila  Solluvaan<br />Ellaarum  Ellap  Patum',
+    English: 'Words without sense, while chafe the wise,<br />Who babbles, him will all despise',
+    EnglishMeaning: 'He who to the disgust of many speaks useless things will be despised by all',
+    Transliteration: 'Pallaar Muniyap  Payanila  Solluvaan<br />Ellaarum  Ellap  Patum',
   },
   {
     Index: 192,
@@ -3526,8 +3280,7 @@ const kurral = [
       'Words without sense, where many wise men hear, to pour<br />Than deeds to friends ungracious done offendeth more',
     EnglishMeaning:
       'To speak useless things in the presence of many is a greater evil than to do unkind things towards friends',
-    Transliteration:
-      'Payanila Pallaarmun  Sollal  Nayanila<br />Nattaarkan  Seydhalir  Reedhu',
+    Transliteration: 'Payanila Pallaarmun  Sollal  Nayanila<br />Nattaarkan  Seydhalir  Reedhu',
   },
   {
     Index: 193,
@@ -3544,13 +3297,11 @@ const kurral = [
       'Diffusive speech of useless words proclaims<br />A man who never righteous wisdom gains',
     EnglishMeaning:
       "That conversation in which a man utters forth useless things will say of him 'he is without virtue.'",
-    Transliteration:
-      'Nayanilan Enpadhu  Sollum  Payanila<br />Paarith  Thuraikkum  Urai',
+    Transliteration: 'Nayanilan Enpadhu  Sollum  Payanila<br />Paarith  Thuraikkum  Urai',
   },
   {
     Index: 194,
-    Tamil:
-      'நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்<br />பண்பில்சொல் பல்லா ரகத்து',
+    Tamil: 'நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்<br />பண்பில்சொல் பல்லா ரகத்து',
     line1: 'நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்',
     line2: 'பண்பில்சொல் பல்லா ரகத்து',
     KalaignarUrai:
@@ -3579,10 +3330,8 @@ const kurral = [
       'இனிய குணத்தவர் பயனற்ற சொற்களைச் சொன்னால், அவர் பெருமையும், புகழும் அப்பொழுதே நீங்கிவிடும்.',
     English:
       'Gone are both fame and boasted excellence,<br />When men of worth speak of words devoid of sense',
-    EnglishMeaning:
-      'If the good speak vain words their eminence and excellence will leave them',
-    Transliteration:
-      'Seermai Sirappotu  Neengum  Payanila<br />Neermai  Yutaiyaar  Solin',
+    EnglishMeaning: 'If the good speak vain words their eminence and excellence will leave them',
+    Transliteration: 'Seermai Sirappotu  Neengum  Payanila<br />Neermai  Yutaiyaar  Solin',
   },
   {
     Index: 196,
@@ -3595,12 +3344,10 @@ const kurral = [
       'பயனில்லாத சொற்களைப் பலமுறையும் சொல்லுகின்ற ஒருவனை மனிதன் என்று சொல்லக்கூடாது, மக்களுள் பதர் என்று சொல்லவேண்டும்.',
     SolomonPaapaiyaUrai:
       'பயனற்ற சொற்களையே பலகாலமும் சொல்பவனை மனிதன் என வேண்டா; மனிதருள் பதர் என்றே சொல்லுங்கள்.\\r\\n',
-    English:
-      "Who makes display of idle words' inanity,<br />Call him not man, -chaff of humanity",
+    English: "Who makes display of idle words' inanity,<br />Call him not man, -chaff of humanity",
     EnglishMeaning:
       'Call not him a man who parades forth his empty words Call him the chaff of men',
-    Transliteration:
-      'Payanil Sol  Paaraattu  Vaanai  Makanenal<br />Makkat  Padhati  Yenal',
+    Transliteration: 'Payanil Sol  Paaraattu  Vaanai  Makanenal<br />Makkat  Padhati  Yenal',
   },
   {
     Index: 197,
@@ -3617,8 +3364,7 @@ const kurral = [
       "Let those who list speak things that no delight afford,<br />'Tis good for men of worth to speak no idle word",
     EnglishMeaning:
       'Let the wise if they will, speak things without excellence; it will be well for them not to speak useless things',
-    Transliteration:
-      'Nayanila Sollinunj  Cholluka  Saandror<br />Payanila  Sollaamai  Nandru',
+    Transliteration: 'Nayanila Sollinunj  Cholluka  Saandror<br />Payanila  Sollaamai  Nandru',
   },
   {
     Index: 198,
@@ -3629,27 +3375,23 @@ const kurral = [
       'அரும்பயன்களை ஆராய்ந்து அறியக்கூடிய ஆற்றல் படைத்தவர், பெரும்பயன் விளைவிக்காத எந்தச் சொல்லையும் பயன்படுத்த மாட்டார்',
     MuVaUrai:
       'அருமையான பயன்களை ஆராயவல்ல அறிவை உடைய அறிஞர், மிக்க பயன் இல்லாத சொற்களை ஒருபோதும் சொல்லமாட்டார்',
-    SolomonPaapaiyaUrai:
-      'அரிய பயன்களை ஆராயும் அறிவுடையோர், பெரும்பயன் இல்லாத சொற்களைச் சொல்வார்.',
+    SolomonPaapaiyaUrai: 'அரிய பயன்களை ஆராயும் அறிவுடையோர், பெரும்பயன் இல்லாத சொற்களைச் சொல்வார்.',
     English:
       'The wise who weigh the worth of every utterance,<br />Speak none but words of deep significance',
     EnglishMeaning:
       'The wise who seek after rare pleasures will not speak words that have not much weight in them',
-    Transliteration:
-      'Arumpayan Aayum  Arivinaar  Sollaar<br />Perumpayan  Illaadha  Sol',
+    Transliteration: 'Arumpayan Aayum  Arivinaar  Sollaar<br />Perumpayan  Illaadha  Sol',
   },
   {
     Index: 199,
-    Tamil:
-      'பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த<br />மாசறு காட்சி யவர்',
+    Tamil: 'பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த<br />மாசறு காட்சி யவர்',
     line1: 'பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த',
     line2: 'மாசறு காட்சி யவர்',
     KalaignarUrai:
       'மயக்கம் சிறிதுமில்லாத மாசற்ற அறிவுடையவர் மறந்தும்கூடப் பயனற்ற சொற்களைச் சொல்ல மாட்டார்',
     MuVaUrai:
       'மயக்கத்திலிருந்து தெளிந்த மாசற்ற அறிவை உடையவர், பயன் நீங்கிய சொற்களை ஒருகால் மறந்தும் சொல்லமாட்டார்.',
-    SolomonPaapaiyaUrai:
-      'மயக்கமற்ற தூய அறிவினை உடையவர், பொருளற்ற சொற்களை மறந்தும் சொல்லார்.\\r\\n',
+    SolomonPaapaiyaUrai: 'மயக்கமற்ற தூய அறிவினை உடையவர், பொருளற்ற சொற்களை மறந்தும் சொல்லார்.\\r\\n',
     English:
       "The men of vision pure, from wildering folly free,<br />Not e'en in thoughtless hour, speak words of vanity",
     EnglishMeaning:
@@ -3671,13 +3413,11 @@ const kurral = [
     English:
       'If speak you will, speak words that fruit afford,<br />If speak you will, speak never fruitless word',
     EnglishMeaning: 'Speak what is useful, and speak not useless words',
-    Transliteration:
-      'Solluka Sollir  Payanutaiya  Sollarka<br />Sollir  Payanilaach  Chol',
+    Transliteration: 'Solluka Sollir  Payanutaiya  Sollarka<br />Sollir  Payanilaach  Chol',
   },
   {
     Index: 201,
-    Tamil:
-      'தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்<br />தீவினை யென்னுஞ் செறுக்கு',
+    Tamil: 'தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்<br />தீவினை யென்னுஞ் செறுக்கு',
     line1: 'தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்',
     line2: 'தீவினை யென்னுஞ் செறுக்கு',
     KalaignarUrai:
@@ -3690,8 +3430,7 @@ const kurral = [
       'With sinful act men cease to feel the dread of ill within,<br />The excellent will dread the wanton pride of cherished sin',
     EnglishMeaning:
       'Those who have experience of evil deeds will not fear, but the excellent will fear the pride of sin',
-    Transliteration:
-      'Theevinaiyaar Anjaar  Vizhumiyaar  Anjuvar<br />Theevinai  Ennum  Serukku',
+    Transliteration: 'Theevinaiyaar Anjaar  Vizhumiyaar  Anjuvar<br />Theevinai  Ennum  Serukku',
   },
   {
     Index: 202,
@@ -3704,12 +3443,9 @@ const kurral = [
       'தீயசெயல்கள் தீமையை விளைவிக்கும் தன்மை உடையனவாக இருத்தலால், அத் தீயச் செயல்கள் தீயைவிடக் கொடியனவாகக் கருதி அஞ்சப்படும்.',
     SolomonPaapaiyaUrai:
       'நமக்கு நன்மை என்று பிறருக்குச் செய்யும் தீமைகள், நமக்குத் தீமையே தருவதால், தீமைகளைத் தீயினும் கொடியனவாக எண்ணிச் செய்ய அஞ்ச வேண்டும்.',
-    English:
-      'Since evils new from evils ever grow,<br />Evil than fire works out more dreaded woe',
-    EnglishMeaning:
-      'Because evil produces evil, therefore should evil be feared more than fire',
-    Transliteration:
-      'Theeyavai Theeya  Payaththalaal  Theeyavai<br />Theeyinum  Anjap  Patum',
+    English: 'Since evils new from evils ever grow,<br />Evil than fire works out more dreaded woe',
+    EnglishMeaning: 'Because evil produces evil, therefore should evil be feared more than fire',
+    Transliteration: 'Theeyavai Theeya  Payaththalaal  Theeyavai<br />Theeyinum  Anjap  Patum',
   },
   {
     Index: 203,
@@ -3725,8 +3461,7 @@ const kurral = [
     English:
       "Even to those that hate make no return of ill;<br />So shalt thou wisdom's highest law, 'tis said, fulfil",
     EnglishMeaning: "So shalt thou wisdom's highest law, 'tis said, fulfil",
-    Transliteration:
-      'Arivinul Ellaan  Thalaiyenpa  Theeya<br />Seruvaarkkum  Seyyaa  Vital',
+    Transliteration: 'Arivinul Ellaan  Thalaiyenpa  Theeya<br />Seruvaarkkum  Seyyaa  Vital',
   },
   {
     Index: 204,
@@ -3743,8 +3478,7 @@ const kurral = [
       "Though good thy soul forget, plot not thy neighbour's fall,<br />Thy plans shall 'virtue's Power' by ruin to thyself forestall",
     EnglishMeaning:
       'Even though forgetfulness meditate not the ruin of another Virtue will meditate the ruin of him who thus meditates',
-    Transliteration:
-      'Marandhum Piranketu  Soozharka  Soozhin<br />Aranjoozham  Soozhndhavan  Ketu',
+    Transliteration: 'Marandhum Piranketu  Soozharka  Soozhin<br />Aranjoozham  Soozhndhavan  Ketu',
   },
   {
     Index: 205,
@@ -3757,12 +3491,9 @@ const kurral = [
       'யான் வறியவன் என்று நினைத்துத்  தீய செயல்களைச் செய்யக்கூடாது, செய்தால் மீண்டும் வறியவன் ஆகி வருந்துவான்.',
     SolomonPaapaiyaUrai:
       'தன் ஏழ்மையைப் போக்கப் பிறர்க்குத் தீமை செய்யாதே, செய்தால் மேலும் ஏழை ஆவாய்.',
-    English:
-      'Make not thy poverty a plea for ill;<br />Thy evil deeds will make thee poorer still',
-    EnglishMeaning:
-      "Commit not evil, saying, 'I am poor': if you do, you will become poorer still",
-    Transliteration:
-      'Ilan Endru  Theeyavai  Seyyarka  Seyyin<br />Ilanaakum  Matrum  Peyarththu',
+    English: 'Make not thy poverty a plea for ill;<br />Thy evil deeds will make thee poorer still',
+    EnglishMeaning: "Commit not evil, saying, 'I am poor': if you do, you will become poorer still",
+    Transliteration: 'Ilan Endru  Theeyavai  Seyyarka  Seyyin<br />Ilanaakum  Matrum  Peyarththu',
   },
   {
     Index: 206,
@@ -3777,8 +3508,7 @@ const kurral = [
       'துன்பம் தருவன தன்னைச் சூழ்ந்து வருத்த விரும்பாதவன், பிறர்க்குத் தீமை செய்யக்கூடாது.\\r\\n',
     English:
       "What ranks as evil spare to do, if thou would'st shun<br />Affliction sore through ill to thee by others done",
-    EnglishMeaning:
-      'Let him not do evil to others who desires not that sorrows should pursue him',
+    EnglishMeaning: 'Let him not do evil to others who desires not that sorrows should pursue him',
     Transliteration:
       'Theeppaala Thaanpirarkan  Seyyarka  Noippaala<br />Thannai  Atalventaa  Thaan',
   },
@@ -3797,8 +3527,7 @@ const kurral = [
       "From every enmity incurred there is to 'scape, a way;<br />The wrath of evil deeds will dog men's steps, and slay",
     EnglishMeaning:
       'However great be the enmity men have incurred they may still live The enmity of sin will incessantly pursue and kill',
-    Transliteration:
-      'Enaippakai Yutraarum  Uyvar  Vinaippakai<br />Veeyaadhu  Pinsendru  Atum',
+    Transliteration: 'Enaippakai Yutraarum  Uyvar  Vinaippakai<br />Veeyaadhu  Pinsendru  Atum',
   },
   {
     Index: 208,
@@ -3815,24 +3544,21 @@ const kurral = [
       "Man's shadow dogs his steps where'er he wends;<br />Destruction thus on sinful deeds attends",
     EnglishMeaning:
       'Destruction will dwell at the heels of those who commit evil even as their shadow that leaves them not',
-    Transliteration:
-      'Theeyavai Seydhaar  Ketudhal  Nizhaldhannai<br />Veeyaadhu  Atiurain  Thatru',
+    Transliteration: 'Theeyavai Seydhaar  Ketudhal  Nizhaldhannai<br />Veeyaadhu  Atiurain  Thatru',
   },
   {
     Index: 209,
     Tamil: 'தன்னைத்தான் காதல னாயின் எனைத்தொன்றுந்<br />துன்னற்க தீவினைப் பால்',
     line1: 'தன்னைத்தான் காதல னாயின் எனைத்தொன்றுந்',
     line2: 'துன்னற்க தீவினைப் பால்',
-    KalaignarUrai:
-      'தனது நலத்தை விரும்புகிறவன் தீய செயல்களின் பக்கம் சிறிதளவுகூட நெருங்கலாகாது',
+    KalaignarUrai: 'தனது நலத்தை விரும்புகிறவன் தீய செயல்களின் பக்கம் சிறிதளவுகூட நெருங்கலாகாது',
     MuVaUrai:
       'ஒருவன் தன்னைத் தான் விரும்பி வாழ்பவனாயின், தீய செயலாகிய பகுதியை எவ்வளவு சிறியதாயினும் பொருந்தாமல் நீங்க வேண்டும்.',
     SolomonPaapaiyaUrai:
       'தன்மீது அன்புள்ளவன், எவ்வளவு சிறிது என்றாலும் சரி,  மற்றவர்க்குத் தீமை செயய வேண்டா.',
     English:
       'Beware, if to thyself thyself is dear,<br />Lest thou to aught that ranks as ill draw near',
-    EnglishMeaning:
-      'If a man love himself, let him not commit any sin however small',
+    EnglishMeaning: 'If a man love himself, let him not commit any sin however small',
     Transliteration:
       'Thannaiththaan Kaadhala  Naayin  Enaiththondrum<br />Thunnarka  Theevinaip  Paal',
   },
@@ -3851,8 +3577,7 @@ const kurral = [
       'The man, to devious way of sin that never turned aside,<br />From ruin rests secure, whatever ills betide',
     EnglishMeaning:
       'Know ye that he is freed from destruction who commits no evil, going to neither side of the right path',
-    Transliteration:
-      'Arungetan Enpadhu  Arika  Marungotith<br />Theevinai  Seyyaan  Enin',
+    Transliteration: 'Arungetan Enpadhu  Arika  Marungotith<br />Theevinai  Seyyaan  Enin',
   },
   {
     Index: 211,
@@ -3867,15 +3592,12 @@ const kurral = [
       'பிறர்க்கு உதவுவது, அவ்வுதவியைப் பெற்றவர் திரும்பச் செய்வதை எதிர்பார்த்து அன்று; ஒருவர் செய்ததற்குத் திரும்பச் செய்துதான் ஆகவேண்டும் என்றால் மழை தரும் மேகங்களுக்கு  இந்த  உலகம் திரும்ப என்ன செய்துவிட முடியும்?',
     English:
       'Duty demands no recompense; to clouds of heaven,<br />By men on earth, what answering gift is given',
-    EnglishMeaning:
-      'Benevolence seeks not a return. What does the world give back to the clouds ?',
-    Transliteration:
-      'Kaimmaaru Ventaa  Katappaatu  Maarimaattu<br />En  Aatrung  Kollo  Ulaku',
+    EnglishMeaning: 'Benevolence seeks not a return. What does the world give back to the clouds ?',
+    Transliteration: 'Kaimmaaru Ventaa  Katappaatu  Maarimaattu<br />En  Aatrung  Kollo  Ulaku',
   },
   {
     Index: 212,
-    Tamil:
-      'தாளாற்றித் தந்த பொருளெல்லாந் தக்கார்க்கு<br />வேளாண்மை செய்தற் பொருட்டு',
+    Tamil: 'தாளாற்றித் தந்த பொருளெல்லாந் தக்கார்க்கு<br />வேளாண்மை செய்தற் பொருட்டு',
     line1: 'தாளாற்றித் தந்த பொருளெல்லாந் தக்கார்க்கு',
     line2: 'வேளாண்மை செய்தற் பொருட்டு',
     KalaignarUrai:
@@ -3906,8 +3628,7 @@ const kurral = [
       "To 'due beneficence' no equal good we know,<br />Amid the happy gods, or in this world below",
     EnglishMeaning:
       'It is difficult to obtain another good equal to benevolence either in this world or in that of the gods',
-    Transliteration:
-      'Puththe Lulakaththum  Eentum  Peralaridhe<br />Oppuravin  Nalla  Pira',
+    Transliteration: 'Puththe Lulakaththum  Eentum  Peralaridhe<br />Oppuravin  Nalla  Pira',
   },
   {
     Index: 214,
@@ -3924,8 +3645,7 @@ const kurral = [
       "Who knows what's human life's befitting grace,<br />He lives; the rest 'mongst dead men have their place",
     EnglishMeaning:
       'He truly lives who knows (and discharges) the proper duties (of benevolence) He who knows them not will be reckoned among the dead',
-    Transliteration:
-      'Oththa Tharavon  Uyirvaazhvaan  Matraiyaan<br />Seththaarul  Vaikkap  Patum',
+    Transliteration: 'Oththa Tharavon  Uyirvaazhvaan  Matraiyaan<br />Seththaarul  Vaikkap  Patum',
   },
   {
     Index: 215,
@@ -3942,8 +3662,7 @@ const kurral = [
       "The wealth of men who love the 'fitting way,' the truly wise,<br />Is as when water fills the lake that village needs supplies",
     EnglishMeaning:
       'The wealth of that man of eminent knowledge who desires to exercise the benevolence approved of by the world, is like the full waters of a city-tank',
-    Transliteration:
-      'Ooruni Neernirain  Thatre  Ulakavaam<br />Perari  Vaalan  Thiru',
+    Transliteration: 'Ooruni Neernirain  Thatre  Ulakavaam<br />Perari  Vaalan  Thiru',
   },
   {
     Index: 216,
@@ -3960,8 +3679,7 @@ const kurral = [
       "A tree that fruits in th' hamlet's central mart,<br />Is wealth that falls to men of liberal heart",
     EnglishMeaning:
       'The wealth of a man (possessed of the virtue) of benevolence is like the ripening of a fruitful tree in the midst of a town',
-    Transliteration:
-      'Payanmaram Ulloorp  Pazhuththatraal  Selvam<br />Nayanutai  Yaankan  Patin',
+    Transliteration: 'Payanmaram Ulloorp  Pazhuththatraal  Selvam<br />Nayanutai  Yaankan  Patin',
   },
   {
     Index: 217,
@@ -3996,8 +3714,7 @@ const kurral = [
       "E'en when resources fall, they weary not of 'kindness due,'-<br />They to whom Duty's self appears in vision true",
     EnglishMeaning:
       'The wise who know what is duty will not scant their benevolence even when they are without wealth',
-    Transliteration:
-      'Itanil Paruvaththum  Oppuravirku  Olkaar<br />Katanari  Kaatchi  Yavar',
+    Transliteration: 'Itanil Paruvaththum  Oppuravirku  Olkaar<br />Katanari  Kaatchi  Yavar',
   },
   {
     Index: 219,
@@ -4019,8 +3736,7 @@ const kurral = [
   },
   {
     Index: 220,
-    Tamil:
-      'ஒப்புரவி னால்வருங் கேடெனின் அஃதொருவன்<br />விற்றுக்கோள் தக்க துடைத்து',
+    Tamil: 'ஒப்புரவி னால்வருங் கேடெனின் அஃதொருவன்<br />விற்றுக்கோள் தக்க துடைத்து',
     line1: 'ஒப்புரவி னால்வருங் கேடெனின் அஃதொருவன்',
     line2: 'விற்றுக்கோள் தக்க துடைத்து',
     KalaignarUrai:
@@ -4033,13 +3749,11 @@ const kurral = [
       "Though by 'beneficence,' the loss of all should come,<br />'Twere meet man sold himself, and bought it with the sum",
     EnglishMeaning:
       "If it be said that loss will result from benevolence, such loss is worth being procured even by the sale of one's self",
-    Transliteration:
-      'Oppuravi Naalvarum  Ketenin  Aqdhoruvan<br />Vitrukkol  Thakka  Thutaiththu',
+    Transliteration: 'Oppuravi Naalvarum  Ketenin  Aqdhoruvan<br />Vitrukkol  Thakka  Thutaiththu',
   },
   {
     Index: 221,
-    Tamil:
-      'வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்<br />குறியெதிர்ப்பை நீர துடைத்து',
+    Tamil: 'வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்<br />குறியெதிர்ப்பை நீர துடைத்து',
     line1: 'வறியார்க்கொன் றீவதே ஈகைமற் றெல்லாங்',
     line2: 'குறியெதிர்ப்பை நீர துடைத்து',
     KalaignarUrai:
@@ -4070,8 +3784,7 @@ const kurral = [
       'Though men declare it heavenward path, yet to receive is ill;<br />Though upper heaven were not, to give is virtue still',
     EnglishMeaning:
       'To beg is evil, even though it were said that it is a good path (to heaven) To give is good, even though it were said that those who do so cannot obtain heaven',
-    Transliteration:
-      'Nallaaru Eninum  Kolaldheedhu  Melulakam<br />Illeninum  Eedhale  Nandru',
+    Transliteration: 'Nallaaru Eninum  Kolaldheedhu  Melulakam<br />Illeninum  Eedhale  Nandru',
   },
   {
     Index: 223,
@@ -4088,8 +3801,7 @@ const kurral = [
       "'I've nought' is ne'er the high-born man's reply;<br />He gives to those who raise themselves that cry",
     EnglishMeaning:
       "(Even in a low state) not to adopt the mean expedient of saying 'I have nothing,' but to give, is the characteristic of the mad of noble birth",
-    Transliteration:
-      'Ilanennum Evvam  Uraiyaamai  Eedhal<br />Kulanutaiyaan  Kanne  Yula',
+    Transliteration: 'Ilanennum Evvam  Uraiyaamai  Eedhal<br />Kulanutaiyaan  Kanne  Yula',
   },
   {
     Index: 224,
@@ -4106,8 +3818,7 @@ const kurral = [
       "The suppliants' cry for aid yields scant delight,<br />Until you see his face with grateful gladness bright",
     EnglishMeaning:
       'To see men begging from us in disagreeable, until we see their pleasant countenance',
-    Transliteration:
-      'Innaadhu Irakkap  Patudhal  Irandhavar<br />Inmukang  Kaanum  Alavu',
+    Transliteration: 'Innaadhu Irakkap  Patudhal  Irandhavar<br />Inmukang  Kaanum  Alavu',
   },
   {
     Index: 225,
@@ -4124,8 +3835,7 @@ const kurral = [
       "'Mid devotees they're great who hunger's pangs sustain,<br />Who hunger's pangs relieve a higher merit gain",
     EnglishMeaning:
       'The power of those who perform penance is the power of enduring hunger It is inferior to the power of those who remove the hunger (of others)',
-    Transliteration:
-      'Aatruvaar Aatral  Pasiaatral  Appasiyai<br />Maatruvaar  Aatralin  Pin',
+    Transliteration: 'Aatruvaar Aatral  Pasiaatral  Appasiyai<br />Maatruvaar  Aatralin  Pin',
   },
   {
     Index: 226,
@@ -4142,16 +3852,14 @@ const kurral = [
       'Let man relieve the wasting hunger men endure;<br />For treasure gained thus finds he treasure-house secure',
     EnglishMeaning:
       'The removal of the killing hunger of the poor is the place for one to lay up his wealth',
-    Transliteration:
-      'Atraar Azhipasi  Theerththal  Aqdhoruvan<br />Petraan  Porulvaip  Puzhi',
+    Transliteration: 'Atraar Azhipasi  Theerththal  Aqdhoruvan<br />Petraan  Porulvaip  Puzhi',
   },
   {
     Index: 227,
     Tamil: 'பாத்தூண் மரீஇ யவனைப் பசியென்னுந்<br />தீப்பிணி தீண்ட லரிது',
     line1: 'பாத்தூண் மரீஇ யவனைப் பசியென்னுந்',
     line2: 'தீப்பிணி தீண்ட லரிது',
-    KalaignarUrai:
-      'பகிர்ந்து உண்ணும் பழக்கம் உடையவர்களைப் பசியென்னும் கொடிய நோய் அணுகுவதில்லை',
+    KalaignarUrai: 'பகிர்ந்து உண்ணும் பழக்கம் உடையவர்களைப் பசியென்னும் கொடிய நோய் அணுகுவதில்லை',
     MuVaUrai:
       'தான் பெற்ற உணவை பலரோடும்  பகிர்ந்து உண்ணும் பழக்கம் உடையவனை பசி என்று கூறப்படும் தீயநோய் அணுகுதல் இல்லை.',
     SolomonPaapaiyaUrai:
@@ -4160,13 +3868,11 @@ const kurral = [
       "Whose soul delights with hungry men to share his meal,<br />The hand of hunger's sickness sore shall never feel",
     EnglishMeaning:
       'The fiery disease of hunger shall never touch him who habitually distributes his food to others',
-    Transliteration:
-      'Paaththoon Mareei  Yavanaip  Pasiyennum<br />Theeppini  Theental  Aridhu',
+    Transliteration: 'Paaththoon Mareei  Yavanaip  Pasiyennum<br />Theeppini  Theental  Aridhu',
   },
   {
     Index: 228,
-    Tamil:
-      'ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை<br />வைத்திழக்கும் வன்க ணவர்',
+    Tamil: 'ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை<br />வைத்திழக்கும் வன்க ணவர்',
     line1: 'ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை',
     line2: 'வைத்திழக்கும் வன்க ணவர்',
     KalaignarUrai:
@@ -4197,26 +3903,22 @@ const kurral = [
       "They keep their garners full, for self alone the board they spread;-<br />'Tis greater pain, be sure, than begging daily bread",
     EnglishMeaning:
       "29 Solitary and unshared eating for the sake of filling up one's own riches is certainly much more",
-    Transliteration:
-      'Iraththalin Innaadhu  Mandra  Nirappiya<br />Thaame  Thamiyar  Unal',
+    Transliteration: 'Iraththalin Innaadhu  Mandra  Nirappiya<br />Thaame  Thamiyar  Unal',
   },
   {
     Index: 230,
     Tamil: 'சாதலின் இன்னாத தில்லை இனிததூஉம்<br />ஈத லியையாக் கடை',
     line1: 'சாதலின் இன்னாத தில்லை இனிததூஉம்',
     line2: 'ஈத லியையாக் கடை',
-    KalaignarUrai:
-      'சாவு எனும் துன்பத்தைவிட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது',
+    KalaignarUrai: 'சாவு எனும் துன்பத்தைவிட வறியவர்க்கு எதுவும் வழங்க இயலாத மனத்துன்பம் பெரியது',
     MuVaUrai:
       'சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.',
     SolomonPaapaiyaUrai:
       'சாவதை விடத் துன்பமானது வேறொன்றும் இல்லை, ஆனால் வறியவர்க்கு ஒரு பொருள் கொடுக்க முடியாதநிலை வந்தபோது அச் சாதலும் இனியதே ஆகும்.',
-    English:
-      "'Tis bitter pain to die, 'Tis worse to live.<br />For him who nothing finds to give",
+    English: "'Tis bitter pain to die, 'Tis worse to live.<br />For him who nothing finds to give",
     EnglishMeaning:
       'Nothing is more unpleasant than death: yet even that is pleasant where charity cannot be exercised',
-    Transliteration:
-      'Saadhalin Innaadha  Thillai  Inidhadhooum<br />Eedhal  Iyaiyaak  Katai',
+    Transliteration: 'Saadhalin Innaadha  Thillai  Inidhadhooum<br />Eedhal  Iyaiyaak  Katai',
   },
   {
     Index: 231,
@@ -4233,13 +3935,11 @@ const kurral = [
       'See that thy life the praise of generous gifts obtain;<br />Save this for living man exists no real gain',
     EnglishMeaning:
       'Give to the poor and live with praise There is no greater profit to man than that',
-    Transliteration:
-      'Eedhal Isaipata  Vaazhdhal  Adhuvalladhu<br />Oodhiyam  Illai  Uyirkku',
+    Transliteration: 'Eedhal Isaipata  Vaazhdhal  Adhuvalladhu<br />Oodhiyam  Illai  Uyirkku',
   },
   {
     Index: 232,
-    Tamil:
-      'உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்<br />றீவார்மேல் நிற்கும் புகழ்',
+    Tamil: 'உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்<br />றீவார்மேல் நிற்கும் புகழ்',
     line1: 'உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்',
     line2: 'றீவார்மேல் நிற்கும் புகழ்',
     KalaignarUrai:
@@ -4252,8 +3952,7 @@ const kurral = [
       'The speech of all that speak agrees to crown<br />The men that give to those that ask, with fair renown',
     EnglishMeaning:
       'Whatsoever is spoken in the world will abide as praise upon that man who gives alms to the poor',
-    Transliteration:
-      'Uraippaar Uraippavai  Ellaam  Irappaarkkondru<br />Eevaarmel  Nirkum  Pukazh',
+    Transliteration: 'Uraippaar Uraippavai  Ellaam  Irappaarkkondru<br />Eevaarmel  Nirkum  Pukazh',
   },
   {
     Index: 233,
@@ -4266,12 +3965,10 @@ const kurral = [
       'உயர்ந்த புகழ் அல்லாமல் உலகத்தில் ஒப்பற்ற ஒரு பொருளாக அழியாமல் நிலைநிற்க வல்லது வேறொன்றும் இல்லை.',
     SolomonPaapaiyaUrai:
       'தனக்கு இணையில்லாததாய், உயர்ந்ததாய் விளங்கும் புகழே அன்றி, அழியாமல் நிலைத்து நிற்கும் வேறொன்றும் இவ்வுலகத்தில் இல்லை.',
-    English:
-      'Save praise alone that soars on high,<br />Nought lives on earth that shall not die',
+    English: 'Save praise alone that soars on high,<br />Nought lives on earth that shall not die',
     EnglishMeaning:
       'There is nothing that stands forth in the world imperishable, except fame, exalted in solitary greatness',
-    Transliteration:
-      'Ondraa Ulakaththu  Uyarndha  Pukazhallaal<br />Pondraadhu  Nirpadhon  Ril',
+    Transliteration: 'Ondraa Ulakaththu  Uyarndha  Pukazhallaal<br />Pondraadhu  Nirpadhon  Ril',
   },
   {
     Index: 234,
@@ -4288,13 +3985,11 @@ const kurral = [
       'If men do virtuous deeds by world-wide ample glory crowned,<br />The heavens will cease to laud the sage for other gifts renowned',
     EnglishMeaning:
       'If one has acquired extensive fame within the limits of this earth, the world of the Gods will no longer praise those sages who have attained that world',
-    Transliteration:
-      'Nilavarai Neelpukazh  Aatrin  Pulavaraip<br />Potraadhu  Puththel  Ulaku',
+    Transliteration: 'Nilavarai Neelpukazh  Aatrin  Pulavaraip<br />Potraadhu  Puththel  Ulaku',
   },
   {
     Index: 235,
-    Tamil:
-      'நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்<br />வித்தகர்க் கல்லால் அரிது',
+    Tamil: 'நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்<br />வித்தகர்க் கல்லால் அரிது',
     line1: 'நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்',
     line2: 'வித்தகர்க் கல்லால் அரிது',
     KalaignarUrai:
@@ -4307,8 +4002,7 @@ const kurral = [
       "Loss that is gain, and death of life's true bliss fulfilled,<br />Are fruits which only wisdom rare can yield",
     EnglishMeaning:
       'Prosperity to the body of fame, resulting in poverty to the body of flesh and the stability to the former arising from the death of the latter, are achievable only by the wise',
-    Transliteration:
-      'Naththampol Ketum  Uladhaakum  Saakkaatum<br />Viththakark  Kallaal  Aridhu',
+    Transliteration: 'Naththampol Ketum  Uladhaakum  Saakkaatum<br />Viththakark  Kallaal  Aridhu',
   },
   {
     Index: 236,
@@ -4359,10 +4053,8 @@ const kurral = [
       'புகழ் என்னும் பெரும் செல்வத்தைப் பெறாது போனால், இந்த உலகத்தவர்க்கு அதுவே பழி என்று அறிந்தோர் கூறுவர்.',
     English:
       "Fame is virtue's child, they say; if, then,<br />You childless live, you live the scorn of men",
-    EnglishMeaning:
-      'Not to beget fame will be esteemed a disgrace by the wise in this world',
-    Transliteration:
-      'Vasaiyenpa Vaiyaththaark  Kellaam  Isaiyennum<br />Echcham  Peraaa  Vitin',
+    EnglishMeaning: 'Not to beget fame will be esteemed a disgrace by the wise in this world',
+    Transliteration: 'Vasaiyenpa Vaiyaththaark  Kellaam  Isaiyennum<br />Echcham  Peraaa  Vitin',
   },
   {
     Index: 239,
@@ -4379,8 +4071,7 @@ const kurral = [
       "The blameless fruits of fields' increase will dwindle down,<br />If earth the burthen bear of men without renown",
     EnglishMeaning:
       'The ground which supports a body without fame will diminish in its rich produce',
-    Transliteration:
-      'Vasaiyilaa Vanpayan  Kundrum  Isaiyilaa<br />Yaakkai  Poruththa  Nilam',
+    Transliteration: 'Vasaiyilaa Vanpayan  Kundrum  Isaiyilaa<br />Yaakkai  Poruththa  Nilam',
   },
   {
     Index: 240,
@@ -4395,15 +4086,13 @@ const kurral = [
       'தம்மீது பழி இன்றிப் புகழோடு வாழ்பவரே உயிர‌ோடு வாழ்பவர்; புகழ் இன்றிப் பழியோடு வாழ்பவர் இருந்தும் இல்லாதவரே.',
     English:
       'Who live without reproach, them living men we deem;<br />Who live without renown, live not, though living men they seem',
-    EnglishMeaning:
-      'Those live who live without disgrace Those who live without fame live not',
+    EnglishMeaning: 'Those live who live without disgrace Those who live without fame live not',
     Transliteration:
       'Vasaiyozhiya Vaazhvaare  Vaazhvaar  Isaiyozhiya<br />Vaazhvaare  Vaazhaa  Thavar',
   },
   {
     Index: 241,
-    Tamil:
-      'அருட்செல்வஞ் செல்வத்துள் செல்வம் பொருட்செல்வம்<br />பூரியார் கண்ணு முள',
+    Tamil: 'அருட்செல்வஞ் செல்வத்துள் செல்வம் பொருட்செல்வம்<br />பூரியார் கண்ணு முள',
     line1: 'அருட்செல்வஞ் செல்வத்துள் செல்வம் பொருட்செல்வம்',
     line2: 'பூரியார் கண்ணு முள',
     KalaignarUrai:
@@ -4416,8 +4105,7 @@ const kurral = [
       "Wealth 'mid wealth is wealth 'kindliness';<br />Wealth of goods the vilest too possess",
     EnglishMeaning:
       'The wealth of kindness is wealth of wealth, in as much as the wealth of property is possessed by the basest of men',
-    Transliteration:
-      'Arutchelvam Selvaththul  Selvam  Porutchelvam<br />Pooriyaar  Kannum  Ula',
+    Transliteration: 'Arutchelvam Selvaththul  Selvam  Porutchelvam<br />Pooriyaar  Kannum  Ula',
   },
   {
     Index: 242,
@@ -4434,13 +4122,11 @@ const kurral = [
       "The law of 'grace' fulfil, by methods good due trial made,<br />Though many systems you explore, this is your only aid",
     EnglishMeaning:
       '(Stand) in the good path, consider, and be kind. Even considering according to the conflicting tenets of the different sects, kindness will be your best aid, (in the acquisition of heavenly bliss.)',
-    Transliteration:
-      'Nallaatraal Naati  Arulaalka  Pallaatraal<br />Therinum  Aqdhe  Thunai',
+    Transliteration: 'Nallaatraal Naati  Arulaalka  Pallaatraal<br />Therinum  Aqdhe  Thunai',
   },
   {
     Index: 243,
-    Tamil:
-      'அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த<br />இன்னா உலகம் புகல்',
+    Tamil: 'அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த<br />இன்னா உலகம் புகல்',
     line1: 'அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த',
     line2: 'இன்னா உலகம் புகல்',
     KalaignarUrai:
@@ -4453,8 +4139,7 @@ const kurral = [
       "They in whose breast a 'gracious kindliness' resides,<br />See not the gruesome world, where darkness drear abides",
     EnglishMeaning:
       'They will never enter the world of darkness and wretchedness whose minds are the abode of kindness',
-    Transliteration:
-      'Arulserndha Nenjinaark  Killai  Irulserndha<br />Innaa  Ulakam  Pukal',
+    Transliteration: 'Arulserndha Nenjinaark  Killai  Irulserndha<br />Innaa  Ulakam  Pukal',
   },
   {
     Index: 244,
@@ -4471,8 +4156,7 @@ const kurral = [
       'Who for undying souls of men provides with gracious zeal,<br />In his own soul the dreaded guilt of sin shall never feel',
     EnglishMeaning:
       '(The wise) say that the evils, which his soul would dread, will never come upon the man who exercises kindness and protects the life (of other creatures)',
-    Transliteration:
-      'Mannuyir Ompi  Arulaalvaarkku  Illenpa<br />Thannuyir  Anjum  Vinai',
+    Transliteration: 'Mannuyir Ompi  Arulaalvaarkku  Illenpa<br />Thannuyir  Anjum  Vinai',
   },
   {
     Index: 245,
@@ -4489,13 +4173,11 @@ const kurral = [
       "The teeming earth's vast realm, round which the wild winds blow,<br />Is witness, men of 'grace' no woeful want shall know",
     EnglishMeaning:
       'This great rich earth over which the wind blows, is a witness that sorrow never comes upon the kindhearted',
-    Transliteration:
-      'Allal Arulaalvaarkku  Illai  Valivazhangum<br />Mallanmaa  Gnaalang  Kari',
+    Transliteration: 'Allal Arulaalvaarkku  Illai  Valivazhangum<br />Mallanmaa  Gnaalang  Kari',
   },
   {
     Index: 246,
-    Tamil:
-      'பொருள்நீங்கிப் பொச்சாந்தா ரென்பர் அருள்நீங்கி<br />அல்லவை செய்தொழுகு வார்',
+    Tamil: 'பொருள்நீங்கிப் பொச்சாந்தா ரென்பர் அருள்நீங்கி<br />அல்லவை செய்தொழுகு வார்',
     line1: 'பொருள்நீங்கிப் பொச்சாந்தா ரென்பர் அருள்நீங்கி',
     line2: 'அல்லவை செய்தொழுகு வார்',
     KalaignarUrai:
@@ -4513,8 +4195,7 @@ const kurral = [
   },
   {
     Index: 247,
-    Tamil:
-      'அருளில்லார்க் கவ்வுலகம் இல்லை பொருளில்லார்க்<br />கிவ்வுலகம் இல்லாகி யாங்கு',
+    Tamil: 'அருளில்லார்க் கவ்வுலகம் இல்லை பொருளில்லார்க்<br />கிவ்வுலகம் இல்லாகி யாங்கு',
     line1: 'அருளில்லார்க் கவ்வுலகம் இல்லை பொருளில்லார்க்',
     line2: 'கிவ்வுலகம் இல்லாகி யாங்கு',
     KalaignarUrai:
@@ -4545,13 +4226,11 @@ const kurral = [
       "Who lose the flower of wealth, when seasons change, again may bloom;<br />Who lose 'benevolence', lose all; nothing can change their doom",
     EnglishMeaning:
       'Those who are without wealth may, at some future time, become prosperous; those who are destitute of kindness are utterly destitute; for them there is no change',
-    Transliteration:
-      'Porulatraar Pooppar  Orukaal  Arulatraar<br />Atraarmar  Raadhal  Aridhu',
+    Transliteration: 'Porulatraar Pooppar  Orukaal  Arulatraar<br />Atraarmar  Raadhal  Aridhu',
   },
   {
     Index: 249,
-    Tamil:
-      'தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்<br />அருளாதான் செய்யும் அறம்',
+    Tamil: 'தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்<br />அருளாதான் செய்யும் அறம்',
     line1: 'தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்',
     line2: 'அருளாதான் செய்யும் அறம்',
     KalaignarUrai:
@@ -4564,13 +4243,11 @@ const kurral = [
       "When souls unwise true wisdom's mystic vision see,<br />The 'graceless' man may work true works of charity",
     EnglishMeaning:
       'If you consider, the virtue of him who is without kindness is like the perception of the true being by him who is without wisdom',
-    Transliteration:
-      'Therulaadhaan Meypporul  Kantatraal  Therin<br />Arulaadhaan  Seyyum  Aram',
+    Transliteration: 'Therulaadhaan Meypporul  Kantatraal  Therin<br />Arulaadhaan  Seyyum  Aram',
   },
   {
     Index: 250,
-    Tamil:
-      'வலியார்முன் தன்னை நினைக்கதான் தன்னின்<br />மெலியார்மேற் செல்லு மிடத்து',
+    Tamil: 'வலியார்முன் தன்னை நினைக்கதான் தன்னின்<br />மெலியார்மேற் செல்லு மிடத்து',
     line1: 'வலியார்முன் தன்னை நினைக்கதான் தன்னின்',
     line2: 'மெலியார்மேற் செல்லு மிடத்து',
     KalaignarUrai:
@@ -4601,13 +4278,11 @@ const kurral = [
       "How can the wont of 'kindly grace' to him be known,<br />Who other creatures' flesh consumes to feed his own",
     EnglishMeaning:
       'How can he be possessed of kindness, who to increase his own flesh, eats the flesh of other creatures',
-    Transliteration:
-      'Thannoon Perukkarkuth  Thaanpiridhu  Oonunpaan<br />Engnganam  Aalum  Arul?',
+    Transliteration: 'Thannoon Perukkarkuth  Thaanpiridhu  Oonunpaan<br />Engnganam  Aalum  Arul?',
   },
   {
     Index: 252,
-    Tamil:
-      'பொருளாட்சி போற்றாதார்க் கில்லை அருளாட்சி<br />ஆங்கில்லை ஊன்றின் பவர்க்கு',
+    Tamil: 'பொருளாட்சி போற்றாதார்க் கில்லை அருளாட்சி<br />ஆங்கில்லை ஊன்றின் பவர்க்கு',
     line1: 'பொருளாட்சி போற்றாதார்க் கில்லை அருளாட்சி',
     line2: 'ஆங்கில்லை ஊன்றின் பவர்க்கு',
     KalaignarUrai:
@@ -4625,8 +4300,7 @@ const kurral = [
   },
   {
     Index: 253,
-    Tamil:
-      'படைகொண்டார் நெஞ்சம்போல் நன்றூக்கா தொன்றன்<br />உடல்சுவை யுண்டார் மனம்',
+    Tamil: 'படைகொண்டார் நெஞ்சம்போல் நன்றூக்கா தொன்றன்<br />உடல்சுவை யுண்டார் மனம்',
     line1: 'படைகொண்டார் நெஞ்சம்போல் நன்றூக்கா தொன்றன்',
     line2: 'உடல்சுவை யுண்டார் மனம்',
     KalaignarUrai:
@@ -4639,8 +4313,7 @@ const kurral = [
       'Like heart of them that murderous weapons bear, his mind,<br />Who eats of savoury meat, no joy in good can find',
     EnglishMeaning:
       'Like the (murderous) mind of him who carries a weapon (in his hand), the mind of him who feasts with pleasure on the body of another (creature), has no regard for goodness',
-    Transliteration:
-      'Pataikontaar Nenjampol  Nannookkaadhu  Ondran<br />Utalsuvai  Untaar  Manam',
+    Transliteration: 'Pataikontaar Nenjampol  Nannookkaadhu  Ondran<br />Utalsuvai  Untaar  Manam',
   },
   {
     Index: 254,
@@ -4657,8 +4330,7 @@ const kurral = [
       "'What's grace, or lack of grace'? 'To kill' is this, that 'not to kill';<br />To eat dead flesh can never worthy end fulfil",
     EnglishMeaning:
       'If it be asked what is kindness and what its opposite, the answer would be preservation and destruction of life; and therefore it is not right to feed on the flesh (obtained by taking away life)',
-    Transliteration:
-      'Arulalladhu Yaadhenin  Kollaamai  Koral<br />Porulalladhu  Avvoon  Thinal',
+    Transliteration: 'Arulalladhu Yaadhenin  Kollaamai  Koral<br />Porulalladhu  Avvoon  Thinal',
   },
   {
     Index: 255,
@@ -4675,13 +4347,11 @@ const kurral = [
       "If flesh you eat not, life's abodes unharmed remain;<br />Who eats, hell swallows him, and renders not again",
     EnglishMeaning:
       'Not to eat flesh contributes to the continuance of life; therefore if a man eat flesh, hell will not open its mouth (to let him escape out, after he has once fallen in)',
-    Transliteration:
-      'Unnaamai Ulladhu  Uyirnilai  Oonunna<br />Annaaththal  Seyyaadhu  Alaru',
+    Transliteration: 'Unnaamai Ulladhu  Uyirnilai  Oonunna<br />Annaaththal  Seyyaadhu  Alaru',
   },
   {
     Index: 256,
-    Tamil:
-      'தினற்பொருட்டால் கொல்லா துலகெனின் யாரும்<br />விலைப்பொருட்டால் ஊன்றருவா ரில்',
+    Tamil: 'தினற்பொருட்டால் கொல்லா துலகெனின் யாரும்<br />விலைப்பொருட்டால் ஊன்றருவா ரில்',
     line1: 'தினற்பொருட்டால் கொல்லா துலகெனின் யாரும்',
     line2: 'விலைப்பொருட்டால் ஊன்றருவா ரில்',
     KalaignarUrai:
@@ -4706,27 +4376,22 @@ const kurral = [
       'புலால் என்பது வேறோர் உயிரின் உடற்புண் என்பதை உணர்ந்தோர் அதனை உண்ணாமல் இருக்கவேண்டும்',
     MuVaUrai:
       'புலால் உண்ணாமலிருக்க வேண்டும், ஆராய்ந்து அறிவாரைப் பெற்றால், அப் புலால்  வேறோர் உயிரின் புண் என்பதை உணரலாம்.',
-    SolomonPaapaiyaUrai:
-      'இறைச்சி, இன்னோர் உடம்பின் புண்; அறிந்தவர் அதை உண்ணக்கூடாது.',
+    SolomonPaapaiyaUrai: 'இறைச்சி, இன்னோர் உடம்பின் புண்; அறிந்தவர் அதை உண்ணக்கூடாது.',
     English:
       "With other beings' ulcerous wounds their hunger they appease;<br />If this they felt, desire to eat must surely cease",
     EnglishMeaning:
       'If men should come to know that flesh is nothing but the unclean ulcer of a body, let them abstain from eating it',
-    Transliteration:
-      'Unnaamai Ventum  Pulaaal  Piridhondran<br />Punnadhu  Unarvaarp  Perin',
+    Transliteration: 'Unnaamai Ventum  Pulaaal  Piridhondran<br />Punnadhu  Unarvaarp  Perin',
   },
   {
     Index: 258,
-    Tamil:
-      'செயிரின் தலைப்பிரிந்த காட்சியா ருண்ணார்<br />உயிரின் தலைப்பிரிந்த ஊன்',
+    Tamil: 'செயிரின் தலைப்பிரிந்த காட்சியா ருண்ணார்<br />உயிரின் தலைப்பிரிந்த ஊன்',
     line1: 'செயிரின் தலைப்பிரிந்த காட்சியா ருண்ணார்',
     line2: 'உயிரின் தலைப்பிரிந்த ஊன்',
-    KalaignarUrai:
-      'மாசற்ற மதியுடையோர், ஓர் உயிரைப் பிரித்து அதன் ஊனை உண்ண மாட்டார்கள்',
+    KalaignarUrai: 'மாசற்ற மதியுடையோர், ஓர் உயிரைப் பிரித்து அதன் ஊனை உண்ண மாட்டார்கள்',
     MuVaUrai:
       'குற்றத்திலிருந்து  நீங்கிய அறிவை உடையவர், ஒர் உயிரினிடத்திலிருந்து பிரிந்து வந்த ஊனை உண்ணமாட்டார்.',
-    SolomonPaapaiyaUrai:
-      'பிழையற்ற அறிவினை உடையவர், உயிர் பிரிந்த இறைச்சியை உண்ணமாட்டார்.',
+    SolomonPaapaiyaUrai: 'பிழையற்ற அறிவினை உடையவர், உயிர் பிரிந்த இறைச்சியை உண்ணமாட்டார்.',
     English:
       'Whose souls the vision pure and passionless perceive,<br />Eat not the bodies men of life bereave',
     EnglishMeaning:
@@ -4749,8 +4414,7 @@ const kurral = [
       'Than thousand rich oblations, with libations rare,<br />Better the flesh of slaughtered beings not to share',
     EnglishMeaning:
       'Not to kill and eat (the flesh of) an animal, is better than the pouring forth of ghee etc, in a thousand sacrifices',
-    Transliteration:
-      'Avisorin Thaayiram  Vettalin  Ondran<br />Uyirsekuth  Thunnaamai  Nandru',
+    Transliteration: 'Avisorin Thaayiram  Vettalin  Ondran<br />Uyirsekuth  Thunnaamai  Nandru',
   },
   {
     Index: 260,
@@ -4767,8 +4431,7 @@ const kurral = [
       'Who slays nought,- flesh rejects- his feet before<br />All living things with clasped hands adore',
     EnglishMeaning:
       'All creatures will join their hands together, and worship him who has never taken away life, nor eaten flesh',
-    Transliteration:
-      'Kollaan Pulaalai  Maruththaanaik  Kaikooppi<br />Ellaa  Uyirun  Thozhum',
+    Transliteration: 'Kollaan Pulaalai  Maruththaanaik  Kaikooppi<br />Ellaa  Uyirun  Thozhum',
   },
   {
     Index: 261,
@@ -4785,8 +4448,7 @@ const kurral = [
       "To bear due penitential pains, while no offence<br />He causes others, is the type of 'penitence'",
     EnglishMeaning:
       'The nature of religious discipline consists, in the endurance (by the ascetic) of the sufferings which it brings on himself, and in abstaining from giving pain to others',
-    Transliteration:
-      'Utranoi Nondral  Uyirkkurukan  Seyyaamai<br />Atre  Thavaththir  Kuru',
+    Transliteration: 'Utranoi Nondral  Uyirkkurukan  Seyyaamai<br />Atre  Thavaththir  Kuru',
   },
   {
     Index: 262,
@@ -4803,13 +4465,11 @@ const kurral = [
       "To 'penitents' sincere avails their 'penitence';<br />Where that is not, 'tis but a vain pretence",
     EnglishMeaning:
       'Austerities can only be borne, and their benefits enjoyed, by those who have practised them (in a former birth); it will be useless for those who have not done so, to attempt to practise them (now)',
-    Transliteration:
-      'Thavamum Thavamutaiyaarkku  Aakum  Adhanai<br />Aqdhilaar  Merkol  Vadhu',
+    Transliteration: 'Thavamum Thavamutaiyaarkku  Aakum  Adhanai<br />Aqdhilaar  Merkol  Vadhu',
   },
   {
     Index: 263,
-    Tamil:
-      'துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொன்<br />மற்றை யவர்கள் தவம்',
+    Tamil: 'துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொன்<br />மற்றை யவர்கள் தவம்',
     line1: 'துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொன்',
     line2: 'மற்றை யவர்கள் தவம்',
     KalaignarUrai:
@@ -4840,8 +4500,7 @@ const kurral = [
       "Destruction to his foes, to friends increase of joy<br />The 'penitent' can cause, if this his thoughts employ",
     EnglishMeaning:
       'If (the ascetic) desire the destruction of his enemies, or the aggrandizement of his friends, it will be effected by (the power of) his austerities',
-    Transliteration:
-      'Onnaarth Theralum  Uvandhaarai  Aakkalum<br />Ennin  Thavaththaan  Varum',
+    Transliteration: 'Onnaarth Theralum  Uvandhaarai  Aakkalum<br />Ennin  Thavaththaan  Varum',
   },
   {
     Index: 265,
@@ -4858,13 +4517,11 @@ const kurral = [
       "That what they wish may, as they wish, be won,<br />By men on earth are works of painful 'penance' done",
     EnglishMeaning:
       'Religious dislipline is practised in this world, because it secures the attainment of whatever one may wish to enjoy (in the world to come)',
-    Transliteration:
-      'Ventiya Ventiyaang  Keydhalaal  Seydhavam<br />Eentu  Muyalap  Patum',
+    Transliteration: 'Ventiya Ventiyaang  Keydhalaal  Seydhavam<br />Eentu  Muyalap  Patum',
   },
   {
     Index: 266,
-    Tamil:
-      'தவஞ்செய்வார் தங்கருமஞ் செய்வார்மற் றல்லார்<br />அவஞ்செய்வார் ஆசையுட் பட்டு',
+    Tamil: 'தவஞ்செய்வார் தங்கருமஞ் செய்வார்மற் றல்லார்<br />அவஞ்செய்வார் ஆசையுட் பட்டு',
     line1: 'தவஞ்செய்வார் தங்கருமஞ் செய்வார்மற் றல்லார்',
     line2: 'அவஞ்செய்வார் ஆசையுட் பட்டு',
     KalaignarUrai:
@@ -4882,8 +4539,7 @@ const kurral = [
   },
   {
     Index: 267,
-    Tamil:
-      'சுடச்சுடரும் பொன்போல் ஒளிவிடுந் துன்பஞ்<br />சுடச்சுட நோற்கிற் பவர்க்கு',
+    Tamil: 'சுடச்சுடரும் பொன்போல் ஒளிவிடுந் துன்பஞ்<br />சுடச்சுட நோற்கிற் பவர்க்கு',
     line1: 'சுடச்சுடரும் பொன்போல் ஒளிவிடுந் துன்பஞ்',
     line2: 'சுடச்சுட நோற்கிற் பவர்க்கு',
     KalaignarUrai:
@@ -4910,25 +4566,21 @@ const kurral = [
       'தவ வலிமையால் தன்னுடைய உயிர், தான் என்னும் பற்று நீங்கப் பெற்றவனை மற்ற உயிர்கள் எல்லாம் (அவனுடைய பெருமையை உணர்ந்து) தொழும்.',
     SolomonPaapaiyaUrai:
       'தன் உயிர், தான் என்னும் எண்ணம் முற்றும் இல்லாதவனைப் பிற உயிர்கள் எல்லாம் தொழும்.',
-    English:
-      'Who gains himself in utter self-control,<br />Him worships every other living soul',
+    English: 'Who gains himself in utter self-control,<br />Him worships every other living soul',
     EnglishMeaning:
       'All other creatures will worship him who has attained the control of his own soul',
-    Transliteration:
-      'Thannuyir Thaanarap  Petraanai  Enaiya<br />Mannuyi  Rellaan  Thozhum',
+    Transliteration: 'Thannuyir Thaanarap  Petraanai  Enaiya<br />Mannuyi  Rellaan  Thozhum',
   },
   {
     Index: 269,
-    Tamil:
-      'கூற்றங் குதித்தலுங் கைகூடும் நோற்றலின்<br />ஆற்றல் தலைப்பட் டவர்க்கு',
+    Tamil: 'கூற்றங் குதித்தலுங் கைகூடும் நோற்றலின்<br />ஆற்றல் தலைப்பட் டவர்க்கு',
     line1: 'கூற்றங் குதித்தலுங் கைகூடும் நோற்றலின்',
     line2: 'ஆற்றல் தலைப்பட் டவர்க்கு',
     KalaignarUrai:
       'எத்தனைத் துன்பங்கள் வரினும் தாங்கிக் குறிக்கோளில் உறுதியாக நிற்கும் ஆற்றலுடையவர்கள் சாவையும் வென்று வாழ்வார்கள்',
     MuVaUrai:
       'தவம் செய்வதால் பெறத்தக்க ஆற்றலைப் பெற்றவர்க்கு (ஓர் இடையூறும் இல்லையாகையால் ) எமனை வெல்லுதலும் கைகூடும்',
-    SolomonPaapaiyaUrai:
-      'தவத்தால் வரும் வலிமையைப் பெற்றவரால் எமனையும் வெல்ல முடியும்.',
+    SolomonPaapaiyaUrai: 'தவத்தால் வரும் வலிமையைப் பெற்றவரால் எமனையும் வெல்ல முடியும்.',
     English:
       "E'en over death the victory he may gain,<br />If power by penance won his soul obtain",
     EnglishMeaning:
@@ -4951,8 +4603,7 @@ const kurral = [
       "The many all things lack! The cause is plain,<br />The 'penitents' are few The many shun such pain",
     EnglishMeaning:
       'Because there are few who practise austerity and many who do not, there are many destitute and few rich in this world',
-    Transliteration:
-      'Ilarpala Raakiya  Kaaranam  Norpaar<br />Silarpalar  Nolaa  Thavar',
+    Transliteration: 'Ilarpala Raakiya  Kaaranam  Norpaar<br />Silarpalar  Nolaa  Thavar',
   },
   {
     Index: 271,
@@ -4969,8 +4620,7 @@ const kurral = [
       'Who with deceitful mind in false way walks of covert sin,<br />The five-fold elements his frame compose, decide within',
     EnglishMeaning:
       'The five elements (of his body) will laugh within him at the feigned conduct of the deceitful minded man',
-    Transliteration:
-      'Vanja Manaththaan  Patitrozhukkam  Poodhangal<br />Aindhum  Akaththe  Nakum',
+    Transliteration: 'Vanja Manaththaan  Patitrozhukkam  Poodhangal<br />Aindhum  Akaththe  Nakum',
   },
   {
     Index: 272,
@@ -4987,13 +4637,11 @@ const kurral = [
       "What gain, though virtue's semblance high as heaven his fame exalt,<br />If heart dies down through sense of self-detected fault",
     EnglishMeaning:
       'What avails an appearance (of sanctity) high as heaven, if his mind suffers (the indulgence) of conscious sin',
-    Transliteration:
-      'Vaanuyar Thotram  Evanseyyum  Thannenjam<br />Thaanari  Kutrap  Patin',
+    Transliteration: 'Vaanuyar Thotram  Evanseyyum  Thannenjam<br />Thaanari  Kutrap  Patin',
   },
   {
     Index: 273,
-    Tamil:
-      'வலியில் நிலைமையான் வல்லுருவம் பெற்றம்<br />புலியின்தோல் போர்த்துமேய்ந் தற்று',
+    Tamil: 'வலியில் நிலைமையான் வல்லுருவம் பெற்றம்<br />புலியின்தோல் போர்த்துமேய்ந் தற்று',
     line1: 'வலியில் நிலைமையான் வல்லுருவம் பெற்றம்',
     line2: 'புலியின்தோல் போர்த்துமேய்ந் தற்று',
     KalaignarUrai:
@@ -5011,8 +4659,7 @@ const kurral = [
   },
   {
     Index: 274,
-    Tamil:
-      'தவமறைந் தல்லவை செய்தல் புதல்மறைந்து<br />வேட்டுவன் புள்சிமிழ்த் தற்று',
+    Tamil: 'தவமறைந் தல்லவை செய்தல் புதல்மறைந்து<br />வேட்டுவன் புள்சிமிழ்த் தற்று',
     line1: 'தவமறைந் தல்லவை செய்தல் புதல்மறைந்து',
     line2: 'வேட்டுவன் புள்சிமிழ்த் தற்று',
     KalaignarUrai:
@@ -5030,8 +4677,7 @@ const kurral = [
   },
   {
     Index: 275,
-    Tamil:
-      'பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்<br />றேதம் பலவுந் தரும்',
+    Tamil: 'பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்<br />றேதம் பலவுந் தரும்',
     line1: 'பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்',
     line2: 'றேதம் பலவுந் தரும்',
     KalaignarUrai:
@@ -5044,13 +4690,11 @@ const kurral = [
       "'Our souls are free,' who say, yet practise evil secretly,<br />'What folly have we wrought!' by many shames o'er-whelmed, shall cry",
     EnglishMeaning:
       "The false conduct of those who say they have renounced all desire will one day bring them sorrows that will make them cry out, 'Oh! what have we done, what have we done.'",
-    Transliteration:
-      'Patratrem Enpaar  Patitrozhukkam  Etretrendru<br />Edham  Palavun  Tharum',
+    Transliteration: 'Patratrem Enpaar  Patitrozhukkam  Etretrendru<br />Edham  Palavun  Tharum',
   },
   {
     Index: 276,
-    Tamil:
-      'நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்து<br />வாழ்வாரின் வன்கணா ரில்',
+    Tamil: 'நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்து<br />வாழ்வாரின் வன்கணா ரில்',
     line1: 'நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்து',
     line2: 'வாழ்வாரின் வன்கணா ரில்',
     KalaignarUrai:
@@ -5063,8 +4707,7 @@ const kurral = [
       "In mind renouncing nought, in speech renouncing every tie,<br />Who guileful live,- no men are found than these of 'harder eye'",
     EnglishMeaning:
       'Amongst living men there are none so hard-hearted as those who without to saking (desire) in their heart, falsely take the appearance of those who have forsaken (it)',
-    Transliteration:
-      'Nenjin Thuravaar  Thurandhaarpol  Vanjiththu<br />Vaazhvaarin  Vankanaar  Il',
+    Transliteration: 'Nenjin Thuravaar  Thurandhaarpol  Vanjiththu<br />Vaazhvaarin  Vankanaar  Il',
   },
   {
     Index: 277,
@@ -5081,8 +4724,7 @@ const kurral = [
       "Outward, they shine as 'kunri' berry's scarlet bright;<br />Inward, like tip of 'kunri' bead, as black as night",
     EnglishMeaning:
       '(The world) contains persons whose outside appears (as fair) as the (red) berry of the Abrus, but whose inside is as black as the nose of that berry',
-    Transliteration:
-      'Purangundri Kantanaiya  Renum  Akangundri<br />Mukkir  Kariyaar  Utaiththu',
+    Transliteration: 'Purangundri Kantanaiya  Renum  Akangundri<br />Mukkir  Kariyaar  Utaiththu',
   },
   {
     Index: 278,
@@ -5117,8 +4759,7 @@ const kurral = [
       'Cruel is the arrow straight, the crooked lute is sweet,<br />Judge by their deeds the many forms of men you meet',
     EnglishMeaning:
       'As, in its use, the arrow is crooked, and the curved lute is straight, so by their deeds, (and not by their appearance) let (the uprightness or crookedness of) men be estimated',
-    Transliteration:
-      'Kanaikotidhu Yaazhkotu  Sevvidhuaang  Kanna<br />Vinaipatu  Paalaal  Kolal',
+    Transliteration: 'Kanaikotidhu Yaazhkotu  Sevvidhuaang  Kanna<br />Vinaipatu  Paalaal  Kolal',
   },
   {
     Index: 280,
@@ -5135,13 +4776,11 @@ const kurral = [
       "What's the worth of shaven head or tresses long,<br />If you shun what all the world condemns as wrong",
     EnglishMeaning:
       'There is no need of a shaven crown, nor of tangled hair, if a man abstain from those deeds which the wise have condemned',
-    Transliteration:
-      'Mazhiththalum Neettalum  Ventaa  Ulakam<br />Pazhiththadhu  Ozhiththu  Vitin',
+    Transliteration: 'Mazhiththalum Neettalum  Ventaa  Ulakam<br />Pazhiththadhu  Ozhiththu  Vitin',
   },
   {
     Index: 281,
-    Tamil:
-      'எள்ளாமை வேண்டுவா னென்பான் எனைத்தொன்றுங்<br />கள்ளாமை காக்கதன் நெஞ்சு',
+    Tamil: 'எள்ளாமை வேண்டுவா னென்பான் எனைத்தொன்றுங்<br />கள்ளாமை காக்கதன் நெஞ்சு',
     line1: 'எள்ளாமை வேண்டுவா னென்பான் எனைத்தொன்றுங்',
     line2: 'கள்ளாமை காக்கதன் நெஞ்சு',
     KalaignarUrai:
@@ -5154,8 +4793,7 @@ const kurral = [
       "Who seeks heaven's joys, from impious levity secure,<br />Let him from every fraud preserve his spirit pure",
     EnglishMeaning:
       'Let him, who desires not to be despised, keep his mind from (the desire of) defrauding another of the smallest thing',
-    Transliteration:
-      'Ellaamai Ventuvaan  Enpaan  Enaiththondrum<br />Kallaamai  Kaakkadhan  Nenju',
+    Transliteration: 'Ellaamai Ventuvaan  Enpaan  Enaiththondrum<br />Kallaamai  Kaakkadhan  Nenju',
   },
   {
     Index: 282,
@@ -5172,8 +4810,7 @@ const kurral = [
       "'Tis sin if in the mind man but thought conceive;<br />'By fraud I will my neighbour of his wealth bereave.'",
     EnglishMeaning:
       'Even the thought (of sin) is sin; think not then of crafiily stealing the property of another',
-    Transliteration:
-      'Ullaththaal Ullalum  Theedhe  Piranporulaik<br />Kallaththaal  Kalvem  Enal',
+    Transliteration: 'Ullaththaal Ullalum  Theedhe  Piranporulaik<br />Kallaththaal  Kalvem  Enal',
   },
   {
     Index: 283,
@@ -5184,14 +4821,12 @@ const kurral = [
       'கொள்ளயடித்துப் பொருள் குவிப்பது, முதலில் பெரிதாகத் தோன்றினாலும், அந்தச் செயல் ஏற்கனவே இருந்த செல்வத்தையும் அடித்து கொண்டு போய்விடும்',
     MuVaUrai:
       'களவு செய்து பொருள் கொள்வதால் உண்டாகிய ஆக்கம் பெருகுவது போல் தோன்றி இயல்பாக இருக்க வேண்டிய அளவையும் கடந்து கெட்டு விடும்.',
-    SolomonPaapaiyaUrai:
-      'திருடுவதால் வரும் செல்வம், பெருகுவது போலத் தோன்றி விரைவில் அழியும்.',
+    SolomonPaapaiyaUrai: 'திருடுவதால் வரும் செல்வம், பெருகுவது போலத் தோன்றி விரைவில் அழியும்.',
     English:
       'The gain that comes by fraud, although it seems to grow<br />With limitless increase, to ruin swift shall go',
     EnglishMeaning:
       'The property, which is acquired by fraud, will entirely perish, even while it seems to increase',
-    Transliteration:
-      'Kalavinaal Aakiya  Aakkam  Alavirandhu<br />Aavadhu  Polak  Ketum',
+    Transliteration: 'Kalavinaal Aakiya  Aakkam  Alavirandhu<br />Aavadhu  Polak  Ketum',
   },
   {
     Index: 284,
@@ -5202,19 +4837,15 @@ const kurral = [
       'களவு செய்வதில் ஒருவனுக்கு ஏற்படும் தணியாத தாகம், அதனால் உருவாகும் விளைவுகளால் தீராத துன்பத்தை உண்டாக்கும்',
     MuVaUrai:
       'களவு செய்து பிறர் பொருள் கொள்ளுதலில் ஒருவனுக்கு உள்ள மிகுந்த விருப்பம், பயன் விளையும் போது தொலையாதத் துன்பத்தைத் தரும்.',
-    SolomonPaapaiyaUrai:
-      'அடுத்தவர் பொருளைத் திருடும் ஆசை, நிறைவேறியபின் அழியாத துன்பத்தைத் தரும்.',
-    English:
-      'The lust inveterate of fraudful gain,<br />Yields as its fruit undying pain',
+    SolomonPaapaiyaUrai: 'அடுத்தவர் பொருளைத் திருடும் ஆசை, நிறைவேறியபின் அழியாத துன்பத்தைத் தரும்.',
+    English: 'The lust inveterate of fraudful gain,<br />Yields as its fruit undying pain',
     EnglishMeaning:
       'The eager desire of defrauding others will, when it brings forth its fruit, produce undying sorrow',
-    Transliteration:
-      'Kalavinkan Kandriya  Kaadhal  Vilaivinkan<br />Veeyaa  Vizhumam  Tharum',
+    Transliteration: 'Kalavinkan Kandriya  Kaadhal  Vilaivinkan<br />Veeyaa  Vizhumam  Tharum',
   },
   {
     Index: 285,
-    Tamil:
-      'அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்<br />பொச்சாப்புப் பார்ப்பார்க ணில்',
+    Tamil: 'அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்<br />பொச்சாப்புப் பார்ப்பார்க ணில்',
     line1: 'அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்',
     line2: 'பொச்சாப்புப் பார்ப்பார்க ணில்',
     KalaignarUrai:
@@ -5245,8 +4876,7 @@ const kurral = [
       "They cannot walk restrained in wisdom's measured bound,<br />In whom inveterate lust of fraudful gain is found",
     EnglishMeaning:
       'They cannot walk steadfastly, according to rule, who eagerly desire to defraud others',
-    Transliteration:
-      'Alavinkan Nindrozhukal  Aatraar  Kalavinkan<br />Kandriya  Kaadha  Lavar',
+    Transliteration: 'Alavinkan Nindrozhukal  Aatraar  Kalavinkan<br />Kandriya  Kaadha  Lavar',
   },
   {
     Index: 287,
@@ -5263,13 +4893,11 @@ const kurral = [
       "Practice of fraud's dark cunning arts they shun,<br />Who long for power by 'measured wisdom' won",
     EnglishMeaning:
       'That black-knowledge which is called fraud, is not in those who desire that greatness which is called rectitude',
-    Transliteration:
-      'Kalavennum Kaarari  Vaanmai  Alavennum<br />Aatral  Purindhaarkanta  Il',
+    Transliteration: 'Kalavennum Kaarari  Vaanmai  Alavennum<br />Aatral  Purindhaarkanta  Il',
   },
   {
     Index: 288,
-    Tamil:
-      'அளவறிந்தார் நெஞ்சத் தறம்போல நிற்குங்<br />களவறிந்தார் நெஞ்சில் கரவு',
+    Tamil: 'அளவறிந்தார் நெஞ்சத் தறம்போல நிற்குங்<br />களவறிந்தார் நெஞ்சில் கரவு',
     line1: 'அளவறிந்தார் நெஞ்சத் தறம்போல நிற்குங்',
     line2: 'களவறிந்தார் நெஞ்சில் கரவு',
     KalaignarUrai:
@@ -5300,13 +4928,11 @@ const kurral = [
       'Who have no lore save that which fraudful arts supply,<br />Acts of unmeasured vice committing straightway die',
     EnglishMeaning:
       'Those, who are acquainted with nothing but fraud, will perish in the very commission of transgression',
-    Transliteration:
-      'Alavalla Seydhaange  Veevar  Kalavalla<br />Matraiya  Thetraa  Thavar',
+    Transliteration: 'Alavalla Seydhaange  Veevar  Kalavalla<br />Matraiya  Thetraa  Thavar',
   },
   {
     Index: 290,
-    Tamil:
-      'கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத் <br />தள்ளாது புத்தே ளுலகு',
+    Tamil: 'கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத் <br />தள்ளாது புத்தே ளுலகு',
     line1: 'கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத் ',
     line2: 'தள்ளாது புத்தே ளுலகு',
     KalaignarUrai:
@@ -5337,8 +4963,7 @@ const kurral = [
       "You ask, in lips of men what 'truth' may be;<br />'Tis speech from every taint of evil free",
     EnglishMeaning:
       'Truth is the speaking of such words as are free from the least degree of evil (to others)',
-    Transliteration:
-      'Vaaimai Enappatuvadhu  Yaadhenin  Yaadhondrum<br />Theemai  Ilaadha  Solal',
+    Transliteration: 'Vaaimai Enappatuvadhu  Yaadhenin  Yaadhondrum<br />Theemai  Ilaadha  Solal',
   },
   {
     Index: 292,
@@ -5355,8 +4980,7 @@ const kurral = [
       'Falsehood may take the place of truthful word,<br />If blessing, free from fault, it can afford',
     EnglishMeaning:
       'Even falsehood has the nature of truth, if it confer a benefit that is free from fault',
-    Transliteration:
-      'Poimaiyum Vaaimai  Yitaththa  Puraidheerndha<br />Nanmai  Payakkum  Enin',
+    Transliteration: 'Poimaiyum Vaaimai  Yitaththa  Puraidheerndha<br />Nanmai  Payakkum  Enin',
   },
   {
     Index: 293,
@@ -5373,8 +4997,7 @@ const kurral = [
       "Speak not a word which false thy own heart knows<br />Self-kindled fire within the false one's spirit glows",
     EnglishMeaning:
       'Let not a man knowingly tell a lie; for after he has told the lie, his mind will burn him (with the memory of his guilt)',
-    Transliteration:
-      'Thannenj Charivadhu  Poiyarka  Poiththapin<br />Thannenje  Thannaich  Chutum',
+    Transliteration: 'Thannenj Charivadhu  Poiyarka  Poiththapin<br />Thannenje  Thannaich  Chutum',
   },
   {
     Index: 294,
@@ -5387,12 +5010,10 @@ const kurral = [
       'ஒருவன் தன் உள்ளம் அறியப் பொய் இல்லாமல் நடப்பானானால் அத்தகையவன் உலகத்தாரின் உள்ளங்களில் எல்லாம் இருப்பவனாவான்.',
     SolomonPaapaiyaUrai:
       'உள்ளம் அறியப் பொய் சொல்லாமல் ஒருவன் வாழ்ந்தால் அவன் உயர்ந்தவர் உள்ளத்துள் எல்லாம் குடி இருப்பான்.',
-    English:
-      'True to his inmost soul who lives,- enshrined<br />He lives in souls of all mankind',
+    English: 'True to his inmost soul who lives,- enshrined<br />He lives in souls of all mankind',
     EnglishMeaning:
       'He who, in his conduct, preserves a mind free from deceit, will dwell in the minds of all men',
-    Transliteration:
-      'Ullaththaar Poiyaa  Thozhukin  Ulakaththaar<br />Ullaththu  Lellaam  Ulan',
+    Transliteration: 'Ullaththaar Poiyaa  Thozhukin  Ulakaththaar<br />Ullaththu  Lellaam  Ulan',
   },
   {
     Index: 295,
@@ -5409,8 +5030,7 @@ const kurral = [
       'Greater is he who speaks the truth with full consenting mind<br />Than men whose lives have penitence and charity combined',
     EnglishMeaning:
       'He, who speaks truth with all his heart, is superior to those who make gifts and practise austerities',
-    Transliteration:
-      'Manaththotu Vaaimai  Mozhiyin  Thavaththotu<br />Thaananjey  Vaarin  Thalai',
+    Transliteration: 'Manaththotu Vaaimai  Mozhiyin  Thavaththotu<br />Thaananjey  Vaarin  Thalai',
   },
   {
     Index: 296,
@@ -5427,8 +5047,7 @@ const kurral = [
       'No praise like that of words from falsehood free;<br />This every virtue yields spontaneously',
     EnglishMeaning:
       'There is no praise like the praise of never uttering a falsehood: without causing any suffering, it will lead to every virtue',
-    Transliteration:
-      'Poiyaamai Anna  Pukazhillai  Eyyaamai<br />Ellaa  Aramun  Tharum',
+    Transliteration: 'Poiyaamai Anna  Pukazhillai  Eyyaamai<br />Ellaa  Aramun  Tharum',
   },
   {
     Index: 297,
@@ -5445,8 +5064,7 @@ const kurral = [
       "If all your life be utter truth, the truth alone,<br />'Tis well, though other virtuous acts be left undone",
     EnglishMeaning:
       'If a man has the power to abstain from falsehood, it will be well with him, even though he practise no other virtue',
-    Transliteration:
-      'Poiyaamai Poiyaamai  Aatrin  Arampira<br />Seyyaamai  Seyyaamai  Nandru',
+    Transliteration: 'Poiyaamai Poiyaamai  Aatrin  Arampira<br />Seyyaamai  Seyyaamai  Nandru',
   },
   {
     Index: 298,
@@ -5457,19 +5075,14 @@ const kurral = [
       'நீரில் குளிப்பதால் உடலின் அழுக்கு மட்டுமே நீங்கும்; மனம் அழுக்குப்படாமல் தூய்மையுடன் விளங்கிட, சொல்லிலும் செயலிலும் வாய்மை வேண்டும்',
     MuVaUrai:
       'புறத்தே தூய்மையாக விளங்குதல் நீரினால் ஏற்ப்படும், அதுபோல அகத்தே தூய்மையாக விளங்குதல் வாய்மையால் உண்டாகும்.',
-    SolomonPaapaiyaUrai:
-      'உடம்பு தண்ணீரால் சுத்தமாகும்;  உள்ளம் உண்மையால் சுத்தமாகும்.',
-    English:
-      'Outward purity the water will bestow;<br />Inward purity from truth alone will flow',
-    EnglishMeaning:
-      'Purity of body is produced by water and purity of mind by truthfulness',
-    Transliteration:
-      'Puraldhooimai Neeraan  Amaiyum  Akandhooimai<br />Vaaimaiyaal  Kaanap  Patum',
+    SolomonPaapaiyaUrai: 'உடம்பு தண்ணீரால் சுத்தமாகும்;  உள்ளம் உண்மையால் சுத்தமாகும்.',
+    English: 'Outward purity the water will bestow;<br />Inward purity from truth alone will flow',
+    EnglishMeaning: 'Purity of body is produced by water and purity of mind by truthfulness',
+    Transliteration: 'Puraldhooimai Neeraan  Amaiyum  Akandhooimai<br />Vaaimaiyaal  Kaanap  Patum',
   },
   {
     Index: 299,
-    Tamil:
-      'எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்<br />பொய்யா விளக்கே விளக்கு',
+    Tamil: 'எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்<br />பொய்யா விளக்கே விளக்கு',
     line1: 'எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்',
     line2: 'பொய்யா விளக்கே விளக்கு',
     KalaignarUrai:
@@ -5480,10 +5093,8 @@ const kurral = [
       ' உலகத்து இருட்டைப் போக்கும் விளக்குகள், விளக்கு ஆகா; பொய் சொல்லாமை என்னும் விளக்கே சான்றோர்க்கு விளக்கு ஆகும்.',
     English:
       "Every lamp is not a lamp in wise men's sight;<br />That's the lamp with truth's pure radiance bright",
-    EnglishMeaning:
-      'All lamps of nature are not lamps; the lamp of truth is the lamp of the wise',
-    Transliteration:
-      'Ellaa Vilakkum  Vilakkalla  Saandrorkkup<br />Poiyaa  Vilakke  Vilakku',
+    EnglishMeaning: 'All lamps of nature are not lamps; the lamp of truth is the lamp of the wise',
+    Transliteration: 'Ellaa Vilakkum  Vilakkalla  Saandrorkkup<br />Poiyaa  Vilakke  Vilakku',
   },
   {
     Index: 300,
@@ -5500,13 +5111,11 @@ const kurral = [
       "Of all good things we've scanned with studious care,<br />There's nought that can with truthfulness compare",
     EnglishMeaning:
       'Amidst all that we have seen (described) as real (excellence), there is nothing so good as truthfulness',
-    Transliteration:
-      'Yaameyyaak Kantavatrul  Illai  Enaiththondrum<br />Vaaimaiyin  Nalla  Pira',
+    Transliteration: 'Yaameyyaak Kantavatrul  Illai  Enaiththondrum<br />Vaaimaiyin  Nalla  Pira',
   },
   {
     Index: 301,
-    Tamil:
-      'செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்<br />காக்கினென் காவாக்கா லென்',
+    Tamil: 'செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்<br />காக்கினென் காவாக்கா லென்',
     line1: 'செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக்',
     line2: 'காக்கினென் காவாக்கா லென்',
     KalaignarUrai:
@@ -5537,8 +5146,7 @@ const kurral = [
       "Where power is none to wreak thy wrath, wrath importent is ill;<br />Where thou hast power thy will to work, 'tis greater, evil still",
     EnglishMeaning:
       'Anger is bad, even when it cannot injure; when it can injure; there is no greater evil',
-    Transliteration:
-      'Sellaa Itaththuch  Chinandheedhu  Sellitaththum<br />Iladhanin  Theeya  Pira',
+    Transliteration: 'Sellaa Itaththuch  Chinandheedhu  Sellitaththum<br />Iladhanin  Theeya  Pira',
   },
   {
     Index: 303,
@@ -5553,10 +5161,8 @@ const kurral = [
       'தீமை வருவது எல்லாம் கோபத்தால்தான்; அதனால் எவரிடமானாலும் சரி, கோபம் கொள்வதை விட்டுவிடுக.\\r\\n',
     English:
       'If any rouse thy wrath, the trespass straight forget;<br />For wrath an endless train of evils will beget',
-    EnglishMeaning:
-      'Forget anger towards every one, as fountains of evil spring from it',
-    Transliteration:
-      'Maraththal Vekuliyai  Yaarmaattum  Theeya<br />Piraththal  Adhanaan  Varum',
+    EnglishMeaning: 'Forget anger towards every one, as fountains of evil spring from it',
+    Transliteration: 'Maraththal Vekuliyai  Yaarmaattum  Theeya<br />Piraththal  Adhanaan  Varum',
   },
   {
     Index: 304,
@@ -5572,13 +5178,11 @@ const kurral = [
     English:
       'Wrath robs the face of smiles, the heart of joy,<br />What other foe to man works such annoy',
     EnglishMeaning: 'What other foe to man works such annoy?',
-    Transliteration:
-      'Nakaiyum Uvakaiyum  Kollum  Sinaththin<br />Pakaiyum  Ulavo  Pira',
+    Transliteration: 'Nakaiyum Uvakaiyum  Kollum  Sinaththin<br />Pakaiyum  Ulavo  Pira',
   },
   {
     Index: 305,
-    Tamil:
-      'தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்<br />தன்னையே கொல்லுஞ் சினம்',
+    Tamil: 'தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்<br />தன்னையே கொல்லுஞ் சினம்',
     line1: 'தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால்',
     line2: 'தன்னையே கொல்லுஞ் சினம்',
     KalaignarUrai:
@@ -5596,8 +5200,7 @@ const kurral = [
   },
   {
     Index: 306,
-    Tamil:
-      'சினமென்னுஞ் சேர்ந்தாரைக் கொல்லி இனமென்னும்<br />ஏமப் புணையைச் சுடும்',
+    Tamil: 'சினமென்னுஞ் சேர்ந்தாரைக் கொல்லி இனமென்னும்<br />ஏமப் புணையைச் சுடும்',
     line1: 'சினமென்னுஞ் சேர்ந்தாரைக் கொல்லி இனமென்னும்',
     line2: 'ஏமப் புணையைச் சுடும்',
     KalaignarUrai:
@@ -5608,15 +5211,12 @@ const kurral = [
       'சேர்ந்தவரைக் கொல்லி எனப்படும் கோபம், சேர்ந்தவரை மட்டும் அன்று; சேர்ந்தவர்க்குத் துணையாக இருப்பவரையும் எரித்துவிடும்.',
     English:
       "Wrath, the fire that slayeth whose draweth near,<br />Will burn the helpful 'raft' of kindred dear",
-    EnglishMeaning:
-      'The fire of anger will burn up even the pleasant raft of friendship',
-    Transliteration:
-      'Sinamennum Serndhaaraik  Kolli  Inamennum<br />Emap  Punaiyaich  Chutum',
+    EnglishMeaning: 'The fire of anger will burn up even the pleasant raft of friendship',
+    Transliteration: 'Sinamennum Serndhaaraik  Kolli  Inamennum<br />Emap  Punaiyaich  Chutum',
   },
   {
     Index: 307,
-    Tamil:
-      'சினத்தைப் பொருளென்று கொண்டவன் கேடு<br />நிலத்தறைந்தான் கைபிழையா தற்று',
+    Tamil: 'சினத்தைப் பொருளென்று கொண்டவன் கேடு<br />நிலத்தறைந்தான் கைபிழையா தற்று',
     line1: 'சினத்தைப் பொருளென்று கொண்டவன் கேடு',
     line2: 'நிலத்தறைந்தான் கைபிழையா தற்று',
     KalaignarUrai:
@@ -5647,8 +5247,7 @@ const kurral = [
       "Though men should work thee woe, like touch of tongues of fire<br />'Tis well if thou canst save thy soul from burning ire",
     EnglishMeaning:
       'Though one commit things against you as painful (to bear) as if a bundle of fire had been thrust upon you, it will be well, to refrain, if possible, from anger',
-    Transliteration:
-      'Inareri Thoivanna  Innaa  Seyinum<br />Punarin  Vekulaamai  Nandru',
+    Transliteration: 'Inareri Thoivanna  Innaa  Seyinum<br />Punarin  Vekulaamai  Nandru',
   },
   {
     Index: 309,
@@ -5665,8 +5264,7 @@ const kurral = [
       "If man his soul preserve from wrathful fires,<br />He gains with that whate'er his soul desires",
     EnglishMeaning:
       'If a man never indulges anger in his heart, he will at once obtain whatever he has thought of',
-    Transliteration:
-      'Ulliya Thellaam  Utaneydhum  Ullaththaal<br />Ullaan  Vekuli  Enin',
+    Transliteration: 'Ulliya Thellaam  Utaneydhum  Ullaththaal<br />Ullaan  Vekuli  Enin',
   },
   {
     Index: 310,
@@ -5688,8 +5286,7 @@ const kurral = [
   },
   {
     Index: 311,
-    Tamil:
-      'சிறப்பீனுஞ் செல்வம் பெறினும் பிறர்க்கின்னா<br />செய்யாமை மாசற்றார் கோள்',
+    Tamil: 'சிறப்பீனுஞ் செல்வம் பெறினும் பிறர்க்கின்னா<br />செய்யாமை மாசற்றார் கோள்',
     line1: 'சிறப்பீனுஞ் செல்வம் பெறினும் பிறர்க்கின்னா',
     line2: 'செய்யாமை மாசற்றார் கோள்',
     KalaignarUrai:
@@ -5702,13 +5299,11 @@ const kurral = [
       'Though ill to neighbour wrought should glorious pride of wealth secure,<br />No ill to do is fixed decree of men in spirit pure',
     EnglishMeaning:
       'It is the determination of the spotless not to cause sorrow to others, although they could (by so causing) obtain the wealth which confers greatness',
-    Transliteration:
-      'Sirappeenum Selvam  Perinum  Pirarkku  Innaa<br />Seyyaamai  Maasatraar  Kol',
+    Transliteration: 'Sirappeenum Selvam  Perinum  Pirarkku  Innaa<br />Seyyaamai  Maasatraar  Kol',
   },
   {
     Index: 312,
-    Tamil:
-      'கறுத்தின்னா செய்தவக் கண்ணும் மறுத்தின்னா<br />செய்யாமை மாசற்றார் கோள்',
+    Tamil: 'கறுத்தின்னா செய்தவக் கண்ணும் மறுத்தின்னா<br />செய்யாமை மாசற்றார் கோள்',
     line1: 'கறுத்தின்னா செய்தவக் கண்ணும் மறுத்தின்னா',
     line2: 'செய்யாமை மாசற்றார் கோள்',
     KalaignarUrai:
@@ -5739,8 +5334,7 @@ const kurral = [
       'Though unprovoked thy soul malicious foes should sting,<br />Retaliation wrought inevitable woes will bring',
     EnglishMeaning:
       'In an ascetic inflict suffering even on those who hate him, when he has not done them any evil, it will afterwards give him irretrievable sorrow',
-    Transliteration:
-      'Seyyaamal Setraarkkum  Innaadha  Seydhapin<br />Uyyaa  Vizhuman  Tharum',
+    Transliteration: 'Seyyaamal Setraarkkum  Innaadha  Seydhapin<br />Uyyaa  Vizhuman  Tharum',
   },
   {
     Index: 314,
@@ -5757,8 +5351,7 @@ const kurral = [
       'To punish wrong, with kindly benefits the doers ply;<br />Thus shame their souls; but pass the ill unheeded by',
     EnglishMeaning:
       'The (proper) punishment to those who have done evil (to you), is to put them to shame by showing them kindness, in return and to forget both the evil and the good done on both sides',
-    Transliteration:
-      'Innaasey Thaarai  Oruththal  Avarnaana<br />Nannayanj  Cheydhu  Vital',
+    Transliteration: 'Innaasey Thaarai  Oruththal  Avarnaana<br />Nannayanj  Cheydhu  Vital',
   },
   {
     Index: 315,
@@ -5775,8 +5368,7 @@ const kurral = [
       "From wisdom's vaunted lore what doth the learner gain,<br />If as his own he guard not others' souls from pain",
     EnglishMeaning:
       'What benefit has he derived from his knowledge, who does not endeavour to keep off pain from another as much as from himself ?',
-    Transliteration:
-      'Arivinaan Aakuva  Thunto  Piridhinnoi<br />Thannoipol  Potraak  Katai',
+    Transliteration: 'Arivinaan Aakuva  Thunto  Piridhinnoi<br />Thannoipol  Potraak  Katai',
   },
   {
     Index: 316,
@@ -5787,19 +5379,16 @@ const kurral = [
       'ஒருவன் தன்னுடைய வாழ்க்கையில் துன்பமானவை என்று அனுபவித்து அறிந்தவற்றை, மற்றவர்க்குச் செய்யாமலிருக்க வேண்டும்',
     MuVaUrai:
       'ஒருவன் துன்பமானவை என்று தன் வாழ்க்கையில் கண்டு உணர்ந்தவைகளை மற்றவனிடத்தில் செய்யாமல் தவிர்க்க வேண்டும்.',
-    SolomonPaapaiyaUrai:
-      'தீமை எனத் தான் அறிந்தவற்றை  அடுத்தவர்க்குச் செய்யாது இருக்க வேண்டும்.',
+    SolomonPaapaiyaUrai: 'தீமை எனத் தான் அறிந்தவற்றை  அடுத்தவர்க்குச் செய்யாது இருக்க வேண்டும்.',
     English:
       'What his own soul has felt as bitter pain,<br />From making others feel should man abstain',
     EnglishMeaning:
       'Let not a man consent to do those things to another which, he knows, will cause sorrow',
-    Transliteration:
-      'Innaa Enaththaan  Unarndhavai  Thunnaamai<br />Ventum  Pirankan  Seyal',
+    Transliteration: 'Innaa Enaththaan  Unarndhavai  Thunnaamai<br />Ventum  Pirankan  Seyal',
   },
   {
     Index: 317,
-    Tamil:
-      'எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்<br />மாணாசெய் யாமை தலை',
+    Tamil: 'எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்<br />மாணாசெய் யாமை தலை',
     line1: 'எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்',
     line2: 'மாணாசெய் யாமை தலை',
     KalaignarUrai:
@@ -5817,8 +5406,7 @@ const kurral = [
   },
   {
     Index: 318,
-    Tamil:
-      'தன்னுயிர்க் கின்னாமை தானறிவான் என்கொலோ<br />மன்னுயிர்க் கின்னா செயல்',
+    Tamil: 'தன்னுயிர்க் கின்னாமை தானறிவான் என்கொலோ<br />மன்னுயிர்க் கின்னா செயல்',
     line1: 'தன்னுயிர்க் கின்னாமை தானறிவான் என்கொலோ',
     line2: 'மன்னுயிர்க் கின்னா செயல்',
     KalaignarUrai:
@@ -5831,13 +5419,11 @@ const kurral = [
       'Whose soul has felt the bitter smart of wrong, how can<br />He wrongs inflict on ever-living soul of man',
     EnglishMeaning:
       'Why does a man inflict upon other creatures those sufferings, which he has found by experience are sufferings to himself ?',
-    Transliteration:
-      'Thannuyirkaku Ennaamai  Thaanarivaan  Enkolo<br />Mannuyirkku  Innaa  Seyal',
+    Transliteration: 'Thannuyirkaku Ennaamai  Thaanarivaan  Enkolo<br />Mannuyirkku  Innaa  Seyal',
   },
   {
     Index: 319,
-    Tamil:
-      'பிறர்க்கின்னா முற்பகல் செய்யின் தமக்கின்னா<br />பிற்பகல் தாமே வரும்',
+    Tamil: 'பிறர்க்கின்னா முற்பகல் செய்யின் தமக்கின்னா<br />பிற்பகல் தாமே வரும்',
     line1: 'பிறர்க்கின்னா முற்பகல் செய்யின் தமக்கின்னா',
     line2: 'பிற்பகல் தாமே வரும்',
     KalaignarUrai:
@@ -5850,8 +5436,7 @@ const kurral = [
       'If, ere the noontide, you to others evil do,<br />Before the eventide will evil visit you',
     EnglishMeaning:
       'If a man inflict sorrow upon others in the morning, it will come upon him unsought in the very evening',
-    Transliteration:
-      'Pirarkkinnaa Murpakal  Seyyin  Thamakku  Innaa<br />Pirpakal  Thaame  Varum',
+    Transliteration: 'Pirarkkinnaa Murpakal  Seyyin  Thamakku  Innaa<br />Pirpakal  Thaame  Varum',
   },
   {
     Index: 320,
@@ -5868,8 +5453,7 @@ const kurral = [
       "O'er every evil-doer evil broodeth still;<br />He evil shuns who freedom seeks from ill",
     EnglishMeaning:
       'Sorrow will come upon those who cause pain to others; therfore those, who desire to be free from sorrow, give no pain to others',
-    Transliteration:
-      'Noyellaam Noiseydhaar  Melavaam  Noiseyyaar<br />Noyinmai  Ventu  Pavar',
+    Transliteration: 'Noyellaam Noiseydhaar  Melavaam  Noiseyyaar<br />Noyinmai  Ventu  Pavar',
   },
   {
     Index: 321,
@@ -5886,8 +5470,7 @@ const kurral = [
       "What is the work of virtue? 'Not to kill';<br />For 'killing' leads to every work of ill",
     EnglishMeaning:
       'Never to destroy life is the sum of all virtuous conduct The destruction of life leads to every evil',
-    Transliteration:
-      'Aravinai Yaadhenin  Kollaamai  Koral<br />Piravinai  Ellaan  Tharum',
+    Transliteration: 'Aravinai Yaadhenin  Kollaamai  Koral<br />Piravinai  Ellaan  Tharum',
   },
   {
     Index: 322,
@@ -5922,26 +5505,22 @@ const kurral = [
       "Alone, first of goods things, is 'not to slay';<br />The second is, no untrue word to say",
     EnglishMeaning:
       'Not to destroy life is an incomparably (great) good next to it in goodness ranks freedom from falsehood',
-    Transliteration:
-      'Ondraaka Nalladhu  Kollaamai  Matradhan<br />Pinsaarap  Poiyaamai  Nandru',
+    Transliteration: 'Ondraaka Nalladhu  Kollaamai  Matradhan<br />Pinsaarap  Poiyaamai  Nandru',
   },
   {
     Index: 324,
     Tamil: 'நல்லா றெனப்படுவ தியாதெனின் யாதொன்றுங் <br />கொல்லாமை சூழும் நெறி',
     line1: 'நல்லா றெனப்படுவ தியாதெனின் யாதொன்றுங் ',
     line2: 'கொல்லாமை சூழும் நெறி',
-    KalaignarUrai:
-      'எந்த உயிரையும் கொல்லக் கூடாது எனும் நெறி காப்பதுதான் நல்லற வழி எனப்படும்',
+    KalaignarUrai: 'எந்த உயிரையும் கொல்லக் கூடாது எனும் நெறி காப்பதுதான் நல்லற வழி எனப்படும்',
     MuVaUrai:
       'நல்ல வழி என்று அறநூல்களால் சொல்லப்படுவது எது என்றால், எந்த உயிரையும் கொல்லாத அறத்தைப் போற்றும் நெறியாகும்.',
     SolomonPaapaiyaUrai:
       'நல்ல வழி எது என்றால், எந்த உயிரையும் கொலை செய்யாமல்  அறம் காக்கும் வழிதான்.',
     English:
       "You ask, What is the good and perfect way?<br />'Tis path of him who studies nought to slay",
-    EnglishMeaning:
-      'Good path is that which considers how it may avoid killing any creature',
-    Transliteration:
-      'Nallaaru Enappatuvadhu  Yaadhenin  Yaadhondrum<br />Kollaamai  Soozhum  Neri',
+    EnglishMeaning: 'Good path is that which considers how it may avoid killing any creature',
+    Transliteration: 'Nallaaru Enappatuvadhu  Yaadhenin  Yaadhondrum<br />Kollaamai  Soozhum  Neri',
   },
   {
     Index: 325,
@@ -5958,13 +5537,11 @@ const kurral = [
       "Of those who 'being' dread, and all renounce, the chief are they,<br />Who dreading crime of slaughter, study nought to slay",
     EnglishMeaning:
       'Of all those who, fearing the permanence of earthly births, have abandoned desire, he is the chief who, fearing (the guilt of) murder, considers how he may avoid the destruction of life',
-    Transliteration:
-      'Nilaianji Neeththaarul  Ellaam  Kolaianjik<br />Kollaamai  Soozhvaan  Thalai',
+    Transliteration: 'Nilaianji Neeththaarul  Ellaam  Kolaianjik<br />Kollaamai  Soozhvaan  Thalai',
   },
   {
     Index: 326,
-    Tamil:
-      'கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்<br />செல்லா துயிருண்ணுங் கூற்று',
+    Tamil: 'கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்<br />செல்லா துயிருண்ணுங் கூற்று',
     line1: 'கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்',
     line2: 'செல்லா துயிருண்ணுங் கூற்று',
     KalaignarUrai:
@@ -5982,8 +5559,7 @@ const kurral = [
   },
   {
     Index: 327,
-    Tamil:
-      'தன்னுயிர் நீப்பினுஞ் செய்யற்க தான்பிறி<br />தின்னுயிர் நீக்கும் வினை',
+    Tamil: 'தன்னுயிர் நீப்பினுஞ் செய்யற்க தான்பிறி<br />தின்னுயிர் நீக்கும் வினை',
     line1: 'தன்னுயிர் நீப்பினுஞ் செய்யற்க தான்பிறி',
     line2: 'தின்னுயிர் நீக்கும் வினை',
     KalaignarUrai:
@@ -5996,13 +5572,11 @@ const kurral = [
       'Though thine own life for that spared life the price must pay,<br />Take not from aught that lives gift of sweet life away',
     EnglishMeaning:
       'Let no one do that which would destroy the life of another, although he should by so doing, lose his own life',
-    Transliteration:
-      'Thannuyir Neeppinum  Seyyarka  Thaanpiridhu<br />Innuyir  Neekkum  Vinai',
+    Transliteration: 'Thannuyir Neeppinum  Seyyarka  Thaanpiridhu<br />Innuyir  Neekkum  Vinai',
   },
   {
     Index: 328,
-    Tamil:
-      'நன்றாகும் ஆக்கம் பெரிதெனினுஞ் சான்றோர்க்குக்<br />கொன்றாகும் ஆக்கங் கடை',
+    Tamil: 'நன்றாகும் ஆக்கம் பெரிதெனினுஞ் சான்றோர்க்குக்<br />கொன்றாகும் ஆக்கங் கடை',
     line1: 'நன்றாகும் ஆக்கம் பெரிதெனினுஞ் சான்றோர்க்குக்',
     line2: 'கொன்றாகும் ஆக்கங் கடை',
     KalaignarUrai:
@@ -6037,8 +5611,7 @@ const kurral = [
   },
   {
     Index: 330,
-    Tamil:
-      'உயிருடம்பின் நீக்கியா ரென்ப செயிருடம்பின்<br />செல்லாத்தீ வாழ்க்கை யவர்',
+    Tamil: 'உயிருடம்பின் நீக்கியா ரென்ப செயிருடம்பின்<br />செல்லாத்தீ வாழ்க்கை யவர்',
     line1: 'உயிருடம்பின் நீக்கியா ரென்ப செயிருடம்பின்',
     line2: 'செல்லாத்தீ வாழ்க்கை யவர்',
     KalaignarUrai:
@@ -6059,23 +5632,19 @@ const kurral = [
     Tamil: 'நில்லாத வற்றை நிலையின என்றுணரும்<br />புல்லறி வாண்மை கடை',
     line1: 'நில்லாத வற்றை நிலையின என்றுணரும்',
     line2: 'புல்லறி வாண்மை கடை',
-    KalaignarUrai:
-      'நிலையற்றவைகளை நிலையானவை என நம்புகின்ற அறியாமை மிக இழிவானதாகும்',
+    KalaignarUrai: 'நிலையற்றவைகளை நிலையானவை என நம்புகின்ற அறியாமை மிக இழிவானதாகும்',
     MuVaUrai:
       'நிலையில்லாதவைகளை நிலையானவை என்று மயங்கி உணரும் புல்லறிவு உடையவராக இருத்தல் வாழ்க்கையில் இழிந்த நிலையாகும்.',
-    SolomonPaapaiyaUrai:
-      'நிலை இல்லாத பொருள்களை நிலையானவை என்று எண்ணும் அற்ப அழிவு இழிவானது.',
+    SolomonPaapaiyaUrai: 'நிலை இல்லாத பொருள்களை நிலையானவை என்று எண்ணும் அற்ப அழிவு இழிவானது.',
     English:
       'Lowest and meanest lore, that bids men trust secure,<br />In things that pass away, as things that shall endure',
     EnglishMeaning:
       'That ignorance which considers those things to be stable which are not so, is dishonourable (to the wise)',
-    Transliteration:
-      'Nillaadha Vatrai  Nilaiyina  Endrunarum<br />Pullari  Vaanmai  Katai',
+    Transliteration: 'Nillaadha Vatrai  Nilaiyina  Endrunarum<br />Pullari  Vaanmai  Katai',
   },
   {
     Index: 332,
-    Tamil:
-      'கூத்தாட் டவைக்குழாத் தற்றே பெருஞ்செல்வம்<br />போக்கும் அருவிளிந் தற்று',
+    Tamil: 'கூத்தாட் டவைக்குழாத் தற்றே பெருஞ்செல்வம்<br />போக்கும் அருவிளிந் தற்று',
     line1: 'கூத்தாட் டவைக்குழாத் தற்றே பெருஞ்செல்வம்',
     line2: 'போக்கும் அருவிளிந் தற்று',
     KalaignarUrai:
@@ -6100,14 +5669,12 @@ const kurral = [
       'நம்மை வந்தடையும் செல்வம் நிலையற்றது என்பதை உணர்ந்து அதைக் கொண்டு அப்பொழுதே நிலையான நற்செயல்களில் ஈடுபட வேண்டும்',
     MuVaUrai:
       'செல்வம் நிலைக்காத இயல்பை உடையது, அத்தகைய செல்வத்தைப்பெற்றால், பெற்ற அப்போதே நிலையான அறங்களைச் செய்ய வேண்டும்.\\r\\n',
-    SolomonPaapaiyaUrai:
-      'நிலையாத இயல்பினை உடையது செல்வம்; அது கிடைத்தால் நிலையான அறங்களைச் செய்க.',
+    SolomonPaapaiyaUrai: 'நிலையாத இயல்பினை உடையது செல்வம்; அது கிடைத்தால் நிலையான அறங்களைச் செய்க.',
     English:
       'Unenduring is all wealth; if you wealth enjoy,<br />Enduring works in working wealth straightway employ',
     EnglishMeaning:
       'Wealth is perishable; let those who obtain it immediately practise those (virtues) which are imperishable',
-    Transliteration:
-      'Arkaa Iyalpitruch  Chelvam  Adhupetraal<br />Arkupa  Aange  Seyal',
+    Transliteration: 'Arkaa Iyalpitruch  Chelvam  Adhupetraal<br />Arkupa  Aange  Seyal',
   },
   {
     Index: 334,
@@ -6124,13 +5691,11 @@ const kurral = [
       "As 'day' it vaunts itself; well understood, 'tis knife',<br />That daily cuts away a portion from thy life",
     EnglishMeaning:
       'Time, which shows itself (to the ignorant) as if it were something (real) is in the estimation of the wise (only) a saw which cuts down life',
-    Transliteration:
-      'Naalena Ondrupor  Kaatti  Uyir  Eerum<br />Vaaladhu  Unarvaarp  Perin',
+    Transliteration: 'Naalena Ondrupor  Kaatti  Uyir  Eerum<br />Vaaladhu  Unarvaarp  Perin',
   },
   {
     Index: 335,
-    Tamil:
-      'நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை<br />மேற்சென்று செய்யாப் படும்',
+    Tamil: 'நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை<br />மேற்சென்று செய்யாப் படும்',
     line1: 'நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை',
     line2: 'மேற்சென்று செய்யாப் படும்',
     KalaignarUrai:
@@ -6143,8 +5708,7 @@ const kurral = [
       "Before the tongue lie powerless, 'mid the gasp of gurgling breath,<br />Arouse thyself, and do good deeds beyond the power of death",
     EnglishMeaning:
       'Let virtuous deeds be done quickly, before the hiccup comes making the tongue silent',
-    Transliteration:
-      'Naachchetru Vikkulmel  Vaaraamun  Nalvinai<br />Mersendru  Seyyap  Patum',
+    Transliteration: 'Naachchetru Vikkulmel  Vaaraamun  Nalvinai<br />Mersendru  Seyyap  Patum',
   },
   {
     Index: 336,
@@ -6159,10 +5723,8 @@ const kurral = [
       'நேற்று இருந்த ஒருவன் இன்று இல்லை என்று சொல்லும்படி நிலையாமையை உடையது இவ்வுலகம்.',
     English:
       'Existing yesterday, today to nothing hurled!-<br />Such greatness owns this transitory world',
-    EnglishMeaning:
-      'This world possesses the greatness that one who yesterday was is not today',
-    Transliteration:
-      'Nerunal Ulanoruvan  Indrillai  Ennum<br />Perumai  Utaiththuiv  Vulaku',
+    EnglishMeaning: 'This world possesses the greatness that one who yesterday was is not today',
+    Transliteration: 'Nerunal Ulanoruvan  Indrillai  Ennum<br />Perumai  Utaiththuiv  Vulaku',
   },
   {
     Index: 337,
@@ -6179,8 +5741,7 @@ const kurral = [
       'Who know not if their happy lives shall last the day,<br />In fancies infinite beguile the hours away',
     EnglishMeaning:
       'Innumerable are the thoughts which occupy the mind of (the unwise), who know not that they shall live another moment',
-    Transliteration:
-      'Orupozhudhum Vaazhvadhu  Ariyaar  Karudhupa<br />Kotiyum  Alla  Pala',
+    Transliteration: 'Orupozhudhum Vaazhvadhu  Ariyaar  Karudhupa<br />Kotiyum  Alla  Pala',
   },
   {
     Index: 338,
@@ -6209,21 +5770,17 @@ const kurral = [
       'நிலையற்ற வாழ்க்கையில், உறக்கத்திற்குப் பிறகு விழிப்பதைப் போன்றது பிறப்பு; திரும்ப விழிக்க முடியாத மீளா உறக்கம் கொள்வதே இறப்பு',
     MuVaUrai:
       'இறப்பு எனப்படுவது ஒருவனுக்குஉறக்கம் வருதலைப் போன்றது, பிறப்பு எனப்படுவது உறக்கம் நீங்கி விழித்துக் கொள்வதைப் போன்றது.',
-    SolomonPaapaiyaUrai:
-      'உறங்குவது போன்றது சாவு; உறங்கி விழிப்பது போன்றது பிறப்பு.',
-    English:
-      'Death is sinking into slumbers deep;<br />Birth again is waking out of sleep',
+    SolomonPaapaiyaUrai: 'உறங்குவது போன்றது சாவு; உறங்கி விழிப்பது போன்றது பிறப்பு.',
+    English: 'Death is sinking into slumbers deep;<br />Birth again is waking out of sleep',
     EnglishMeaning: 'Death is like sleep; birth is like awaking from it',
-    Transliteration:
-      'Urangu Vadhupolunj  Chaakkaatu  Urangi<br />Vizhippadhu  Polum  Pirappu',
+    Transliteration: 'Urangu Vadhupolunj  Chaakkaatu  Urangi<br />Vizhippadhu  Polum  Pirappu',
   },
   {
     Index: 340,
     Tamil: 'புக்கி லமைந்தின்று கொல்லோ உடம்பினுள்<br />துச்சி லிருந்த உயிர்க்கு',
     line1: 'புக்கி லமைந்தின்று கொல்லோ உடம்பினுள்',
     line2: 'துச்சி லிருந்த உயிர்க்கு',
-    KalaignarUrai:
-      'உடலுடன் தங்கியுள்ள உயிருக்கு அதனைப் பிரிந்தால் வேறு புகலிடம் கிடையாது',
+    KalaignarUrai: 'உடலுடன் தங்கியுள்ள உயிருக்கு அதனைப் பிரிந்தால் வேறு புகலிடம் கிடையாது',
     MuVaUrai:
       '(நோய்களுக்கு இடமாகிய) உடம்பில் ஒரு மூலையில் குடியிருந்த உயிர்க்கு, நிலையாகப் புகுந்திருக்கும் வீடு இதுவரையில் அமையவில்லையோ.',
     SolomonPaapaiyaUrai:
@@ -6232,8 +5789,7 @@ const kurral = [
       "The soul in fragile shed as lodger courts repose:-<br />Is it because no home's conclusive rest it knows",
     EnglishMeaning:
       'It seems as if the soul, which takes a temporary shelter in a body, had not attained a home',
-    Transliteration:
-      'Pukkil Amaindhindru  Kollo  Utampinul<br />Thuchchil  Irundha  Uyirkku',
+    Transliteration: 'Pukkil Amaindhindru  Kollo  Utampinul<br />Thuchchil  Irundha  Uyirkku',
   },
   {
     Index: 341,
@@ -6248,10 +5804,8 @@ const kurral = [
       'எந்த எந்தப் பொருள்களின் மேல் விருப்பம் இல்லாதவனாய் விலகுகிறானோ அவன் அந்த அந்த பொருள்களால் துன்பப்படமாட்டான்.',
     English:
       'From whatever, aye, whatever, man gets free,<br />From what, aye, from that, no more of pain hath he',
-    EnglishMeaning:
-      'Whatever thing, a man has renounced, by that thing; he cannot suffer pain',
-    Transliteration:
-      'Yaadhanin Yaadhanin  Neengiyaan  Nodhal<br />Adhanin  Adhanin  Ilan',
+    EnglishMeaning: 'Whatever thing, a man has renounced, by that thing; he cannot suffer pain',
+    Transliteration: 'Yaadhanin Yaadhanin  Neengiyaan  Nodhal<br />Adhanin  Adhanin  Ilan',
   },
   {
     Index: 342,
@@ -6268,13 +5822,11 @@ const kurral = [
       "'Renunciation' made- ev'n here true pleasures men acquire;<br />'Renounce' while time is yet, if to those pleasures you aspire",
     EnglishMeaning:
       'After a man has renounced (all things), there will still be many things in this world (which he may enjoy); if he should desire them, let him, while it is time abandon (the world)',
-    Transliteration:
-      'Ventin Un  Taakath  Thurakka  Thurandhapin<br />Eentuiyar  Paala  Pala',
+    Transliteration: 'Ventin Un  Taakath  Thurakka  Thurandhapin<br />Eentuiyar  Paala  Pala',
   },
   {
     Index: 343,
-    Tamil:
-      'அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்<br />வேண்டிய வெல்லாம் ஒருங்கு',
+    Tamil: 'அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்<br />வேண்டிய வெல்லாம் ஒருங்கு',
     line1: 'அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்',
     line2: 'வேண்டிய வெல்லாம் ஒருங்கு',
     KalaignarUrai:
@@ -6287,13 +5839,11 @@ const kurral = [
       "'Perceptions of the five' must all expire;-<br />Relinquished in its order each desire",
     EnglishMeaning:
       'Let the five senses be destroyed; and at the same time, let everything be abandoned that (the ascetic) has (formerly) desired',
-    Transliteration:
-      'Atalventum Aindhan  Pulaththai  Vitalventum<br />Ventiya  Vellaam  Orungu',
+    Transliteration: 'Atalventum Aindhan  Pulaththai  Vitalventum<br />Ventiya  Vellaam  Orungu',
   },
   {
     Index: 344,
-    Tamil:
-      'இயல்பாகும் நோன்பிற்கொன் றின்மை உடைமை<br />மயலாகும் மற்றும் பெயர்த்து',
+    Tamil: 'இயல்பாகும் நோன்பிற்கொன் றின்மை உடைமை<br />மயலாகும் மற்றும் பெயர்த்து',
     line1: 'இயல்பாகும் நோன்பிற்கொன் றின்மை உடைமை',
     line2: 'மயலாகும் மற்றும் பெயர்த்து',
     KalaignarUrai:
@@ -6302,17 +5852,14 @@ const kurral = [
       'தவம் செய்தவற்கு ஒரு பற்றும் இல்லாதிருத்தல் இயல்பாகும், பற்று உடையவராக இருத்தல் மீண்டும் மயங்குவதற்கு வழியாகும். \\r\\n',
     SolomonPaapaiyaUrai:
       'உடைமை ஏதும் இல்லாதிருப்பது துறவின் இயல்பு. உடைமைகளை வைத்திருப்பதோ ஆசை என்னும் மயக்கத்தை மறுபடியும் தரும்.',
-    English:
-      "'Privation absolute' is penance true;<br />'Possession' brings bewilderment anew",
+    English: "'Privation absolute' is penance true;<br />'Possession' brings bewilderment anew",
     EnglishMeaning:
       'To be altogether destitute is the proper condition of those who perform austerities; if they possess anything, it will change (their resolution) and bring them back to their confused state',
-    Transliteration:
-      'Iyalpaakum Nonpirkondru  Inmai  Utaimai<br />Mayalaakum  Matrum  Peyarththu',
+    Transliteration: 'Iyalpaakum Nonpirkondru  Inmai  Utaimai<br />Mayalaakum  Matrum  Peyarththu',
   },
   {
     Index: 345,
-    Tamil:
-      'மற்றுந் தொடர்ப்பா டெவன்கொல் பிறப்பறுக்கல்<br />உற்றார்க் குடம்பும் மிகை',
+    Tamil: 'மற்றுந் தொடர்ப்பா டெவன்கொல் பிறப்பறுக்கல்<br />உற்றார்க் குடம்பும் மிகை',
     line1: 'மற்றுந் தொடர்ப்பா டெவன்கொல் பிறப்பறுக்கல்',
     line2: 'உற்றார்க் குடம்பும் மிகை',
     KalaignarUrai:
@@ -6325,8 +5872,7 @@ const kurral = [
       "To those who sev'rance seek from being's varied strife,<br />Flesh is burthen sore; what then other bonds of life",
     EnglishMeaning:
       'What means the addition of other things those who are attempting to cut off (future) births, when even their body is too much (for them)',
-    Transliteration:
-      'Matrum Thotarppaatu  Evankol  Pirapparukkal<br />Utraarkku  Utampum  Mikai',
+    Transliteration: 'Matrum Thotarppaatu  Evankol  Pirapparukkal<br />Utraarkku  Utampum  Mikai',
   },
   {
     Index: 346,
@@ -6350,8 +5896,7 @@ const kurral = [
     Tamil: 'பற்றி விடாஅ இடும்பைகள் பற்றினைப்<br />பற்றி விடாஅ தவர்க்கு',
     line1: 'பற்றி விடாஅ இடும்பைகள் பற்றினைப்',
     line2: 'பற்றி விடாஅ தவர்க்கு',
-    KalaignarUrai:
-      'பற்றுகளைப் பற்றிக்கொண்டு விடாதவர்களைத் துன்பங்களும் விடாமல் பற்றிக் கொள்கின்றன',
+    KalaignarUrai: 'பற்றுகளைப் பற்றிக்கொண்டு விடாதவர்களைத் துன்பங்களும் விடாமல் பற்றிக் கொள்கின்றன',
     MuVaUrai:
       'யான் எனது என்னும் இருவகைப் பற்றுக்களையும் பற்றிக் கொண்டுவிடாத வரை, துன்பங்களும் விடாமல் பற்றிக்கொள்கின்றன.',
     SolomonPaapaiyaUrai:
@@ -6360,8 +5905,7 @@ const kurral = [
       'Who cling to things that cling and eager clasp,<br />Griefs cling to them with unrelaxing grasp',
     EnglishMeaning:
       'Sorrows will never let go their hold of those who give not up their hold of desire',
-    Transliteration:
-      'Patri Vitaaa  Itumpaikal  Patrinaip<br />Patri  Vitaaa  Thavarkku',
+    Transliteration: 'Patri Vitaaa  Itumpaikal  Patrinaip<br />Patri  Vitaaa  Thavarkku',
   },
   {
     Index: 348,
@@ -6396,8 +5940,7 @@ const kurral = [
       "When that which clings falls off, severed is being's tie;<br />All else will then be seen as instability",
     EnglishMeaning:
       'At the moment in which desire has been abandoned, (other) births will be cut off; when that has not been done, instability will be seen',
-    Transliteration:
-      'Patratra Kanne  Pirapparukkum  Matru<br />Nilaiyaamai  Kaanap  Patum',
+    Transliteration: 'Patratra Kanne  Pirapparukkum  Matru<br />Nilaiyaamai  Kaanap  Patum',
   },
   {
     Index: 350,
@@ -6414,8 +5957,7 @@ const kurral = [
       'Cling thou to that which He, to Whom nought clings, hath bid thee cling,<br />Cling to that bond, to get thee free from every clinging thing',
     EnglishMeaning:
       'Desire the desire of Him who is without desire; in order to renounce desire, desire that desire',
-    Transliteration:
-      'Patruka Patratraan  Patrinai  Appatraip<br />Patruka  Patru  Vitarku',
+    Transliteration: 'Patruka Patratraan  Patrinai  Appatraip<br />Patruka  Patru  Vitarku',
   },
   {
     Index: 351,
@@ -6426,22 +5968,19 @@ const kurral = [
       'பொய்யான ஒரு பொருளை மெய்ப்பொருள் என்று மயங்கி நம்புகிறவனின் வாழ்க்கை சிறப்பாக அமையாது',
     MuVaUrai:
       'மெய்ப்பொருள் அல்லாதவைகளை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற மயக்க உணர்வால் சிறப்பில்லாத துன்பப் பிறவி உண்டாகும்.',
-    SolomonPaapaiyaUrai:
-      'பொய்யானவற்றை மெய் என்று எண்ணும் மயக்கத்தால் இழிவான பிறப்பு வரும்.',
+    SolomonPaapaiyaUrai: 'பொய்யானவற்றை மெய் என்று எண்ணும் மயக்கத்தால் இழிவான பிறப்பு வரும்.',
     English:
       'Of things devoid of truth as real things men deem;-<br />Cause of degraded birth the fond delusive dream',
     EnglishMeaning:
       'Inglorious births are produced by the confusion (of mind) which considers those things to be real which are not real',
-    Transliteration:
-      'Porulalla Vatraip  Porulendru  Unarum<br />Marulaanaam  Maanaap  Pirappu',
+    Transliteration: 'Porulalla Vatraip  Porulendru  Unarum<br />Marulaanaam  Maanaap  Pirappu',
   },
   {
     Index: 352,
     Tamil: 'இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி<br />மாசறு காட்சி யவர்க்கு',
     line1: 'இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி',
     line2: 'மாசறு காட்சி யவர்க்கு',
-    KalaignarUrai:
-      'மயக்கம் தெளிந்து மாசற்ற உண்மையை உணர்ந்தால் அறியாமை அகன்று நலம் தோன்றும்',
+    KalaignarUrai: 'மயக்கம் தெளிந்து மாசற்ற உண்மையை உணர்ந்தால் அறியாமை அகன்று நலம் தோன்றும்',
     MuVaUrai:
       'மயக்கம் நீங்கிக் குற்றம் அற்ற மெய்யுணர்வை உடையவர்க்கு, அம் மெய்யுணர்வு அறியாமையை நீக்கி இன்ப நிலையைக்கொடுக்கும்.',
     SolomonPaapaiyaUrai:
@@ -6450,8 +5989,7 @@ const kurral = [
       'Darkness departs, and rapture springs to men who see,<br />The mystic vision pure, from all delusion free',
     EnglishMeaning:
       'A clear, undimmed vision of things will deliver its possessors from the darkness of future births, and confer the felicity (of heaven)',
-    Transliteration:
-      'Irulneengi Inpam  Payakkum  Marulneengi<br />Maasaru  Kaatchi  Yavarkku',
+    Transliteration: 'Irulneengi Inpam  Payakkum  Marulneengi<br />Maasaru  Kaatchi  Yavarkku',
   },
   {
     Index: 353,
@@ -6486,13 +6024,11 @@ const kurral = [
       'Five-fold perception gained, what benefits accrue<br />To them whose spirits lack perception of the true',
     EnglishMeaning:
       'Even those who have all the knowledge which can be attained by the five senses, will derive no benefit from it, if they are without a knowledge of the true nature of things',
-    Transliteration:
-      'Aiyunarvu Eydhiyak  Kannum  Payamindre<br />Meyyunarvu  Illaa  Thavarkku',
+    Transliteration: 'Aiyunarvu Eydhiyak  Kannum  Payamindre<br />Meyyunarvu  Illaa  Thavarkku',
   },
   {
     Index: 355,
-    Tamil:
-      'எப்பொரு ளெத்தன்மைத் தாயினும் அப்பொருள்<br />மெய்ப்பொருள் காண்ப தறிவு',
+    Tamil: 'எப்பொரு ளெத்தன்மைத் தாயினும் அப்பொருள்<br />மெய்ப்பொருள் காண்ப தறிவு',
     line1: 'எப்பொரு ளெத்தன்மைத் தாயினும் அப்பொருள்',
     line2: 'மெய்ப்பொருள் காண்ப தறிவு',
     KalaignarUrai:
@@ -6505,13 +6041,11 @@ const kurral = [
       "Whatever thing, of whatsoever kind it be,<br />'Tis wisdom's part in each the very thing to see",
     EnglishMeaning:
       '(True) knowledge is the perception concerning every thing of whatever kind, that that thing is the true thing',
-    Transliteration:
-      'Epporul Eththanmaith  Thaayinum  Apporul<br />Meypporul  Kaanpadhu  Arivu',
+    Transliteration: 'Epporul Eththanmaith  Thaayinum  Apporul<br />Meypporul  Kaanpadhu  Arivu',
   },
   {
     Index: 356,
-    Tamil:
-      'கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்<br />மற்றீண்டு வாரா நெறி',
+    Tamil: 'கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்<br />மற்றீண்டு வாரா நெறி',
     line1: 'கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்',
     line2: 'மற்றீண்டு வாரா நெறி',
     KalaignarUrai:
@@ -6524,13 +6058,11 @@ const kurral = [
       'Who learn, and here the knowledge of the true obtain,<br />Shall find the path that hither cometh not again',
     EnglishMeaning:
       'They, who in this birth have learned to know the True Being, enter the road which returns not into this world',
-    Transliteration:
-      'Katreentu Meypporul  Kantaar  Thalaippatuvar<br />Matreentu  Vaaraa  Neri',
+    Transliteration: 'Katreentu Meypporul  Kantaar  Thalaippatuvar<br />Matreentu  Vaaraa  Neri',
   },
   {
     Index: 357,
-    Tamil:
-      'ஓர்த்துள்ளம் உள்ள துணரின் ஒருதலையாப்<br />பேர்த்துள்ள வேண்டா பிறப்பு',
+    Tamil: 'ஓர்த்துள்ளம் உள்ள துணரின் ஒருதலையாப்<br />பேர்த்துள்ள வேண்டா பிறப்பு',
     line1: 'ஓர்த்துள்ளம் உள்ள துணரின் ஒருதலையாப்',
     line2: 'பேர்த்துள்ள வேண்டா பிறப்பு',
     KalaignarUrai:
@@ -6543,13 +6075,11 @@ const kurral = [
       'The mind that knows with certitude what is, and ponders well,<br />Its thoughts on birth again to other life need not to dwell',
     EnglishMeaning:
       'Let it not be thought that there is another birth for him whose mind having thoroughly considered (all it has been taught) has known the True Being',
-    Transliteration:
-      'Orththullam Ulladhu  Unarin  Orudhalaiyaap<br />Perththulla  Ventaa  Pirappu',
+    Transliteration: 'Orththullam Ulladhu  Unarin  Orudhalaiyaap<br />Perththulla  Ventaa  Pirappu',
   },
   {
     Index: 358,
-    Tamil:
-      'பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னுஞ்<br />செம்பொருள் காண்ப தறிவு',
+    Tamil: 'பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னுஞ்<br />செம்பொருள் காண்ப தறிவு',
     line1: 'பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னுஞ்',
     line2: 'செம்பொருள் காண்ப தறிவு',
     KalaignarUrai:
@@ -6567,8 +6097,7 @@ const kurral = [
   },
   {
     Index: 359,
-    Tamil:
-      'சார்புணர்ந்து சார்பு கெடவொழுகின் மற்றழித்துச்<br />சார்தரா சார்தரு நோய்',
+    Tamil: 'சார்புணர்ந்து சார்பு கெடவொழுகின் மற்றழித்துச்<br />சார்தரா சார்தரு நோய்',
     line1: 'சார்புணர்ந்து சார்பு கெடவொழுகின் மற்றழித்துச்',
     line2: 'சார்தரா சார்தரு நோய்',
     KalaignarUrai:
@@ -6599,13 +6128,11 @@ const kurral = [
       "When lust and wrath and error's triple tyranny is o'er,<br />Their very names for aye extinct, then pain shall be no more",
     EnglishMeaning:
       'If the very names of these three things, desire, anger, and confusion of mind, be destroyed, then will also perish evils (which flow from them)',
-    Transliteration:
-      'Kaamam Vekuli  Mayakkam  Ivaimundran<br />Naamam  Ketakketum  Noi',
+    Transliteration: 'Kaamam Vekuli  Mayakkam  Ivaimundran<br />Naamam  Ketakketum  Noi',
   },
   {
     Index: 361,
-    Tamil:
-      'அவாவென்ப எல்லா உயிர்க்குமெஞ் ஞான்றுந்<br />தவாஅப் பிறப்பீனும் வித்து',
+    Tamil: 'அவாவென்ப எல்லா உயிர்க்குமெஞ் ஞான்றுந்<br />தவாஅப் பிறப்பீனும் வித்து',
     line1: 'அவாவென்ப எல்லா உயிர்க்குமெஞ் ஞான்றுந்',
     line2: 'தவாஅப் பிறப்பீனும் வித்து',
     KalaignarUrai:
@@ -6618,8 +6145,7 @@ const kurral = [
       'The wise declare, through all the days, to every living thing<br />That ceaseless round of birth from seed of strong desire doth spring',
     EnglishMeaning:
       '(The wise) say that the seed, which produces unceasing births, at all times, to all creatures, is desire',
-    Transliteration:
-      'Avaaenpa Ellaa  Uyirkkum  Enj  Gnaandrum<br />Thavaaap  Pirappeenum  Viththu',
+    Transliteration: 'Avaaenpa Ellaa  Uyirkkum  Enj  Gnaandrum<br />Thavaaap  Pirappeenum  Viththu',
   },
   {
     Index: 362,
@@ -6636,8 +6162,7 @@ const kurral = [
       "If desire you feel, freedom from changing birth require!<br />'I' will come, if you desire to 'scape, set free from all desire",
     EnglishMeaning:
       'If anything be desired, freedom from births should be desired; that (freedom from births) will be attained by desiring to be without desire',
-    Transliteration:
-      'Ventungaal Ventum  Piravaamai  Matradhu<br />Ventaamai  Venta  Varum',
+    Transliteration: 'Ventungaal Ventum  Piravaamai  Matradhu<br />Ventaamai  Venta  Varum',
   },
   {
     Index: 363,
@@ -6654,8 +6179,7 @@ const kurral = [
       'No glorious wealth is here like freedom from desire;<br />To bliss like this not even there can soul aspire',
     EnglishMeaning:
       'There is in this world no excellence equal to freedom from desire; and even in that world, there is nothing like it',
-    Transliteration:
-      'Ventaamai Anna  Vizhuchchelvam  Eentillai<br />Aantum  Aqdhoppadhu  Il',
+    Transliteration: 'Ventaamai Anna  Vizhuchchelvam  Eentillai<br />Aantum  Aqdhoppadhu  Il',
   },
   {
     Index: 364,
@@ -6672,8 +6196,7 @@ const kurral = [
       "Desire's decease as purity men know;<br />That, too, from yearning search for truth will grow",
     EnglishMeaning:
       'Purity (of mind) consists in freedom from desire; and that (freedom from desire) is the fruit of the love of truth',
-    Transliteration:
-      'Thoouymai Enpadhu  Avaavinmai  Matradhu<br />Vaaaimai  Venta  Varum',
+    Transliteration: 'Thoouymai Enpadhu  Avaavinmai  Matradhu<br />Vaaaimai  Venta  Varum',
   },
   {
     Index: 365,
@@ -6684,14 +6207,12 @@ const kurral = [
       'ஆசையனைத்தும் விட்டவரே துறவி எனப்படுவார் முற்றும் துறவாதவர், தூய துறவியாக மாட்டார்',
     MuVaUrai:
       ' பற்றற்றவர் என்றுக் கூறப்படுவோர் அவா அற்றவரே, அவா அறாத மற்றவர் அவ்வளவாகப் பற்று அற்றவர் அல்லர்.',
-    SolomonPaapaiyaUrai:
-      'ஆசை இல்லாதவரே எதுவும் இல்லாதவர்; மற்றவரோ முழுவதும் இல்லாதவர் ஆகார்.',
+    SolomonPaapaiyaUrai: 'ஆசை இல்லாதவரே எதுவும் இல்லாதவர்; மற்றவரோ முழுவதும் இல்லாதவர் ஆகார்.',
     English:
       'Men freed from bonds of strong desire are free;<br />None other share such perfect liberty',
     EnglishMeaning:
       'They are said to be free (from future birth) who are freed from desire; all others (who, whatever else they may be free from, are not freed from desire) are not thus free',
-    Transliteration:
-      'Atravar Enpaar  Avaaatraar  Matraiyaar<br />Atraaka  Atradhu  Ilar',
+    Transliteration: 'Atravar Enpaar  Avaaatraar  Matraiyaar<br />Atraaka  Atradhu  Ilar',
   },
   {
     Index: 366,
@@ -6707,8 +6228,7 @@ const kurral = [
     English: 'Desire each soul beguiles;<br />True virtue dreads its wiles',
     EnglishMeaning:
       'It is the chief duty of (an ascetic) to watch against desire with (jealous) fear; for it has power to deceive (and destroy) him',
-    Transliteration:
-      'Anjuva Thorum  Arane  Oruvanai<br />Vanjippa  Thorum  Avaa',
+    Transliteration: 'Anjuva Thorum  Arane  Oruvanai<br />Vanjippa  Thorum  Avaa',
   },
   {
     Index: 367,
@@ -6725,13 +6245,11 @@ const kurral = [
       'Who thoroughly rids his life of passion-prompted deed,<br />Deeds of unfailing worth shall do, which, as he plans, succeed',
     EnglishMeaning:
       'If a man thoroughly cut off all desire, the deeds, which confer immortality, will come to him, in the path in which he seeks them',
-    Transliteration:
-      'Avaavinai Aatra  Aruppin  Thavaavinai<br />Thaanventu  Maatraan  Varum',
+    Transliteration: 'Avaavinai Aatra  Aruppin  Thavaavinai<br />Thaanventu  Maatraan  Varum',
   },
   {
     Index: 368,
-    Tamil:
-      'அவாவில்லார்க் கில்லாகுந் துன்பமஃ துண்டேல்<br />தவாஅது மேன்மேல் வரும்',
+    Tamil: 'அவாவில்லார்க் கில்லாகுந் துன்பமஃ துண்டேல்<br />தவாஅது மேன்மேல் வரும்',
     line1: 'அவாவில்லார்க் கில்லாகுந் துன்பமஃ துண்டேல்',
     line2: 'தவாஅது மேன்மேல் வரும்',
     KalaignarUrai:
@@ -6744,26 +6262,22 @@ const kurral = [
       "Affliction is not known where no desires abide;<br />Where these are, endless rises sorrow's tide",
     EnglishMeaning:
       'There is no sorrow to those who are without desire; but where that is, (sorrow) will incessantly come, more and more',
-    Transliteration:
-      'Avaaillaark Killaakun  Thunpam  Aqdhuntel<br />Thavaaadhu  Menmel  Varum',
+    Transliteration: 'Avaaillaark Killaakun  Thunpam  Aqdhuntel<br />Thavaaadhu  Menmel  Varum',
   },
   {
     Index: 369,
     Tamil: 'இன்பம் இடையறா தீண்டும் அவாவென்னுந்<br />துன்பத்துள் துன்பங் கெடின்',
     line1: 'இன்பம் இடையறா தீண்டும் அவாவென்னுந்',
     line2: 'துன்பத்துள் துன்பங் கெடின்',
-    KalaignarUrai:
-      'பெருந்துன்பம் தரக்கூடிய பேராசை ஒழிந்தால் வாழ்வில் இன்பம் விடாமல் தொடரும்',
+    KalaignarUrai: 'பெருந்துன்பம் தரக்கூடிய பேராசை ஒழிந்தால் வாழ்வில் இன்பம் விடாமல் தொடரும்',
     MuVaUrai:
       'அவா என்று சொல்லப்படுகின்ற துன்பங்களுள் பொல்லாதத் துன்பம் கெடுமானால் இவ் வுலகில் இன்பம் இடையறாமல் வாய்க்கும்.',
-    SolomonPaapaiyaUrai:
-      'ஆசை எனப்படும் பெருந்துன்பம் இல்லாது போனால், இன்பம் இடைவிடாமல் வரும்.',
+    SolomonPaapaiyaUrai: 'ஆசை எனப்படும் பெருந்துன்பம் இல்லாது போனால், இன்பம் இடைவிடாமல் வரும்.',
     English:
       "When dies away desire, that woe of woes<br />Ev'n here the soul unceasing rapture knows",
     EnglishMeaning:
       'Even while in this body, joy will never depart (from the mind, in which) desire, that sorrow of sorrows, has been destroyed',
-    Transliteration:
-      'Inpam Itaiyaraa  Theentum  Avaavennum<br />Thunpaththul  Thunpang  Ketin',
+    Transliteration: 'Inpam Itaiyaraa  Theentum  Avaavennum<br />Thunpaththul  Thunpang  Ketin',
   },
   {
     Index: 370,
@@ -6780,8 +6294,7 @@ const kurral = [
       "Drive from thy soul desire insatiate;<br />Straight'way is gained the moveless blissful state",
     EnglishMeaning:
       'The removal of desire, whose nature it is never to be satisfied, will immediately confer a nature that can never be changed',
-    Transliteration:
-      'Aaraa Iyarkai  Avaaneeppin  Annilaiye<br />Peraa  Iyarkai  Tharum',
+    Transliteration: 'Aaraa Iyarkai  Avaaneeppin  Annilaiye<br />Peraa  Iyarkai  Tharum',
   },
   {
     Index: 371,
@@ -6796,10 +6309,8 @@ const kurral = [
       'பணம் சேர்வதற்கு உரிய விதி நமக்கு இருந்தால், சேர்ப்பதற்கான முயற்சி உண்டாகும். இருப்பதையும் இழப்பதற்கான விதி இருந்தால் சோம்பல் உண்டாகும்.',
     English:
       'Wealth-giving fate power of unflinching effort brings;<br />From fate that takes away idle remissness springs',
-    EnglishMeaning:
-      'Perseverance comes from a prosperous fate, and idleness from an adverse fate',
-    Transliteration:
-      'Aakoozhaal Thondrum  Asaivinmai  Kaipporul<br />Pokoozhaal  Thondrum  Mati',
+    EnglishMeaning: 'Perseverance comes from a prosperous fate, and idleness from an adverse fate',
+    Transliteration: 'Aakoozhaal Thondrum  Asaivinmai  Kaipporul<br />Pokoozhaal  Thondrum  Mati',
   },
   {
     Index: 372,
@@ -6816,8 +6327,7 @@ const kurral = [
       "The fate that loss ordains makes wise men's wisdom foolishness;<br />The fate that gain bestows with ampler powers will wisdom bless",
     EnglishMeaning:
       'An adverse fate produces folly, and a prosperous fate produces enlarged knowledge',
-    Transliteration:
-      'Pedhaip Patukkum  Izhavoozh  Arivakatrum<br />Aakaloozh  Utrak  Katai',
+    Transliteration: 'Pedhaip Patukkum  Izhavoozh  Arivakatrum<br />Aakaloozh  Utrak  Katai',
   },
   {
     Index: 373,
@@ -6834,8 +6344,7 @@ const kurral = [
       "In subtle learning manifold though versed man be,<br />'The wisdom, truly his, will gain supremacy",
     EnglishMeaning:
       'Although (a man) may study the most polished treatises, the knowledge which fate has decreed to him will still prevail',
-    Transliteration:
-      'Nunniya Noolpala  Karpinum  Matrundhan<br />Unmai  Yarive  Mikum',
+    Transliteration: 'Nunniya Noolpala  Karpinum  Matrundhan<br />Unmai  Yarive  Mikum',
   },
   {
     Index: 374,
@@ -6852,8 +6361,7 @@ const kurral = [
       "Two fold the fashion of the world: some live in fortune's light;<br />While other some have souls in wisdom's radiance bright",
     EnglishMeaning:
       'There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge',
-    Transliteration:
-      'Iruveru Ulakaththu  Iyarkai  Thiruveru<br />Thelliya  Raadhalum  Veru',
+    Transliteration: 'Iruveru Ulakaththu  Iyarkai  Thiruveru<br />Thelliya  Raadhalum  Veru',
   },
   {
     Index: 375,
@@ -6870,8 +6378,7 @@ const kurral = [
       'All things that good appear will oft have ill success;<br />All evil things prove good for gain of happiness',
     EnglishMeaning:
       'In the acquisition of property, every thing favourable becomes unfavourable, and (on the other hand) everything unfavourable becomes favourable, (through the power of fate)',
-    Transliteration:
-      'Nallavai Ellaaan  Theeyavaam  Theeyavum<br />Nallavaam  Selvam  Seyarku',
+    Transliteration: 'Nallavai Ellaaan  Theeyavaam  Theeyavum<br />Nallavaam  Selvam  Seyarku',
   },
   {
     Index: 376,
@@ -6888,13 +6395,11 @@ const kurral = [
       "Things not your own will yield no good, howe'er you guard with pain;<br />Your own, howe'er you scatter them abroad, will yours remain",
     EnglishMeaning:
       'Whatever is not conferred by fate cannot be preserved although it be guarded with most painful care; and that, which fate has made his, cannot be lost, although one should even take it and throw it away',
-    Transliteration:
-      'Pariyinum Aakaavaam  Paalalla  Uyththuch<br />Choriyinum  Pokaa  Thama',
+    Transliteration: 'Pariyinum Aakaavaam  Paalalla  Uyththuch<br />Choriyinum  Pokaa  Thama',
   },
   {
     Index: 377,
-    Tamil:
-      'வகுத்தான் வகுத்த வகையல்லாற் கோடி<br />தொகுத்தார்க்குந் துய்த்த லரிது',
+    Tamil: 'வகுத்தான் வகுத்த வகையல்லாற் கோடி<br />தொகுத்தார்க்குந் துய்த்த லரிது',
     line1: 'வகுத்தான் வகுத்த வகையல்லாற் கோடி',
     line2: 'தொகுத்தார்க்குந் துய்த்த லரிது',
     KalaignarUrai:
@@ -6925,8 +6430,7 @@ const kurral = [
       'The destitute with ascetics merit share,<br />If fate to visit with predestined ills would spare',
     EnglishMeaning:
       'The destitute will renounce desire (and become ascetics), if (fate) do not make them suffer the hindrances to which they are liable, and they pass away',
-    Transliteration:
-      'Thurappaarman Thuppura  Villaar  Urarpaala<br />Oottaa  Kazhiyu  Menin',
+    Transliteration: 'Thurappaarman Thuppura  Villaar  Urarpaala<br />Oottaa  Kazhiyu  Menin',
   },
   {
     Index: 379,
@@ -6943,8 +6447,7 @@ const kurral = [
       'When good things come, men view them all as gain;<br />When evils come, why then should they complain',
     EnglishMeaning:
       'How is it that those, who are pleased with good fortune, trouble themselves when evil comes, (since both are equally the decree of fate) ?',
-    Transliteration:
-      'Nandraangaal Nallavaak  Kaanpavar  Andraangaal<br />Allar  Patuva  Thevan?',
+    Transliteration: 'Nandraangaal Nallavaak  Kaanpavar  Andraangaal<br />Allar  Patuva  Thevan?',
   },
   {
     Index: 380,
@@ -6961,8 +6464,7 @@ const kurral = [
       "What powers so great as those of Destiny? Man's skill<br />Some other thing contrives; but fate's beforehand still",
     EnglishMeaning:
       'What is stronger than fate ? If we think of an expedient (to avert it), it will itself be with us before (the thought)',
-    Transliteration:
-      'Oozhir Peruvali  Yaavula  Matrondru<br />Soozhinun  Thaanmun  Thurum',
+    Transliteration: 'Oozhir Peruvali  Yaavula  Matrondru<br />Soozhinun  Thaanmun  Thurum',
   },
   {
     Index: 381,
@@ -6979,8 +6481,7 @@ const kurral = [
       'An army, people, wealth, a minister, friends, fort: six things-<br />Who owns them all, a lion lives amid the kings',
     EnglishMeaning:
       'He who possesses these six things, an army, a people, wealth, ministers, friends and a fortress, is a lion among kings',
-    Transliteration:
-      'Pataikuti Koozhamaichchu  Natparan  Aarum<br />Utaiyaan  Arasarul  Eru',
+    Transliteration: 'Pataikuti Koozhamaichchu  Natparan  Aarum<br />Utaiyaan  Arasarul  Eru',
   },
   {
     Index: 382,
@@ -6997,8 +6498,7 @@ const kurral = [
       'Courage, a liberal hand, wisdom, and energy: these four<br />Are qualities a king adorn for evermore',
     EnglishMeaning:
       'Never to fail in these four things, fearlessness, liberality, wisdom, and energy, is the kingly character',
-    Transliteration:
-      'Anjaamai Eekai  Arivookkam  Innaankum<br />Enjaamai  Vendhark  Kiyalpu',
+    Transliteration: 'Anjaamai Eekai  Arivookkam  Innaankum<br />Enjaamai  Vendhark  Kiyalpu',
   },
   {
     Index: 383,
@@ -7033,8 +6533,7 @@ const kurral = [
       "Kingship, in virtue failing not, all vice restrains,<br />In courage failing not, it honour's grace maintains",
     EnglishMeaning:
       'He is a king who, with manly modesty, swerves not from virtue, and refrains from vice',
-    Transliteration:
-      'Aranizhukkaa Thallavai  Neekki  Maranizhukkaa<br />Maanam  Utaiya  Tharasu',
+    Transliteration: 'Aranizhukkaa Thallavai  Neekki  Maranizhukkaa<br />Maanam  Utaiya  Tharasu',
   },
   {
     Index: 385,
@@ -7051,8 +6550,7 @@ const kurral = [
       "A king is he who treasure gains, stores up, defends,<br />And duly for his kingdom's weal expends",
     EnglishMeaning:
       'He is a king who is able to acquire (wealth), to lay it up, to guard, and to distribute it',
-    Transliteration:
-      'Iyatralum Eettalung  Kaaththalum  Kaaththa<br />Vakuththalum  Valla  Tharasu',
+    Transliteration: 'Iyatralum Eettalung  Kaaththalum  Kaaththa<br />Vakuththalum  Valla  Tharasu',
   },
   {
     Index: 386,
@@ -7069,13 +6567,11 @@ const kurral = [
       "Where king is easy of access, where no harsh word repels,<br />That land's high praises every subject swells",
     EnglishMeaning:
       'The whole world will exalt the country of the king who is easy of access, and who is free from harsh language',
-    Transliteration:
-      'Kaatchik Keliyan  Katunjollan  Allanel<br />Meekkoorum  Mannan  Nilam',
+    Transliteration: 'Kaatchik Keliyan  Katunjollan  Allanel<br />Meekkoorum  Mannan  Nilam',
   },
   {
     Index: 387,
-    Tamil:
-      'இன்சொலால் ஈத்தளிக்க வல்லாற்குத் தன்சொலால்<br />தான்கண் டனைத்திவ் வுலகு',
+    Tamil: 'இன்சொலால் ஈத்தளிக்க வல்லாற்குத் தன்சொலால்<br />தான்கண் டனைத்திவ் வுலகு',
     line1: 'இன்சொலால் ஈத்தளிக்க வல்லாற்குத் தன்சொலால்',
     line2: 'தான்கண் டனைத்திவ் வுலகு',
     KalaignarUrai:
@@ -7093,8 +6589,7 @@ const kurral = [
   },
   {
     Index: 388,
-    Tamil:
-      'முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்<br />கிறையென்று வைக்கப் படும்',
+    Tamil: 'முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்<br />கிறையென்று வைக்கப் படும்',
     line1: 'முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்',
     line2: 'கிறையென்று வைக்கப் படும்',
     KalaignarUrai:
@@ -7107,13 +6602,11 @@ const kurral = [
       "Who guards the realm and justice strict maintains,<br />That king as god o'er subject people reigns",
     EnglishMeaning:
       'That king, will be esteemed a God among men, who performs his own duties, and protects (his subjects).',
-    Transliteration:
-      'Muraiseydhu Kaappaatrum  Mannavan  Makkatku<br />Iraiyendru  Vaikkap  Patum',
+    Transliteration: 'Muraiseydhu Kaappaatrum  Mannavan  Makkatku<br />Iraiyendru  Vaikkap  Patum',
   },
   {
     Index: 389,
-    Tamil:
-      'செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்<br />கவிகைக்கீழ்த் தங்கு முலகு',
+    Tamil: 'செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்<br />கவிகைக்கீழ்த் தங்கு முலகு',
     line1: 'செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்',
     line2: 'கவிகைக்கீழ்த் தங்கு முலகு',
     KalaignarUrai:
@@ -7131,8 +6624,7 @@ const kurral = [
   },
   {
     Index: 390,
-    Tamil:
-      'கொடையளி செங்கோல் குடியோம்பல் நான்கும்<br />உடையானாம் வேந்தர்க் கொளி',
+    Tamil: 'கொடையளி செங்கோல் குடியோம்பல் நான்கும்<br />உடையானாம் வேந்தர்க் கொளி',
     line1: 'கொடையளி செங்கோல் குடியோம்பல் நான்கும்',
     line2: 'உடையானாம் வேந்தர்க் கொளி',
     KalaignarUrai:
@@ -7145,8 +6637,7 @@ const kurral = [
       "Gifts, grace, right sceptre, care of people's weal;<br />These four a light of dreaded kings reveal",
     EnglishMeaning:
       'He is the light of kings who has there four things, beneficence, benevolence, rectitude, and care for his people',
-    Transliteration:
-      'Kotaiyali Sengol  Kutiyompal  Naankum<br />Utaiyaanaam  Vendhark  Koli',
+    Transliteration: 'Kotaiyali Sengol  Kutiyompal  Naankum<br />Utaiyaanaam  Vendhark  Koli',
   },
   {
     Index: 391,
@@ -7163,13 +6654,11 @@ const kurral = [
       'So learn that you may full and faultless learning gain,<br />Then in obedience meet to lessons learnt remain',
     EnglishMeaning:
       'Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning',
-    Transliteration:
-      'Karka Kasatarak  Karpavai  Katrapin<br />Nirka  Adharkuth  Thaka',
+    Transliteration: 'Karka Kasatarak  Karpavai  Katrapin<br />Nirka  Adharkuth  Thaka',
   },
   {
     Index: 392,
-    Tamil:
-      'எண்ணென்ப ஏனை யெழுத்தென்ப இவ்விரண்டுங்<br />கண்ணென்ப வாழும் உயிர்க்கு',
+    Tamil: 'எண்ணென்ப ஏனை யெழுத்தென்ப இவ்விரண்டுங்<br />கண்ணென்ப வாழும் உயிர்க்கு',
     line1: 'எண்ணென்ப ஏனை யெழுத்தென்ப இவ்விரண்டுங்',
     line2: 'கண்ணென்ப வாழும் உயிர்க்கு',
     KalaignarUrai:
@@ -7181,8 +6670,7 @@ const kurral = [
     English:
       'The twain that lore of numbers and of letters give<br />Are eyes, the wise declare, to all on earth that live',
     EnglishMeaning: 'Letters and numbers are the two eyes of man',
-    Transliteration:
-      'Ennenpa Enai  Ezhuththenpa  Ivvirantum<br />Kannenpa  Vaazhum  Uyirkku',
+    Transliteration: 'Ennenpa Enai  Ezhuththenpa  Ivvirantum<br />Kannenpa  Vaazhum  Uyirkku',
   },
   {
     Index: 393,
@@ -7193,14 +6681,12 @@ const kurral = [
       'கண்ணில்லாவிடினும் அவர் கற்றவராக இருப்பின் கண்ணுடையவராகவே கருதப்படுவார் கல்லாதவருக்குக் கண் இருப்பினும் அது புண் என்றே கருதப்படும்',
     MuVaUrai:
       'கண்ணுடையவர் என்றுக் கூறப்படுபவர் கற்றவரே, கல்லாதவர் முகத்தில் இரண்டுப் புண் உடையவர் ஆவார்.',
-    SolomonPaapaiyaUrai:
-      'கற்றவரே கண் உடையவர்; கல்லாதவரோ முகத்தில் இரண்டு புண்ணையே உடையவர்.',
+    SolomonPaapaiyaUrai: 'கற்றவரே கண் உடையவர்; கல்லாதவரோ முகத்தில் இரண்டு புண்ணையே உடையவர்.',
     English:
       "Men who learning gain have eyes, men say;<br />Blockheads' faces pairs of sores display",
     EnglishMeaning:
       'The learned are said to have eyes, but the unlearned have (merely) two sores in their face',
-    Transliteration:
-      'Kannutaiyar Enpavar  Katror  Mukaththirantu<br />Punnutaiyar  Kallaa  Thavar',
+    Transliteration: 'Kannutaiyar Enpavar  Katror  Mukaththirantu<br />Punnutaiyar  Kallaa  Thavar',
   },
   {
     Index: 394,
@@ -7217,8 +6703,7 @@ const kurral = [
       "You meet with joy, with pleasant thought you part;<br />Such is the learned scholar's wonderous art",
     EnglishMeaning:
       'It is the part of the learned to give joy to those whom they meet, and on leaving, to make them think (Oh! when shall we meet them again.)',
-    Transliteration:
-      'Uvappath Thalaikkooti  Ullap  Piridhal<br />Anaiththe  Pulavar  Thozhil',
+    Transliteration: 'Uvappath Thalaikkooti  Ullap  Piridhal<br />Anaiththe  Pulavar  Thozhil',
   },
   {
     Index: 395,
@@ -7235,8 +6720,7 @@ const kurral = [
       "With soul submiss they stand, as paupers front a rich man's face;<br />Yet learned men are first; th'unlearned stand in lowest place",
     EnglishMeaning:
       'The unlearned are inferior to the learned, before whom they stand begging, as the destitute before the wealthy',
-    Transliteration:
-      'Utaiyaarmun Illaarpol  Ekkatrung  Katraar<br />Kataiyare  Kallaa  Thavar',
+    Transliteration: 'Utaiyaarmun Illaarpol  Ekkatrung  Katraar<br />Kataiyare  Kallaa  Thavar',
   },
   {
     Index: 396,
@@ -7253,8 +6737,7 @@ const kurral = [
       'In sandy soil, when deep you delve, you reach the springs below;<br />The more you learn, the freer streams of wisdom flow',
     EnglishMeaning:
       'Water will flow from a well in the sand in proportion to the depth to which it is dug, and knowledge will flow from a man in proportion to his learning',
-    Transliteration:
-      'Thottanaith Thoorum  Manarkeni  Maandharkkuk<br />Katranaith  Thoorum  Arivu',
+    Transliteration: 'Thottanaith Thoorum  Manarkeni  Maandharkkuk<br />Katranaith  Thoorum  Arivu',
   },
   {
     Index: 397,
@@ -7279,8 +6762,7 @@ const kurral = [
     Tamil: 'ஒருமைக்கண் தான்னற்ற கல்வி ஒருவற் <br />கெழுமையும் ஏமாப் புடைத்து',
     line1: 'ஒருமைக்கண் தான்னற்ற கல்வி ஒருவற் ',
     line2: 'கெழுமையும் ஏமாப் புடைத்து',
-    KalaignarUrai:
-      'ஒரு தலைமுறையில் பெறும் கல்வி அறிவானது, ஏழேழு தலைமுறைக்கும் பாதுகாப்பாக அமையும்',
+    KalaignarUrai: 'ஒரு தலைமுறையில் பெறும் கல்வி அறிவானது, ஏழேழு தலைமுறைக்கும் பாதுகாப்பாக அமையும்',
     MuVaUrai:
       'ஒரு பிறப்பில் தான் கற்றக் கல்வியானது அப்பிறப்பிற்கு மட்டும் அல்லாமல்  அவனுக்கு ஏழுபிறப்பிறப்பிலும் உதவும் தன்மை உடையது.',
     SolomonPaapaiyaUrai:
@@ -7289,8 +6771,7 @@ const kurral = [
       'The man who store of learning gains,<br />In one, through seven worlds, bliss attains',
     EnglishMeaning:
       'The learning, which a man has acquired in one birth, will yield him pleasure during seven births',
-    Transliteration:
-      'Orumaikkan Thaan  Katra  Kalvi  Oruvarku<br />Ezhumaiyum  Emaap  Putaiththu',
+    Transliteration: 'Orumaikkan Thaan  Katra  Kalvi  Oruvarku<br />Ezhumaiyum  Emaap  Putaiththu',
   },
   {
     Index: 399,
@@ -7315,18 +6796,14 @@ const kurral = [
     Tamil: 'கேடில் விழுச் செல்வங் கல்வி யொருவற்கு<br />மாடல்ல மற்றை யவை',
     line1: 'கேடில் விழுச் செல்வங் கல்வி யொருவற்கு',
     line2: 'மாடல்ல மற்றை யவை',
-    KalaignarUrai:
-      'கல்வி ஒன்றே அழிவற்ற செல்வமாகும் அதற்கொப்பான சிறந்த செல்வம் வேறு எதுவும் இல்லை',
+    KalaignarUrai: 'கல்வி ஒன்றே அழிவற்ற செல்வமாகும் அதற்கொப்பான சிறந்த செல்வம் வேறு எதுவும் இல்லை',
     MuVaUrai:
       'ஒருவனுக்கு அழிவு இல்லாத சிறந்த செல்வம் கல்வியே ஆகும், கல்வியைத் தவிர மற்றப் பொருள்கள் (அத்தகைய சிறப்புடைய) செல்வம் அல்ல.',
-    SolomonPaapaiyaUrai:
-      'கல்வியே அழிவு இல்லாத சிறந்த செல்வம்; பிற எல்லாம் செல்வமே அல்ல.',
+    SolomonPaapaiyaUrai: 'கல்வியே அழிவு இல்லாத சிறந்த செல்வம்; பிற எல்லாம் செல்வமே அல்ல.',
     English:
       'Learning is excellence of wealth that none destroy;<br />To man nought else affords reality of joy',
-    EnglishMeaning:
-      'Learning is the true imperishable riches; all other things are not riches',
-    Transliteration:
-      'Ketil Vizhuchchelvam  Kalvi  Yoruvarku<br />Maatalla  Matrai  Yavai',
+    EnglishMeaning: 'Learning is the true imperishable riches; all other things are not riches',
+    Transliteration: 'Ketil Vizhuchchelvam  Kalvi  Yoruvarku<br />Maatalla  Matrai  Yavai',
   },
   {
     Index: 401,
@@ -7343,13 +6820,11 @@ const kurral = [
       'Like those at draughts would play without the chequered square,<br />Men void of ample lore would counsels of the learned share',
     EnglishMeaning:
       'To speak in an assembly (of the learned) without fullness of knowledge, is like playing at chess (on a board) without squares',
-    Transliteration:
-      'Arangindri Vattaati  Yatre  Nirampiya<br />Noolindrik  Kotti  Kolal',
+    Transliteration: 'Arangindri Vattaati  Yatre  Nirampiya<br />Noolindrik  Kotti  Kolal',
   },
   {
     Index: 402,
-    Tamil:
-      'கல்லாதான் சொற்கா முறுதன் முலையிரண்டும்<br />இல்லாதாள் பெண்காமுற் றற்று',
+    Tamil: 'கல்லாதான் சொற்கா முறுதன் முலையிரண்டும்<br />இல்லாதாள் பெண்காமுற் றற்று',
     line1: 'கல்லாதான் சொற்கா முறுதன் முலையிரண்டும்',
     line2: 'இல்லாதாள் பெண்காமுற் றற்று',
     KalaignarUrai:
@@ -7374,14 +6849,12 @@ const kurral = [
       'கற்றவர்களின் முன்னிலையில் எதுவும் பேசாமல் இருக்கக் கற்றிருந்தால் கல்வி கற்காதவர்கள்கூட நல்லவர்களாகவே கருதப்படுவார்கள்',
     MuVaUrai:
       'கற்றவரின் முன்னிலையில் ஒன்றையும் சொல்லாமல் அமைதியாக இருக்கப் பெற்றால் கல்லாதவர்களும் மிகவும் நல்லவரே ஆவார்.',
-    SolomonPaapaiyaUrai:
-      'கற்றவர் அவையில் பேசாதிருந்தால் படிக்காதவரும் மிகநல்லவரே.',
+    SolomonPaapaiyaUrai: 'கற்றவர் அவையில் பேசாதிருந்தால் படிக்காதவரும் மிகநல்லவரே.',
     English:
       'The blockheads, too, may men of worth appear,<br />If they can keep from speaking where the learned hear',
     EnglishMeaning:
       'The unlearned also are very excellent men, if they know how to keep silence before the learned',
-    Transliteration:
-      'Kallaa Thavarum  Naninallar  Katraarmun<br />Sollaa  Thirukkap  Perin',
+    Transliteration: 'Kallaa Thavarum  Naninallar  Katraarmun<br />Sollaa  Thirukkap  Perin',
   },
   {
     Index: 404,
@@ -7392,14 +6865,12 @@ const kurral = [
       'கல்வி கற்காதவனுக்கு இயற்கையாகவே அறிவு இருந்தாலும்கூட, அவனைக் கல்வியில் சிறந்தோன் என்று அறிவுடையோர் ஒப்புக் கொள்ள மாட்டார்கள்',
     MuVaUrai:
       'கல்லாதவனுடைய அறிவுடைய ஒருக்கால் மிக நன்றாக இருந்தாலும் அறிவுடையோர் அதனை அறிவின்  பகுதியாக ஏற்றுக்கொள்ள மாட்டார்.',
-    SolomonPaapaiyaUrai:
-      'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.',
+    SolomonPaapaiyaUrai: 'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.',
     English:
       "From blockheads' lips, when words of wisdom glibly flow,<br />The wise receive them not, though good they seem to show",
     EnglishMeaning:
       'Although the natural knowledge of an unlearned man may be very good, the wise will not accept for true knowledge',
-    Transliteration:
-      'Kallaadhaan Otpam  Kazhiyanan  Raayinum<br />Kollaar  Arivutai  Yaar',
+    Transliteration: 'Kallaadhaan Otpam  Kazhiyanan  Raayinum<br />Kollaar  Arivutai  Yaar',
   },
   {
     Index: 405,
@@ -7410,14 +6881,12 @@ const kurral = [
       'கல்வியறிவில்லாதவர்கள் தங்களைப் பெரிய மேதைகளைப் போல் காட்டிக் கொள்ளும் போலி வேடம், கற்றுத் தேர்ந்த அறிஞர்களிடம் அவர்கள் உரையாடும்போது கலைந்து போய்விடும்',
     MuVaUrai:
       'கல்லாதவன் ஒருவன் தன்னைத்தான் மகிழ்ந்து பேசும் மதிப்பு ( கற்றவரிடம்) கூடிபேசும் போது அப்பேசினால் கெடும்.',
-    SolomonPaapaiyaUrai:
-      'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.',
+    SolomonPaapaiyaUrai: 'படித்தவர் முன் பேசினால் படிக்காதவரின் பெருமை குறைந்து போகும்.',
     English:
       'As worthless shows the worth of man unlearned,<br />When council meets, by words he speaks discerned',
     EnglishMeaning:
       '51 The self-conceit of an unlearned man will fade away, as soon as he speaks in an assembly (of',
-    Transliteration:
-      'Kallaa Oruvan  Thakaimai  Thalaippeydhu<br />Sollaatach  Chorvu  Patum',
+    Transliteration: 'Kallaa Oruvan  Thakaimai  Thalaippeydhu<br />Sollaatach  Chorvu  Patum',
   },
   {
     Index: 406,
@@ -7434,8 +6903,7 @@ const kurral = [
       "'They are': so much is true of men untaught;<br />But, like a barren field, they yield us nought",
     EnglishMeaning:
       'The unlearned are like worthless barren land: all that can be said of them is, that they exist',
-    Transliteration:
-      'Ularennum Maaththiraiyar  Allaal  Payavaak<br />Kalaranaiyar  Kallaa  Thavar',
+    Transliteration: 'Ularennum Maaththiraiyar  Allaal  Payavaak<br />Kalaranaiyar  Kallaa  Thavar',
   },
   {
     Index: 407,
@@ -7452,8 +6920,7 @@ const kurral = [
       "Who lack the power of subtle, large, and penetrating sense,<br />Like puppet, decked with ornaments of clay, their beauty's vain pretence",
     EnglishMeaning:
       'The beauty and goodness of one who is destitute of knowledge by the study of great and exquisite works, is like (the beauty and goodness) of a painted earthen doll',
-    Transliteration:
-      'Nunmaan Nuzhaipulam  Illaan  Ezhilnalam<br />Manmaan  Punaipaavai  Yatru',
+    Transliteration: 'Nunmaan Nuzhaipulam  Illaan  Ezhilnalam<br />Manmaan  Punaipaavai  Yatru',
   },
   {
     Index: 408,
@@ -7470,17 +6937,14 @@ const kurral = [
       "To men unlearned, from fortune's favour greater-evil springs<br />Than poverty to men of goodly wisdom brings",
     EnglishMeaning:
       'Wealth, gained by the unlearned, will give more sorrow than the poverty which may come upon the learned',
-    Transliteration:
-      'Nallaarkan Patta  Varumaiyin  Innaadhe<br />Kallaarkan  Patta  Thiru',
+    Transliteration: 'Nallaarkan Patta  Varumaiyin  Innaadhe<br />Kallaarkan  Patta  Thiru',
   },
   {
     Index: 409,
-    Tamil:
-      'மேற்பிறந்தா ராயினுங் கல்லாதார் கீழ்ப்பிறந்துங்<br />கற்றா ரனைத்திலர் பாடு',
+    Tamil: 'மேற்பிறந்தா ராயினுங் கல்லாதார் கீழ்ப்பிறந்துங்<br />கற்றா ரனைத்திலர் பாடு',
     line1: 'மேற்பிறந்தா ராயினுங் கல்லாதார் கீழ்ப்பிறந்துங்',
     line2: 'கற்றா ரனைத்திலர் பாடு',
-    KalaignarUrai:
-      'கற்றவர் என்ற பெருமை, உயர்ந்தவர் தாழ்ந்தவர் என்ற வேறுபாட்டைப் போக்கிவிடும்',
+    KalaignarUrai: 'கற்றவர் என்ற பெருமை, உயர்ந்தவர் தாழ்ந்தவர் என்ற வேறுபாட்டைப் போக்கிவிடும்',
     MuVaUrai:
       'கல்லாதவர் உயர்ந்த குடியில் பிறந்தவராக இருப்பினும் தாழ்ந்த குடியில் பிறந்திருந்தும் கல்விக் கற்றவரைப் போன்ற பெருமை இல்லாதவரே.',
     SolomonPaapaiyaUrai:
@@ -7503,17 +6967,14 @@ const kurral = [
       'அறிவு விளங்குதற்குக் காரணமான நூல்களைக் கற்றவரோடுக் கல்லாதவர், மக்களோடு விலங்குகளுக்கு உள்ள அவ்வளவு வேற்றுமை உடையவர்.',
     SolomonPaapaiyaUrai:
       'விலங்கை நோக்க மக்கள் எவ்வளவு வேறுபட்டவரோ, சிறந்த நூலைக் கற்றவரை நோக்கக் கல்லாதவர் அவ்வளவு  வேறுபட்டவர்.',
-    English:
-      "Learning's irradiating grace who gain,<br />Others excel, as men the bestial train",
+    English: "Learning's irradiating grace who gain,<br />Others excel, as men the bestial train",
     EnglishMeaning:
       'As beasts by the side of men, so are other men by the side of those who are learned in celebrated works',
-    Transliteration:
-      'Vilangotu Makkal  Anaiyar  Ilangunool<br />Katraarotu  Enai  Yavar',
+    Transliteration: 'Vilangotu Makkal  Anaiyar  Ilangunool<br />Katraarotu  Enai  Yavar',
   },
   {
     Index: 411,
-    Tamil:
-      'செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வஞ்<br />செல்வத்து ளெல்லாந் தலை',
+    Tamil: 'செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வஞ்<br />செல்வத்து ளெல்லாந் தலை',
     line1: 'செல்வத்துட் செல்வஞ் செவிச்செல்வம் அச்செல்வஞ்',
     line2: 'செல்வத்து ளெல்லாந் தலை',
     KalaignarUrai:
@@ -7542,15 +7003,12 @@ const kurral = [
       'செவிக்கு உணவாகிய கேள்வி கிடைக்காதபோது, வயிற்றுக்கும் சிறிது உணவு இடப்படும்.',
     English:
       "When 'tis no longer time the listening ear to feed<br />With trifling dole of food supply the body's need",
-    EnglishMeaning:
-      'When there is no food for the ear, give a little also to the stomach',
-    Transliteration:
-      'Sevikkuna Villaadha  Pozhdhu  Siridhu<br />Vayitrukkum  Eeyap  Patum',
+    EnglishMeaning: 'When there is no food for the ear, give a little also to the stomach',
+    Transliteration: 'Sevikkuna Villaadha  Pozhdhu  Siridhu<br />Vayitrukkum  Eeyap  Patum',
   },
   {
     Index: 413,
-    Tamil:
-      'செவியுணவிற் கேள்வி யுடையார் அவியுணவின்<br />ஆன்றாரோ டொப்பர் நிலத்து',
+    Tamil: 'செவியுணவிற் கேள்வி யுடையார் அவியுணவின்<br />ஆன்றாரோ டொப்பர் நிலத்து',
     line1: 'செவியுணவிற் கேள்வி யுடையார் அவியுணவின்',
     line2: 'ஆன்றாரோ டொப்பர் நிலத்து',
     KalaignarUrai:
@@ -7563,8 +7021,7 @@ const kurral = [
       'Who feed their ear with learned teachings rare,<br />Are like the happy gods oblations rich who share',
     EnglishMeaning:
       'Those who in this world enjoy instruction which is the food of the ear, are equal to the Gods, who enjoy the food of the sacrifices',
-    Transliteration:
-      'Seviyunavir Kelvi  Yutaiyaar  Aviyunavin<br />Aandraaro  Toppar  Nilaththu',
+    Transliteration: 'Seviyunavir Kelvi  Yutaiyaar  Aviyunavin<br />Aandraaro  Toppar  Nilaththu',
   },
   {
     Index: 414,
@@ -7581,8 +7038,7 @@ const kurral = [
       'Though learning none hath he, yet let him hear alway:<br />In weakness this shall prove a staff and stay',
     EnglishMeaning:
       'Although a man be without learning, let him listen (to the teaching of the learned); that will be to him a staff in adversity',
-    Transliteration:
-      'Katrila Naayinung  Ketka  Aqdhoruvarku<br />Orkaththin  Ootraan  Thunai',
+    Transliteration: 'Katrila Naayinung  Ketka  Aqdhoruvarku<br />Orkaththin  Ootraan  Thunai',
   },
   {
     Index: 415,
@@ -7597,10 +7053,8 @@ const kurral = [
       'கற்று, ஒழுக்கம் மிக்கவரின் வாயிலிருந்து பிறந்த சொற்கள் வழுக்கும் தரையில் ஊன்றுகோல் உதவுவது போல் துன்ப நேரத்தில் உதவும்.',
     English:
       'Like staff in hand of him in slippery ground who strays<br />Are words from mouth of those who walk in righteous ways',
-    EnglishMeaning:
-      'The words of the good are like a staff in a slippery place',
-    Transliteration:
-      'Izhukkal Utaiyuzhi  Ootrukkol  Atre<br />Ozhukka  Mutaiyaarvaaich  Chol',
+    EnglishMeaning: 'The words of the good are like a staff in a slippery place',
+    Transliteration: 'Izhukkal Utaiyuzhi  Ootrukkol  Atre<br />Ozhukka  Mutaiyaarvaaich  Chol',
   },
   {
     Index: 416,
@@ -7617,13 +7071,11 @@ const kurral = [
       "Let each man good things learn, for e'en as he<br />Shall learn, he gains increase of perfect dignity",
     EnglishMeaning:
       'Let a man listen, never so little, to good (instruction), even that will bring him great dignity',
-    Transliteration:
-      'Enaiththaanum Nallavai  Ketka  Anaiththaanum<br />Aandra  Perumai  Tharum',
+    Transliteration: 'Enaiththaanum Nallavai  Ketka  Anaiththaanum<br />Aandra  Perumai  Tharum',
   },
   {
     Index: 417,
-    Tamil:
-      'பிழைத்துணர்ந்தும் பேதைமை சொல்லா ரிழைத்துணர்ந்<br />தீண்டிய கேள்வி யவர்',
+    Tamil: 'பிழைத்துணர்ந்தும் பேதைமை சொல்லா ரிழைத்துணர்ந்<br />தீண்டிய கேள்வி யவர்',
     line1: 'பிழைத்துணர்ந்தும் பேதைமை சொல்லா ரிழைத்துணர்ந்',
     line2: 'தீண்டிய கேள்வி யவர்',
     KalaignarUrai:
@@ -7652,10 +7104,8 @@ const kurral = [
       'கேள்வி ஞானத்தால்  துளைக்கப்படாத செவிகள் ஓசைகளைக் கேட்டாலும் அவை செவிட்டுத் தன்மையவே.',
     English:
       "Where teaching hath not oped the learner's ear,<br />The man may listen, but he scarce can hear",
-    EnglishMeaning:
-      'The ear which has not been bored by instruction, although it hears, is deaf',
-    Transliteration:
-      'Ketpinung Kelaath  Thakaiyave  Kelviyaal<br />Thotkap  Pataadha  Sevi',
+    EnglishMeaning: 'The ear which has not been bored by instruction, although it hears, is deaf',
+    Transliteration: 'Ketpinung Kelaath  Thakaiyave  Kelviyaal<br />Thotkap  Pataadha  Sevi',
   },
   {
     Index: 419,
@@ -7672,8 +7122,7 @@ const kurral = [
       "'Tis hard for mouth to utter gentle, modest word,<br />When ears discourse of lore refined have never heard",
     EnglishMeaning:
       'It is a rare thing to find modesty, a reverend mouth- with those who have not received choice instruction',
-    Transliteration:
-      'Nunangiya Kelviya  Rallaar  Vanangiya<br />Vaayina  Raadhal  Aridhu',
+    Transliteration: 'Nunangiya Kelviya  Rallaar  Vanangiya<br />Vaayina  Raadhal  Aridhu',
   },
   {
     Index: 420,
@@ -7690,8 +7139,7 @@ const kurral = [
       'His mouth can taste, but ear no taste of joy can give!<br />What matter if he die, or prosperous live',
     EnglishMeaning:
       'What does it matter whether those men live or die, who can judge of tastes by the mouth, and not by the ear ?',
-    Transliteration:
-      'Seviyir Suvaiyunaraa  Vaayunarvin  Maakkal<br />Aviyinum  Vaazhinum  En?',
+    Transliteration: 'Seviyir Suvaiyunaraa  Vaayunarvin  Maakkal<br />Aviyinum  Vaazhinum  En?',
   },
   {
     Index: 421,
@@ -7707,8 +7155,7 @@ const kurral = [
       "True wisdom wards off woes, A circling fortress high;<br />Its inner strength man's eager foes Unshaken will defy",
     EnglishMeaning:
       'Wisdom is a weapon to ward off destruction; it is an inner fortress which enemies cannot destroy',
-    Transliteration:
-      '421 Arivatrang  Kaakkung  Karuvi  Seruvaarkkum<br />Ullazhikka  Laakaa  Aran',
+    Transliteration: '421 Arivatrang  Kaakkung  Karuvi  Seruvaarkkum<br />Ullazhikka  Laakaa  Aran',
   },
   {
     Index: 422,
@@ -7725,32 +7172,26 @@ const kurral = [
       'Wisdom restrains, nor suffers mind to wander where it would;<br />From every evil calls it back, and guides in way of good',
     EnglishMeaning:
       'Not to permit the mind to go where it lists, to keep it from evil, and to employ it in good, this is wisdom',
-    Transliteration:
-      'Sendra Itaththaal  Selavitaa  Theedhoreei<br />Nandrinpaal  Uyppa  Tharivu',
+    Transliteration: 'Sendra Itaththaal  Selavitaa  Theedhoreei<br />Nandrinpaal  Uyppa  Tharivu',
   },
   {
     Index: 423,
-    Tamil:
-      'எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்<br />மெய்ப்பொருள் காண்ப தறிவு',
+    Tamil: 'எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்<br />மெய்ப்பொருள் காண்ப தறிவு',
     line1: 'எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்',
     line2: 'மெய்ப்பொருள் காண்ப தறிவு',
     KalaignarUrai:
       'எந்தவொரு பொருள்குறித்து எவர் எதைச் சொன்னாலும், அதை அப்படியே நம்பி ஏற்றுக் கொள்ளாமல் உண்மை எது என்பதை ஆராய்ந்து தெளிவதுதான் அறிவுடைமையாகும்',
     MuVaUrai:
       'எப்பொருளை யார் யார் இடம் கேட்டாலும் (கேட்டவாறே கொள்ளாமல்) அப் பொருளின் மெய்யானப் பொருளைக் காண்பதே அறிவாகும்.',
-    SolomonPaapaiyaUrai:
-      'எந்தக் கருத்தை எவர் சொன்னாலும், அக்கருத்தின் உண்மையைக் காண்பது அறிவு.',
+    SolomonPaapaiyaUrai: 'எந்தக் கருத்தை எவர் சொன்னாலும், அக்கருத்தின் உண்மையைக் காண்பது அறிவு.',
     English:
       "Though things diverse from divers sages' lips we learn,<br />'Tis wisdom's part in each the true thing to discern",
-    EnglishMeaning:
-      'To discern the truth in every thing, by whomsoever spoken, is wisdom',
-    Transliteration:
-      'Epporul Yaaryaarvaaik  Ketpinum  Apporul<br />Meypporul  Kaanpa  Tharivu',
+    EnglishMeaning: 'To discern the truth in every thing, by whomsoever spoken, is wisdom',
+    Transliteration: 'Epporul Yaaryaarvaaik  Ketpinum  Apporul<br />Meypporul  Kaanpa  Tharivu',
   },
   {
     Index: 424,
-    Tamil:
-      'எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய்<br />நுண்பொருள் காண்ப தறிவு',
+    Tamil: 'எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய்<br />நுண்பொருள் காண்ப தறிவு',
     line1: 'எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய்',
     line2: 'நுண்பொருள் காண்ப தறிவு',
     KalaignarUrai:
@@ -7781,8 +7222,7 @@ const kurral = [
       'Wisdom embraces frank the world, to no caprice exposed;<br />Unlike the lotus flower, now opened wide, now petals strictly closed',
     EnglishMeaning:
       'To secure the friendship of the great is true wisdom; it is (also) wisdom to keep (that friendship unchanged, and) not opening and closing (like the lotus flower)',
-    Transliteration:
-      'Ulakam Thazheeiya  Thotpam  Malardhalum<br />Koompalum  Illa  Tharivu',
+    Transliteration: 'Ulakam Thazheeiya  Thotpam  Malardhalum<br />Koompalum  Illa  Tharivu',
   },
   {
     Index: 426,
@@ -7798,8 +7238,7 @@ const kurral = [
     English:
       'As dwells the world, so with the world to dwell<br />In harmony- this is to wisely live and well',
     EnglishMeaning: 'To live as the world lives, is wisdom',
-    Transliteration:
-      'Evva Thuraivadhu  Ulakam  Ulakaththotu<br />Avva  Thuraiva  Tharivu',
+    Transliteration: 'Evva Thuraivadhu  Ulakam  Ulakaththotu<br />Avva  Thuraiva  Tharivu',
   },
   {
     Index: 427,
@@ -7816,8 +7255,7 @@ const kurral = [
       'The wise discern, the foolish fail to see,<br />And minds prepare for things about to be',
     EnglishMeaning:
       'The wise are those who know beforehand what will happen; those who do not know this are the unwise',
-    Transliteration:
-      'Arivutaiyaar Aava  Tharivaar  Arivilaar<br />Aqdhari  Kallaa  Thavar',
+    Transliteration: 'Arivutaiyaar Aava  Tharivaar  Arivilaar<br />Aqdhari  Kallaa  Thavar',
   },
   {
     Index: 428,
@@ -7834,8 +7272,7 @@ const kurral = [
       "Folly meets fearful ills with fearless heart;<br />To fear where cause of fear exists is wisdom's part",
     EnglishMeaning:
       'Not to fear what ought to be feared, is folly; it is the work of the wise to fear what should be feared',
-    Transliteration:
-      'Anjuva Thanjaamai  Pedhaimai  Anjuvadhu<br />Anjal  Arivaar  Thozhil',
+    Transliteration: 'Anjuva Thanjaamai  Pedhaimai  Anjuvadhu<br />Anjal  Arivaar  Thozhil',
   },
   {
     Index: 429,
@@ -7852,8 +7289,7 @@ const kurral = [
       "The wise with watchful soul who coming ills foresee;<br />From coming evil's dreaded shock are free",
     EnglishMeaning:
       'No terrifying calamity will happen to the wise, who (foresee) and guard against coming evils',
-    Transliteration:
-      'Edhiradhaak Kaakkum  Arivinaark  Killai<br />Adhira  Varuvadhor  Noi',
+    Transliteration: 'Edhiradhaak Kaakkum  Arivinaark  Killai<br />Adhira  Varuvadhor  Noi',
   },
   {
     Index: 430,
@@ -7870,13 +7306,11 @@ const kurral = [
       "The wise is rich, with ev'ry blessing blest;<br />The fool is poor, of everything possessed",
     EnglishMeaning:
       'Those who possess wisdom, possess every thing; those who have not wisdom, whatever they may possess, have nothing',
-    Transliteration:
-      'Arivutaiyaar Ellaa  Mutaiyaar  Arivilaar<br />Ennutaiya  Renum  Ilar',
+    Transliteration: 'Arivutaiyaar Ellaa  Mutaiyaar  Arivilaar<br />Ennutaiya  Renum  Ilar',
   },
   {
     Index: 431,
-    Tamil:
-      'செருக்குஞ் சினமுஞ் சிறுமையும் இல்லார்<br />பெருக்கம் பெருமித நீர்த்து',
+    Tamil: 'செருக்குஞ் சினமுஞ் சிறுமையும் இல்லார்<br />பெருக்கம் பெருமித நீர்த்து',
     line1: 'செருக்குஞ் சினமுஞ் சிறுமையும் இல்லார்',
     line2: 'பெருக்கம் பெருமித நீர்த்து',
     KalaignarUrai:
@@ -7889,8 +7323,7 @@ const kurral = [
       'Who arrogance, and wrath, and littleness of low desire restrain,<br />To sure increase of lofty dignity attain',
     EnglishMeaning:
       '54 Truly great is the excellence of those (kings) who are free from pride, anger, and lust',
-    Transliteration:
-      'Serukkunj Chinamum  Sirumaiyum  Illaar<br />Perukkam  Perumidha  Neerththu',
+    Transliteration: 'Serukkunj Chinamum  Sirumaiyum  Illaar<br />Perukkam  Perumidha  Neerththu',
   },
   {
     Index: 432,
@@ -7905,15 +7338,12 @@ const kurral = [
       'நியாயமாகத் தேவைப்படுவோர்க்குத் தேவையானவற்றைக் கொடாதிருப்பது, பெரியோர் என்று தெரிந்தும் தம் பதவிப் பெருமை கருதி வணங்காதிருப்பது, தீயவற்றில் மகிழ்வது - இவை ஆட்சியாளர்க்குக் குற்றங்களாம்.',
     English:
       "A niggard hand, o'erweening self-regard, and mirth<br />Unseemly, bring disgrace to men of kingly brith",
-    EnglishMeaning:
-      'Avarice, undignified pride, and low pleasures are faults in a king',
-    Transliteration:
-      'Ivaralum Maanpirandha  Maanamum  Maanaa<br />Uvakaiyum  Edham  Iraikku',
+    EnglishMeaning: 'Avarice, undignified pride, and low pleasures are faults in a king',
+    Transliteration: 'Ivaralum Maanpirandha  Maanamum  Maanaa<br />Uvakaiyum  Edham  Iraikku',
   },
   {
     Index: 433,
-    Tamil:
-      'தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்<br />கொள்வர் பழிநாணு வார்',
+    Tamil: 'தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்<br />கொள்வர் பழிநாணு வார்',
     line1: 'தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்',
     line2: 'கொள்வர் பழிநாணு வார்',
     KalaignarUrai:
@@ -7944,13 +7374,11 @@ const kurral = [
       "Freedom from faults is wealth; watch heedfully<br />'Gainst these, for fault is fatal enmity",
     EnglishMeaning:
       'Guard against faults as a matter (of great consequence; for) faults are a deadly enemy',
-    Transliteration:
-      'Kutrame Kaakka  Porulaakak  Kutrame<br />Atran  Tharooum  Pakai',
+    Transliteration: 'Kutrame Kaakka  Porulaakak  Kutrame<br />Atran  Tharooum  Pakai',
   },
   {
     Index: 435,
-    Tamil:
-      'வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்<br />வைத்தூறு போலக் கெடும்',
+    Tamil: 'வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்<br />வைத்தூறு போலக் கெடும்',
     line1: 'வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்',
     line2: 'வைத்தூறு போலக் கெடும்',
     KalaignarUrai:
@@ -7963,13 +7391,11 @@ const kurral = [
       "His joy who guards not 'gainst the coming evil day,<br />Like straw before the fire shall swift consume away",
     EnglishMeaning:
       'The prosperity of him who does not timely guard against faults, will perish like straw before fire',
-    Transliteration:
-      'Varumunnark Kaavaadhaan  Vaazhkkai  Erimunnar<br />Vaiththooru  Polak  Ketum',
+    Transliteration: 'Varumunnark Kaavaadhaan  Vaazhkkai  Erimunnar<br />Vaiththooru  Polak  Ketum',
   },
   {
     Index: 436,
-    Tamil:
-      'தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பின்<br />என்குற்ற மாகும் இறைக்கு',
+    Tamil: 'தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பின்<br />என்குற்ற மாகும் இறைக்கு',
     line1: 'தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பின்',
     line2: 'என்குற்ற மாகும் இறைக்கு',
     KalaignarUrai:
@@ -7982,8 +7408,7 @@ const kurral = [
       'Faultless the king who first his own faults cures, and then<br />Permits himself to scan faults of other men',
     EnglishMeaning:
       'What fault will remain in the king who has put away his own evils, and looks after the evils of others',
-    Transliteration:
-      'Thankutram Neekkip  Pirarkutrang  Kaankirpin<br />Enkutra  Maakum  Iraikku?',
+    Transliteration: 'Thankutram Neekkip  Pirarkutrang  Kaankirpin<br />Enkutra  Maakum  Iraikku?',
   },
   {
     Index: 437,
@@ -8000,8 +7425,7 @@ const kurral = [
       'Who leaves undone what should be done, with niggard mind,<br />His wealth shall perish, leaving not a wrack behind',
     EnglishMeaning:
       'The wealth of the avaricious man, who does not expend it for the purposes for which he ought to expend it will waste away and not continue',
-    Transliteration:
-      'Seyarpaala Seyyaa  Thivariyaan  Selvam<br />Uyarpaala  Thandrik  Ketum',
+    Transliteration: 'Seyarpaala Seyyaa  Thivariyaan  Selvam<br />Uyarpaala  Thandrik  Ketum',
   },
   {
     Index: 438,
@@ -8018,8 +7442,7 @@ const kurral = [
       'The greed of soul that avarice men call,<br />When faults are summed, is worst of all',
     EnglishMeaning:
       'Griping avarice is not to be reckoned as one among other faults; (it stands alone - greater than all)',
-    Transliteration:
-      'Patrullam Ennum  Ivaranmai  Etrullum<br />Ennap  Patuvadhon  Randru',
+    Transliteration: 'Patrullam Ennum  Ivaranmai  Etrullum<br />Ennap  Patuvadhon  Randru',
   },
   {
     Index: 439,
@@ -8036,8 +7459,7 @@ const kurral = [
       'Never indulge in self-complaisant mood,<br />Nor deed desire that yields no gain of good',
     EnglishMeaning:
       'Let no (one) praise himself, at any time; let him not desire to do useless things',
-    Transliteration:
-      'Viyavarka Egngnaandrum  Thannai  Nayavarka<br />Nandri  Payavaa  Vinai',
+    Transliteration: 'Viyavarka Egngnaandrum  Thannai  Nayavarka<br />Nandri  Payavaa  Vinai',
   },
   {
     Index: 440,
@@ -8054,8 +7476,7 @@ const kurral = [
       'If, to your foes unknown, you cherish what you love,<br />Counsels of men who wish you harm will harmless prove',
     EnglishMeaning:
       'If (a king) enjoys, privately the things which he desires, the designs of his enemies will be useless',
-    Transliteration:
-      'Kaadhala Kaadhal  Ariyaamai  Uykkirpin<br />Edhila  Edhilaar  Nool',
+    Transliteration: 'Kaadhala Kaadhal  Ariyaamai  Uykkirpin<br />Edhila  Edhilaar  Nool',
   },
   {
     Index: 441,
@@ -8090,8 +7511,7 @@ const kurral = [
       'Cherish the all-accomplished men as friends,<br />Whose skill the present ill removes, from coming ill defends',
     EnglishMeaning:
       'Let (a king) procure and kindly care for men who can overcome difficulties when they occur, and guard against them before they happen',
-    Transliteration:
-      'Utranoi Neekki  Uraaamai  Murkaakkum<br />Petriyaarp  Penik  Kolal',
+    Transliteration: 'Utranoi Neekki  Uraaamai  Murkaakkum<br />Petriyaarp  Penik  Kolal',
   },
   {
     Index: 443,
@@ -8108,8 +7528,7 @@ const kurral = [
       'To cherish men of mighty soul, and make them all their own,<br />Of kingly treasures rare, as rarest gift is known',
     EnglishMeaning:
       'To cherish great men and make them his own, is the most difficult of all difficult things',
-    Transliteration:
-      'Ariyavatru Lellaam  Aridhe  Periyaaraip<br />Penith  Thamaraak  Kolal',
+    Transliteration: 'Ariyavatru Lellaam  Aridhe  Periyaaraip<br />Penith  Thamaraak  Kolal',
   },
   {
     Index: 444,
@@ -8126,8 +7545,7 @@ const kurral = [
       'To live with men of greatness that their own excels,<br />As cherished friends, is greatest power that with a monarch dwells',
     EnglishMeaning:
       'So to act as to make those men, his own, who are greater than himself is of all powers the highest',
-    Transliteration:
-      'Thammir Periyaar  Thamaraa  Ozhukudhal<br />Vanmaiyu  Lellaan  Thalai',
+    Transliteration: 'Thammir Periyaar  Thamaraa  Ozhukudhal<br />Vanmaiyu  Lellaan  Thalai',
   },
   {
     Index: 445,
@@ -8144,13 +7562,11 @@ const kurral = [
       "The king, since counsellors are monarch's eyes,<br />Should counsellors select with counsel wise",
     EnglishMeaning:
       'As a king must use his ministers as eyes (in managing his kingdom), let him well examine their character and qualifications before he engages them',
-    Transliteration:
-      'Soozhvaarkan Naaka  Ozhukalaan  Mannavan<br />Soozhvaaraik  Soozhndhu  Kolal',
+    Transliteration: 'Soozhvaarkan Naaka  Ozhukalaan  Mannavan<br />Soozhvaaraik  Soozhndhu  Kolal',
   },
   {
     Index: 446,
-    Tamil:
-      'தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்<br />செற்றார் செயக்கிடந்த தில்',
+    Tamil: 'தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்<br />செற்றார் செயக்கிடந்த தில்',
     line1: 'தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்',
     line2: 'செற்றார் செயக்கிடந்த தில்',
     KalaignarUrai:
@@ -8181,8 +7597,7 @@ const kurral = [
       'What power can work his fall, who faithful ministers<br />Employs, that thunder out reproaches when he errs',
     EnglishMeaning:
       'Who are great enough to destroy him who has servants that have power to rebuke him ?',
-    Transliteration:
-      'Itikkun Thunaiyaarai  Yaalvarai  Yaare<br />Ketukkun  Thakaimai  Yavar',
+    Transliteration: 'Itikkun Thunaiyaarai  Yaalvarai  Yaare<br />Ketukkun  Thakaimai  Yavar',
   },
   {
     Index: 448,
@@ -8198,8 +7613,7 @@ const kurral = [
       'The king with none to censure him, bereft of safeguards all,<br />Though none his ruin work, shall surely ruined fall',
     EnglishMeaning:
       'The king, who is without the guard of men who can rebuke him, will perish, even though there be no one to destroy him',
-    Transliteration:
-      'Itippaarai Illaadha  Emaraa  Mannan<br />Ketuppaa  Rilaanung  Ketum',
+    Transliteration: 'Itippaarai Illaadha  Emaraa  Mannan<br />Ketuppaa  Rilaanung  Ketum',
   },
   {
     Index: 449,
@@ -8257,8 +7671,7 @@ const kurral = [
   },
   {
     Index: 452,
-    Tamil:
-      'நிலத்தியல்பான் நீர்திரிந் தற்றாகும் மாந்தர்க்<br />கினத்தியல்ப தாகும் அறிவு',
+    Tamil: 'நிலத்தியல்பான் நீர்திரிந் தற்றாகும் மாந்தர்க்<br />கினத்தியல்ப தாகும் அறிவு',
     line1: 'நிலத்தியல்பான் நீர்திரிந் தற்றாகும் மாந்தர்க்',
     line2: 'கினத்தியல்ப தாகும் அறிவு',
     KalaignarUrai:
@@ -8276,8 +7689,7 @@ const kurral = [
   },
   {
     Index: 453,
-    Tamil:
-      'மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்<br />இன்னா னெனப்படுஞ் சொல்',
+    Tamil: 'மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்<br />இன்னா னெனப்படுஞ் சொல்',
     line1: 'மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்',
     line2: 'இன்னா னெனப்படுஞ் சொல்',
     KalaignarUrai:
@@ -8308,8 +7720,7 @@ const kurral = [
       "Man's wisdom seems the offspring of his mind;<br />'Tis outcome of companionship we find",
     EnglishMeaning:
       'Wisdom appears to rest in the mind, but it really exists to a man in his companions',
-    Transliteration:
-      'Manaththu Ladhupolak  Kaatti  Oruvarku<br />Inaththula  Thaakum  Arivu',
+    Transliteration: 'Manaththu Ladhupolak  Kaatti  Oruvarku<br />Inaththula  Thaakum  Arivu',
   },
   {
     Index: 455,
@@ -8326,8 +7737,7 @@ const kurral = [
       'Both purity of mind, and purity of action clear,<br />Leaning no staff of pure companionship, to man draw near',
     EnglishMeaning:
       'Chaste company is the staff on which come, these two things, viz, purity of mind and purity of conduct',
-    Transliteration:
-      'Manandhooimai Seyvinai  Thooimai  Irantum<br />Inandhooimai  Thoovaa  Varum',
+    Transliteration: 'Manandhooimai Seyvinai  Thooimai  Irantum<br />Inandhooimai  Thoovaa  Varum',
   },
   {
     Index: 456,
@@ -8362,8 +7772,7 @@ const kurral = [
       'Goodness of mind to lives of men increaseth gain;<br />And good companionship doth all of praise obtain',
     EnglishMeaning:
       'Goodness of mind will give wealth, and good society will bring with it all praise, to men',
-    Transliteration:
-      'Mananalam Mannuyirk  Kaakkam  Inanalam<br />Ellaap  Pukazhum  Tharum',
+    Transliteration: 'Mananalam Mannuyirk  Kaakkam  Inanalam<br />Ellaap  Pukazhum  Tharum',
   },
   {
     Index: 458,
@@ -8379,8 +7788,7 @@ const kurral = [
     English:
       'To perfect men, though minds right good belong,<br />Yet good companionship is confirmation strong',
     EnglishMeaning: 'Yet good companionship is confirmation strong',
-    Transliteration:
-      'Mananalam Nankutaiya  Raayinum  Saandrorkku<br />Inanalam  Emaap  Putaiththu',
+    Transliteration: 'Mananalam Nankutaiya  Raayinum  Saandrorkku<br />Inanalam  Emaap  Putaiththu',
   },
   {
     Index: 459,
@@ -8402,8 +7810,7 @@ const kurral = [
   },
   {
     Index: 460,
-    Tamil:
-      'நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்<br />அல்லற் படுப்பதூஉ மில்',
+    Tamil: 'நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்<br />அல்லற் படுப்பதூஉ மில்',
     line1: 'நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்',
     line2: 'அல்லற் படுப்பதூஉ மில்',
     KalaignarUrai:
@@ -8439,8 +7846,7 @@ const kurral = [
   },
   {
     Index: 462,
-    Tamil:
-      'தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்<br />கரும்பொருள் யாதொன்று மில்',
+    Tamil: 'தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்<br />கரும்பொருள் யாதொன்று மில்',
     line1: 'தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்',
     line2: 'கரும்பொருள் யாதொன்று மில்',
     KalaignarUrai:
@@ -8471,8 +7877,7 @@ const kurral = [
       "To risk one's all and lose, aiming at added gain,<br />Is rash affair, from which the wise abstain",
     EnglishMeaning:
       'Wise men will not, in the hopes of profit, undertake works that will consume their principal',
-    Transliteration:
-      'Aakkam Karudhi  Mudhalizhakkum  Seyvinai<br />Ookkaar  Arivutai  Yaar',
+    Transliteration: 'Aakkam Karudhi  Mudhalizhakkum  Seyvinai<br />Ookkaar  Arivutai  Yaar',
   },
   {
     Index: 464,
@@ -8489,8 +7894,7 @@ const kurral = [
       'A work of which the issue is not clear,<br />Begin not they reproachful scorn who fear',
     EnglishMeaning:
       'Those who fear reproach will not commence anything which has not been (thoroughly considered) and made clear to them',
-    Transliteration:
-      'Thelivi Ladhanaith  Thotangaar  Ilivennum<br />Edhappaatu  Anju  Pavar',
+    Transliteration: 'Thelivi Ladhanaith  Thotangaar  Ilivennum<br />Edhappaatu  Anju  Pavar',
   },
   {
     Index: 465,
@@ -8525,8 +7929,7 @@ const kurral = [
       "'Tis ruin if man do an unbefitting thing;<br />Fit things to leave undone will equal ruin bring",
     EnglishMeaning:
       '58 He will perish who does not what is not fit to do; and he also will perish who does not do what it is fit to',
-    Transliteration:
-      'Seydhakka Alla  Seyak  Ketum  Seydhakka<br />Seyyaamai  Yaanung  Ketum',
+    Transliteration: 'Seydhakka Alla  Seyak  Ketum  Seydhakka<br />Seyyaamai  Yaanung  Ketum',
   },
   {
     Index: 467,
@@ -8543,8 +7946,7 @@ const kurral = [
       "Think, and then dare the deed! Who cry,<br />'Deed dared, we'll think,' disgraced shall be",
     EnglishMeaning:
       "Consider, and then undertake a matter; after having undertaken it, to say 'We will consider,' is folly",
-    Transliteration:
-      'Ennith Thunika  Karumam  Thunindhapin<br />Ennuvam  Enpadhu  Izhukku',
+    Transliteration: 'Ennith Thunika  Karumam  Thunindhapin<br />Ennuvam  Enpadhu  Izhukku',
   },
   {
     Index: 468,
@@ -8561,8 +7963,7 @@ const kurral = [
       'On no right system if man toil and strive,<br />Though many men assist, no work can thrive',
     EnglishMeaning:
       'The work, which is not done by suitable methods, will fail though many stand to uphold it',
-    Transliteration:
-      'Aatrin Varundhaa  Varuththam  Palarnindru<br />Potrinum  Poththup  Patum',
+    Transliteration: 'Aatrin Varundhaa  Varuththam  Palarnindru<br />Potrinum  Poththup  Patum',
   },
   {
     Index: 469,
@@ -8579,8 +7980,7 @@ const kurral = [
       'Though well the work be done, yet one mistake is made,<br />To habitudes of various men when no regard is paid',
     EnglishMeaning:
       'There are failures even in acting well, when it is done without knowing the various dispositions of men',
-    Transliteration:
-      'Nandraatra Lullun  Thavuruntu  Avaravar<br />Panparin  Thaatraak  Katai',
+    Transliteration: 'Nandraatra Lullun  Thavuruntu  Avaravar<br />Panparin  Thaatraak  Katai',
   },
   {
     Index: 470,
@@ -8597,13 +7997,11 @@ const kurral = [
       'Plan and perform no work that others may despise;<br />What misbeseems a king the world will not approve as wise',
     EnglishMeaning:
       'Let a man reflect, and do things which bring no reproach; the world will not approve, with him, of things which do not become of his position to adopt',
-    Transliteration:
-      'Ellaadha Ennich  Cheyalventum  Thammotu<br />Kollaadha  Kollaadhu  Ulaku',
+    Transliteration: 'Ellaadha Ennich  Cheyalventum  Thammotu<br />Kollaadha  Kollaadhu  Ulaku',
   },
   {
     Index: 471,
-    Tamil:
-      'வினைவலியுந் தன்வலியும் மாற்றான் வலியும்<br />துணைவலியுந் தூக்கிச் செயல்',
+    Tamil: 'வினைவலியுந் தன்வலியும் மாற்றான் வலியும்<br />துணைவலியுந் தூக்கிச் செயல்',
     line1: 'வினைவலியுந் தன்வலியும் மாற்றான் வலியும்',
     line2: 'துணைவலியுந் தூக்கிச் செயல்',
     KalaignarUrai:
@@ -8652,8 +8050,7 @@ const kurral = [
       'Ill-deeming of their proper powers, have many monarchs striven,<br />And midmost of unequal conflict fallen asunder riven',
     EnglishMeaning:
       'There are many who, ignorant of their (want of) power (to meet it), have haughtily set out to war, and broken down in the midst of it',
-    Transliteration:
-      'Utaiththam Valiyariyaar  Ookkaththin  Ookki<br />Itaikkan  Murindhaar  Palar',
+    Transliteration: 'Utaiththam Valiyariyaar  Ookkaththin  Ookki<br />Itaikkan  Murindhaar  Palar',
   },
   {
     Index: 474,
@@ -8688,13 +8085,11 @@ const kurral = [
       'With peacock feathers light, you load the wain;<br />Yet, heaped too high, the axle snaps in twain',
     EnglishMeaning:
       "The axle tree of a bandy, loaded only with peacocks' feathers will break, if it be greatly overloaded",
-    Transliteration:
-      'Peelipey Saakaatum  Achchirum  Appantanjjch<br />Aala  Mikuththup  Peyin',
+    Transliteration: 'Peelipey Saakaatum  Achchirum  Appantanjjch<br />Aala  Mikuththup  Peyin',
   },
   {
     Index: 476,
-    Tamil:
-      'நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்<br />உயிர்க்கிறுதி ஆகி விடும்',
+    Tamil: 'நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்<br />உயிர்க்கிறுதி ஆகி விடும்',
     line1: 'நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்',
     line2: 'உயிர்க்கிறுதி ஆகி விடும்',
     KalaignarUrai:
@@ -8707,8 +8102,7 @@ const kurral = [
       "Who daring climbs, and would himself upraise<br />Beyond the branch's tip, with life the forfeit pays",
     EnglishMeaning:
       'There will be an end to the life of him who, having climbed out to the end of a branch, ventures to go further',
-    Transliteration:
-      'Nunikkompar Erinaar  Aqdhiran  Thookkin<br />Uyirkkirudhi  Aaki  Vitum',
+    Transliteration: 'Nunikkompar Erinaar  Aqdhiran  Thookkin<br />Uyirkkirudhi  Aaki  Vitum',
   },
   {
     Index: 477,
@@ -8725,8 +8119,7 @@ const kurral = [
       'With knowledge of the measure due, as virtue bids you give!<br />That is the way to guard your wealth, and seemly live',
     EnglishMeaning:
       'Let a man know the measure of his ability (to give), and let him give accordingly; such giving is the way to preserve his property',
-    Transliteration:
-      'Aatrin Aravarindhu  Eeka  Adhuporul<br />Potri  Vazhangu  Neri',
+    Transliteration: 'Aatrin Aravarindhu  Eeka  Adhuporul<br />Potri  Vazhangu  Neri',
   },
   {
     Index: 478,
@@ -8737,14 +8130,12 @@ const kurral = [
       'எல்லை கடந்த செலவு இல்லாமல் இருக்குமேயானால் வரவு, குறைவாக இருப்பதால் கேடு எதுவும் விளைவதில்லை',
     MuVaUrai:
       'பொருள் வரும் வழி (வருவாய்) சிறிதாக இருந்தாலும், போகும் வழி (செலவு) \\r\\nவிரிவுபடாவிட்டால் அதனால் தீங்கு இல்லை.',
-    SolomonPaapaiyaUrai:
-      ' வருமானம் அளவில் சிறிது என்றாலும் செலவினம் பெரிதாகாதபோது கேடு இல்லை.',
+    SolomonPaapaiyaUrai: ' வருமானம் அளவில் சிறிது என்றாலும் செலவினம் பெரிதாகாதபோது கேடு இல்லை.',
     English:
       'Incomings may be scant; but yet, no failure there,<br />If in expenditure you rightly learn to spare',
     EnglishMeaning:
       'Even though the income (of a king) be small, it will not cause his (ruin), if his outgoings be not larger than his income',
-    Transliteration:
-      'Aakaaru Alavitti  Thaayinung  Ketillai<br />Pokaaru  Akalaak  Katai',
+    Transliteration: 'Aakaaru Alavitti  Thaayinung  Ketillai<br />Pokaaru  Akalaak  Katai',
   },
   {
     Index: 479,
@@ -8779,13 +8170,11 @@ const kurral = [
       'Beneficence that measures not its bound of means,<br />Will swiftly bring to nought the wealth on which it leans',
     EnglishMeaning:
       'The measure of his wealth will quickly perish, whose liberality weighs not the measure of his property',
-    Transliteration:
-      'Ulavarai Thookkaadha  Oppura  Vaanmai<br />Valavarai  Vallaik  Ketum',
+    Transliteration: 'Ulavarai Thookkaadha  Oppura  Vaanmai<br />Valavarai  Vallaik  Ketum',
   },
   {
     Index: 481,
-    Tamil:
-      'பகல்வெல்லுங் கூகையைக் காக்கை இகல்வெல்லும்<br />வேந்தர்க்கு வேண்டும் பொழுது',
+    Tamil: 'பகல்வெல்லுங் கூகையைக் காக்கை இகல்வெல்லும்<br />வேந்தர்க்கு வேண்டும் பொழுது',
     line1: 'பகல்வெல்லுங் கூகையைக் காக்கை இகல்வெல்லும்',
     line2: 'வேந்தர்க்கு வேண்டும் பொழுது',
     KalaignarUrai:
@@ -8816,8 +8205,7 @@ const kurral = [
       "The bond binds fortune fast is ordered effort made,<br />Strictly observant still of favouring season's aid",
     EnglishMeaning:
       'Acting at the right season, is a cord that will immoveably bind success (to a king)',
-    Transliteration:
-      'Paruvaththotu Otta  Ozhukal  Thiruvinaith<br />Theeraamai  Aarkkung  Kayiru',
+    Transliteration: 'Paruvaththotu Otta  Ozhukal  Thiruvinaith<br />Theeraamai  Aarkkung  Kayiru',
   },
   {
     Index: 483,
@@ -8830,12 +8218,10 @@ const kurral = [
       '(செய்யும் செயலை முடிப்பதற்கு வேண்டிய) கருவிகளுடன் ஏற்றக் காலத்தையும் அறிந்து செய்தால் அரிய செயல்கள் என்பது உண்டோ.',
     SolomonPaapaiyaUrai:
       'செயலைச் செய்து முடிப்பதற்கு ஏற்ற திறமைகளுடனும்  தந்திரங்களுடனும், உரிய காலத்தைக் கண்டு ஒரு செயலைச் செய்தால் செய்வதற்கு அரிய செயல் என்று ஏதேனும் உண்டா?',
-    English:
-      'Can any work be hard in very fact,<br />If men use fitting means in timely act',
+    English: 'Can any work be hard in very fact,<br />If men use fitting means in timely act',
     EnglishMeaning:
       'Is there anything difficult for him to do, who acts, with (the right) instruments at the right time ?',
-    Transliteration:
-      'Aruvinai Yenpa  Ulavo  Karuviyaan<br />Kaalam  Arindhu  Seyin',
+    Transliteration: 'Aruvinai Yenpa  Ulavo  Karuviyaan<br />Kaalam  Arindhu  Seyin',
   },
   {
     Index: 484,
@@ -8852,8 +8238,7 @@ const kurral = [
       "The pendant world's dominion may be won,<br />In fitting time and place by action done",
     EnglishMeaning:
       'Though (a man) should meditate (the conquest of) the world, he may accomplish it if he acts in the right time, and at the right place',
-    Transliteration:
-      'Gnaalam Karudhinung  Kaikootung  Kaalam<br />Karudhi  Itaththaar  Seyin',
+    Transliteration: 'Gnaalam Karudhinung  Kaikootung  Kaalam<br />Karudhi  Itaththaar  Seyin',
   },
   {
     Index: 485,
@@ -8870,8 +8255,7 @@ const kurral = [
       'Who think the pendant world itself to subjugate,<br />With mind unruffled for the fitting time must wait',
     EnglishMeaning:
       'They who thoughtfully consider and wait for the (right) time (for action), may successfully meditate (the conquest of) the world',
-    Transliteration:
-      'Kaalam Karudhi  Iruppar  Kalangaadhu<br />Gnaalam  Karudhu  Pavar',
+    Transliteration: 'Kaalam Karudhi  Iruppar  Kalangaadhu<br />Gnaalam  Karudhu  Pavar',
   },
   {
     Index: 486,
@@ -8888,13 +8272,11 @@ const kurral = [
       'The men of mighty power their hidden energies repress,<br />As fighting ram recoils to rush on foe with heavier stress',
     EnglishMeaning:
       'The self-restraint of the energetic (while waiting for a suitable opportunity), is like the drawing back of a fighting-ram in order to butt',
-    Transliteration:
-      'Ookka Mutaiyaan  Otukkam  Porudhakar<br />Thaakkarkup  Perun  Thakaiththu',
+    Transliteration: 'Ookka Mutaiyaan  Otukkam  Porudhakar<br />Thaakkarkup  Perun  Thakaiththu',
   },
   {
     Index: 487,
-    Tamil:
-      'பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்<br />துள்வேர்ப்பர் ஒள்ளி யவர்',
+    Tamil: 'பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்<br />துள்வேர்ப்பர் ஒள்ளி யவர்',
     line1: 'பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்',
     line2: 'துள்வேர்ப்பர் ஒள்ளி யவர்',
     KalaignarUrai:
@@ -8907,8 +8289,7 @@ const kurral = [
       'The glorious once of wrath enkindled make no outward show,<br />At once; they bide their time, while hidden fires within them glow',
     EnglishMeaning:
       'The wise will not immediately and hastily shew out their anger; they will watch their time, and restrain it within',
-    Transliteration:
-      'Pollena Aange  Puramveraar  Kaalampaarththu<br />Ulverppar  Olli  Yavar',
+    Transliteration: 'Pollena Aange  Puramveraar  Kaalampaarththu<br />Ulverppar  Olli  Yavar',
   },
   {
     Index: 488,
@@ -8925,8 +8306,7 @@ const kurral = [
       "If foes' detested form they see, with patience let them bear;<br />When fateful hour at last they spy,- the head lies there",
     EnglishMeaning:
       'If one meets his enemy, let him show him all respect, until the time for his destruction is come; when that is come, his head will be easily brought low',
-    Transliteration:
-      'Serunaraik Kaanin  Sumakka  Iruvarai<br />Kaanin  Kizhakkaam  Thalai',
+    Transliteration: 'Serunaraik Kaanin  Sumakka  Iruvarai<br />Kaanin  Kizhakkaam  Thalai',
   },
   {
     Index: 489,
@@ -8943,8 +8323,7 @@ const kurral = [
       'When hardest gain of opportunity at last is won,<br />With promptitude let hardest deed be done',
     EnglishMeaning:
       'If a rare opportunity occurs, while it lasts, let a man do that which is rarely to be accomplished (but for such an opportunity)',
-    Transliteration:
-      'Eydhar Kariyadhu  Iyaindhakkaal  Annilaiye<br />Seydhar  Kariya  Seyal',
+    Transliteration: 'Eydhar Kariyadhu  Iyaindhakkaal  Annilaiye<br />Seydhar  Kariya  Seyal',
   },
   {
     Index: 490,
@@ -8979,13 +8358,11 @@ const kurral = [
       'Begin no work of war, depise no foe,<br />Till place where you can wholly circumvent you know',
     EnglishMeaning:
       'Let not (a king) despise (an enemy), nor undertake any thing (against him), until he has obtained (a suitable) place for besieging him',
-    Transliteration:
-      'Thotangarka Evvinaiyum  Ellarka  Mutrum<br />Itanganta  Pinal  Ladhu',
+    Transliteration: 'Thotangarka Evvinaiyum  Ellarka  Mutrum<br />Itanganta  Pinal  Ladhu',
   },
   {
     Index: 492,
-    Tamil:
-      'முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்<br />ஆக்கம் பலவுந் தரும்',
+    Tamil: 'முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்<br />ஆக்கம் பலவுந் தரும்',
     line1: 'முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்',
     line2: 'ஆக்கம் பலவுந் தரும்',
     KalaignarUrai:
@@ -8998,8 +8375,7 @@ const kurral = [
       'Though skill in war combine with courage tried on battle-field,<br />The added gain of fort doth great advantage yield',
     EnglishMeaning:
       'Even to those who are men of power and expedients, an attack in connection with a fortification will yield many advantages',
-    Transliteration:
-      'Muranserndha Moimpi  Navarkkum  Aranserndhaam<br />Aakkam  Palavun  Tharum',
+    Transliteration: 'Muranserndha Moimpi  Navarkkum  Aranserndhaam<br />Aakkam  Palavun  Tharum',
   },
   {
     Index: 493,
@@ -9016,8 +8392,7 @@ const kurral = [
       "E'en weak ones mightily prevail, if place of strong defence,<br />They find, protect themselves, and work their foes offence",
     EnglishMeaning:
       'Even the powerless will become powerful and conquer, if they select a proper field (of action), and guard themselves, while they make war on their enemies',
-    Transliteration:
-      'Aatraarum Aatri  Atupa  Itanarindhu<br />Potraarkan  Potrich  Cheyin',
+    Transliteration: 'Aatraarum Aatri  Atupa  Itanarindhu<br />Potraarkan  Potrich  Cheyin',
   },
   {
     Index: 494,
@@ -9034,8 +8409,7 @@ const kurral = [
       'The foes who thought to triumph, find their thoughts were vain,<br />If hosts advance, seize vantage ground, and thence the fight maintain',
     EnglishMeaning:
       'If they who draw near (to fight) choose a suitable place to approach (their enemy), the latter, will have to relinquish the thought which they once entertained, of conquering them',
-    Transliteration:
-      'Enniyaar Ennam  Izhappar  Itanarindhu<br />Thunniyaar  Thunnich  Cheyin',
+    Transliteration: 'Enniyaar Ennam  Izhappar  Itanarindhu<br />Thunniyaar  Thunnich  Cheyin',
   },
   {
     Index: 495,
@@ -9052,8 +8426,7 @@ const kurral = [
       "The crocodile prevails in its own flow of water wide,<br />If this it leaves, 'tis slain by anything beside",
     EnglishMeaning:
       'In deep water, a crocodile will conquer (all other animals); but if it leave the water, other animals will conquer it',
-    Transliteration:
-      'Netumpunalul Vellum  Mudhalai  Atumpunalin<br />Neengin  Adhanaip  Pira',
+    Transliteration: 'Netumpunalul Vellum  Mudhalai  Atumpunalin<br />Neengin  Adhanaip  Pira',
   },
   {
     Index: 496,
@@ -9070,8 +8443,7 @@ const kurral = [
       "The lofty car, with mighty wheel, sails not o'er watery main,<br />The boat that skims the sea, runs not on earth's hard plain",
     EnglishMeaning:
       'Wide chariots, with mighty wheels, will not run on the ocean; neither will ships that the traverse ocean, move on the earth',
-    Transliteration:
-      'Katalotaa Kaalval  Netundher  Katalotum<br />Naavaayum  Otaa  Nilaththu',
+    Transliteration: 'Katalotaa Kaalval  Netundher  Katalotum<br />Naavaayum  Otaa  Nilaththu',
   },
   {
     Index: 497,
@@ -9088,8 +8460,7 @@ const kurral = [
       'Save their own fearless might they need no other aid,<br />If in right place they fight, all due provision made',
     EnglishMeaning:
       'You will need no other aid than fearlessness, if you thoroughly reflect (on what you are to do), and select (a suitable) place for your operations',
-    Transliteration:
-      'Anjaamai Allaal  Thunaiventaa  Enjaamai<br />Enni  Itaththaal  Seyin',
+    Transliteration: 'Anjaamai Allaal  Thunaiventaa  Enjaamai<br />Enni  Itaththaal  Seyin',
   },
   {
     Index: 498,
@@ -9106,8 +8477,7 @@ const kurral = [
       'If lord of army vast the safe retreat assail<br />Of him whose host is small, his mightiest efforts fail',
     EnglishMeaning:
       'The power of one who has a large army will perish, if he goes into ground where only a small army can act',
-    Transliteration:
-      'Sirupataiyaan Sellitam  Serin  Urupataiyaan<br />Ookkam  Azhindhu  Vitum',
+    Transliteration: 'Sirupataiyaan Sellitam  Serin  Urupataiyaan<br />Ookkam  Azhindhu  Vitum',
   },
   {
     Index: 499,
@@ -9142,13 +8512,11 @@ const kurral = [
       'The jackal slays, in miry paths of foot-betraying fen,<br />The elephant of fearless eye and tusks transfixing armed men',
     EnglishMeaning:
       'A fox can kill a fearless, warrior-faced elephant, if it go into mud in which its legs sink down',
-    Transliteration:
-      'Kaalaazh Kalaril  Nariyatum  Kannanjaa<br />Velaal  Mukaththa  Kaliru',
+    Transliteration: 'Kaalaazh Kalaril  Nariyatum  Kannanjaa<br />Velaal  Mukaththa  Kaliru',
   },
   {
     Index: 501,
-    Tamil:
-      'அறம்பொருள் இன்பம் உயிரச்சம் நான்கின்<br />திறந்தெரிந்து தேறப் படும்',
+    Tamil: 'அறம்பொருள் இன்பம் உயிரச்சம் நான்கின்<br />திறந்தெரிந்து தேறப் படும்',
     line1: 'அறம்பொருள் இன்பம் உயிரச்சம் நான்கின்',
     line2: 'திறந்தெரிந்து தேறப் படும்',
     KalaignarUrai:
@@ -9161,13 +8529,11 @@ const kurral = [
       "How treats he virtue, wealth and pleasure? How, when life's at stake,<br />Comports himself? This four-fold test of man will full assurance make",
     EnglishMeaning:
       'Let (a minister) be chosen, after he has been tried by means of these four things, viz,-his virtue, (love of) money, (love of) sexual pleasure, and tear of (losing) life',
-    Transliteration:
-      'Aramporul Inpam  Uyirachcham  Naankin<br />Thirandherindhu  Therap  Patum',
+    Transliteration: 'Aramporul Inpam  Uyirachcham  Naankin<br />Thirandherindhu  Therap  Patum',
   },
   {
     Index: 502,
-    Tamil:
-      'குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்<br />நாணுடையான் கட்டே தெளிவு',
+    Tamil: 'குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்<br />நாணுடையான் கட்டே தெளிவு',
     line1: 'குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்',
     line2: 'நாணுடையான் கட்டே தெளிவு',
     KalaignarUrai:
@@ -9198,8 +8564,7 @@ const kurral = [
       "Though deeply learned, unflecked by fault, 'tis rare to see,<br />When closely scanned, a man from all unwisdom free",
     EnglishMeaning:
       'When even men, who have studied the most difficult works, and who are free from faults, are (carefully) examined, it is a rare thing to find them without ignorance',
-    Transliteration:
-      'Ariyakatru Aasatraar  Kannum  Theriyungaal<br />Inmai  Aridhe  Veliru',
+    Transliteration: 'Ariyakatru Aasatraar  Kannum  Theriyungaal<br />Inmai  Aridhe  Veliru',
   },
   {
     Index: 504,
@@ -9216,8 +8581,7 @@ const kurral = [
       'Weigh well the good of each, his failings closely scan,<br />As these or those prevail, so estimate the man',
     EnglishMeaning:
       "Let (a king) consider (a man's) good qualities, as well as his faults, and then judge (of his character) by that which prevails",
-    Transliteration:
-      'Kunamnaatik Kutramum  Naati  Avatrul<br />Mikainaati  Mikka  Kolal',
+    Transliteration: 'Kunamnaatik Kutramum  Naati  Avatrul<br />Mikainaati  Mikka  Kolal',
   },
   {
     Index: 505,
@@ -9230,12 +8594,9 @@ const kurral = [
       '(மக்களுடைய குணங்களாலாகிய) பெருமைக்கும் (குற்றங்களாலாகிய) சிறுமைக்கும் தேர்ந்தறியும் உரைக் கல்லாக இருப்பவை அவரவருடைய செயல்களே ஆகும்.',
     SolomonPaapaiyaUrai:
       'உயர்ந்த குணத்தையும் சிறுமைக் குணத்தையும் உரசிக்கண்டு அறிவதற்கு ஏற்றக் கட்டளைக்கல் அவரவர் செய்யும் செயல்களே.',
-    English:
-      'Of greatness and of meanness too,<br />The deeds of each are touchstone true',
-    EnglishMeaning:
-      "A man's deeds are the touchstone of his greatness and littleness",
-    Transliteration:
-      'Perumaikkum Enaich  Chirumaikkum  Thaththam<br />Karumame  Kattalaik  Kal',
+    English: 'Of greatness and of meanness too,<br />The deeds of each are touchstone true',
+    EnglishMeaning: "A man's deeds are the touchstone of his greatness and littleness",
+    Transliteration: 'Perumaikkum Enaich  Chirumaikkum  Thaththam<br />Karumame  Kattalaik  Kal',
   },
   {
     Index: 506,
@@ -9252,8 +8613,7 @@ const kurral = [
       'Beware of trusting men who have no kith of kin;<br />No bonds restrain such men, no shame deters from sin',
     EnglishMeaning:
       'Let (a king) avoid choosing men who have no relations; such men have no attachment, and thereforehave no fear of crime',
-    Transliteration:
-      'Atraaraith Therudhal  Ompuka  Matravar<br />Patrilar  Naanaar  Pazhi',
+    Transliteration: 'Atraaraith Therudhal  Ompuka  Matravar<br />Patrilar  Naanaar  Pazhi',
   },
   {
     Index: 507,
@@ -9269,8 +8629,7 @@ const kurral = [
     English:
       "By fond affection led who trusts in men of unwise soul,<br />Yields all his being up to folly's blind control",
     EnglishMeaning: "Yields all his being up to folly's blind control",
-    Transliteration:
-      'Kaadhanmai Kandhaa  Arivariyaarth  Therudhal<br />Pedhaimai  Ellaan  Tharum',
+    Transliteration: 'Kaadhanmai Kandhaa  Arivariyaarth  Therudhal<br />Pedhaimai  Ellaan  Tharum',
   },
   {
     Index: 508,
@@ -9283,12 +8642,10 @@ const kurral = [
       'மற்றவனை ஒன்றும் ஆராயாமல் தெளிந்தால் அஃது (அவனுக்கு மட்டும் அல்லாமல்) அவனுடைய வழிமுறையில் தோன்றினவருக்கும் துன்பத்தைக் கொடுக்கும்.',
     SolomonPaapaiyaUrai:
       'நாட்டுச் சிந்தனைகளில் பற்று இல்லாதவனை,  அவன் பின்னணி  பற்றி ஆராயாது பதவியில் அமர்த்தினால் அச்செயல் நீங்காத துன்பத்தைத் தரும்.',
-    English:
-      'Who trusts an untried stranger, brings disgrace,<br />Remediless, on all his race',
+    English: 'Who trusts an untried stranger, brings disgrace,<br />Remediless, on all his race',
     EnglishMeaning:
       'Sorrow that will not leave even his posterity will come upon him chooses a stranger whose character he has not known',
-    Transliteration:
-      'Theraan Piranaith  Thelindhaan  Vazhimurai<br />Theeraa  Itumpai  Tharum',
+    Transliteration: 'Theraan Piranaith  Thelindhaan  Vazhimurai<br />Theeraa  Itumpai  Tharum',
   },
   {
     Index: 509,
@@ -9305,8 +8662,7 @@ const kurral = [
       'Trust no man whom you have not fully tried,<br />When tested, in his prudence proved confide',
     EnglishMeaning:
       'Let (a king) choose no one without previous consideration; after he has made his choice, let him unhesitatingly select for each such duties as are appropriate',
-    Transliteration:
-      'Therarka Yaaraiyum  Theraadhu  Therndhapin<br />Theruka  Therum  Porul',
+    Transliteration: 'Therarka Yaaraiyum  Theraadhu  Therndhapin<br />Theruka  Therum  Porul',
   },
   {
     Index: 510,
@@ -9323,8 +8679,7 @@ const kurral = [
       'Trust where you have not tried, doubt of a friend to feel,<br />Once trusted, wounds inflict that nought can heal',
     EnglishMeaning:
       'To make choice of one who has not been examined, and to entertain doubts respecting one who has been chosen, will produce irremediable sorrow',
-    Transliteration:
-      'Theraan Thelivum  Thelindhaankan  Aiyuravum<br />Theeraa  Itumpai  Tharum',
+    Transliteration: 'Theraan Thelivum  Thelindhaankan  Aiyuravum<br />Theeraa  Itumpai  Tharum',
   },
   {
     Index: 511,
@@ -9341,8 +8696,7 @@ const kurral = [
       'Who good and evil scanning, ever makes the good his joy;<br />Such man of virtuous mood should king employ',
     EnglishMeaning:
       'He should be employed (by a king), whose nature leads him to choose the good, after having weighed both the evil and the good in any undertaking',
-    Transliteration:
-      'Nanmaiyum Theemaiyum  Naati  Nalampurindha<br />Thanmaiyaan  Aalap  Patum',
+    Transliteration: 'Nanmaiyum Theemaiyum  Naati  Nalampurindha<br />Thanmaiyaan  Aalap  Patum',
   },
   {
     Index: 512,
@@ -9359,13 +8713,11 @@ const kurral = [
       "Who swells the revenues, spreads plenty o'er the land,<br />Seeks out what hinders progress, his the workman's hand",
     EnglishMeaning:
       "Let him do (the king's) work who can enlarge the sources (of revenue), increase wealth and considerately prevent the accidents (which would destroy it)",
-    Transliteration:
-      'Vaari Perukki  Valampatuththu  Utravai<br />Aaraaivaan  Seyka  Vinai',
+    Transliteration: 'Vaari Perukki  Valampatuththu  Utravai<br />Aaraaivaan  Seyka  Vinai',
   },
   {
     Index: 513,
-    Tamil:
-      'அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்<br />நன்குடையான் கட்டே தெளிவு',
+    Tamil: 'அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்<br />நன்குடையான் கட்டே தெளிவு',
     line1: 'அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்',
     line2: 'நன்குடையான் கட்டே தெளிவு',
     KalaignarUrai:
@@ -9378,8 +8730,7 @@ const kurral = [
       'A loyal love with wisdom, clearness, mind from avarice free;<br />Who hath these four good gifts should ever trusted be',
     EnglishMeaning:
       'Let the choice (of a king) fall upon him who largely possesses these four things, love, knowledge, a clear mind and freedom from covetousness',
-    Transliteration:
-      'Anparivu Thetram  Avaavinmai  Innaankum<br />Nankutaiyaan  Katte  Thelivu',
+    Transliteration: 'Anparivu Thetram  Avaavinmai  Innaankum<br />Nankutaiyaan  Katte  Thelivu',
   },
   {
     Index: 514,
@@ -9401,8 +8752,7 @@ const kurral = [
   },
   {
     Index: 515,
-    Tamil:
-      'அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான்<br />சிறந்தானென் றேவற்பாற் றன்று',
+    Tamil: 'அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான்<br />சிறந்தானென் றேவற்பாற் றன்று',
     line1: 'அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான்',
     line2: 'சிறந்தானென் றேவற்பாற் றன்று',
     KalaignarUrai:
@@ -9433,8 +8783,7 @@ const kurral = [
       "Let king first ask, 'Who shall the deed perform?' and 'What the deed?'<br />Of hour befitting both assured, let every work proceed",
     EnglishMeaning:
       'Let (a king) act, after having considered the agent (whom he is to employ), the deed (he desires to do), and the time which is suitable to it',
-    Transliteration:
-      'Seyvaanai Naati  Vinainaatik  Kaalaththotu<br />Eydha  Unarndhu  Seyal',
+    Transliteration: 'Seyvaanai Naati  Vinainaatik  Kaalaththotu<br />Eydha  Unarndhu  Seyal',
   },
   {
     Index: 517,
@@ -9451,8 +8800,7 @@ const kurral = [
       "'This man, this work shall thus work out,' let thoughtful king command;<br />Then leave the matter wholly in his servant's hand",
     EnglishMeaning:
       "After having considered, 'this man can accomplish this, by these means', let (the king) leave with him the discharge of that duty",
-    Transliteration:
-      'Ithanai Ithanaal  Ivanmutikkum  Endraaindhu<br />Adhanai  Avankan  Vital',
+    Transliteration: 'Ithanai Ithanaal  Ivanmutikkum  Endraaindhu<br />Adhanai  Avankan  Vital',
   },
   {
     Index: 518,
@@ -9469,8 +8817,7 @@ const kurral = [
       "As each man's special aptitude is known,<br />Bid each man make that special work his own",
     EnglishMeaning:
       'Having considered what work a man is fit for, let (the king) employ him in that work',
-    Transliteration:
-      'Vinaik Kurimai  Naatiya  Pindrai  Avanai<br />Adharkuriya  Naakach  Cheyal',
+    Transliteration: 'Vinaik Kurimai  Naatiya  Pindrai  Avanai<br />Adharkuriya  Naakach  Cheyal',
   },
   {
     Index: 519,
@@ -9487,8 +8834,7 @@ const kurral = [
       'Fortune deserts the king who ill can bear,<br />Informal friendly ways of men his tolls who share',
     EnglishMeaning:
       'Prosperity will leave (the king) who doubts the friendship of the man who steadily labours in the discharge of his duties',
-    Transliteration:
-      'Vinaikkan Vinaiyutaiyaan  Kenmaive  Raaka<br />Ninaippaanai  Neengum  Thiru',
+    Transliteration: 'Vinaikkan Vinaiyutaiyaan  Kenmaive  Raaka<br />Ninaippaanai  Neengum  Thiru',
   },
   {
     Index: 520,
@@ -9505,8 +8851,7 @@ const kurral = [
       "Let king search out his servants' deeds each day;<br />When these do right, the world goes rightly on its way",
     EnglishMeaning:
       'Let a king daily examine the conduct of his servants; if they do not act crookedly, the world will not act crookedly',
-    Transliteration:
-      '520 Naatorum  Naatuka  Mannan  Vinaiseyvaan<br />Kotaamai  Kotaa  Thulaku',
+    Transliteration: '520 Naatorum  Naatuka  Mannan  Vinaiseyvaan<br />Kotaamai  Kotaa  Thulaku',
   },
   {
     Index: 521,
@@ -9523,8 +8868,7 @@ const kurral = [
       'When wealth is fled, old kindness still to show,<br />Is kindly grace that only kinsmen know',
     EnglishMeaning:
       "Even when (a man's) property is all gone, relatives will act towards him with their accustomed (kindness)",
-    Transliteration:
-      'Patratra Kannum  Pazhaimaipaa  Raattudhal<br />Sutraththaar  Kanne  Ula',
+    Transliteration: 'Patratra Kannum  Pazhaimaipaa  Raattudhal<br />Sutraththaar  Kanne  Ula',
   },
   {
     Index: 522,
@@ -9541,8 +8885,7 @@ const kurral = [
       "The gift of kin's unfailing love bestows<br />Much gain of good, like flower that fadeless blows",
     EnglishMeaning:
       "If (a man's) relatives remain attached to him with unchanging love, it will be a source of everincreasing wealth",
-    Transliteration:
-      'Virupparaach Chutram  Iyaiyin  Arupparaa<br />Aakkam  Palavum  Tharum',
+    Transliteration: 'Virupparaach Chutram  Iyaiyin  Arupparaa<br />Aakkam  Palavum  Tharum',
   },
   {
     Index: 523,
@@ -9564,8 +8907,7 @@ const kurral = [
   },
   {
     Index: 524,
-    Tamil:
-      'சுற்றத்தாற் சுற்றப் படவொழுகல் செல்வந்தான்<br />பெற்றத்தாற் பெற்ற பயன்',
+    Tamil: 'சுற்றத்தாற் சுற்றப் படவொழுகல் செல்வந்தான்<br />பெற்றத்தாற் பெற்ற பயன்',
     line1: 'சுற்றத்தாற் சுற்றப் படவொழுகல் செல்வந்தான்',
     line2: 'பெற்றத்தாற் பெற்ற பயன்',
     KalaignarUrai:
@@ -9583,8 +8925,7 @@ const kurral = [
   },
   {
     Index: 525,
-    Tamil:
-      'கொடுத்தலும் இன்சொல்லும் ஆற்றின் அடுக்கிய<br />சுற்றத்தாற் சுற்றப் படும்',
+    Tamil: 'கொடுத்தலும் இன்சொல்லும் ஆற்றின் அடுக்கிய<br />சுற்றத்தாற் சுற்றப் படும்',
     line1: 'கொடுத்தலும் இன்சொல்லும் ஆற்றின் அடுக்கிய',
     line2: 'சுற்றத்தாற் சுற்றப் படும்',
     KalaignarUrai:
@@ -9597,13 +8938,11 @@ const kurral = [
       'Who knows the use of pleasant words, and liberal gifts can give,<br />Connections, heaps of them, surrounding him shall live',
     EnglishMeaning:
       'He will be surrounded by numerous relatives who manifests generosity and affability',
-    Transliteration:
-      'Kotuththalum Insolum  Aatrin  Atukkiya<br />Sutraththaal  Sutrap  Patum',
+    Transliteration: 'Kotuththalum Insolum  Aatrin  Atukkiya<br />Sutraththaal  Sutrap  Patum',
   },
   {
     Index: 526,
-    Tamil:
-      'பெருங்கொடையான் பேணான் வெகுளி அவனின்<br />மருங்குடையார் மாநிலத் தில்',
+    Tamil: 'பெருங்கொடையான் பேணான் வெகுளி அவனின்<br />மருங்குடையார் மாநிலத் தில்',
     line1: 'பெருங்கொடையான் பேணான் வெகுளி அவனின்',
     line2: 'மருங்குடையார் மாநிலத் தில்',
     KalaignarUrai:
@@ -9616,8 +8955,7 @@ const kurral = [
       'Than one who gifts bestows and wrath restrains,<br />Through the wide world none larger following gains',
     EnglishMeaning:
       'No one, in all the world, will have so many relatives (about him), as he who makes large gift, and does not give way to anger',
-    Transliteration:
-      'Perungotaiyaan Penaan  Vekuli  Avanin<br />Marungutaiyaar  Maanilaththu  Il',
+    Transliteration: 'Perungotaiyaan Penaan  Vekuli  Avanin<br />Marungutaiyaar  Maanilaththu  Il',
   },
   {
     Index: 527,
@@ -9634,8 +8972,7 @@ const kurral = [
       'The crows conceal not, call their friends to come, then eat;<br />Increase of good such worthy ones shall meet',
     EnglishMeaning:
       'The crows do not conceal (their prey), but will call out for others (to share with them) while they eat it; wealth will be with those who show a similar disposition (towards their relatives)',
-    Transliteration:
-      'Kaakkai Karavaa  Karaindhunnum  Aakkamum<br />Annanee  Raarkke  Ula',
+    Transliteration: 'Kaakkai Karavaa  Karaindhunnum  Aakkamum<br />Annanee  Raarkke  Ula',
   },
   {
     Index: 528,
@@ -9652,8 +8989,7 @@ const kurral = [
       "Where king regards not all alike, but each in his degree,<br />'Neath such discerning rule many dwell happily",
     EnglishMeaning:
       'Many relatives will live near a king, when they observe that he does not look on all alike, but that he looks on each man according to his merit',
-    Transliteration:
-      'Podhunokkaan Vendhan  Varisaiyaa  Nokkin<br />Adhunokki  Vaazhvaar  Palar',
+    Transliteration: 'Podhunokkaan Vendhan  Varisaiyaa  Nokkin<br />Adhunokki  Vaazhvaar  Palar',
   },
   {
     Index: 529,
@@ -9670,13 +9006,11 @@ const kurral = [
       'Who once were his, and then forsook him, as before<br />Will come around, when cause of disagreement is no more',
     EnglishMeaning:
       'Those who have been friends and have afterwards forsaken him, will return and join themselves (to him), when the cause of disagreement is not to be found in him',
-    Transliteration:
-      'Thamaraakik Thatrurandhaar  Sutram  Amaraamaik<br />Kaaranam  Indri  Varum',
+    Transliteration: 'Thamaraakik Thatrurandhaar  Sutram  Amaraamaik<br />Kaaranam  Indri  Varum',
   },
   {
     Index: 530,
-    Tamil:
-      'உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்<br />இழைத்திருந் தெண்ணிக் கொளல்',
+    Tamil: 'உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்<br />இழைத்திருந் தெண்ணிக் கொளல்',
     line1: 'உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்',
     line2: 'இழைத்திருந் தெண்ணிக் கொளல்',
     KalaignarUrai:
@@ -9707,32 +9041,26 @@ const kurral = [
       "'Tis greater ill, it rapture of o'erweening gladness to the soul<br />Bring self-forgetfulness than if transcendent wrath control",
     EnglishMeaning:
       'More evil than excessive anger, is forgetfulness which springs from the intoxication of great joy',
-    Transliteration:
-      'Irandha Vekuliyin  Theedhe  Sirandha<br />Uvakai  Makizhchchiyir  Sorvu',
+    Transliteration: 'Irandha Vekuliyin  Theedhe  Sirandha<br />Uvakai  Makizhchchiyir  Sorvu',
   },
   {
     Index: 532,
-    Tamil:
-      'பொச்சாப்புக் கொல்லும் புகழை அறிவினை<br />நிச்ச நிரப்புக்கொன் றாங்கு',
+    Tamil: 'பொச்சாப்புக் கொல்லும் புகழை அறிவினை<br />நிச்ச நிரப்புக்கொன் றாங்கு',
     line1: 'பொச்சாப்புக் கொல்லும் புகழை அறிவினை',
     line2: 'நிச்ச நிரப்புக்கொன் றாங்கு',
     KalaignarUrai:
       'நாளும் தொடர்ந்து வாட்டுகின்ற வறுமை, அறிவை அழிப்பது போல மறதி, புகழை அழித்து விடும்',
     MuVaUrai:
       'நாள் தோறும் விடாமல் வரும் வறுமை அறிவைக் கொல்வது போல, ஒருவனுடைய புகழை அவனுடைய மறதிக் கொன்று விடும்.',
-    SolomonPaapaiyaUrai:
-      'நித்த வறுமை அறிவைக் கொன்றுவிடுவது போல, மறதி புகழைக் கெடுத்துவிடும்.',
+    SolomonPaapaiyaUrai: 'நித்த வறுமை அறிவைக் கொன்றுவிடுவது போல, மறதி புகழைக் கெடுத்துவிடும்.',
     English:
       'Perpetual, poverty is death to wisdom of the wise;<br />When man forgets himself his glory dies',
-    EnglishMeaning:
-      'Forgetfulness will destroy fame, even as constant poverty destroys knowledge',
-    Transliteration:
-      'Pochchaappuk Kollum  Pukazhai  Arivinai<br />Nichcha  Nirappuk  Kon  Raangu',
+    EnglishMeaning: 'Forgetfulness will destroy fame, even as constant poverty destroys knowledge',
+    Transliteration: 'Pochchaappuk Kollum  Pukazhai  Arivinai<br />Nichcha  Nirappuk  Kon  Raangu',
   },
   {
     Index: 533,
-    Tamil:
-      'பொச்சாப்பார்க் கில்லை புகழ்மை யதுவுலகத்<br />தெப்பானூ லோர்க்குந் துணிவு',
+    Tamil: 'பொச்சாப்பார்க் கில்லை புகழ்மை யதுவுலகத்<br />தெப்பானூ லோர்க்குந் துணிவு',
     line1: 'பொச்சாப்பார்க் கில்லை புகழ்மை யதுவுலகத்',
     line2: 'தெப்பானூ லோர்க்குந் துணிவு',
     KalaignarUrai:
@@ -9750,8 +9078,7 @@ const kurral = [
   },
   {
     Index: 534,
-    Tamil:
-      'அச்ச முடையார்க் கரணில்லை ஆங்கில்லை<br />பொச்சாப் புடையார்க்கு நன்கு',
+    Tamil: 'அச்ச முடையார்க் கரணில்லை ஆங்கில்லை<br />பொச்சாப் புடையார்க்கு நன்கு',
     line1: 'அச்ச முடையார்க் கரணில்லை ஆங்கில்லை',
     line2: 'பொச்சாப் புடையார்க்கு நன்கு',
     KalaignarUrai:
@@ -9782,8 +9109,7 @@ const kurral = [
       'To him who nought foresees, recks not of anything,<br />The after woe shall sure repentance bring',
     EnglishMeaning:
       'The thoughtless man, who provides not against the calamities that may happen, will afterwards repent for his fault',
-    Transliteration:
-      'Munnurak Kaavaadhu  Izhukkiyaan  Thanpizhai<br />Pinnooru  Irangi  Vitum',
+    Transliteration: 'Munnurak Kaavaadhu  Izhukkiyaan  Thanpizhai<br />Pinnooru  Irangi  Vitum',
   },
   {
     Index: 536,
@@ -9800,16 +9126,14 @@ const kurral = [
       'Towards all unswerving, ever watchfulness of soul retain,<br />Where this is found there is no greater gain',
     EnglishMeaning:
       'There is nothing comparable with the possession of unfailing thoughtfulness at all times; and towards all persons',
-    Transliteration:
-      'Izhukkaamai Yaarmaattum  Endrum  Vazhukkaamai<br />Vaayin  Adhuvoppadhu  Il',
+    Transliteration: 'Izhukkaamai Yaarmaattum  Endrum  Vazhukkaamai<br />Vaayin  Adhuvoppadhu  Il',
   },
   {
     Index: 537,
     Tamil: 'அரியவென் றாகாத இல்லைபொச் சாவாக்<br />கருவியாற் போற்றிச் செயின்',
     line1: 'அரியவென் றாகாத இல்லைபொச் சாவாக்',
     line2: 'கருவியாற் போற்றிச் செயின்',
-    KalaignarUrai:
-      'மறதியில்லாமலும், அக்கறையுடனும் செயல்பட்டால், முடியாதது என்று எதுவுமே இல்லை',
+    KalaignarUrai: 'மறதியில்லாமலும், அக்கறையுடனும் செயல்பட்டால், முடியாதது என்று எதுவுமே இல்லை',
     MuVaUrai:
       'மறவாமை என்னும் கருவிகொண்டு (கடமைகளைப்) போற்றிச் செய்தால், செய்வதற்கு அரியவை என்று ஒருவனால் முடியாத செயல்கள் இல்லை.',
     SolomonPaapaiyaUrai:
@@ -9818,13 +9142,11 @@ const kurral = [
       "Though things are arduous deemed, there's nought may not be won,<br />When work with mind's unslumbering energy and thought is done",
     EnglishMeaning:
       'There is nothing too difficult to be accomplished, if a man set about it carefully, with unflinching endeavour',
-    Transliteration:
-      'Ariyaendru Aakaadha  Illaipoch  Chaavaak<br />Karuviyaal  Potrich  Cheyin',
+    Transliteration: 'Ariyaendru Aakaadha  Illaipoch  Chaavaak<br />Karuviyaal  Potrich  Cheyin',
   },
   {
     Index: 538,
-    Tamil:
-      'புகழ்ந்தவை போற்றிச் செயல்வேண்டுஞ் செய்யா<br />திகழ்ந்தார்க் கெழுமையும் இல்',
+    Tamil: 'புகழ்ந்தவை போற்றிச் செயல்வேண்டுஞ் செய்யா<br />திகழ்ந்தார்க் கெழுமையும் இல்',
     line1: 'புகழ்ந்தவை போற்றிச் செயல்வேண்டுஞ் செய்யா',
     line2: 'திகழ்ந்தார்க் கெழுமையும் இல்',
     KalaignarUrai:
@@ -9842,8 +9164,7 @@ const kurral = [
   },
   {
     Index: 539,
-    Tamil:
-      'இகழ்ச்சியிற் கெட்டாரை உள்ளுக தாந்தம்<br />மகிழ்ச்சியின் மைந்துறும் போழ்து',
+    Tamil: 'இகழ்ச்சியிற் கெட்டாரை உள்ளுக தாந்தம்<br />மகிழ்ச்சியின் மைந்துறும் போழ்து',
     line1: 'இகழ்ச்சியிற் கெட்டாரை உள்ளுக தாந்தம்',
     line2: 'மகிழ்ச்சியின் மைந்துறும் போழ்து',
     KalaignarUrai:
@@ -9874,13 +9195,11 @@ const kurral = [
       "'Tis easy what thou hast in mind to gain,<br />If what thou hast in mind thy mind retain",
     EnglishMeaning:
       'It is easy for (one) to obtain whatever he may think of, if he can again think of it',
-    Transliteration:
-      'Ulliyadhu Eydhal  Elidhuman  Matrundhaan<br />Ulliyadhu  Ullap  Perin',
+    Transliteration: 'Ulliyadhu Eydhal  Elidhuman  Matrundhaan<br />Ulliyadhu  Ullap  Perin',
   },
   {
     Index: 541,
-    Tamil:
-      'ஓர்ந்துகண் ணோடா திறைபுரிந் தியார்மாட்டும்<br />தேர்ந்துசெய் வஃதே முறை',
+    Tamil: 'ஓர்ந்துகண் ணோடா திறைபுரிந் தியார்மாட்டும்<br />தேர்ந்துசெய் வஃதே முறை',
     line1: 'ஓர்ந்துகண் ணோடா திறைபுரிந் தியார்மாட்டும்',
     line2: 'தேர்ந்துசெய் வஃதே முறை',
     KalaignarUrai:
@@ -9911,8 +9230,7 @@ const kurral = [
       "All earth looks up to heav'n whence raindrops fall;<br />All subjects look to king that ruleth all",
     EnglishMeaning:
       'When there is rain, the living creation thrives; and so when the king rules justly, his subjects thrive',
-    Transliteration:
-      'Vaanokki Vaazhum  Ulakellaam  Mannavan<br />Kol  Nokki  Vaazhung  Kuti',
+    Transliteration: 'Vaanokki Vaazhum  Ulakellaam  Mannavan<br />Kol  Nokki  Vaazhung  Kuti',
   },
   {
     Index: 543,
@@ -9929,8 +9247,7 @@ const kurral = [
       'Learning and virtue of the sages spring,<br />From all-controlling sceptre of the king',
     EnglishMeaning:
       'The sceptre of the king is the firm support of the Vedas of the Brahmin, and of all virtues therein described',
-    Transliteration:
-      'Andhanar Noorkum  Araththirkum  Aadhiyaai<br />Nindradhu  Mannavan  Kol',
+    Transliteration: 'Andhanar Noorkum  Araththirkum  Aadhiyaai<br />Nindradhu  Mannavan  Kol',
   },
   {
     Index: 544,
@@ -9947,8 +9264,7 @@ const kurral = [
       'Whose heart embraces subjects all, lord over mighty land<br />Who rules, the world his feet embracing stands',
     EnglishMeaning:
       'The world will constantly embrace the feet of the great king who rules over his subjects with love',
-    Transliteration:
-      'Kutidhazheeik Kolochchum  Maanila  Mannan<br />Atidhazheei  Nirkum  Ulaku',
+    Transliteration: 'Kutidhazheeik Kolochchum  Maanila  Mannan<br />Atidhazheei  Nirkum  Ulaku',
   },
   {
     Index: 545,
@@ -9965,8 +9281,7 @@ const kurral = [
       'Where king, who righteous laws regards, the sceptre wields,<br />There fall the showers, there rich abundance crowns the fields',
     EnglishMeaning:
       'Rain and plentiful crops will ever dwell together in the country of the king who sways his sceptre with justice',
-    Transliteration:
-      'Iyalpulik Kolochchum  Mannavan  Naatta<br />Peyalum  Vilaiyulum  Thokku',
+    Transliteration: 'Iyalpulik Kolochchum  Mannavan  Naatta<br />Peyalum  Vilaiyulum  Thokku',
   },
   {
     Index: 546,
@@ -9979,20 +9294,17 @@ const kurral = [
       'ஒருவனுக்கு வெற்றி பெற்றுத் தருவது வேல் அன்று, அரசனுடைய செங்கோலே ஆகும், அச் செங்கோலும் கோணாதிருக்குமாயின்.',
     SolomonPaapaiyaUrai:
       'ஆட்சியாளருக்கு வெற்றி தருவது ஆயுதம் அன்று; அவரின் நேரிய ஆட்சியே; அதுவும் தவறான ஆட்சியாக  இல்லாதிருக்க வேண்டும்.',
-    English:
-      'Not lance gives kings the victory,<br />But sceptre swayed with equity',
+    English: 'Not lance gives kings the victory,<br />But sceptre swayed with equity',
     EnglishMeaning:
       "It is not the javelin that gives victory, but the king's sceptre, if it do no injustice",
-    Transliteration:
-      'Velandru Vendri  Tharuvadhu  Mannavan<br />Koladhooung  Kotaa  Thenin',
+    Transliteration: 'Velandru Vendri  Tharuvadhu  Mannavan<br />Koladhooung  Kotaa  Thenin',
   },
   {
     Index: 547,
     Tamil: 'இறைகாக்கும் வையகம் எல்லாம் அவனை <br />முறைகாக்கும் முட்டாச் செயின்',
     line1: 'இறைகாக்கும் வையகம் எல்லாம் அவனை ',
     line2: 'முறைகாக்கும் முட்டாச் செயின்',
-    KalaignarUrai:
-      'நீதி வழுவாமல் ஓர் அரசு நடைபெற்றால் அந்த அரசை அந்த நீதியே காப்பாற்றும்',
+    KalaignarUrai: 'நீதி வழுவாமல் ஓர் அரசு நடைபெற்றால் அந்த அரசை அந்த நீதியே காப்பாற்றும்',
     MuVaUrai:
       'உலகத்தை எல்லாம் அரசன் காப்பாற்றுவான், நீதிமுறை கெடாதவாறு ஆட்சி \\r\\nசெய்வானாயின் அரசனை அந்த முறையே காப்பாற்றும்.',
     SolomonPaapaiyaUrai:
@@ -10001,8 +9313,7 @@ const kurral = [
       'The king all the whole realm of earth protects;<br />And justice guards the king who right respects',
     EnglishMeaning:
       'The king defends the whole world; and justice, when administered without defect, defends the king',
-    Transliteration:
-      'Iraikaakkum Vaiyakam  Ellaam  Avanai<br />Muraikaakkum  Muttaach  Cheyin',
+    Transliteration: 'Iraikaakkum Vaiyakam  Ellaam  Avanai<br />Muraikaakkum  Muttaach  Cheyin',
   },
   {
     Index: 548,
@@ -10037,8 +9348,7 @@ const kurral = [
       "Abroad to guard, at home to punish, brings<br />No just reproach; 'tis work assigned to kings",
     EnglishMeaning:
       '68 In guarding his subjects (against injury from others), and in preserving them himself; to punish crime',
-    Transliteration:
-      'Kutipurang Kaaththompik  Kutram  Katidhal<br />Vatuvandru  Vendhan  Thozhil',
+    Transliteration: 'Kutipurang Kaaththompik  Kutram  Katidhal<br />Vatuvandru  Vendhan  Thozhil',
   },
   {
     Index: 550,
@@ -10055,13 +9365,11 @@ const kurral = [
       'By punishment of death the cruel to restrain,<br />Is as when farmer frees from weeds the tender grain',
     EnglishMeaning:
       'For a king to punish criminals with death, is like pulling up the weeds in the green corn',
-    Transliteration:
-      'Kolaiyir Kotiyaarai  Vendhoruththal  Paingoozh<br />Kalaikat  Tadhanotu  Ner',
+    Transliteration: 'Kolaiyir Kotiyaarai  Vendhoruththal  Paingoozh<br />Kalaikat  Tadhanotu  Ner',
   },
   {
     Index: 551,
-    Tamil:
-      'கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்<br />டல்லவை செய்தொழுகும் வேந்து',
+    Tamil: 'கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்<br />டல்லவை செய்தொழுகும் வேந்து',
     line1: 'கொலைமேற்கொண் டாரிற் கொடிதே அலைமேற்கொண்',
     line2: 'டல்லவை செய்தொழுகும் வேந்து',
     KalaignarUrai:
@@ -10074,8 +9382,7 @@ const kurral = [
       "Than one who plies the murderer's trade, more cruel is the king<br />Who all injustice works, his subjects harassing",
     EnglishMeaning:
       'The king who gives himself up to oppression and acts unjustly (towards his subjects) is more cruel than the man who leads the life of a murderer',
-    Transliteration:
-      'Kolaimerkon Taarir  Kotidhe  Alaimerkontu<br />Allavai  Seydhozhukum  Vendhu',
+    Transliteration: 'Kolaimerkon Taarir  Kotidhe  Alaimerkontu<br />Allavai  Seydhozhukum  Vendhu',
   },
   {
     Index: 552,
@@ -10092,8 +9399,7 @@ const kurral = [
       "As 'Give' the robber cries with lance uplift,<br />So kings with sceptred hand implore a gift",
     EnglishMeaning:
       "The request (for money) of him who holds the sceptre is like the word of a highway robber who stands with a weapon in hand and says 'give up your wealth'",
-    Transliteration:
-      'Velotu Nindraan  Ituven  Radhupolum<br />Kolotu  Nindraan  Iravu',
+    Transliteration: 'Velotu Nindraan  Ituven  Radhupolum<br />Kolotu  Nindraan  Iravu',
   },
   {
     Index: 553,
@@ -10110,13 +9416,11 @@ const kurral = [
       'Who makes no daily search for wrongs, nor justly rules, that king<br />Doth day by day his realm to ruin bring',
     EnglishMeaning:
       'The country of the king who does not daily examine into the wrongs done and distribute justice, will daily fall to ruin',
-    Transliteration:
-      'Naatorum Naati  Muraiseyyaa  Mannavan<br />Naatorum  Naatu  Ketum',
+    Transliteration: 'Naatorum Naati  Muraiseyyaa  Mannavan<br />Naatorum  Naatu  Ketum',
   },
   {
     Index: 554,
-    Tamil:
-      'கூழுங் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்<br />சூழாது செய்யும் அரசு',
+    Tamil: 'கூழுங் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்<br />சூழாது செய்யும் அரசு',
     line1: 'கூழுங் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்',
     line2: 'சூழாது செய்யும் அரசு',
     KalaignarUrai:
@@ -10129,8 +9433,7 @@ const kurral = [
       'Whose rod from right deflects, who counsel doth refuse,<br />At once his wealth and people utterly shall lose',
     EnglishMeaning:
       'The king, who, without reflecting (on its evil consequences), perverts justice, will lose at once both his wealth and his subjects',
-    Transliteration:
-      'Koozhung Kutiyum  Orungizhakkum  Kolkotich<br />Choozhaadhu  Seyyum  Arasu',
+    Transliteration: 'Koozhung Kutiyum  Orungizhakkum  Kolkotich<br />Choozhaadhu  Seyyum  Arasu',
   },
   {
     Index: 555,
@@ -10152,8 +9455,7 @@ const kurral = [
   },
   {
     Index: 556,
-    Tamil:
-      'மன்னார்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்<br />மன்னாவாம் மன்னர்க் கொளி',
+    Tamil: 'மன்னார்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்<br />மன்னாவாம் மன்னர்க் கொளி',
     line1: 'மன்னார்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்',
     line2: 'மன்னாவாம் மன்னர்க் கொளி',
     KalaignarUrai:
@@ -10166,13 +9468,11 @@ const kurral = [
       "To rulers' rule stability is sceptre right;<br />When this is not, quenched is the rulers' light",
     EnglishMeaning:
       'Righteous government gives permanence to (the fame of) kings; without that their fame will have no endurance',
-    Transliteration:
-      'Mannarkku Mannudhal  Sengonmai  Aqdhindrel<br />Mannaavaam  Mannark  Koli',
+    Transliteration: 'Mannarkku Mannudhal  Sengonmai  Aqdhindrel<br />Mannaavaam  Mannark  Koli',
   },
   {
     Index: 557,
-    Tamil:
-      'துளியின்மை ஞாலத்திற் கெற்றற்றே வேந்தன்<br />அளியின்மை வாழும் உயிர்க்கு',
+    Tamil: 'துளியின்மை ஞாலத்திற் கெற்றற்றே வேந்தன்<br />அளியின்மை வாழும் உயிர்க்கு',
     line1: 'துளியின்மை ஞாலத்திற் கெற்றற்றே வேந்தன்',
     line2: 'அளியின்மை வாழும் உயிர்க்கு',
     KalaignarUrai:
@@ -10183,8 +9483,7 @@ const kurral = [
       'மழை இல்லாது போனால் எத்தகைய துயரத்தை மக்கள் அடைவார்களோ, அத்தகைய துயரத்தை, நேர்மையில்லாத ஆட்சியின் கீழும்  அடைவார்கள்.',
     English:
       'As lack of rain to thirsty lands beneath,<br />Is lack of grace in kings to all that breathe',
-    EnglishMeaning:
-      'As is the world without rain, so live a people whose king is without kindness',
+    EnglishMeaning: 'As is the world without rain, so live a people whose king is without kindness',
     Transliteration:
       'Thuliyinmai Gnaalaththirku  Etratre  Vendhan<br />Aliyinmai  Vaazhum  Uyirkku',
   },
@@ -10199,12 +9498,10 @@ const kurral = [
       'முறை செய்யாத அரசனுடைய கொடுங்கோல் ஆட்சியின் கீழ் இருக்கப் பெற்றால், பொருள் இல்லாத வறுமை நிலையைவிடச் செல்வநிலை துன்பமானதாகும்.',
     SolomonPaapaiyaUrai:
       'தவறாக ஆள்பவரின் ஆட்சிக்குக் கீழ் ஏழையாய் வாழ்வதைக் காட்டிலும் பணக்காரனாய் வாழ்வது துன்பம்.',
-    English:
-      'To poverty it adds a sharper sting,<br />To live beneath the sway of unjust king',
+    English: 'To poverty it adds a sharper sting,<br />To live beneath the sway of unjust king',
     EnglishMeaning:
       'Property gives more sorrow than poverty, to those who live under the sceptre of a king without justice',
-    Transliteration:
-      'Inmaiyin Innaadhu  Utaimai  Muraiseyyaa<br />Mannavan  Korkeezhp  Patin',
+    Transliteration: 'Inmaiyin Innaadhu  Utaimai  Muraiseyyaa<br />Mannavan  Korkeezhp  Patin',
   },
   {
     Index: 559,
@@ -10221,8 +9518,7 @@ const kurral = [
       'Where king from right deflecting, makes unrighteous gain,<br />The seasons change, the clouds pour down no rain',
     EnglishMeaning:
       'If the king acts contrary to justice, rain will become unseasonable, and the heavens will withhold their showers',
-    Transliteration:
-      'Muraikoti Mannavan  Seyyin  Uraikoti<br />Ollaadhu  Vaanam  Peyal',
+    Transliteration: 'Muraikoti Mannavan  Seyyin  Uraikoti<br />Ollaadhu  Vaanam  Peyal',
   },
   {
     Index: 560,
@@ -10239,13 +9535,11 @@ const kurral = [
       "Where guardian guardeth not, udder of kine grows dry,<br />And Brahmans' sacred lore will all forgotten lie",
     EnglishMeaning:
       'If the guardian (of the country) neglects to guard it, the produce of the cows will fail, and the men of six duties viz, the Brahmins will forget the vedas',
-    Transliteration:
-      'Aapayan Kundrum  Arudhozhilor  Noolmarappar<br />Kaavalan  Kaavaan  Enin',
+    Transliteration: 'Aapayan Kundrum  Arudhozhilor  Noolmarappar<br />Kaavalan  Kaavaan  Enin',
   },
   {
     Index: 561,
-    Tamil:
-      'தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்<br />ஒத்தாங் கொறுப்பது வேந்து',
+    Tamil: 'தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்<br />ஒத்தாங் கொறுப்பது வேந்து',
     line1: 'தக்காங்கு நாடித் தலைச்செல்லா வண்ணத்தால்',
     line2: 'ஒத்தாங் கொறுப்பது வேந்து',
     KalaignarUrai:
@@ -10276,16 +9570,14 @@ const kurral = [
       "For length of days with still increasing joys on Heav'n who call,<br />Should raise the rod with brow severe, but let it gently fall",
     EnglishMeaning:
       'Let the king, who desires that his prosperity may long remain, commence his preliminary enquires with strictness, and then punish with mildness',
-    Transliteration:
-      'Katidhochchi Mella  Erika  Netidhaakkam<br />Neengaamai  Ventu  Pavar',
+    Transliteration: 'Katidhochchi Mella  Erika  Netidhaakkam<br />Neengaamai  Ventu  Pavar',
   },
   {
     Index: 563,
     Tamil: 'வெருவந்த செய்தொழுகும் வெங்கோல னாயின்<br />ஒருவந்தம் ஒல்லைக் கெடும்',
     line1: 'வெருவந்த செய்தொழுகும் வெங்கோல னாயின்',
     line2: 'ஒருவந்தம் ஒல்லைக் கெடும்',
-    KalaignarUrai:
-      'குடிமக்கள் அஞ்சும்படியாகக் கொடுங்கோல் நடத்தும் அரசு நிச்சயமாக விரைவில் அழியும்',
+    KalaignarUrai: 'குடிமக்கள் அஞ்சும்படியாகக் கொடுங்கோல் நடத்தும் அரசு நிச்சயமாக விரைவில் அழியும்',
     MuVaUrai:
       'குடிகள் அஞ்சும் படியான கொடுமைகளைச் செய்து ஆளும் கொடுங்கோல் அரசனானால், அவன் திண்ணமாக விரைவில் கெடுவான்.',
     SolomonPaapaiyaUrai:
@@ -10294,13 +9586,11 @@ const kurral = [
       'Where subjects dread of cruel wrongs endure,<br />Ruin to unjust king is swift and sure',
     EnglishMeaning:
       'The cruel-sceptred king, who acts so as to put his subjects in fear, will certainly and quickly come to ruin',
-    Transliteration:
-      'Veruvandha Seydhozhukum  Vengola  Naayin<br />Oruvandham  Ollaik  Ketum',
+    Transliteration: 'Veruvandha Seydhozhukum  Vengola  Naayin<br />Oruvandham  Ollaik  Ketum',
   },
   {
     Index: 564,
-    Tamil:
-      'இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்<br />உறைகடுகி ஒல்லைக் கெடும்',
+    Tamil: 'இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்<br />உறைகடுகி ஒல்லைக் கெடும்',
     line1: 'இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்',
     line2: 'உறைகடுகி ஒல்லைக் கெடும்',
     KalaignarUrai:
@@ -10318,8 +9608,7 @@ const kurral = [
   },
   {
     Index: 565,
-    Tamil:
-      'அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்<br />பேஎய்கண் டன்ன துடைத்து',
+    Tamil: 'அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்<br />பேஎய்கண் டன்ன துடைத்து',
     line1: 'அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்',
     line2: 'பேஎய்கண் டன்ன துடைத்து',
     KalaignarUrai:
@@ -10332,13 +9621,11 @@ const kurral = [
       "Whom subjects scarce may see, of harsh forbidding countenance;<br />His ample wealth shall waste, blasted by demon's glance",
     EnglishMeaning:
       'The great wealth of him who is difficult of access and possesses a sternness of countenance, is like that which has been obtained by a devil',
-    Transliteration:
-      'Arunjevvi Innaa  Mukaththaan  Perunjelvam<br />Peeykan  Tannadhu  Utaiththu',
+    Transliteration: 'Arunjevvi Innaa  Mukaththaan  Perunjelvam<br />Peeykan  Tannadhu  Utaiththu',
   },
   {
     Index: 566,
-    Tamil:
-      'கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்<br />நீடின்றி ஆங்கே கெடும்',
+    Tamil: 'கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்<br />நீடின்றி ஆங்கே கெடும்',
     line1: 'கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்',
     line2: 'நீடின்றி ஆங்கே கெடும்',
     KalaignarUrai:
@@ -10351,13 +9638,11 @@ const kurral = [
       'The tyrant, harsh in speach and hard of eye,<br />His ample joy, swift fading, soon shall die',
     EnglishMeaning:
       'The abundant wealth of the king whose words are harsh and whose looks are void of kindness, will instantly perish instead of abiding long, with him',
-    Transliteration:
-      'Katunjollan Kannilan  Aayin  Netunjelvam<br />Neetindri  Aange  Ketum',
+    Transliteration: 'Katunjollan Kannilan  Aayin  Netunjelvam<br />Neetindri  Aange  Ketum',
   },
   {
     Index: 567,
-    Tamil:
-      'கடுமொழியுங் கையிகந்த தண்டமும் வேந்தன்<br />அடுமுரண் தேய்க்கும் அரம்',
+    Tamil: 'கடுமொழியுங் கையிகந்த தண்டமும் வேந்தன்<br />அடுமுரண் தேய்க்கும் அரம்',
     line1: 'கடுமொழியுங் கையிகந்த தண்டமும் வேந்தன்',
     line2: 'அடுமுரண் தேய்க்கும் அரம்',
     KalaignarUrai:
@@ -10370,8 +9655,7 @@ const kurral = [
       "Harsh words and punishments severe beyond the right,<br />Are file that wears away the monarch's conquering might",
     EnglishMeaning:
       "Severe words and excessive punishments will be a file to waste away a king's power for destroying (his enemies)",
-    Transliteration:
-      'Katumozhiyum Kaiyikandha  Thantamum  Vendhan<br />Atumuran  Theykkum  Aram',
+    Transliteration: 'Katumozhiyum Kaiyikandha  Thantamum  Vendhan<br />Atumuran  Theykkum  Aram',
   },
   {
     Index: 568,
@@ -10388,8 +9672,7 @@ const kurral = [
       "Who leaves the work to those around, and thinks of it no more;<br />If he in wrathful mood reprove, his prosperous days are o'er",
     EnglishMeaning:
       'The prosperity of that king will waste away, who without reflecting (on his affairs himself), commits them to his ministers, and (when a failure occurs) gives way to anger, and rages against them',
-    Transliteration:
-      'Inaththaatri Ennaadha  Vendhan  Sinaththaatrich<br />Cheerir  Sirukum  Thiru',
+    Transliteration: 'Inaththaatri Ennaadha  Vendhan  Sinaththaatrich<br />Cheerir  Sirukum  Thiru',
   },
   {
     Index: 569,
@@ -10406,8 +9689,7 @@ const kurral = [
       'Who builds no fort whence he may foe defy,<br />In time of war shall fear and swiftly die',
     EnglishMeaning:
       'The king who has not provided himself with a place of defence, will in times of war be seized with fear and quickly perish',
-    Transliteration:
-      'Seruvandha Pozhdhir  Siraiseyyaa  Vendhan<br />Veruvandhu  Veydhu  Ketum',
+    Transliteration: 'Seruvandha Pozhdhir  Siraiseyyaa  Vendhan<br />Veruvandhu  Veydhu  Ketum',
   },
   {
     Index: 570,
@@ -10420,12 +9702,10 @@ const kurral = [
       'கடுங்கோலாகிய ஆட்சிமுறை கல்லாதவரைத் தனக்கு அரணாகச் சேர்த்துக் கொள்ளும், அது தவிர நிலத்திற்கு சுமை வேறு இல்லை.',
     SolomonPaapaiyaUrai:
       'மக்கள் அஞ்சும்படி தண்டனை தரும் ஆட்சி, நீதி நூல்களைக் கல்லாதவரின் துணையுடன் நிற்கும் நாட்டிற்கு அக்கூட்டத்தாரைவிடப் பெரிய சுமை வேறு இல்லை.',
-    English:
-      'Tyrants with fools their counsels share:<br />Earth can no heavier burthen bear',
+    English: 'Tyrants with fools their counsels share:<br />Earth can no heavier burthen bear',
     EnglishMeaning:
       'The earth bears up no greater burden than ignorant men whom a cruel sceptre attaches to itself (as the ministers of its evil deeds)',
-    Transliteration:
-      'Kallaarp Pinikkum  Katungol  Adhuvalladhu<br />Illai  Nilakkup  Porai',
+    Transliteration: 'Kallaarp Pinikkum  Katungol  Adhuvalladhu<br />Illai  Nilakkup  Porai',
   },
   {
     Index: 571,
@@ -10442,8 +9722,7 @@ const kurral = [
       'Since true benignity, that grace exceeding great, resides<br />In kingly souls, world in happy state abides',
     EnglishMeaning:
       'The world exists through that greatest ornament (of princes), a gracious demeanour',
-    Transliteration:
-      'Kannottam Ennum  Kazhiperung  Kaarikai<br />Unmaiyaan  Untiv  Vulaku',
+    Transliteration: 'Kannottam Ennum  Kazhiperung  Kaarikai<br />Unmaiyaan  Untiv  Vulaku',
   },
   {
     Index: 572,
@@ -10460,13 +9739,11 @@ const kurral = [
       'The world goes on its wonted way, since grace benign is there;<br />All other men are burthen for the earth to bear',
     EnglishMeaning:
       'The prosperity of the world springs from the kindliness, the existence of those who have no (kindliness) is a burden to the earth',
-    Transliteration:
-      'Kannottath Thulladhu  Ulakiyal  Aqdhilaar<br />Unmai  Nilakkup  Porai',
+    Transliteration: 'Kannottath Thulladhu  Ulakiyal  Aqdhilaar<br />Unmai  Nilakkup  Porai',
   },
   {
     Index: 573,
-    Tamil:
-      'பண்ணென்னாம் பாடற் கியைபின்றேற் கண்ணென்னாங்<br />கண்ணோட்டம் இல்லாத கண்',
+    Tamil: 'பண்ணென்னாம் பாடற் கியைபின்றேற் கண்ணென்னாங்<br />கண்ணோட்டம் இல்லாத கண்',
     line1: 'பண்ணென்னாம் பாடற் கியைபின்றேற் கண்ணென்னாங்',
     line2: 'கண்ணோட்டம் இல்லாத கண்',
     KalaignarUrai:
@@ -10479,8 +9756,7 @@ const kurral = [
       'Where not accordant with the song, what use of sounding chords<br />What gain of eye that no benignant light affords',
     EnglishMeaning:
       'Of what avail is a song if it be inconsistent with harmony ? what is the use of eyes which possess no kindliness',
-    Transliteration:
-      'Panennaam Paatarku  Iyaipindrel  Kanennaam<br />Kannottam  Illaadha  Kan',
+    Transliteration: 'Panennaam Paatarku  Iyaipindrel  Kanennaam<br />Kannottam  Illaadha  Kan',
   },
   {
     Index: 574,
@@ -10497,8 +9773,7 @@ const kurral = [
       'The seeming eye of face gives no expressive light,<br />When not with duly meted kindness bright',
     EnglishMeaning:
       'Beyond appearing to be in the face, what good do they do, those eyes in which is no well-regulated kindness ?',
-    Transliteration:
-      'Ulapol Mukaththevan  Seyyum  Alavinaal<br />Kannottam  Illaadha  Kan',
+    Transliteration: 'Ulapol Mukaththevan  Seyyum  Alavinaal<br />Kannottam  Illaadha  Kan',
   },
   {
     Index: 575,
@@ -10511,12 +9786,10 @@ const kurral = [
       'ஒருவனுடைய கண்ணுக்கு அணிகலமாவது கண்ணோட்டம் என்னும் பண்பே, அஃது இல்லையானால் புண் என்று உணரப்படும்.',
     SolomonPaapaiyaUrai:
       'ஒருவன் கண்ணிற்கு அணியும் நகை கண்ணோட்டமே; அந்த நகை மட்டும் இல்லை என்றால் அது புண் என்று பெரியோரால் அறியப்படும்.',
-    English:
-      "Benignity is eyes' adorning grace;<br />Without it eyes are wounds disfiguring face",
+    English: "Benignity is eyes' adorning grace;<br />Without it eyes are wounds disfiguring face",
     EnglishMeaning:
       'Kind looks are the ornaments of the eyes; without these they will be considered (by the wise) to be merely two sores',
-    Transliteration:
-      'Kannirku Anikalam  Kannottam  Aqdhindrel<br />Punnendru  Unarap  Patum',
+    Transliteration: 'Kannirku Anikalam  Kannottam  Aqdhindrel<br />Punnendru  Unarap  Patum',
   },
   {
     Index: 576,
@@ -10533,13 +9806,11 @@ const kurral = [
       "Whose eyes 'neath brow infixed diffuse no ray<br />Of grace; like tree in earth infixed are they",
     EnglishMeaning:
       'They resemble the trees of the earth, who although they have eyes, never look kindly (on others)',
-    Transliteration:
-      'Manno Tiyaindha  Maraththanaiyar  Kanno<br />Tiyaindhukan  Notaa  Thavar',
+    Transliteration: 'Manno Tiyaindha  Maraththanaiyar  Kanno<br />Tiyaindhukan  Notaa  Thavar',
   },
   {
     Index: 577,
-    Tamil:
-      'கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்<br />கண்ணோட்டம் இன்மையும் இல்',
+    Tamil: 'கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்<br />கண்ணோட்டம் இன்மையும் இல்',
     line1: 'கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்',
     line2: 'கண்ணோட்டம் இன்மையும் இல்',
     KalaignarUrai:
@@ -10552,8 +9823,7 @@ const kurral = [
       "Eyeless are they whose eyes with no benignant lustre shine;<br />Who've eyes can never lack the light of grace benign",
     EnglishMeaning:
       'Men without kind looks are men without eyes; those who (really) have eyes are also not devoid of kind looks',
-    Transliteration:
-      'Kannottam Illavar  Kannilar  Kannutaiyaar<br />Kannottam  Inmaiyum  Il',
+    Transliteration: 'Kannottam Illavar  Kannilar  Kannutaiyaar<br />Kannottam  Inmaiyum  Il',
   },
   {
     Index: 578,
@@ -10570,13 +9840,11 @@ const kurral = [
       'Who can benignant smile, yet leave no work undone;<br />By them as very own may all the earth be won',
     EnglishMeaning:
       'The world is theirs (kings) who are able to show kindness, without injury to their affairs, (administration of justice)',
-    Transliteration:
-      'Karumam Sidhaiyaamal  Kannota  Vallaarkku<br />Urimai  Utaiththiv  Vulaku',
+    Transliteration: 'Karumam Sidhaiyaamal  Kannota  Vallaarkku<br />Urimai  Utaiththiv  Vulaku',
   },
   {
     Index: 579,
-    Tamil:
-      'ஒறுத்தாற்றும் பண்பினார் கண்ணுங்கண் ணோடிப்<br />பொறுத்தாற்றும் பண்பே தலை',
+    Tamil: 'ஒறுத்தாற்றும் பண்பினார் கண்ணுங்கண் ணோடிப்<br />பொறுத்தாற்றும் பண்பே தலை',
     line1: 'ஒறுத்தாற்றும் பண்பினார் கண்ணுங்கண் ணோடிப்',
     line2: 'பொறுத்தாற்றும் பண்பே தலை',
     KalaignarUrai:
@@ -10589,8 +9857,7 @@ const kurral = [
       'To smile on those that vex, with kindly face,<br />Enduring long, is most excelling grace',
     EnglishMeaning:
       'Patiently to bear with, and show kindness to those who grieve us, is the most excellent of all dispositions',
-    Transliteration:
-      'Oruththaatrum Panpinaar  Kannumkan  Notip<br />Poruththaatrum  Panpe  Thalai',
+    Transliteration: 'Oruththaatrum Panpinaar  Kannumkan  Notip<br />Poruththaatrum  Panpe  Thalai',
   },
   {
     Index: 580,
@@ -10607,8 +9874,7 @@ const kurral = [
       'They drink with smiling grace, though poison interfused they see,<br />Who seek the praise of all-esteemed courtesy',
     EnglishMeaning:
       'Those who desire (to cultivate that degree of) urbanity which all shall love, even after swallowing the poison served to them by their friends, will be friendly with them',
-    Transliteration:
-      'Peyakkantum Nanjun  Tamaivar  Nayaththakka<br />Naakarikam  Ventu  Pavar',
+    Transliteration: 'Peyakkantum Nanjun  Tamaivar  Nayaththakka<br />Naakarikam  Ventu  Pavar',
   },
   {
     Index: 581,
@@ -10621,17 +9887,14 @@ const kurral = [
       'ஒற்றரும் புகழ் அமைந்த நீதிநூலும் ஆகிய இவ்விருவகைக் கருவிகளையும் அரசன்  தன்னுடைய கண்களாகத் தெளியவேணடும்.',
     SolomonPaapaiyaUrai:
       'ஒற்று, புகழும் தெளிவும் உள்ள நீதிநூல் இவ்விரண்டும் ஆட்சியாளரின் இரு கண் என்று அறிக.',
-    English:
-      'These two: the code renowned and spies,<br />In these let king confide as eyes',
+    English: 'These two: the code renowned and spies,<br />In these let king confide as eyes',
     EnglishMeaning:
       'Let a king consider as his eyes these two things, a spy and a book (of laws) universally esteemed',
-    Transliteration:
-      'Otrum Uraisaandra  Noolum  Ivaiyirantum<br />Thetrenka  Mannavan  Kan',
+    Transliteration: 'Otrum Uraisaandra  Noolum  Ivaiyirantum<br />Thetrenka  Mannavan  Kan',
   },
   {
     Index: 582,
-    Tamil:
-      'எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்<br />வல்லறிதல் வேந்தன் தொழில்',
+    Tamil: 'எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்<br />வல்லறிதல் வேந்தன் தொழில்',
     line1: 'எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்',
     line2: 'வல்லறிதல் வேந்தன் தொழில்',
     KalaignarUrai:
@@ -10648,8 +9911,7 @@ const kurral = [
   },
   {
     Index: 583,
-    Tamil:
-      'ஒற்றினான் ஒற்றிப் பொருள்தெரியா மன்னவன்<br />கொற்றங் கொளக்கிடந்த தில்',
+    Tamil: 'ஒற்றினான் ஒற்றிப் பொருள்தெரியா மன்னவன்<br />கொற்றங் கொளக்கிடந்த தில்',
     line1: 'ஒற்றினான் ஒற்றிப் பொருள்தெரியா மன்னவன்',
     line2: 'கொற்றங் கொளக்கிடந்த தில்',
     KalaignarUrai:
@@ -10662,13 +9924,11 @@ const kurral = [
       'By spies who spies, not weighing things they bring,<br />Nothing can victory give to that unwary king',
     EnglishMeaning:
       'There is no way for a king to obtain conquests, who knows not the advantage of discoveries made by a spy',
-    Transliteration:
-      'Otrinaan Otrip  Poruldheriyaa  Mannavan<br />Kotrang  Kolakkitandhadhu  Il',
+    Transliteration: 'Otrinaan Otrip  Poruldheriyaa  Mannavan<br />Kotrang  Kolakkitandhadhu  Il',
   },
   {
     Index: 584,
-    Tamil:
-      'வினைசெய்வார் தஞ்சுற்றம் வேண்டாதா ரென்றாங்<br />கனைவரையும் ஆராய்வ தொற்று',
+    Tamil: 'வினைசெய்வார் தஞ்சுற்றம் வேண்டாதா ரென்றாங்<br />கனைவரையும் ஆராய்வ தொற்று',
     line1: 'வினைசெய்வார் தஞ்சுற்றம் வேண்டாதா ரென்றாங்',
     line2: 'கனைவரையும் ஆராய்வ தொற்று',
     KalaignarUrai:
@@ -10677,8 +9937,7 @@ const kurral = [
       'தம்முடைய தொழிலைச் செய்கின்றவர், தம் சுற்றத்தார், தம் பகைவர் என்றுக்கூறப்படும்  எல்லாரையும் ஆராய்வதே ஒற்றரின் தொழிலாகும்.',
     SolomonPaapaiyaUrai:
       'அரசுப் பணியாளர், ஆளும் கட்சி, அதன் எதிர்கட்சியினர், அயலவர் என்று அனைவரின் சொல், செயல் கொண்டு அவர்தம் மனக்கருத்தை அறிபவரே ஒற்றர்.',
-    English:
-      'His officers, his friends, his enemies,<br />All these who watch are trusty spies',
+    English: 'His officers, his friends, his enemies,<br />All these who watch are trusty spies',
     EnglishMeaning:
       "He is a spy who watches all men, to wit, those who are in the king's employment, his relatives, and his enemies",
     Transliteration:
@@ -10699,13 +9958,11 @@ const kurral = [
       'Of unsuspected mien and all-unfearing eyes,<br />Who let no secret out, are trusty spies',
     EnglishMeaning:
       "A spy is one who is able to assume an appearance which may create no suspicion (in the minds of others), who fears no man's face, and who never reveals (his purpose)",
-    Transliteration:
-      'Kataaa Uruvotu  Kannanjaadhu  Yaantum<br />Ukaaamai  Valladhe  Otru',
+    Transliteration: 'Kataaa Uruvotu  Kannanjaadhu  Yaantum<br />Ukaaamai  Valladhe  Otru',
   },
   {
     Index: 586,
-    Tamil:
-      'துறந்தார் படிவத்த ராகி இறந்தாராய்ந்<br />தென்செயினுஞ் சோர்வில தொற்று',
+    Tamil: 'துறந்தார் படிவத்த ராகி இறந்தாராய்ந்<br />தென்செயினுஞ் சோர்வில தொற்று',
     line1: 'துறந்தார் படிவத்த ராகி இறந்தாராய்ந்',
     line2: 'தென்செயினுஞ் சோர்வில தொற்று',
     KalaignarUrai:
@@ -10736,8 +9993,7 @@ const kurral = [
       'A spy must search each hidden matter out,<br />And full report must render, free from doubt',
     EnglishMeaning:
       'A spy is one who is able to discover what is hidden and who retains no doubt concerning what he has known',
-    Transliteration:
-      'Maraindhavai Ketkavar  Raaki  Arindhavai<br />Aiyappaatu  Illadhe  Otru',
+    Transliteration: 'Maraindhavai Ketkavar  Raaki  Arindhavai<br />Aiyappaatu  Illadhe  Otru',
   },
   {
     Index: 588,
@@ -10750,12 +10006,10 @@ const kurral = [
       'ஓர் ஒற்றன் மறைந்து கேட்டுத் தெரிவித்தச் செய்தியையும் மற்றோர் ஒற்றனால் கேட்டு  வரச் செய்து ஒப்புமை கண்டபின் உண்மை என்றுக் கொள்ள வேண்டும்.',
     SolomonPaapaiyaUrai:
       'ஓர் ஒற்றர் கொண்டு வந்த செய்தியை இன்னும் ஓர் ஒற்றர் தரும் செய்தியோடு சரி பார்த்துக் கொள்க.',
-    English:
-      'Spying by spies, the things they tell<br />To test by other spies is well',
+    English: 'Spying by spies, the things they tell<br />To test by other spies is well',
     EnglishMeaning:
       'Let not a king receive the information which a spy has discovered and made known to him, until he has examined it by another spy',
-    Transliteration:
-      'Otrotrith Thandha  Porulaiyum  Matrumor<br />Otrinaal  Otrik  Kolal',
+    Transliteration: 'Otrotrith Thandha  Porulaiyum  Matrumor<br />Otrinaal  Otrik  Kolal',
   },
   {
     Index: 589,
@@ -10772,13 +10026,11 @@ const kurral = [
       'One spy must not another see: contrive it so;<br />And things by three confirmed as truth you know',
     EnglishMeaning:
       'Let a king employ spies so that one may have no knowledge of the other; and when the information of three agrees together, let him receive it',
-    Transliteration:
-      'Otrer Runaraamai  Aalka  Utanmoovar<br />Sotrokka  Therap  Patum',
+    Transliteration: 'Otrer Runaraamai  Aalka  Utanmoovar<br />Sotrokka  Therap  Patum',
   },
   {
     Index: 590,
-    Tamil:
-      'சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யிற் <br />புறப்படுத்தான் ஆகும் மறை',
+    Tamil: 'சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யிற் <br />புறப்படுத்தான் ஆகும் மறை',
     line1: 'சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யிற் ',
     line2: 'புறப்படுத்தான் ஆகும் மறை',
     KalaignarUrai:
@@ -10787,12 +10039,10 @@ const kurral = [
       'ஒற்றனிடத்தில் செய்யும் சிறப்பைப் பிறர் அறியுமாறு செய்யக்கூடாது, செய்தால்  மறைபொருளைத்தானே வெளிப்படுத்தியவன் ஆவான்.',
     SolomonPaapaiyaUrai:
       'மறைவாக நிகழ்வனவற்றைஅறிந்து சொல்லும் ஒற்றருக்குப் பரிசு தருக; மறைவாகவே தருக; ஊர் அறியத் தருவது மறைவையும் ஒற்றரையும் தானே வெளிப்படுத்தியது போல் ஆகும்.',
-    English:
-      "Reward not trusty spy in others' sight,<br />Or all the mystery will come to light",
+    English: "Reward not trusty spy in others' sight,<br />Or all the mystery will come to light",
     EnglishMeaning:
       'Let not a king publicly confer on a spy any marks of his favour; if he does, he will divulge his own secret',
-    Transliteration:
-      'Sirappariya Otrinkan  Seyyarka  Seyyin<br />Purappatuththaan  Aakum  Marai',
+    Transliteration: 'Sirappariya Otrinkan  Seyyarka  Seyyin<br />Purappatuththaan  Aakum  Marai',
   },
   {
     Index: 591,
@@ -10809,26 +10059,22 @@ const kurral = [
       "'Tis energy gives men o'er that they own a true control;<br />They nothing own who own not energy of soul",
     EnglishMeaning:
       'Energy makes out the man of property; as for those who are destitute of it, do they (really) possess what they possess ?',
-    Transliteration:
-      'Utaiyar Enappatuvadhu  Ookkam  Aqdhillaar<br />Utaiyadhu  Utaiyaro  Matru',
+    Transliteration: 'Utaiyar Enappatuvadhu  Ookkam  Aqdhillaar<br />Utaiyadhu  Utaiyaro  Matru',
   },
   {
     Index: 592,
     Tamil: 'உள்ள முடைமை உடைமை பொருளுடைமை<br />நில்லாது நீங்கி விடும்',
     line1: 'உள்ள முடைமை உடைமை பொருளுடைமை',
     line2: 'நில்லாது நீங்கி விடும்',
-    KalaignarUrai:
-      'ஊக்கம் எனும் ஒரு பொருளைத் தவிர, வேறு எதனையும் நிலையான உடைமை என்று கூற இயலாது',
+    KalaignarUrai: 'ஊக்கம் எனும் ஒரு பொருளைத் தவிர, வேறு எதனையும் நிலையான உடைமை என்று கூற இயலாது',
     MuVaUrai:
       'ஒருவர்க்கு ஊக்கமுடைமையே நிலையான உடைமையாகும், மற்றப்  பொருளுடைமையானது நிலைபேறு இல்லாமல் நீங்கிவிடுவதாகும்.',
-    SolomonPaapaiyaUrai:
-      'மன ஊறுதியே நிலையான உடைமை; செல்வம் உடைமையோ நிலைத்திராமல் நீங்கிவிடும்.',
+    SolomonPaapaiyaUrai: 'மன ஊறுதியே நிலையான உடைமை; செல்வம் உடைமையோ நிலைத்திராமல் நீங்கிவிடும்.',
     English:
       'The wealth of mind man owns a real worth imparts,<br />Material wealth man owns endures not, utterly departs',
     EnglishMeaning:
       'The possession of (energy of) mind is true property; the possession of wealth passes away and abides not',
-    Transliteration:
-      'Ullam Utaimai  Utaimai  Porulutaimai<br />Nillaadhu  Neengi  Vitum',
+    Transliteration: 'Ullam Utaimai  Utaimai  Porulutaimai<br />Nillaadhu  Neengi  Vitum',
   },
   {
     Index: 593,
@@ -10845,8 +10091,7 @@ const kurral = [
       "'Lost is our wealth,' they utter not this cry distressed,<br />The men of firm concentred energy of soul possessed",
     EnglishMeaning:
       "They who are possessed of enduring energy will not trouble themselves, saying, 'we have lost our property.'",
-    Transliteration:
-      'Aakkam Izhandhemendru  Allaavaar  Ookkam<br />Oruvandham  Kaiththutai  Yaar',
+    Transliteration: 'Aakkam Izhandhemendru  Allaavaar  Ookkam<br />Oruvandham  Kaiththutai  Yaar',
   },
   {
     Index: 594,
@@ -10857,14 +10102,11 @@ const kurral = [
       'உயர்வு, உறுதியான ஊக்கமுடையவர்களைத் தேடிக் கண்டுபிடித்து அவர்களிடம் போய்ச் சேரும்',
     MuVaUrai:
       'சோர்வு இல்லாத ஊக்கம் உடையவனிடத்தில் ஆக்கமானது தானே அவன் உள்ள  இடத்திற்கு வழிக் கேட்டுக்கொண்டு போய்ச் சேரும்.',
-    SolomonPaapaiyaUrai:
-      'தளராத ஊக்கம் உள்ளவனிடம், செல்வமானது தானே அவன் முகவரியை அறிந்து செல்லும்.',
+    SolomonPaapaiyaUrai: 'தளராத ஊக்கம் உள்ளவனிடம், செல்வமானது தானே அவன் முகவரியை அறிந்து செல்லும்.',
     English:
       'The man of energy of soul inflexible,<br />Good fortune seeks him out and comes a friend to dwell',
-    EnglishMeaning:
-      'Wealth will find its own way to the man of unfailing energy',
-    Transliteration:
-      'Aakkam Adharvinaaich  Chellum  Asaivilaa<br />Ookka  Mutaiyaa  Nuzhai',
+    EnglishMeaning: 'Wealth will find its own way to the man of unfailing energy',
+    Transliteration: 'Aakkam Adharvinaaich  Chellum  Asaivilaa<br />Ookka  Mutaiyaa  Nuzhai',
   },
   {
     Index: 595,
@@ -10899,13 +10141,11 @@ const kurral = [
       "Whate'er you ponder, let your aim be loftly still,<br />Fate cannot hinder always, thwart you as it will",
     EnglishMeaning:
       'In all that a king thinks of, let him think of his greatness; and if it should be thrust from him (by fate), it will have the nature of not being thrust from him',
-    Transliteration:
-      'Ulluva Thellaam  Uyarvullal  Matradhu<br />Thallinun  Thallaamai  Neerththu',
+    Transliteration: 'Ulluva Thellaam  Uyarvullal  Matradhu<br />Thallinun  Thallaamai  Neerththu',
   },
   {
     Index: 597,
-    Tamil:
-      'சிதைவிடத் தொல்கார் உரவோர் புதையம்பிற்<br />பட்டுப்பா டூன்றுங் களிறு',
+    Tamil: 'சிதைவிடத் தொல்கார் உரவோர் புதையம்பிற்<br />பட்டுப்பா டூன்றுங் களிறு',
     line1: 'சிதைவிடத் தொல்கார் உரவோர் புதையம்பிற்',
     line2: 'பட்டுப்பா டூன்றுங் களிறு',
     KalaignarUrai:
@@ -10932,12 +10172,10 @@ const kurral = [
       'ஊக்கம் இல்லாதவர் இவ்வுலகில் யாம் வண்மை உடையேம் என்றுத் தம்மைத் தான்  எண்ணி மகிழும் மகிழ்ச்சியை அடையமாடடார்.',
     SolomonPaapaiyaUrai:
       'ஊக்கம் இல்லாதவர் பிறர்க்கு உதவும் வள்ளல் யாம் என்னும் மன உயர்வைப் பெறமாட்டார்.',
-    English:
-      "The soulless man can never gain<br />Th' ennobling sense of power with men",
+    English: "The soulless man can never gain<br />Th' ennobling sense of power with men",
     EnglishMeaning:
       "Those who have no (greatness of) mind, will not acquire the joy of saying in the world, 'we have excercised liaberality'",
-    Transliteration:
-      'Ullam Ilaadhavar  Eydhaar  Ulakaththu<br />Valliyam  Ennunj  Cherukku',
+    Transliteration: 'Ullam Ilaadhavar  Eydhaar  Ulakaththu<br />Valliyam  Ennunj  Cherukku',
   },
   {
     Index: 599,
@@ -10954,8 +10192,7 @@ const kurral = [
       'Huge bulk of elephant with pointed tusk all armed,<br />When tiger threatens shrinks away alarmed',
     EnglishMeaning:
       'Although the elephant has a large body, and a sharp tusk, yet it fears the attack of the tiger',
-    Transliteration:
-      'Pariyadhu Koorngottadhu  Aayinum  Yaanai<br />Veruum  Pulidhaak  Kurin',
+    Transliteration: 'Pariyadhu Koorngottadhu  Aayinum  Yaanai<br />Veruum  Pulidhaak  Kurin',
   },
   {
     Index: 600,
@@ -10972,13 +10209,11 @@ const kurral = [
       'Firmness of soul in man is real excellance;<br />Others are trees, their human form a mere pretence',
     EnglishMeaning:
       'Energy is mental wealth; those men who are destitute of it are only trees in the form of men',
-    Transliteration:
-      'Uramoruvarku Ulla  Verukkaiaq  Thillaar<br />Marammakka  Laadhale  Veru',
+    Transliteration: 'Uramoruvarku Ulla  Verukkaiaq  Thillaar<br />Marammakka  Laadhale  Veru',
   },
   {
     Index: 601,
-    Tamil:
-      'குடியென்னுங் குன்றா விளக்கம் மடியென்னும்<br />மாசூர மாய்ந்து கெடும்',
+    Tamil: 'குடியென்னுங் குன்றா விளக்கம் மடியென்னும்<br />மாசூர மாய்ந்து கெடும்',
     line1: 'குடியென்னுங் குன்றா விளக்கம் மடியென்னும்',
     line2: 'மாசூர மாய்ந்து கெடும்',
     KalaignarUrai:
@@ -10991,8 +10226,7 @@ const kurral = [
       'Of household dignity the lustre beaming bright,<br />Flickers and dies when sluggish foulness dims its light',
     EnglishMeaning:
       'By the darkness, of idleness, the indestructible lamp of family (rank) will be extinguished',
-    Transliteration:
-      '601 Kutiyennum  Kundraa  Vilakkam  Matiyennum<br />Maasoora  Maaindhu  Ketum',
+    Transliteration: '601 Kutiyennum  Kundraa  Vilakkam  Matiyennum<br />Maasoora  Maaindhu  Ketum',
   },
   {
     Index: 602,
@@ -11009,8 +10243,7 @@ const kurral = [
       "Let indolence, the death of effort, die,<br />If you'd uphold your household's dignity",
     EnglishMeaning:
       'Let those, who desire that their family may be illustrious, put away all idleness from their conduct',
-    Transliteration:
-      'Matiyai Matiyaa  Ozhukal  Kutiyaik<br />Kutiyaaka  Ventu  Pavar',
+    Transliteration: 'Matiyai Matiyaa  Ozhukal  Kutiyaik<br />Kutiyaaka  Ventu  Pavar',
   },
   {
     Index: 603,
@@ -11027,8 +10260,7 @@ const kurral = [
       'Who fosters indolence within his breast, the silly elf!<br />The house from which he springs shall perish ere himself',
     EnglishMeaning:
       'The (lustre of the) family of the ignorant man, who acts under the influence of destructive laziness will perish, even before he is dead',
-    Transliteration:
-      'Matimatik Kontozhukum  Pedhai  Pirandha<br />Kutimatiyum  Thanninum  Mundhu',
+    Transliteration: 'Matimatik Kontozhukum  Pedhai  Pirandha<br />Kutimatiyum  Thanninum  Mundhu',
   },
   {
     Index: 604,
@@ -11045,8 +10277,7 @@ const kurral = [
       'His family decays, and faults unheeded thrive,<br />Who, sunk in sloth, for noble objects doth not strive',
     EnglishMeaning:
       'Family (greatness) will be destroyed, and faults will increase, in those men who give way to laziness, and put forth no dignified exertions',
-    Transliteration:
-      'Kutimatindhu Kutram  Perukum  Matimatindhu<br />Maanta  Ugnatri  Lavarkku',
+    Transliteration: 'Kutimatindhu Kutram  Perukum  Matimatindhu<br />Maanta  Ugnatri  Lavarkku',
   },
   {
     Index: 605,
@@ -11063,13 +10294,11 @@ const kurral = [
       "Delay, oblivion, sloth, and sleep: these four<br />Are pleasure-boat to bear the doomed to ruin's shore",
     EnglishMeaning:
       'Procrastination, forgetfulness, idleness, and sleep, these four things, form the vessel which is desired by those destined to destruction',
-    Transliteration:
-      'Netuneer Maravi  Matidhuyil  Naankum<br />Ketuneeraar  Kaamak  Kalan',
+    Transliteration: 'Netuneer Maravi  Matidhuyil  Naankum<br />Ketuneeraar  Kaamak  Kalan',
   },
   {
     Index: 606,
-    Tamil:
-      'படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்<br />மாண்பயன் எய்தல் அரிது',
+    Tamil: 'படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்<br />மாண்பயன் எய்தல் அரிது',
     line1: 'படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்',
     line2: 'மாண்பயன் எய்தல் அரிது',
     KalaignarUrai:
@@ -11100,8 +10329,7 @@ const kurral = [
       'Who hug their sloth, nor noble works attempt,<br />Shall bear reproofs and words of just contempt',
     EnglishMeaning:
       'Those who through idleness, and do not engage themselves in dignified exertion, will subject',
-    Transliteration:
-      'Itipurindhu Ellunj  Chol  Ketpar  Matipurindhu<br />Maanta  Ugnatri  Lavar',
+    Transliteration: 'Itipurindhu Ellunj  Chol  Ketpar  Matipurindhu<br />Maanta  Ugnatri  Lavar',
   },
   {
     Index: 608,
@@ -11118,8 +10346,7 @@ const kurral = [
       'If sloth a dwelling find mid noble family,<br />Bondsmen to them that hate them shall they be',
     EnglishMeaning:
       'If idleness take up its abode in a king of high birth, it will make him a slave of his enemies',
-    Transliteration:
-      'Matimai Kutimaikkan  Thangindhan  Onnaarkku<br />Atimai  Pukuththi  Vitum',
+    Transliteration: 'Matimai Kutimaikkan  Thangindhan  Onnaarkku<br />Atimai  Pukuththi  Vitum',
   },
   {
     Index: 609,
@@ -11132,12 +10359,10 @@ const kurral = [
       'ஒருவன் சோம்பலை ஆளுந் தன்மையை மாற்றிவிட்டால் அவனுடைய குடியிலும்  ஆண்மையிலும் வந்தக் குற்றம் தீர்ந்து விடும்.',
     SolomonPaapaiyaUrai:
       'ஒருவன் சோம்பலுக்கு அடிமையாவதை விட்டுவிட்டால், அவனது குடும்பத்திற்குள் வந்த சிறுமைகள் அழிந்துவிடும்.',
-    English:
-      'Who changes slothful habits saves<br />Himself from all that household rule depraves',
+    English: 'Who changes slothful habits saves<br />Himself from all that household rule depraves',
     EnglishMeaning:
       'When a man puts away idleness, the reproach which has come upon himself and his family will disappear',
-    Transliteration:
-      'Kutiyaanmai Yulvandha  Kutram  Oruvan<br />Matiyaanmai  Maatrak  Ketum',
+    Transliteration: 'Kutiyaanmai Yulvandha  Kutram  Oruvan<br />Matiyaanmai  Maatrak  Ketum',
   },
   {
     Index: 610,
@@ -11154,8 +10379,7 @@ const kurral = [
       "The king whose life from sluggishness is rid,<br />Shall rule o'er all by foot of mighty god bestrid",
     EnglishMeaning:
       'The king who never gives way to idleness will obtain entire possession of (the whole earth) passed over by him who measured (the worlds) with His foot',
-    Transliteration:
-      'Matiyilaa Mannavan  Eydhum  Atiyalandhaan<br />Thaaaya  Thellaam  Orungu',
+    Transliteration: 'Matiyilaa Mannavan  Eydhum  Atiyalandhaan<br />Thaaaya  Thellaam  Orungu',
   },
   {
     Index: 611,
@@ -11172,13 +10396,11 @@ const kurral = [
       "Say not, 'Tis hard', in weak, desponding hour,<br />For strenuous effort gives prevailing power",
     EnglishMeaning:
       "Yield not to the feebleness which says, 'this is too difficult to be done'; labour will give the greatness (of mind) which is necessary (to do it)",
-    Transliteration:
-      'Arumai Utaiththendru  Asaavaamai  Ventum<br />Perumai  Muyarsi  Tharum',
+    Transliteration: 'Arumai Utaiththendru  Asaavaamai  Ventum<br />Perumai  Muyarsi  Tharum',
   },
   {
     Index: 612,
-    Tamil:
-      'வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை<br />தீர்ந்தாரின் தீர்ந்தன் றுலகு',
+    Tamil: 'வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை<br />தீர்ந்தாரின் தீர்ந்தன் றுலகு',
     line1: 'வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை',
     line2: 'தீர்ந்தாரின் தீர்ந்தன் றுலகு',
     KalaignarUrai:
@@ -11196,8 +10418,7 @@ const kurral = [
   },
   {
     Index: 613,
-    Tamil:
-      'தாளாண்மை என்னுந் தகைமைக்கண் தங்கிற்றே<br />வேளாண்மை என்னுஞ் செருக்கு',
+    Tamil: 'தாளாண்மை என்னுந் தகைமைக்கண் தங்கிற்றே<br />வேளாண்மை என்னுஞ் செருக்கு',
     line1: 'தாளாண்மை என்னுந் தகைமைக்கண் தங்கிற்றே',
     line2: 'வேளாண்மை என்னுஞ் செருக்கு',
     KalaignarUrai:
@@ -11206,12 +10427,10 @@ const kurral = [
       'பிறர்க்கு உதவிசெய்தல் என்னும் மேம்பட்ட நிலைமை முயற்சி என்று சொல்லப்படுகின்ற உயர்ந்த பண்பில் நிலைத்திருக்கின்றது.',
     SolomonPaapaiyaUrai:
       'முயற்சி எனப்படும் உயர்ந்த குணத்தில்தான் பிறர்க்கு உதவுதல் என்னும் மேன்மை, நிலைபெற்றிருக்கிறது.',
-    English:
-      'In strenuous effort doth reside<br />The power of helping others: noble pride',
+    English: 'In strenuous effort doth reside<br />The power of helping others: noble pride',
     EnglishMeaning:
       'The lustre of munificence will dwell only with the dignity of laboriousness or efforts',
-    Transliteration:
-      'Thaalaanmai Ennum  Thakaimaikkan  Thangitre<br />Velaanmai  Ennunj  Cherukku',
+    Transliteration: 'Thaalaanmai Ennum  Thakaimaikkan  Thangitre<br />Velaanmai  Ennunj  Cherukku',
   },
   {
     Index: 614,
@@ -11228,13 +10447,11 @@ const kurral = [
       "Beneficent intent in men by whom no strenuous work is wrought,<br />Like battle-axe in sexless being's hand availeth nought",
     EnglishMeaning:
       'The liberality of him, who does not labour, will fail, like the manliness of a hermaphrodite, who has a sword in its hand',
-    Transliteration:
-      'Thaalaanmai Illaadhaan  Velaanmai  Petikai<br />Vaalaanmai  Polak  Ketum',
+    Transliteration: 'Thaalaanmai Illaadhaan  Velaanmai  Petikai<br />Vaalaanmai  Polak  Ketum',
   },
   {
     Index: 615,
-    Tamil:
-      'இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்<br />துன்பம் துடைத்தூன்றும் தூண்',
+    Tamil: 'இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்<br />துன்பம் துடைத்தூன்றும் தூண்',
     line1: 'இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்',
     line2: 'துன்பம் துடைத்தூன்றும் தூண்',
     KalaignarUrai:
@@ -11261,11 +10478,9 @@ const kurral = [
       'முயற்சி ஒருவனுக்குச் செல்வத்தைப் பெருகச் செய்யும், முயற்சி இல்லாதிருத்தல் அவனுக்கு வறுமையைச் சேர்த்துவிடும்.',
     SolomonPaapaiyaUrai:
       'முயற்சி செல்வத்தைச் சேர்க்கும்; முயலாமல் இருப்பது வறுமைக்குள் சேர்ந்து விடும்.',
-    English:
-      "Effort brings fortune's sure increase,<br />Its absence brings to nothingness",
+    English: "Effort brings fortune's sure increase,<br />Its absence brings to nothingness",
     EnglishMeaning: 'Labour will produce wealth; idleness will bring poverty',
-    Transliteration:
-      'Muyarsi Thiruvinai  Aakkum  Muyatrinmai<br />Inmai  Pukuththi  Vitum',
+    Transliteration: 'Muyarsi Thiruvinai  Aakkum  Muyatrinmai<br />Inmai  Pukuththi  Vitum',
   },
   {
     Index: 617,
@@ -11282,8 +10497,7 @@ const kurral = [
       "In sluggishness is seen misfortune's lurid form, the wise declare;<br />Where man unslothful toils, she of the lotus flower is there",
     EnglishMeaning:
       'They say that the black Mudevi (the goddess of adversity) dwells with laziness, and the Latchmi (the goddess of prosperity) dwells with the labour of the industrious',
-    Transliteration:
-      'Matiyulaal Maamukati  Enpa  Matiyilaan<br />Thaalulaan  Thaamaraiyi  Naal',
+    Transliteration: 'Matiyulaal Maamukati  Enpa  Matiyilaan<br />Thaalulaan  Thaamaraiyi  Naal',
   },
   {
     Index: 618,
@@ -11300,8 +10514,7 @@ const kurral = [
       "'Tis no reproach unpropitious fate should ban;<br />But not to do man's work is foul disgrace to man",
     EnglishMeaning:
       'Adverse fate is no disgrace to any one; to be without exertion and without knowing what should be known, is disgrace',
-    Transliteration:
-      'Poriyinmai Yaarkkum  Pazhiyandru  Arivarindhu<br />Aalvinai  Inmai  Pazhi',
+    Transliteration: 'Poriyinmai Yaarkkum  Pazhiyandru  Arivarindhu<br />Aalvinai  Inmai  Pazhi',
   },
   {
     Index: 619,
@@ -11318,8 +10531,7 @@ const kurral = [
       "Though fate-divine should make your labour vain;<br />Effort its labour's sure reward will gain",
     EnglishMeaning:
       'Although it be said that, through fate, it cannot be attained, yet labour, with bodily exertion, will yield its reward',
-    Transliteration:
-      'Theyvaththaan Aakaa  Theninum  Muyarsidhan<br />Meyvaruththak  Kooli  Tharum',
+    Transliteration: 'Theyvaththaan Aakaa  Theninum  Muyarsidhan<br />Meyvaruththak  Kooli  Tharum',
   },
   {
     Index: 620,
@@ -11336,8 +10548,7 @@ const kurral = [
       'Who strive with undismayed, unfaltering mind,<br />At length shall leave opposing fate behind',
     EnglishMeaning:
       'They who labour on, without fear and without fainting will see even fate (put) behind their back',
-    Transliteration:
-      'Oozhaiyum Uppakkam  Kaanpar  Ulaivindrith<br />Thaazhaadhu  Ugnatru  Pavar',
+    Transliteration: 'Oozhaiyum Uppakkam  Kaanpar  Ulaivindrith<br />Thaazhaadhu  Ugnatru  Pavar',
   },
   {
     Index: 621,
@@ -11354,8 +10565,7 @@ const kurral = [
       'Smile, with patient, hopeful heart, in troublous hour;<br />Meet and so vanquish grief; nothing hath equal power',
     EnglishMeaning:
       'If troubles come, laugh; there is nothing like that, to press upon and drive away sorrow',
-    Transliteration:
-      'Itukkan Varungaal  Nakuka  Adhanai<br />Atuththoorvadhu  Aqdhoppa  Thil',
+    Transliteration: 'Itukkan Varungaal  Nakuka  Adhanai<br />Atuththoorvadhu  Aqdhoppa  Thil',
   },
   {
     Index: 622,
@@ -11372,8 +10582,7 @@ const kurral = [
       "Though sorrow, like a flood, comes rolling on,<br />When wise men's mind regards it,- it is gone",
     EnglishMeaning:
       'A flood of troubles will be overcome by the (courageous) thought which the minds of the wise will entertain, even in sorrow',
-    Transliteration:
-      'Vellath Thanaiya  Itumpai  Arivutaiyaan<br />Ullaththin  Ullak  Ketum',
+    Transliteration: 'Vellath Thanaiya  Itumpai  Arivutaiyaan<br />Ullaththin  Ullak  Ketum',
   },
   {
     Index: 623,
@@ -11388,10 +10597,8 @@ const kurral = [
       'வரும் துன்பத்திற்குத் துன்பப்படாத மன ஊக்கம் உள்ளவர். துன்பத்திற்குத் துன்பம் தருவர்.',
     English:
       'Who griefs confront with meek, ungrieving heart,<br />From them griefs, put to grief, depart',
-    EnglishMeaning:
-      'They give sorrow to sorrow, who in sorrow do not suffer sorrow',
-    Transliteration:
-      'Itumpaikku Itumpai  Patuppar  Itumpaikku<br />Itumpai  Pataaa  Thavar',
+    EnglishMeaning: 'They give sorrow to sorrow, who in sorrow do not suffer sorrow',
+    Transliteration: 'Itumpaikku Itumpai  Patuppar  Itumpaikku<br />Itumpai  Pataaa  Thavar',
   },
   {
     Index: 624,
@@ -11408,8 +10615,7 @@ const kurral = [
       'Like bullock struggle on through each obstructed way;<br />From such an one will troubles, troubled, roll away',
     EnglishMeaning:
       'Troubles will vanish (i.e., will be troubled) before the man who (struggles against difficulties) as a',
-    Transliteration:
-      'Matuththavaa Yellaam  Pakatannaan  Utra<br />Itukkan  Itarppaatu  Utaiththu',
+    Transliteration: 'Matuththavaa Yellaam  Pakatannaan  Utra<br />Itukkan  Itarppaatu  Utaiththu',
   },
   {
     Index: 625,
@@ -11426,8 +10632,7 @@ const kurral = [
       'When griefs press on, but fail to crush the patient heart,<br />Then griefs defeated, put to grief, depart',
     EnglishMeaning:
       'The troubles of that man will be troubled (and disappear) who, however thickly they may come upon him, does not abandon (his purpose)',
-    Transliteration:
-      'Atukki Varinum  Azhivilaan  Utra<br />Itukkan  Itukkat  Patum',
+    Transliteration: 'Atukki Varinum  Azhivilaan  Utra<br />Itukkan  Itukkat  Patum',
   },
   {
     Index: 626,
@@ -11444,13 +10649,11 @@ const kurral = [
       'Who boasted not of wealth, nor gave it all their heart,<br />Will not bemoan the loss, when prosperous days depart',
     EnglishMeaning:
       "Will those men ever cry out in sorrow, 'we are destitute' who, (in their prosperity), give not way to (undue desire) to keep their wealth",
-    Transliteration:
-      'Atremendru Allar  Patupavo  Petremendru<br />Ompudhal  Thetraa  Thavar',
+    Transliteration: 'Atremendru Allar  Patupavo  Petremendru<br />Ompudhal  Thetraa  Thavar',
   },
   {
     Index: 627,
-    Tamil:
-      'இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்<br />கையாறாக் கொள்ளாதா மேல்',
+    Tamil: 'இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்<br />கையாறாக் கொள்ளாதா மேல்',
     line1: 'இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்',
     line2: 'கையாறாக் கொள்ளாதா மேல்',
     KalaignarUrai:
@@ -11481,8 +10684,7 @@ const kurral = [
       'He seeks not joy, to sorrow man is born, he knows;<br />Such man will walk unharmed by touch of human woes',
     EnglishMeaning:
       'That man never experiences sorrow, who does not seek for pleasure, and who considers distress to be natural (to man)',
-    Transliteration:
-      'Inpam Vizhaiyaan  Itumpai  Iyalpenpaan<br />Thunpam  Urudhal  Ilan',
+    Transliteration: 'Inpam Vizhaiyaan  Itumpai  Iyalpenpaan<br />Thunpam  Urudhal  Ilan',
   },
   {
     Index: 629,
@@ -11499,8 +10701,7 @@ const kurral = [
       "Mid joys he yields not heart to joys' control<br />Mid sorrows, sorrow cannot touch his soul",
     EnglishMeaning:
       'He does not suffer sorrow, in sorrow who does not look for pleasure in pleasure',
-    Transliteration:
-      'Inpaththul Inpam  Vizhaiyaadhaan  Thunpaththul<br />Thunpam  Urudhal  Ilan',
+    Transliteration: 'Inpaththul Inpam  Vizhaiyaadhaan  Thunpaththul<br />Thunpam  Urudhal  Ilan',
   },
   {
     Index: 630,
@@ -11517,13 +10718,11 @@ const kurral = [
       'Who pain as pleasure takes, he shall acquire<br />The bliss to which his foes in vain aspire',
     EnglishMeaning:
       'The elevation, which even his enemies will esteem, will be gained by him, who regards pain as pleasure',
-    Transliteration:
-      'Innaamai Inpam  Enakkolin  Aakundhan<br />Onnaar  Vizhaiyunj  Chirappu',
+    Transliteration: 'Innaamai Inpam  Enakkolin  Aakundhan<br />Onnaar  Vizhaiyunj  Chirappu',
   },
   {
     Index: 631,
-    Tamil:
-      'கருவியும் காலமும் செய்கையும் செய்யும்<br />அருவினையும் மாண்ட தமைச்சு',
+    Tamil: 'கருவியும் காலமும் செய்கையும் செய்யும்<br />அருவினையும் மாண்ட தமைச்சு',
     line1: 'கருவியும் காலமும் செய்கையும் செய்யும்',
     line2: 'அருவினையும் மாண்ட தமைச்சு',
     KalaignarUrai:
@@ -11536,13 +10735,11 @@ const kurral = [
       "A minister is he who grasps, with wisdom large,<br />Means, time, work's mode, and functions rare he must discharge",
     EnglishMeaning:
       'The minister is one who can make an excellent choice of means, time, manner of execution, and the difficult undertaking (itself)',
-    Transliteration:
-      'Karuviyum Kaalamum  Seykaiyum  Seyyum<br />Aruvinaiyum  Maantadhu  Amaichchu',
+    Transliteration: 'Karuviyum Kaalamum  Seykaiyum  Seyyum<br />Aruvinaiyum  Maantadhu  Amaichchu',
   },
   {
     Index: 632,
-    Tamil:
-      'வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோ<br />டைந்துடன் மாண்ட தமைச்சு',
+    Tamil: 'வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோ<br />டைந்துடன் மாண்ட தமைச்சு',
     line1: 'வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோ',
     line2: 'டைந்துடன் மாண்ட தமைச்சு',
     KalaignarUrai:
@@ -11560,8 +10757,7 @@ const kurral = [
   },
   {
     Index: 633,
-    Tamil:
-      'பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்<br />பொருத்தலும் வல்ல தமைச்சு',
+    Tamil: 'பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்<br />பொருத்தலும் வல்ல தமைச்சு',
     line1: 'பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்',
     line2: 'பொருத்தலும் வல்ல தமைச்சு',
     KalaignarUrai:
@@ -11597,8 +10793,7 @@ const kurral = [
   },
   {
     Index: 635,
-    Tamil:
-      'அறனறிந் தான்றமைந்த சொல்லானெஞ் ஞான்றுந்<br />திறனறிந்தான் தேர்ச்சித் துணை',
+    Tamil: 'அறனறிந் தான்றமைந்த சொல்லானெஞ் ஞான்றுந்<br />திறனறிந்தான் தேர்ச்சித் துணை',
     line1: 'அறனறிந் தான்றமைந்த சொல்லானெஞ் ஞான்றுந்',
     line2: 'திறனறிந்தான் தேர்ச்சித் துணை',
     KalaignarUrai:
@@ -11629,8 +10824,7 @@ const kurral = [
       "When native subtilty combines with sound scholastic lore,<br />'Tis subtilty surpassing all, which nothing stands before",
     EnglishMeaning:
       'What (contrivances) are there so acute as to resist those who possess natural acuteness in addition to learning ?',
-    Transliteration:
-      'Madhinutpam Noolotu  Utaiyaarkku  Adhinutpam<br />Yaavula  Munnir  Pavai',
+    Transliteration: 'Madhinutpam Noolotu  Utaiyaarkku  Adhinutpam<br />Yaavula  Munnir  Pavai',
   },
   {
     Index: 637,
@@ -11647,8 +10841,7 @@ const kurral = [
       "Though knowing all that books can teach, 'tis truest tact<br />To follow common sense of men in act",
     EnglishMeaning:
       'Though you are acquainted with the (theoretical) methods (of performing an act), understand the ways of the world and act accordingly',
-    Transliteration:
-      'Seyarkai Arindhak  Kataiththum  Ulakaththu<br />Iyarkai  Arindhu  Seyal',
+    Transliteration: 'Seyarkai Arindhak  Kataiththum  Ulakaththu<br />Iyarkai  Arindhu  Seyal',
   },
   {
     Index: 638,
@@ -11665,8 +10858,7 @@ const kurral = [
       "'Tis duty of the man in place aloud to say<br />The very truth, though unwise king may cast his words away",
     EnglishMeaning:
       'Although the king be utterly ignorant, it is the duty of the minister to give (him) sound advice',
-    Transliteration:
-      'Arikondru Ariyaan  Eninum  Urudhi<br />Uzhaiyirundhaan  Kooral  Katan',
+    Transliteration: 'Arikondru Ariyaan  Eninum  Urudhi<br />Uzhaiyirundhaan  Kooral  Katan',
   },
   {
     Index: 639,
@@ -11683,8 +10875,7 @@ const kurral = [
       "A minister who by king's side plots evil things<br />Worse woes than countless foemen brings",
     EnglishMeaning:
       'Far better are seventy crores of enemies (for a king) than a minister at his side who intends (his) ruin',
-    Transliteration:
-      'Pazhudhennum Mandhiriyin  Pakkadhadhul  Thevvor<br />Ezhupadhu  Koti  Urum',
+    Transliteration: 'Pazhudhennum Mandhiriyin  Pakkadhadhul  Thevvor<br />Ezhupadhu  Koti  Urum',
   },
   {
     Index: 640,
@@ -11701,8 +10892,7 @@ const kurral = [
       'For gain of end desired just counsel nought avails<br />To minister, when tact in execution fails',
     EnglishMeaning:
       'Those ministers who are destitute of (executive) ability will fail to carry out their projects, although they may have contrived aright',
-    Transliteration:
-      'Muraippatach Choozhndhum  Mutivilave  Seyvar<br />Thirappaatu  Ilaaa  Thavar',
+    Transliteration: 'Muraippatach Choozhndhum  Mutivilave  Seyvar<br />Thirappaatu  Ilaaa  Thavar',
   },
   {
     Index: 641,
@@ -11719,13 +10909,11 @@ const kurral = [
       'A tongue that rightly speaks the right is greatest gain,<br />It stands alone midst goodly things that men obtain',
     EnglishMeaning:
       'The possession of that goodness which is called the goodness of speech is (even to others) better than any other goodness',
-    Transliteration:
-      'Naanalam Ennum  Nalanutaimai  Annalam<br />Yaanalaththu  Ulladhooum  Andru',
+    Transliteration: 'Naanalam Ennum  Nalanutaimai  Annalam<br />Yaanalaththu  Ulladhooum  Andru',
   },
   {
     Index: 642,
-    Tamil:
-      'ஆக்கமுங் கேடும் அதனால் வருதலாற்<br />காத்தோம்பல் சொல்லின்கட் சோர்வு',
+    Tamil: 'ஆக்கமுங் கேடும் அதனால் வருதலாற்<br />காத்தோம்பல் சொல்லின்கட் சோர்வு',
     line1: 'ஆக்கமுங் கேடும் அதனால் வருதலாற்',
     line2: 'காத்தோம்பல் சொல்லின்கட் சோர்வு',
     KalaignarUrai:
@@ -11738,13 +10926,11 @@ const kurral = [
       'Since gain and loss in life on speech depend,<br />From careless slip in speech thyself defend',
     EnglishMeaning:
       'Since (both) wealth and evil result from (their) speech, ministers should most carefully guard themselves against faultiness therein',
-    Transliteration:
-      'Aakkamung Ketum  Adhanaal  Varudhalaal<br />Kaaththompal  Sollinkat  Sorvu',
+    Transliteration: 'Aakkamung Ketum  Adhanaal  Varudhalaal<br />Kaaththompal  Sollinkat  Sorvu',
   },
   {
     Index: 643,
-    Tamil:
-      'கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும்<br />வேட்ப மொழிவதாம் சொல்',
+    Tamil: 'கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும்<br />வேட்ப மொழிவதாம் சொல்',
     line1: 'கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும்',
     line2: 'வேட்ப மொழிவதாம் சொல்',
     KalaignarUrai:
@@ -11757,8 +10943,7 @@ const kurral = [
       "'Tis speech that spell-bound holds the listening ear,<br />While those who have not heard desire to hear",
     EnglishMeaning:
       "The (minister's) speech is that which seeks (to express) elements as bind his friends (to himself) and is so delivered as to make even his enemies desire (his friendship)",
-    Transliteration:
-      'Kettaarp Pinikkum  Thakaiyavaaik  Kelaarum<br />Vetpa  Mozhivadhaam  Sol',
+    Transliteration: 'Kettaarp Pinikkum  Thakaiyavaaik  Kelaarum<br />Vetpa  Mozhivadhaam  Sol',
   },
   {
     Index: 644,
@@ -11775,32 +10960,27 @@ const kurral = [
       "Speak words adapted well to various hearers' state;<br />No higher virtue lives, no gain more surely great",
     EnglishMeaning:
       'Understand the qualities (of your hearers) and (then) make your speech; for superior to it, there is neither virtue nor wealth',
-    Transliteration:
-      'Thiranarindhu Solluka  Sollai  Aranum<br />Porulum  Adhaninooungu  Il',
+    Transliteration: 'Thiranarindhu Solluka  Sollai  Aranum<br />Porulum  Adhaninooungu  Il',
   },
   {
     Index: 645,
-    Tamil:
-      'சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை<br />வெல்லுஞ்சொல் இன்மை அறிந்து',
+    Tamil: 'சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை<br />வெல்லுஞ்சொல் இன்மை அறிந்து',
     line1: 'சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை',
     line2: 'வெல்லுஞ்சொல் இன்மை அறிந்து',
     KalaignarUrai:
       'இந்தச் சொல்லை இன்னொரு சொல் வெல்லாது என்று உணர்ந்த பிறகே அந்தச் சொல்லைப் பயன்படுத்த வேண்டும்',
     MuVaUrai:
       'வேறோரு சொல் அந்தச் சொல்லை வெல்லும் சொல்லாக இல்லாதிருந்தால் அறிந்த பிறகே சொல்லக்கருதியதைச் சொல்லவேண்டும்.',
-    SolomonPaapaiyaUrai:
-      'தாம் சொல்லும் சொல்லை வெல்ல, வேறொரு சொல் இல்லை என்பதை அறிந்து சொல்லுக.',
+    SolomonPaapaiyaUrai: 'தாம் சொல்லும் சொல்லை வெல்ல, வேறொரு சொல் இல்லை என்பதை அறிந்து சொல்லுக.',
     English:
       "Speak out your speech, when once 'tis past dispute<br />That none can utter speech that shall your speech refute",
     EnglishMeaning:
       'Deliver your speech, after assuring yourself that no counter speech can defeat your own',
-    Transliteration:
-      'Solluka Sollaip  Piridhorsol  Achchollai<br />Vellunjol  Inmai  Arindhu',
+    Transliteration: 'Solluka Sollaip  Piridhorsol  Achchollai<br />Vellunjol  Inmai  Arindhu',
   },
   {
     Index: 646,
-    Tamil:
-      'வேட்பத்தாஞ் சொல்லிப் பிறர்சொற் பயன்கோடல்<br />மாட்சியின் மாசற்றார் கோள்',
+    Tamil: 'வேட்பத்தாஞ் சொல்லிப் பிறர்சொற் பயன்கோடல்<br />மாட்சியின் மாசற்றார் கோள்',
     line1: 'வேட்பத்தாஞ் சொல்லிப் பிறர்சொற் பயன்கோடல்',
     line2: 'மாட்சியின் மாசற்றார் கோள்',
     KalaignarUrai:
@@ -11813,8 +10993,7 @@ const kurral = [
       "Charming each hearer's ear, of others' words to seize the sense,<br />Is method wise of men of spotless excellence",
     EnglishMeaning:
       'It is the opinion of those who are free from defects in diplomacy that the minister should speak so as to make his hearers desire (to hear more) and grasp the meaning of what he hears himself',
-    Transliteration:
-      'Vetpaththaanj Chollip  Pirarsol  Payankotal<br />Maatchiyin  Maasatraar  Kol',
+    Transliteration: 'Vetpaththaanj Chollip  Pirarsol  Payankotal<br />Maatchiyin  Maasatraar  Kol',
   },
   {
     Index: 647,
@@ -11831,13 +11010,11 @@ const kurral = [
       "Mighty in word, of unforgetful mind, of fearless speech,<br />'Tis hard for hostile power such man to overreach",
     EnglishMeaning:
       'It is impossible for any one to conquer him by intrique who possesses power of speech, and is neither faulty nor timid',
-    Transliteration:
-      'Solalvallan Sorvilan  Anjaan  Avanai<br />Ikalvellal  Yaarkkum  Aridhu',
+    Transliteration: 'Solalvallan Sorvilan  Anjaan  Avanai<br />Ikalvellal  Yaarkkum  Aridhu',
   },
   {
     Index: 648,
-    Tamil:
-      'விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது<br />சொல்லுதல் வல்லார்ப் பெறின்',
+    Tamil: 'விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது<br />சொல்லுதல் வல்லார்ப் பெறின்',
     line1: 'விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது',
     line2: 'சொல்லுதல் வல்லார்ப் பெறின்',
     KalaignarUrai:
@@ -11868,8 +11045,7 @@ const kurral = [
       "Who have not skill ten faultless words to utter plain,<br />Their tongues will itch with thousand words man's ears to pain",
     EnglishMeaning:
       'They will desire to utter many words, who do not know how to speak a few faultless ones',
-    Transliteration:
-      'Palasollak Kaamuruvar  Mandramaa  Satra<br />Silasollal  Thetraa  Thavar',
+    Transliteration: 'Palasollak Kaamuruvar  Mandramaa  Satra<br />Silasollal  Thetraa  Thavar',
   },
   {
     Index: 650,
@@ -11904,8 +11080,7 @@ const kurral = [
       'The good external help confers is worldly gain;<br />By action good men every needed gift obtain',
     EnglishMeaning:
       'The efficacy of support will yield (only) wealth; (but) the efficacy of action will yield all that is desired',
-    Transliteration:
-      'Thunainalam Aakkam  Tharuum  Vinainalam<br />Ventiya  Ellaan  Tharum',
+    Transliteration: 'Thunainalam Aakkam  Tharuum  Vinainalam<br />Ventiya  Ellaan  Tharum',
   },
   {
     Index: 652,
@@ -11918,12 +11093,10 @@ const kurral = [
       'புகழையும் அறத்தையும் தாராத (தூய்மை அற்ற) செயல்களை எக்காலத்திலும் ஒருவன் செய்யாமல் விட்டொழிக்க  வேண்டும்.',
     SolomonPaapaiyaUrai:
       'இம்மைக்குப் புகழையும் மறுமைக்கு நன்மையையும் தராத செயல்களை எந்தக் காலத்திலும் விட்டுவிட வேண்டும்.',
-    English:
-      'From action evermore thyself restrain<br />Of glory and of good that yields no gain',
+    English: 'From action evermore thyself restrain<br />Of glory and of good that yields no gain',
     EnglishMeaning:
       'Ministers should at all times avoid acts which, in addition to fame, yield no benefit (for the future)',
-    Transliteration:
-      'Endrum Oruvudhal  Ventum  Pukazhotu<br />Nandri  Payavaa  Vinai',
+    Transliteration: 'Endrum Oruvudhal  Ventum  Pukazhotu<br />Nandri  Payavaa  Vinai',
   },
   {
     Index: 653,
@@ -11940,8 +11113,7 @@ const kurral = [
       'Who tell themselves that nobler things shall yet be won<br />All deeds that dim the light of glory must they shun',
     EnglishMeaning:
       "Those who say, 'we will become (better)' should avoid the performance of acts that would destroy (their fame)",
-    Transliteration:
-      'Oodhal Ventum  Olimaazhkum  Seyvinai<br />Aaadhum  Ennu  Mavar',
+    Transliteration: 'Oodhal Ventum  Olimaazhkum  Seyvinai<br />Aaadhum  Ennu  Mavar',
   },
   {
     Index: 654,
@@ -11958,8 +11130,7 @@ const kurral = [
       'Though troubles press, no shameful deed they do,<br />Whose eyes the ever-during vision view',
     EnglishMeaning:
       'Those who have infallible judgement though threatened with peril will not do acts which have brought disgrace (on former ministers)',
-    Transliteration:
-      'Itukkan Patinum  Ilivandha  Seyyaar<br />Natukkatra  Kaatchi  Yavar',
+    Transliteration: 'Itukkan Patinum  Ilivandha  Seyyaar<br />Natukkatra  Kaatchi  Yavar',
   },
   {
     Index: 655,
@@ -11976,8 +11147,7 @@ const kurral = [
       "Do nought that soul repenting must deplore,<br />If thou hast sinned, 'tis well if thou dost sin no more",
     EnglishMeaning:
       "Let a minister never do acts of which he would have to grieve saying, 'what is this I have done'; (but) should he do (them), it were good that he grieved not",
-    Transliteration:
-      'Etrendru Iranguva  Seyyarka  Seyvaanel<br />Matranna  Seyyaamai  Nandru',
+    Transliteration: 'Etrendru Iranguva  Seyyarka  Seyvaanel<br />Matranna  Seyyaamai  Nandru',
   },
   {
     Index: 656,
@@ -11994,8 +11164,7 @@ const kurral = [
       "Though her that bore thee hung'ring thou behold, no deed<br />Do thou, that men of perfect soul have crime decreed",
     EnglishMeaning:
       'Though a minister may see his mother starve; let him do not act which the wise would (treat with contempt)',
-    Transliteration:
-      'Eendraal Pasikaanpaan  Aayinunj  Cheyyarka<br />Saandror  Pazhikkum  Vinai',
+    Transliteration: 'Eendraal Pasikaanpaan  Aayinunj  Cheyyarka<br />Saandror  Pazhikkum  Vinai',
   },
   {
     Index: 657,
@@ -12012,8 +11181,7 @@ const kurral = [
       'Than store of wealth guilt-laden souls obtain,<br />The sorest poverty of perfect soul is richer gain',
     EnglishMeaning:
       'Far more excellent is the extreme poverty of the wise than wealth obtained by heaping up of sinful',
-    Transliteration:
-      'Pazhimalaindhu Eydhiya  Aakkaththin  Saandror<br />Kazhinal  Kurave  Thalai',
+    Transliteration: 'Pazhimalaindhu Eydhiya  Aakkaththin  Saandror<br />Kazhinal  Kurave  Thalai',
   },
   {
     Index: 658,
@@ -12048,13 +11216,11 @@ const kurral = [
       "What's gained through tears with tears shall go;<br />From loss good deeds entail harvests of blessings grow",
     EnglishMeaning:
       'All that has been obtained with tears (to the victim) will depart with tears (to himself); but what has been by fair means; though with loss at first, will afterwards yield fruit',
-    Transliteration:
-      'Azhak Konta  Ellaam  Azhappom  Izhappinum<br />Pirpayakkum  Narpaa  Lavai',
+    Transliteration: 'Azhak Konta  Ellaam  Azhappom  Izhappinum<br />Pirpayakkum  Narpaa  Lavai',
   },
   {
     Index: 660,
-    Tamil:
-      'சலத்தாற் பொருள்செய்தே மார்த்தல் பசுமண் <br />கலத்துணீர் பெய்திரீஇ யற்று',
+    Tamil: 'சலத்தாற் பொருள்செய்தே மார்த்தல் பசுமண் <br />கலத்துணீர் பெய்திரீஇ யற்று',
     line1: 'சலத்தாற் பொருள்செய்தே மார்த்தல் பசுமண் ',
     line2: 'கலத்துணீர் பெய்திரீஇ யற்று',
     KalaignarUrai:
@@ -12085,8 +11251,7 @@ const kurral = [
       "What men call 'power in action' know for 'power of mind'<br />Externe to man all other aids you find",
     EnglishMeaning:
       "Firmness in action is (simply) one's firmness of mind; all other (abilities) are not of this nature",
-    Transliteration:
-      'Vinaiththitpam Enpadhu  Oruvan  Manaththitpam<br />Matraiya  Ellaam  Pira',
+    Transliteration: 'Vinaiththitpam Enpadhu  Oruvan  Manaththitpam<br />Matraiya  Ellaam  Pira',
   },
   {
     Index: 662,
@@ -12103,13 +11268,11 @@ const kurral = [
       "'Each hindrance shun', 'unyielding onward press, If obstacle be there,'<br />These two define your way, so those that search out truth declare",
     EnglishMeaning:
       'Not to perform a ruinous act, and not to be discouraged by the ruinous termination of an act, are the two maxims which, the wise say, from the principles of those who have investigated the subject',
-    Transliteration:
-      'Oororaal Utrapin  Olkaamai  Ivvirantin<br />Aarenpar  Aaindhavar  Kol',
+    Transliteration: 'Oororaal Utrapin  Olkaamai  Ivvirantin<br />Aarenpar  Aaindhavar  Kol',
   },
   {
     Index: 663,
-    Tamil:
-      'கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்<br />எற்றா விழுமந் தரும்',
+    Tamil: 'கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்<br />எற்றா விழுமந் தரும்',
     line1: 'கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்',
     line2: 'எற்றா விழுமந் தரும்',
     KalaignarUrai:
@@ -12130,8 +11293,7 @@ const kurral = [
     Tamil: 'சொல்லுதல் யார்க்கும் எளிய அரியவாம்<br />சொல்லிய வண்ணம் செயல்',
     line1: 'சொல்லுதல் யார்க்கும் எளிய அரியவாம்',
     line2: 'சொல்லிய வண்ணம் செயல்',
-    KalaignarUrai:
-      'சொல்லுவது எல்லோருக்கும் எளிது; சொல்லியதைச் செய்து முடிப்பதுதான் கடினம்',
+    KalaignarUrai: 'சொல்லுவது எல்லோருக்கும் எளிது; சொல்லியதைச் செய்து முடிப்பதுதான் கடினம்',
     MuVaUrai:
       'இச் செயலை இவ்வாறு செய்து முடிக்கலாம் என்று சொல்லுதல் எவர்க்கும் எளியனவாம், சொல்லிய படி செய்து முடித்தல்  அரியனவாம்.',
     SolomonPaapaiyaUrai:
@@ -12140,13 +11302,11 @@ const kurral = [
       "Easy to every man the speech that shows the way;<br />Hard thing to shape one's life by words they say",
     EnglishMeaning:
       'To say (how an act is to be performed) is (indeed) easy for any one; but far difficult it is to do according to what has been said',
-    Transliteration:
-      'Solludhal Yaarkkum  Eliya  Ariyavaam<br />Solliya  Vannam  Seyal',
+    Transliteration: 'Solludhal Yaarkkum  Eliya  Ariyavaam<br />Solliya  Vannam  Seyal',
   },
   {
     Index: 665,
-    Tamil:
-      'வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண்<br />ஊறெய்தி உள்ளப் படும்',
+    Tamil: 'வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண்<br />ஊறெய்தி உள்ளப் படும்',
     line1: 'வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண்',
     line2: 'ஊறெய்தி உள்ளப் படும்',
     KalaignarUrai:
@@ -12159,8 +11319,7 @@ const kurral = [
       'The power in act of men renowned and great,<br />With king acceptance finds and fame through all the state',
     EnglishMeaning:
       'The firmness in action of those who have become great by the excellence (of their counsel) will, by attaining its fulfilment in the person of the king, be esteemed (by all).',
-    Transliteration:
-      'Veereydhi Maantaar  Vinaiththitpam  Vendhankan<br />Ooreydhi  Ullap  Patum',
+    Transliteration: 'Veereydhi Maantaar  Vinaiththitpam  Vendhankan<br />Ooreydhi  Ullap  Patum',
   },
   {
     Index: 666,
@@ -12177,13 +11336,11 @@ const kurral = [
       "Whate'er men think, ev'n as they think, may men obtain,<br />If those who think can steadfastness of will retain",
     EnglishMeaning:
       'If those who have planned (an undertaking) possess firmness (in executing it) they will obtain what they have desired even as they have desired it',
-    Transliteration:
-      'Enniya Enniyaangu  Eydhu  Enniyaar<br />Thinniyar  Aakap  Perin',
+    Transliteration: 'Enniya Enniyaangu  Eydhu  Enniyaar<br />Thinniyar  Aakap  Perin',
   },
   {
     Index: 667,
-    Tamil:
-      'உருவுகண் டெள்ளாமை வேண்டும் உருள்பெருந்தேர்க்<br />கச்சாணி யன்னார் உடைத்து',
+    Tamil: 'உருவுகண் டெள்ளாமை வேண்டும் உருள்பெருந்தேர்க்<br />கச்சாணி யன்னார் உடைத்து',
     line1: 'உருவுகண் டெள்ளாமை வேண்டும் உருள்பெருந்தேர்க்',
     line2: 'கச்சாணி யன்னார் உடைத்து',
     KalaignarUrai:
@@ -12208,14 +11365,12 @@ const kurral = [
       'மனக் குழப்பமின்றித் தெளிவாக முடிவு செய்யப்பட்ட ஒரு செயலைத் தளர்ச்சியும், தாமதமும் இடையே ஏற்படாமல் விரைந்து நிறைவேற்ற வேண்டும்',
     MuVaUrai:
       'மனம் தளராமல் ஆராய்ந்து துணிந்து ஏற்றத் தொழிலைச் சோர்வு கொள்ளாமல் காலந் தாழ்த்தாமல் செய்து முடிக்க  வேண்டும்.',
-    SolomonPaapaiyaUrai:
-      'மனம் தெளிந்து செய்யத் துணிந்த செயலைத் தடுமாறாமல் தாமதிக்காமல் செய்க.',
+    SolomonPaapaiyaUrai: 'மனம் தெளிந்து செய்யத் துணிந்த செயலைத் தடுமாறாமல் தாமதிக்காமல் செய்க.',
     English:
       'What clearly eye discerns as right, with steadfast will,<br />And mind unslumbering, that should man fulfil',
     EnglishMeaning:
       'An act that has been firmly resolved on must be as firmly carried out without delay',
-    Transliteration:
-      'Kalangaadhu Kanta  Vinaikkan  Thulangaadhu<br />Thookkang  Katindhu  Seyal',
+    Transliteration: 'Kalangaadhu Kanta  Vinaikkan  Thulangaadhu<br />Thookkang  Katindhu  Seyal',
   },
   {
     Index: 669,
@@ -12232,13 +11387,11 @@ const kurral = [
       'Though toil and trouble face thee, firm resolve hold fast,<br />And do the deeds that pleasure yield at last',
     EnglishMeaning:
       'Though it should cause increasing sorrow (at the outset), do with firmness the act that yield bliss (in the end)',
-    Transliteration:
-      'Thunpam Uravarinum  Seyka  Thunivaatri<br />Inpam  Payakkum  Vinai',
+    Transliteration: 'Thunpam Uravarinum  Seyka  Thunivaatri<br />Inpam  Payakkum  Vinai',
   },
   {
     Index: 670,
-    Tamil:
-      'எனைத்திட்ப மெய்தியக் கண்ணும் வினைத்திட்பம்<br />வேண்டாரை வேண்டா துலகு',
+    Tamil: 'எனைத்திட்ப மெய்தியக் கண்ணும் வினைத்திட்பம்<br />வேண்டாரை வேண்டா துலகு',
     line1: 'எனைத்திட்ப மெய்தியக் கண்ணும் வினைத்திட்பம்',
     line2: 'வேண்டாரை வேண்டா துலகு',
     KalaignarUrai:
@@ -12256,8 +11409,7 @@ const kurral = [
   },
   {
     Index: 671,
-    Tamil:
-      'சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு<br />தாழ்ச்சியுள் தங்குதல் தீது',
+    Tamil: 'சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு<br />தாழ்ச்சியுள் தங்குதல் தீது',
     line1: 'சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு',
     line2: 'தாழ்ச்சியுள் தங்குதல் தீது',
     KalaignarUrai:
@@ -12288,13 +11440,11 @@ const kurral = [
       "Slumber when sleepy work's in hand beware <br />Thou slumber not when action calls for sleepless care",
     EnglishMeaning:
       'Sleep over such (actions) as may be slept over; (but) never over such as may not be slept over',
-    Transliteration:
-      'Thoonguka Thoongich  Cheyarpaala  Thoongarka<br />Thoongaadhu  Seyyum  Vinai',
+    Transliteration: 'Thoonguka Thoongich  Cheyarpaala  Thoongarka<br />Thoongaadhu  Seyyum  Vinai',
   },
   {
     Index: 673,
-    Tamil:
-      'ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்<br />செல்லும்வாய் நோக்கிச் செயல்',
+    Tamil: 'ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்<br />செல்லும்வாய் நோக்கிச் செயல்',
     line1: 'ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்',
     line2: 'செல்லும்வாய் நோக்கிச் செயல்',
     KalaignarUrai:
@@ -12307,13 +11457,11 @@ const kurral = [
       'When way is clear, prompt let your action be; <br />When not, watch till some open path you see',
     EnglishMeaning:
       'Whenever it is possible (to overcome your enemy) the act (of fighting) is certainly good; if not, endeavour to employ some more successful method',
-    Transliteration:
-      'Ollumvaa Yellaam  Vinainandre  Ollaakkaal<br />Sellumvaai  Nokkich  Cheyal',
+    Transliteration: 'Ollumvaa Yellaam  Vinainandre  Ollaakkaal<br />Sellumvaai  Nokkich  Cheyal',
   },
   {
     Index: 674,
-    Tamil:
-      'வினைபகை யென்றிரண்டின் எச்சம் நினையுங்கால்<br />தீயெச்சம் போலத் தெறும்',
+    Tamil: 'வினைபகை யென்றிரண்டின் எச்சம் நினையுங்கால்<br />தீயெச்சம் போலத் தெறும்',
     line1: 'வினைபகை யென்றிரண்டின் எச்சம் நினையுங்கால்',
     line2: 'தீயெச்சம் போலத் தெறும்',
     KalaignarUrai:
@@ -12344,13 +11492,11 @@ const kurral = [
       "Treasure and instrument and time and deed and place of act <br />These five, till every doubt remove, think o'er with care exact",
     EnglishMeaning:
       'Do an act after a due consideration of the (following) five, viz money, means, time, execution and place',
-    Transliteration:
-      'Porulkaruvi Kaalam  Vinaiyitanotu  Aindhum<br />Iruldheera  Ennich  Cheyal',
+    Transliteration: 'Porulkaruvi Kaalam  Vinaiyitanotu  Aindhum<br />Iruldheera  Ennich  Cheyal',
   },
   {
     Index: 676,
-    Tamil:
-      'முடிவும் இடையூறும் முற்றியாங் கெய்தும்<br />படுபயனும் பார்த்துச் செயல்',
+    Tamil: 'முடிவும் இடையூறும் முற்றியாங் கெய்தும்<br />படுபயனும் பார்த்துச் செயல்',
     line1: 'முடிவும் இடையூறும் முற்றியாங் கெய்தும்',
     line2: 'படுபயனும் பார்த்துச் செயல்',
     KalaignarUrai:
@@ -12381,8 +11527,7 @@ const kurral = [
       'Who would succeed must thus begin first let him ask <br />The thoughts of them who thoroughly know the task',
     EnglishMeaning:
       'The method of performance for one who has begun an act is to ascertain the mind of him who knows the secret thereof',
-    Transliteration:
-      'Seyvinai Seyvaan  Seyanmurai  Avvinai<br />Ullarivaan  Ullam  Kolal',
+    Transliteration: 'Seyvinai Seyvaan  Seyanmurai  Avvinai<br />Ullarivaan  Ullam  Kolal',
   },
   {
     Index: 678,
@@ -12417,13 +11562,11 @@ const kurral = [
       'Than kindly acts to friends more urgent thing to do, <br />Is making foes to cling as friends attached to you',
     EnglishMeaning:
       "One should rather hasten to secure the alliance of the foes (of one's foes) than perform good offices to one's friends",
-    Transliteration:
-      'Nattaarkku Nalla  Seyalin  Viraindhadhe<br />Ottaarai  Ottik  Kolal',
+    Transliteration: 'Nattaarkku Nalla  Seyalin  Viraindhadhe<br />Ottaarai  Ottik  Kolal',
   },
   {
     Index: 680,
-    Tamil:
-      'உறைசிறியார் உண்ணடுங்கல் அஞ்சிக் குறைபெறிற் <br />கொள்வர் பெரியார்ப் பணிந்து',
+    Tamil: 'உறைசிறியார் உண்ணடுங்கல் அஞ்சிக் குறைபெறிற் <br />கொள்வர் பெரியார்ப் பணிந்து',
     line1: 'உறைசிறியார் உண்ணடுங்கல் அஞ்சிக் குறைபெறிற் ',
     line2: 'கொள்வர் பெரியார்ப் பணிந்து',
     KalaignarUrai:
@@ -12436,13 +11579,11 @@ const kurral = [
       "The men of lesser realm, fearing the people's inward dread, <br />Accepting granted terms, to mightier ruler bow the head",
     EnglishMeaning:
       'Ministers of small states, afraid of their people being frightened, will yield to and acknowledge their superior foes, if the latter offer them a chance of reconciliation',
-    Transliteration:
-      'Uraisiriyaar Ulnatungal  Anjik  Kuraiperin<br />Kolvar  Periyaarp  Panindhu',
+    Transliteration: 'Uraisiriyaar Ulnatungal  Anjik  Kuraiperin<br />Kolvar  Periyaarp  Panindhu',
   },
   {
     Index: 681,
-    Tamil:
-      'அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்<br />பண்புடைமை தூதுரைப்பான் பண்பு',
+    Tamil: 'அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்<br />பண்புடைமை தூதுரைப்பான் பண்பு',
     line1: 'அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம்',
     line2: 'பண்புடைமை தூதுரைப்பான் பண்பு',
     KalaignarUrai:
@@ -12460,8 +11601,7 @@ const kurral = [
   },
   {
     Index: 682,
-    Tamil:
-      'அன்பறி வாராய்ந்த சொல்வன்மை தூதுரைப்பார்க்<br />கின்றி யமையாத மூன்று',
+    Tamil: 'அன்பறி வாராய்ந்த சொல்வன்மை தூதுரைப்பார்க்<br />கின்றி யமையாத மூன்று',
     line1: 'அன்பறி வாராய்ந்த சொல்வன்மை தூதுரைப்பார்க்',
     line2: 'கின்றி யமையாத மூன்று',
     KalaignarUrai:
@@ -12479,8 +11619,7 @@ const kurral = [
   },
   {
     Index: 683,
-    Tamil:
-      'நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள் <br />வென்றி வினையுரைப்பான் பண்பு',
+    Tamil: 'நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள் <br />வென்றி வினையுரைப்பான் பண்பு',
     line1: 'நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள் ',
     line2: 'வென்றி வினையுரைப்பான் பண்பு',
     KalaignarUrai:
@@ -12493,13 +11632,11 @@ const kurral = [
       "Mighty in lore amongst the learned must he be,<br />Midst jav'lin-bearing kings who speaks the words of victory",
     EnglishMeaning:
       'To be powerful in politics among those who are learned (in ethics) is the character of him who speaks',
-    Transliteration:
-      'Noolaarul Noolvallan  Aakudhal  Velaarul<br />Vendri  Vinaiyuraippaan  Panpu',
+    Transliteration: 'Noolaarul Noolvallan  Aakudhal  Velaarul<br />Vendri  Vinaiyuraippaan  Panpu',
   },
   {
     Index: 684,
-    Tamil:
-      'அறிவுரு வாராய்ந்த கல்வியிம் மூன்றன்<br />செறிவுடையான் செல்க வினைக்கு',
+    Tamil: 'அறிவுரு வாராய்ந்த கல்வியிம் மூன்றன்<br />செறிவுடையான் செல்க வினைக்கு',
     line1: 'அறிவுரு வாராய்ந்த கல்வியிம் மூன்றன்',
     line2: 'செறிவுடையான் செல்க வினைக்கு',
     KalaignarUrai:
@@ -12512,8 +11649,7 @@ const kurral = [
       "Sense, goodly grace, and knowledge exquisite<br />Who hath these three for envoy's task is fit",
     EnglishMeaning:
       'He may go on a mission (to foreign rulers) who has combined in him all these three viz, (natural) sense, an attractive bearing and well-tried learning',
-    Transliteration:
-      'Arivuru Vaaraaindha  Kalviim  Moondran<br />Serivutaiyaan  Selka  Vinaikku',
+    Transliteration: 'Arivuru Vaaraaindha  Kalviim  Moondran<br />Serivutaiyaan  Selka  Vinaikku',
   },
   {
     Index: 685,
@@ -12535,8 +11671,7 @@ const kurral = [
   },
   {
     Index: 686,
-    Tamil:
-      'கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால் <br />தக்க தறிவதாந் தூது',
+    Tamil: 'கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால் <br />தக்க தறிவதாந் தூது',
     line1: 'கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால் ',
     line2: 'தக்க தறிவதாந் தூது',
     KalaignarUrai:
@@ -12567,17 +11702,14 @@ const kurral = [
       "He is the best who knows what's due, the time considered well,<br />The place selects, then ponders long ere he his errand tell",
     EnglishMeaning:
       'He is chief (among ambassadors) who understands the proper decorum (before foreign princes), seeks the (proper) occasion, knows the (most suitable) place, and delivers his message after (due)',
-    Transliteration:
-      'Katanarindhu Kaalang  Karudhi  Itanarindhu<br />Enni  Uraippaan  Thalai',
+    Transliteration: 'Katanarindhu Kaalang  Karudhi  Itanarindhu<br />Enni  Uraippaan  Thalai',
   },
   {
     Index: 688,
-    Tamil:
-      'தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்<br />வாய்மை வழியுரைப்பான் பண்பு',
+    Tamil: 'தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்<br />வாய்மை வழியுரைப்பான் பண்பு',
     line1: 'தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்',
     line2: 'வாய்மை வழியுரைப்பான் பண்பு',
-    KalaignarUrai:
-      'துணிவு, துணை, தூய ஒழுக்கம் ஆகிய இம்மூன்றும் தூதுவர்க்குத் தேவையானவைகளாகும்',
+    KalaignarUrai: 'துணிவு, துணை, தூய ஒழுக்கம் ஆகிய இம்மூன்றும் தூதுவர்க்குத் தேவையானவைகளாகும்',
     MuVaUrai:
       'தூய ஒழுக்கம் உடையவனாதல், துணை உடையவனாதல், துணிவு உடையவனாதல் இந்த மூன்றும் வாய்த்திருத்தலே தூது உரைப்பவனுடைய தகுதியாகும்.',
     SolomonPaapaiyaUrai:
@@ -12591,8 +11723,7 @@ const kurral = [
   },
   {
     Index: 689,
-    Tamil:
-      'விடுமாற்றம் வேந்தர்க் குரைப்பான் வடுமாற்றம்<br />வாய்சோரா வன்க ணவன்',
+    Tamil: 'விடுமாற்றம் வேந்தர்க் குரைப்பான் வடுமாற்றம்<br />வாய்சோரா வன்க ணவன்',
     line1: 'விடுமாற்றம் வேந்தர்க் குரைப்பான் வடுமாற்றம்',
     line2: 'வாய்சோரா வன்க ணவன்',
     KalaignarUrai:
@@ -12605,8 +11736,7 @@ const kurral = [
       'His faltering lips must utter no unworthy thing,<br />Who stands, with steady eye, to speak the mandates of his king',
     EnglishMeaning:
       "He alone is fit to communicate (his sovereign's) reply, who possesses the firmness not to utter even inadvertently what may reflect discredit (on the latter)",
-    Transliteration:
-      'Vitumaatram Vendharkku  Uraippaan  Vatumaatram<br />Vaaiseraa  Vanka  Navan',
+    Transliteration: 'Vitumaatram Vendharkku  Uraippaan  Vatumaatram<br />Vaaiseraa  Vanka  Navan',
   },
   {
     Index: 690,
@@ -12623,13 +11753,11 @@ const kurral = [
       'Death to the faithful one his embassy may bring;<br />To envoy gains assured advantage for his king',
     EnglishMeaning:
       "He is the ambassador who fearlessly seeks his sovereign's good though it should cost him his life (to deliver his message)",
-    Transliteration:
-      'Irudhi Payappinum  Enjaadhu  Iraivarku<br />Urudhi  Payappadhaam  Thoodhu',
+    Transliteration: 'Irudhi Payappinum  Enjaadhu  Iraivarku<br />Urudhi  Payappadhaam  Thoodhu',
   },
   {
     Index: 691,
-    Tamil:
-      'அகலா தணுகாது தீக்காய்வார் போல்க<br />இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்',
+    Tamil: 'அகலா தணுகாது தீக்காய்வார் போல்க<br />இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்',
     line1: 'அகலா தணுகாது தீக்காய்வார் போல்க',
     line2: 'இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்',
     KalaignarUrai:
@@ -12640,8 +11768,7 @@ const kurral = [
       'மனம் மாறுபடும் இயல்புடைய ஆட்சியாளரைச் சார்ந்து பழகுவோர், அவரிடம் கிட்ட நெருங்காமலும் விட்டு விலகாமலும் இடைநிலை நின்று பழகுக.',
     English:
       'Who warm them at the fire draw not too near, nor keep too much aloof;<br />Thus let them act who dwell beneath of warlike kings the palace-roof',
-    EnglishMeaning:
-      'Thus let them act who dwell beneath of warlike kings the palace-roof',
+    EnglishMeaning: 'Thus let them act who dwell beneath of warlike kings the palace-roof',
     Transliteration:
       'Akalaadhu Anukaadhu  Theekkaaivaar  Polka<br />Ikalvendharch  Cherndhozhuku  Vaar',
   },
@@ -12660,8 +11787,7 @@ const kurral = [
       'To those who prize not state that kings are wont to prize,<br />The king himself abundant wealth supplies',
     EnglishMeaning:
       'For ministers not to cover the things desired by their kings will through the kings themselves yield them everlasting wealth',
-    Transliteration:
-      'Mannar Vizhaipa  Vizhaiyaamai  Mannaraal<br />Manniya  Aakkan  Tharum',
+    Transliteration: 'Mannar Vizhaipa  Vizhaiyaamai  Mannaraal<br />Manniya  Aakkan  Tharum',
   },
   {
     Index: 693,
@@ -12678,13 +11804,11 @@ const kurral = [
       'Who would walk warily, let him of greater faults beware;<br />To clear suspicions once aroused is an achievement rare',
     EnglishMeaning:
       "Ministers who would save themselves should avoid (the commission of) serious errors for if the king's suspicion is once roused, no one can remove it",
-    Transliteration:
-      'Potrin Ariyavai  Potral  Katuththapin<br />Thetrudhal  Yaarkkum  Aridhu',
+    Transliteration: 'Potrin Ariyavai  Potral  Katuththapin<br />Thetrudhal  Yaarkkum  Aridhu',
   },
   {
     Index: 694,
-    Tamil:
-      'செவிச்சொல்லுஞ் சேர்ந்த நகையும் அவித்தொழுகல்<br />ஆன்ற பெரியா ரகத்து',
+    Tamil: 'செவிச்சொல்லுஞ் சேர்ந்த நகையும் அவித்தொழுகல்<br />ஆன்ற பெரியா ரகத்து',
     line1: 'செவிச்சொல்லுஞ் சேர்ந்த நகையும் அவித்தொழுகல்',
     line2: 'ஆன்ற பெரியா ரகத்து',
     KalaignarUrai:
@@ -12715,8 +11839,7 @@ const kurral = [
       'Seek not, ask not, the secret of the king to hear;<br />But if he lets the matter forth, give ear',
     EnglishMeaning:
       '(When the king is engaged) in secret counsel (with others), ministers should neither over-hear anything whatever nor pry into it with inquisitive questions, but (wait to) listen when it is divulged (by',
-    Transliteration:
-      'Epporulum Oraar  Thotaraarmar  Rapporulai<br />Vittakkaal  Ketka  Marai',
+    Transliteration: 'Epporulum Oraar  Thotaraarmar  Rapporulai<br />Vittakkaal  Ketka  Marai',
   },
   {
     Index: 696,
@@ -12733,8 +11856,7 @@ const kurral = [
       'Knowing the signs, waiting for fitting time, with courteous care,<br />Things not displeasing, needful things, declare',
     EnglishMeaning:
       "Knowing the (king's disposition and seeking the right time, (the minister) should in a pleasing manner suggest things such as are desirable and not disagreeable",
-    Transliteration:
-      'Kuripparindhu Kaalang  Karudhi  Veruppila<br />Ventupa  Vetpach  Cholal',
+    Transliteration: 'Kuripparindhu Kaalang  Karudhi  Veruppila<br />Ventupa  Vetpach  Cholal',
   },
   {
     Index: 697,
@@ -12751,8 +11873,7 @@ const kurral = [
       "Speak pleasant things, but never utter idle word;<br />Not though by monarch's ears with pleasure heard",
     EnglishMeaning:
       'Ministers should (always) give agreeable advice but on no occasion recommend useless actions, though requested (to do so)',
-    Transliteration:
-      'Vetpana Solli  Vinaiyila  Egngnaandrum<br />Ketpinum  Sollaa  Vital',
+    Transliteration: 'Vetpana Solli  Vinaiyila  Egngnaandrum<br />Ketpinum  Sollaa  Vital',
   },
   {
     Index: 698,
@@ -12769,13 +11890,11 @@ const kurral = [
       "Say not, 'He's young, my kinsman,' despising thus your king;<br />But reverence the glory kingly state doth bring",
     EnglishMeaning:
       "Ministers should behave in accordance with the (Divine) light in the person of kings and not despise them saying, 'He is our junior (in age) and connected with our family!'",
-    Transliteration:
-      'Ilaiyar Inamuraiyar  Endrikazhaar  Nindra<br />Oliyotu  Ozhukap  Patum',
+    Transliteration: 'Ilaiyar Inamuraiyar  Endrikazhaar  Nindra<br />Oliyotu  Ozhukap  Patum',
   },
   {
     Index: 699,
-    Tamil:
-      'கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்<br />துளக்கற்ற காட்சி யவர்',
+    Tamil: 'கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்<br />துளக்கற்ற காட்சி யவர்',
     line1: 'கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்',
     line2: 'துளக்கற்ற காட்சி யவர்',
     KalaignarUrai:
@@ -12788,8 +11907,7 @@ const kurral = [
       "'We've gained his grace, boots nought what graceless acts we do',<br />So deem not sages who the changeless vision view",
     EnglishMeaning:
       'Those whose judgement is firm will not do what is disagreeable (to the sovereign) saying (within',
-    Transliteration:
-      'Kolappattem Endrennik  Kollaadha  Seyyaar<br />Thulakkatra  Kaatchi  Yavar',
+    Transliteration: 'Kolappattem Endrennik  Kollaadha  Seyyaar<br />Thulakkatra  Kaatchi  Yavar',
   },
   {
     Index: 700,
@@ -12806,8 +11924,7 @@ const kurral = [
       "Who think 'We're ancient friends' and do unseemly things;<br />To these familiarity sure ruin brings",
     EnglishMeaning:
       'The (foolish) claim with which a minister does unbecoming acts because of his (long) familiarity (with the king) will ensure his ruin',
-    Transliteration:
-      'Pazhaiyam Enakkarudhip  Panpalla  Seyyum<br />Kezhudhakaimai  Ketu  Tharum',
+    Transliteration: 'Pazhaiyam Enakkarudhip  Panpalla  Seyyum<br />Kezhudhakaimai  Ketu  Tharum',
   },
   {
     Index: 701,
@@ -12838,12 +11955,10 @@ const kurral = [
       'ஐயப்படாமல் மனத்தில் உள்ளதை உணரவல்லவனை (அவன் மனிதனே ஆனாலும்) தெய்வத் தோடு ஒப்பாக கொள்ள வேண்டும்.',
     SolomonPaapaiyaUrai:
       'அடுத்தவனின் மனக்கருத்தைச் சந்தேகத்திற்கு இடம் இல்லாமல் கண்டுகொள்ளும் ஆற்றல் உள்ளவனைத் தெய்வத்திற்குச் சமமாக மதிக்க வேண்டும்.',
-    English:
-      'Undoubting, who the minds of men can scan,<br />As deity regard that gifted man',
+    English: 'Undoubting, who the minds of men can scan,<br />As deity regard that gifted man',
     EnglishMeaning:
       "He is to be esteemed a god who is able to ascertain without a doubt what is within (one's mind)",
-    Transliteration:
-      'Aiyap Pataaadhu  Akaththadhu  Unarvaanaith<br />Theyvaththo  Toppak  Kolal',
+    Transliteration: 'Aiyap Pataaadhu  Akaththadhu  Unarvaanaith<br />Theyvaththo  Toppak  Kolal',
   },
   {
     Index: 703,
@@ -12856,12 +11971,10 @@ const kurral = [
       '(முகம் கண் இவற்றின்) குறிப்புக்களால் உள்ள குறிப்பை உணர வல்லவரை நாட்டின் உறுப்புக்களுள் எதைக் கொடுத்தாவது துணையாக பெற்றுக்கொள்ள வேண்டும்.',
     SolomonPaapaiyaUrai:
       ' தான் குறிப்புச் செய்ய, அதைக் கண்டு பிறர் முகத்தையும் கண்ணையும் பார்த்தே  அவர் மனக்கருத்தைக் கண்டு சொல்லும் திறம் மிக்கவரைத் தன்னிடம் இருக்கும் செல்வங்களுள் எதைக் கொடுத்தேனும் துணையாக வைத்துக் கொள்ள வேண்டும்.',
-    English:
-      'Who by the sign the signs interprets plain,<br />Give any member up his aid to gain',
+    English: 'Who by the sign the signs interprets plain,<br />Give any member up his aid to gain',
     EnglishMeaning:
       'The king should ever give whatever (is asked) of his belongings and secure him who, by the indications (of his own mind) is able to read those of another',
-    Transliteration:
-      'Kurippir Kurippunar  Vaarai  Uruppinul<br />Yaadhu  Kotuththum  Kolal',
+    Transliteration: 'Kurippir Kurippunar  Vaarai  Uruppinul<br />Yaadhu  Kotuththum  Kolal',
   },
   {
     Index: 704,
@@ -12878,8 +11991,7 @@ const kurral = [
       "Who reads what's shown by signs, though words unspoken be,<br />In form may seem as other men, in function nobler far is he",
     EnglishMeaning:
       "Those who understand one's thoughts without being informed (thereof) and those who do not, may (indeed) resemble one another bodily; still are they different (mentally)",
-    Transliteration:
-      'Kuriththadhu Kooraamaik  Kolvaaro  Tenai<br />Uruppo  Ranaiyaraal  Veru',
+    Transliteration: 'Kuriththadhu Kooraamaik  Kolvaaro  Tenai<br />Uruppo  Ranaiyaraal  Veru',
   },
   {
     Index: 705,
@@ -12896,8 +12008,7 @@ const kurral = [
       "By sign who knows not sings to comprehend, what gain,<br />'Mid all his members, from his eyes does he obtain",
     EnglishMeaning:
       "Of what use are the eyes amongst one's members, if they cannot by their own indications dive those of another ?",
-    Transliteration:
-      'Kurippir Kurippunaraa  Vaayin  Uruppinul<br />Enna  Payaththavo  Kan?',
+    Transliteration: 'Kurippir Kurippunaraa  Vaayin  Uruppinul<br />Enna  Payaththavo  Kan?',
   },
   {
     Index: 706,
@@ -12914,13 +12025,11 @@ const kurral = [
       "As forms around in crystal mirrored clear we find,<br />The face will show what's throbbing in the mind",
     EnglishMeaning:
       'As the mirror reflects what is near so does the face show what is uppermost in the mind',
-    Transliteration:
-      'Atuththadhu Kaattum  Palingupol  Nenjam<br />Katuththadhu  Kaattum  Mukam',
+    Transliteration: 'Atuththadhu Kaattum  Palingupol  Nenjam<br />Katuththadhu  Kaattum  Mukam',
   },
   {
     Index: 707,
-    Tamil:
-      'முகத்தின் முதுக்குறைந்த துண்டோ உவப்பினும்<br />காயினும் தான்முந் துறும்',
+    Tamil: 'முகத்தின் முதுக்குறைந்த துண்டோ உவப்பினும்<br />காயினும் தான்முந் துறும்',
     line1: 'முகத்தின் முதுக்குறைந்த துண்டோ உவப்பினும்',
     line2: 'காயினும் தான்முந் துறும்',
     KalaignarUrai:
@@ -12951,13 +12060,11 @@ const kurral = [
       'To see the face is quite enough, in presence brought,<br />When men can look within and know the lurking thought',
     EnglishMeaning:
       'If the king gets those who by looking into his mind can understand (and remove) what has occurred (to him) it is enough that he stand looking at their face',
-    Transliteration:
-      'Mukamnokki Nirka  Amaiyum  Akamnokki<br />Utra  Thunarvaarp  Perin',
+    Transliteration: 'Mukamnokki Nirka  Amaiyum  Akamnokki<br />Utra  Thunarvaarp  Perin',
   },
   {
     Index: 709,
-    Tamil:
-      'பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்<br />வகைமை உணர்வார்ப் பெறின்',
+    Tamil: 'பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்<br />வகைமை உணர்வார்ப் பெறின்',
     line1: 'பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்',
     line2: 'வகைமை உணர்வார்ப் பெறின்',
     KalaignarUrai:
@@ -12970,8 +12077,7 @@ const kurral = [
       "The eye speaks out the hate or friendly soul of man;<br />To those who know the eye's swift varying moods to scan",
     EnglishMeaning:
       'If a king gets ministers who can read the movements of the eye, the eyes (of foreign kings) will (themselves) reveal (to him) their hatred or friendship',
-    Transliteration:
-      'Pakaimaiyum Kenmaiyum  Kannuraikkum  Kannin<br />Vakaimai  Unarvaarp  Perin',
+    Transliteration: 'Pakaimaiyum Kenmaiyum  Kannuraikkum  Kannin<br />Vakaimai  Unarvaarp  Perin',
   },
   {
     Index: 710,
@@ -12988,8 +12094,7 @@ const kurral = [
       "The men of keen discerning soul no other test apply<br />(When you their secret ask) than man's revealing eye",
     EnglishMeaning:
       "The measuring-rod of those (ministers) who say 'we are acute' will on inquiry be found to be their (own) eyes and nothing else",
-    Transliteration:
-      'Nunniyam Enpaar  Alakkungol  Kaanungaal<br />Kannalladhu  Illai  Pira',
+    Transliteration: 'Nunniyam Enpaar  Alakkungol  Kaanungaal<br />Kannalladhu  Illai  Pira',
   },
   {
     Index: 711,
@@ -13011,8 +12116,7 @@ const kurral = [
   },
   {
     Index: 712,
-    Tamil:
-      'இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்<br />நடைதெரிந்த நன்மை யவர்',
+    Tamil: 'இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்<br />நடைதெரிந்த நன்மை யவர்',
     line1: 'இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்',
     line2: 'நடைதெரிந்த நன்மை யவர்',
     KalaignarUrai:
@@ -13030,8 +12134,7 @@ const kurral = [
   },
   {
     Index: 713,
-    Tamil:
-      'அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்<br />வகையறியார் வல்லதூஉம் இல்',
+    Tamil: 'அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்<br />வகையறியார் வல்லதூஉம் இல்',
     line1: 'அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்',
     line2: 'வகையறியார் வல்லதூஉம் இல்',
     KalaignarUrai:
@@ -13044,8 +12147,7 @@ const kurral = [
       'Unversed in councils, who essays to speak<br />Knows not the way of suasive words,- and all is weak',
     EnglishMeaning:
       'Those who undertake to speak without knowing the (nature of the) court are ignorant of the quality of words as well as devoid of the power (of learning)',
-    Transliteration:
-      'Avaiyariyaar Sollalmer  Kolpavar  Sollin<br />Vakaiyariyaar  Valladhooum  Il',
+    Transliteration: 'Avaiyariyaar Sollalmer  Kolpavar  Sollin<br />Vakaiyariyaar  Valladhooum  Il',
   },
   {
     Index: 714,
@@ -13062,8 +12164,7 @@ const kurral = [
       'Before the bright ones shine as doth the light<br />Before the dull ones be as purest stucco white',
     EnglishMeaning:
       'Ministers should be lights in the assembly of the enlightned, but assume the pure whiteness of mortar (ignorance) in that of fools',
-    Transliteration:
-      'Oliyaarmun Olliya  Raadhal  Veliyaarmun<br />Vaansudhai  Vannam  Kolal',
+    Transliteration: 'Oliyaarmun Olliya  Raadhal  Veliyaarmun<br />Vaansudhai  Vannam  Kolal',
   },
   {
     Index: 715,
@@ -13080,13 +12181,11 @@ const kurral = [
       "Midst all good things the best is modest grace,<br />That speaks not first before the elders' face",
     EnglishMeaning:
       "The modesty by which one does not rush forward and speak in (an assembly of) superiors is the best among all (one's) good qualities",
-    Transliteration:
-      'Nandrendra Vatrullum  Nandre  Mudhuvarul<br />Mundhu  Kilavaach  Cherivu',
+    Transliteration: 'Nandrendra Vatrullum  Nandre  Mudhuvarul<br />Mundhu  Kilavaach  Cherivu',
   },
   {
     Index: 716,
-    Tamil:
-      'ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்<br />ஏற்றுணர்வார் முன்னர் இழுக்கு',
+    Tamil: 'ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்<br />ஏற்றுணர்வார் முன்னர் இழுக்கு',
     line1: 'ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்',
     line2: 'ஏற்றுணர்வார் முன்னர் இழுக்கு',
     KalaignarUrai:
@@ -13099,13 +12198,11 @@ const kurral = [
       'As in the way one tottering falls, is slip before<br />The men whose minds are filled with varied lore',
     EnglishMeaning:
       '(For a minister) to blunder in the presence of those who have acquired a vast store of learning and know (the value thereof) is like a good man stumbling (and falling away) from the path (of virtue)',
-    Transliteration:
-      'Aatrin Nilaidhalarn  Thatre  Viyanpulam<br />Etrunarvaar  Munnar  Izhukku',
+    Transliteration: 'Aatrin Nilaidhalarn  Thatre  Viyanpulam<br />Etrunarvaar  Munnar  Izhukku',
   },
   {
     Index: 717,
-    Tamil:
-      'கற்றறிந்தார் கல்வி விளங்கும் கசடறச்<br />சொற்றெரிதல் முன்னர் இழுக்கு',
+    Tamil: 'கற்றறிந்தார் கல்வி விளங்கும் கசடறச்<br />சொற்றெரிதல் முன்னர் இழுக்கு',
     line1: 'கற்றறிந்தார் கல்வி விளங்கும் கசடறச்',
     line2: 'சொற்றெரிதல் முன்னர் இழுக்கு',
     KalaignarUrai:
@@ -13123,8 +12220,7 @@ const kurral = [
   },
   {
     Index: 718,
-    Tamil:
-      'உணர்வ துடையார்முன் சொல்லல் வளர்வதன்<br />பாத்தியுள் நீர்சொரிந் தற்று',
+    Tamil: 'உணர்வ துடையார்முன் சொல்லல் வளர்வதன்<br />பாத்தியுள் நீர்சொரிந் தற்று',
     line1: 'உணர்வ துடையார்முன் சொல்லல் வளர்வதன்',
     line2: 'பாத்தியுள் நீர்சொரிந் தற்று',
     KalaignarUrai:
@@ -13142,8 +12238,7 @@ const kurral = [
   },
   {
     Index: 719,
-    Tamil:
-      'புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்<br />நன்கு செலச்சொல்லு வார்',
+    Tamil: 'புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்<br />நன்கு செலச்சொல்லு வார்',
     line1: 'புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்',
     line2: 'நன்கு செலச்சொல்லு வார்',
     KalaignarUrai:
@@ -13161,8 +12256,7 @@ const kurral = [
   },
   {
     Index: 720,
-    Tamil:
-      'அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தர்<br />அல்லார்முன் கோட்டி கொளல்',
+    Tamil: 'அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தர்<br />அல்லார்முன் கோட்டி கொளல்',
     line1: 'அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தர்',
     line2: 'அல்லார்முன் கோட்டி கொளல்',
     KalaignarUrai:
@@ -13171,8 +12265,7 @@ const kurral = [
       'தன் இனத்தார் அல்லாதவரின் கூட்டத்தில் முன் ஒரு பொருளைப்பற்றி பேசுதல், தூய்மையில்லாத முற்றத்தில் சிந்திய அமிழ்தம் போன்றது.',
     SolomonPaapaiyaUrai:
       'தமக்குச் சமம் அற்றவர் கூடியுள்ள அவையில்  எதையும் பேச வேண்டா; பேசினால் அப்பேச்சு சாக்கடையுள் கொட்டிய அமிழ்தம் போல ஆகும்.',
-    English:
-      'Ambrosia in the sewer spilt, is word<br />Spoken in presence of the alien herd',
+    English: 'Ambrosia in the sewer spilt, is word<br />Spoken in presence of the alien herd',
     EnglishMeaning:
       'To utter (a good word) in the assembly of those who are of inferior rank is like dropping nectar on the ground',
     Transliteration:
@@ -13198,8 +12291,7 @@ const kurral = [
   },
   {
     Index: 722,
-    Tamil:
-      'கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்<br />கற்ற செலச்சொல்லு வார்',
+    Tamil: 'கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்<br />கற்ற செலச்சொல்லு வார்',
     line1: 'கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்',
     line2: 'கற்ற செலச்சொல்லு வார்',
     KalaignarUrai:
@@ -13212,8 +12304,7 @@ const kurral = [
       "Who what they've learned, in penetrating words heve learned to say,<br />Before the learn'd among the learn'd most learn'd are they",
     EnglishMeaning:
       'Those who can agreeably set forth their acquirements before the learned will be regarded as the most learned among the learned',
-    Transliteration:
-      'Katraarul Katraar  Enappatuvar  Katraarmun<br />Katra  Selachchollu  Vaar',
+    Transliteration: 'Katraarul Katraar  Enappatuvar  Katraarmun<br />Katra  Selachchollu  Vaar',
   },
   {
     Index: 723,
@@ -13230,13 +12321,11 @@ const kurral = [
       'Many encountering death in face of foe will hold their ground;<br />Who speak undaunted in the council hall are rarely found',
     EnglishMeaning:
       'Many indeed may (fearlessly) die in the presence of (their) foes; (but) few are those who are fearless in the assembly (of the learned)',
-    Transliteration:
-      'Pakaiyakaththuch Chaavaar  Eliyar  Ariyar<br />Avaiyakaththu  Anjaa  Thavar',
+    Transliteration: 'Pakaiyakaththuch Chaavaar  Eliyar  Ariyar<br />Avaiyakaththu  Anjaa  Thavar',
   },
   {
     Index: 724,
-    Tamil:
-      'கற்றார்முன் கற்ற செலச்சொல்லித் தாங்கற்ற<br />மிக்காருள் மிக்க கொளல்',
+    Tamil: 'கற்றார்முன் கற்ற செலச்சொல்லித் தாங்கற்ற<br />மிக்காருள் மிக்க கொளல்',
     line1: 'கற்றார்முன் கற்ற செலச்சொல்லித் தாங்கற்ற',
     line2: 'மிக்காருள் மிக்க கொளல்',
     KalaignarUrai:
@@ -13249,8 +12338,7 @@ const kurral = [
       "What you have learned, in penetrating words speak out before<br />The learn'd; but learn what men more learn'd can teach you more",
     EnglishMeaning:
       '(Ministers) should agreeably set forth their acquirements before the learned and acquire more (knowledge) from their superiors (in learning)',
-    Transliteration:
-      'Katraarmun Katra  Selachchollith  Thaamkatra<br />Mikkaarul  Mikka  Kolal',
+    Transliteration: 'Katraarmun Katra  Selachchollith  Thaamkatra<br />Mikkaarul  Mikka  Kolal',
   },
   {
     Index: 725,
@@ -13267,8 +12355,7 @@ const kurral = [
       'By rule, to dialectic art your mind apply,<br />That in the council fearless you may make an apt reply',
     EnglishMeaning:
       'In order to reply fearlessly before a foreign court, (ministers) should learn logic according to the rules (of grammar)',
-    Transliteration:
-      'Aatrin Alavarindhu  Karka  Avaiyanjaa<br />Maatrang  Kotuththar  Poruttu',
+    Transliteration: 'Aatrin Alavarindhu  Karka  Avaiyanjaa<br />Maatrang  Kotuththar  Poruttu',
   },
   {
     Index: 726,
@@ -13285,8 +12372,7 @@ const kurral = [
       "To those who lack the hero's eye what can the sword avail<br />Or science what, to those before the council keen who quail",
     EnglishMeaning:
       'What have they to do with a sword who are not valiant, or they with learning who are afraid of an intelligent assembly ?',
-    Transliteration:
-      'Vaaloten Vankannar  Allaarkku  Nooloten<br />Nunnavai  Anju  Pavarkku',
+    Transliteration: 'Vaaloten Vankannar  Allaarkku  Nooloten<br />Nunnavai  Anju  Pavarkku',
   },
   {
     Index: 727,
@@ -13303,8 +12389,7 @@ const kurral = [
       "As shining sword before the foe which 'sexless being' bears,<br />Is science learned by him the council's face who fears",
     EnglishMeaning:
       'The learning of him who is diffident before an assembly is like the shining sword of an hermaphrodite in the presence of his foes',
-    Transliteration:
-      'Pakaiyakaththup Petikai  Olvaal  Avaiyakaththu<br />Anju  Mavankatra  Nool',
+    Transliteration: 'Pakaiyakaththup Petikai  Olvaal  Avaiyakaththu<br />Anju  Mavankatra  Nool',
   },
   {
     Index: 728,
@@ -13321,8 +12406,7 @@ const kurral = [
       "Though many things they've learned, yet useless are they all,<br />To man who cannot well and strongly speak in council hall",
     EnglishMeaning:
       'Those who cannot agreeably speak good things before a good assembly are indeed unprofitable persons inspite of all their various acquirements',
-    Transliteration:
-      'Pallavai Katrum  Payamilare  Nallavaiyul<br />Nanku  Selachchollaa  Thaar',
+    Transliteration: 'Pallavai Katrum  Payamilare  Nallavaiyul<br />Nanku  Selachchollaa  Thaar',
   },
   {
     Index: 729,
@@ -13339,8 +12423,7 @@ const kurral = [
       "Who, though they've learned, before the council of the good men quake,<br />Than men unlearn'd a lower place must take",
     EnglishMeaning:
       'They who, though they have learned and understood, are yet afraid of the assembly of the good, are said to be inferior (even) to the illiterate',
-    Transliteration:
-      'Kallaa Thavarin  Kataiyenpa  Katrarindhum<br />Nallaa  Ravaiyanju  Vaar',
+    Transliteration: 'Kallaa Thavarin  Kataiyenpa  Katrarindhum<br />Nallaa  Ravaiyanju  Vaar',
   },
   {
     Index: 730,
@@ -13357,8 +12440,7 @@ const kurral = [
       "Who what they've learned, in penetrating words know not to say,<br />The council fearing, though they live, as dead are they",
     EnglishMeaning:
       'Those who through fear of the assembly are unable to set forth their learning in an interesting manner, though alive, are yet like the dead',
-    Transliteration:
-      'Ulareninum Illaarotu  Oppar  Kalananjik<br />Katra  Selachchollaa  Thaar',
+    Transliteration: 'Ulareninum Illaarotu  Oppar  Kalananjik<br />Katra  Selachchollaa  Thaar',
   },
   {
     Index: 731,
@@ -13393,13 +12475,11 @@ const kurral = [
       "That is a 'land' which men desire for wealth's abundant share,<br />Yielding rich increase, where calamities are rare",
     EnglishMeaning:
       'A kingdom is that which is desire for its immense wealth, and which grows greatly in prosperity, being free from destructive causes',
-    Transliteration:
-      'Perumporulaal Pettakka  Thaaki  Arungettaal<br />Aatra  Vilaivadhu  Naatu',
+    Transliteration: 'Perumporulaal Pettakka  Thaaki  Arungettaal<br />Aatra  Vilaivadhu  Naatu',
   },
   {
     Index: 733,
-    Tamil:
-      'பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்<br />கிறையொருங்கு நேர்வது நாடு',
+    Tamil: 'பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்<br />கிறையொருங்கு நேர்வது நாடு',
     line1: 'பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்',
     line2: 'கிறையொருங்கு நேர்வது நாடு',
     KalaignarUrai:
@@ -13420,8 +12500,7 @@ const kurral = [
     Tamil: 'உறுபசியும் ஓவாப் பிணியும் செறுபகையும்<br />சேரா தியல்வது நாடு',
     line1: 'உறுபசியும் ஓவாப் பிணியும் செறுபகையும்',
     line2: 'சேரா தியல்வது நாடு',
-    KalaignarUrai:
-      'பசியும், பிணியும், பகையுமற்ற நாடுதான் சிறந்த நாடு எனப் பாராட்டப்படும்',
+    KalaignarUrai: 'பசியும், பிணியும், பகையுமற்ற நாடுதான் சிறந்த நாடு எனப் பாராட்டப்படும்',
     MuVaUrai:
       'மிக்க பசியும், ஓயாத நோயும் (வெளியே வந்து தாக்கி) அழிவு செய்யும் பகையும் தன்னிடம் சேராமல் நல்ல வகையில் நடைபெறுவதே நாடாகும்.',
     SolomonPaapaiyaUrai:
@@ -13430,13 +12509,11 @@ const kurral = [
       "That is a 'land' whose peaceful annals know,<br />Nor famine fierce, nor wasting plague, nor ravage of the foe",
     EnglishMeaning:
       'A kingdom is that which continues to be free from excessive starvation, irremediable epidemics, and destructive foes',
-    Transliteration:
-      'Urupasiyum Ovaap  Piniyum  Serupakaiyum<br />Seraa  Thiyalvadhu  Naatu',
+    Transliteration: 'Urupasiyum Ovaap  Piniyum  Serupakaiyum<br />Seraa  Thiyalvadhu  Naatu',
   },
   {
     Index: 735,
-    Tamil:
-      'பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்<br />கொல்குறும்பும் இல்லது நாடு',
+    Tamil: 'பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்<br />கொல்குறும்பும் இல்லது நாடு',
     line1: 'பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்',
     line2: 'கொல்குறும்பும் இல்லது நாடு',
     KalaignarUrai:
@@ -13467,13 +12544,11 @@ const kurral = [
       'Chief of all lands is that, where nought disturbs its peace;<br />Or, if invaders come, still yields its rich increase',
     EnglishMeaning:
       'The learned say that the best kingdom is that which knows no evil (from its foes), and, if injured (at all), suffers no diminution in its fruitfulness',
-    Transliteration:
-      'Ketariyaak Ketta  Itaththum  Valangundraa<br />Naatenpa  Naattin  Thalai',
+    Transliteration: 'Ketariyaak Ketta  Itaththum  Valangundraa<br />Naatenpa  Naattin  Thalai',
   },
   {
     Index: 737,
-    Tamil:
-      'இருபுனலும் வாய்ந்த மலையும் வருபுனலும்<br />வல்லரணும் நாட்டிற் குறுப்பு',
+    Tamil: 'இருபுனலும் வாய்ந்த மலையும் வருபுனலும்<br />வல்லரணும் நாட்டிற் குறுப்பு',
     line1: 'இருபுனலும் வாய்ந்த மலையும் வருபுனலும்',
     line2: 'வல்லரணும் நாட்டிற் குறுப்பு',
     KalaignarUrai:
@@ -13491,8 +12566,7 @@ const kurral = [
   },
   {
     Index: 738,
-    Tamil:
-      'பிணியின்மை செல்வம் விளைவின்பம் ஏமம்<br />அணியென்ப நாட்டிற்கிவ் வைந்து',
+    Tamil: 'பிணியின்மை செல்வம் விளைவின்பம் ஏமம்<br />அணியென்ப நாட்டிற்கிவ் வைந்து',
     line1: 'பிணியின்மை செல்வம் விளைவின்பம் ஏமம்',
     line2: 'அணியென்ப நாட்டிற்கிவ் வைந்து',
     KalaignarUrai:
@@ -13505,8 +12579,7 @@ const kurral = [
       "A country's jewels are these five: unfailing health,<br />Fertility, and joy, a sure defence, and wealth",
     EnglishMeaning:
       'Freedom from epidemics, wealth, produce, happiness and protection (to subjects); these five, the learned, say, are the ornaments of a kingdom',
-    Transliteration:
-      'Piniyinmai Selvam  Vilaivinpam  Emam<br />Aniyenpa  Naattiv  Vaindhu',
+    Transliteration: 'Piniyinmai Selvam  Vilaivinpam  Emam<br />Aniyenpa  Naattiv  Vaindhu',
   },
   {
     Index: 739,
@@ -13523,8 +12596,7 @@ const kurral = [
       'That is a land that yields increase unsought,<br />That is no land whose gifts with toil are bought',
     EnglishMeaning:
       'The learned say that those are kingdom whose wealth is not laboured for, and those not, whose wealth is only obtained through labour',
-    Transliteration:
-      'Naatenpa Naataa  Valaththana  Naatalla<br />Naata  Valandharu  Naatu',
+    Transliteration: 'Naatenpa Naataa  Valaththana  Naatalla<br />Naata  Valandharu  Naatu',
   },
   {
     Index: 740,
@@ -13541,13 +12613,11 @@ const kurral = [
       "Though blest with all these varied gifts' increase,<br />A land gains nought that is not with its king at peace",
     EnglishMeaning:
       'Although in possession of all the above mentioned excellences, these are indeed of no use to a country, in the absence of harmony between the sovereign and the sujects',
-    Transliteration:
-      'Aangamai Veydhiyak  Kannum  Payamindre<br />Vendhamai  Villaadha  Naatu',
+    Transliteration: 'Aangamai Veydhiyak  Kannum  Payamindre<br />Vendhamai  Villaadha  Naatu',
   },
   {
     Index: 741,
-    Tamil:
-      'ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற் <br />போற்று பவர்க்கும் பொருள்',
+    Tamil: 'ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற் <br />போற்று பவர்க்கும் பொருள்',
     line1: 'ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற் ',
     line2: 'போற்று பவர்க்கும் பொருள்',
     KalaignarUrai:
@@ -13560,8 +12630,7 @@ const kurral = [
       'A fort is wealth to those who act against their foes;<br />Is wealth to them who, fearing, guard themselves from woes',
     EnglishMeaning:
       'A fort is an object of importance to those who march (against their foes) as well as to those who through fear (of pursuers) would seek it for shelter',
-    Transliteration:
-      'Aatru Pavarkkum  Aranporul  Anjiththar<br />Potru  Pavarkkum  Porul',
+    Transliteration: 'Aatru Pavarkkum  Aranporul  Anjiththar<br />Potru  Pavarkkum  Porul',
   },
   {
     Index: 742,
@@ -13578,13 +12647,11 @@ const kurral = [
       'A fort is that which owns fount of waters crystal clear,<br />An open space, a hill, and shade of beauteous forest near',
     EnglishMeaning:
       'A fort is that which has everlasting water, plains, mountains and cool shady forests',
-    Transliteration:
-      'Manineerum Mannum  Malaiyum  Aninizhar<br />Kaatum  Utaiya  Tharan',
+    Transliteration: 'Manineerum Mannum  Malaiyum  Aninizhar<br />Kaatum  Utaiya  Tharan',
   },
   {
     Index: 743,
-    Tamil:
-      'உயர்வகலந் திண்மை அருமையிந் நான்கின்<br />அமைவரண் என்றுரைக்கும் நூல்',
+    Tamil: 'உயர்வகலந் திண்மை அருமையிந் நான்கின்<br />அமைவரண் என்றுரைக்கும் நூல்',
     line1: 'உயர்வகலந் திண்மை அருமையிந் நான்கின்',
     line2: 'அமைவரண் என்றுரைக்கும் நூல்',
     KalaignarUrai:
@@ -13597,8 +12664,7 @@ const kurral = [
       'Height, breadth, strength, difficult access:<br />Science declares a fort must these possess',
     EnglishMeaning:
       'The learned say that a fortress is an enclosure having these four (qualities) viz, height, breadth, strength and inaccessibility',
-    Transliteration:
-      'Uyarvakalam Thinmai  Arumaiin  Naankin<br />Amaivaran  Endruraikkum  Nool',
+    Transliteration: 'Uyarvakalam Thinmai  Arumaiin  Naankin<br />Amaivaran  Endruraikkum  Nool',
   },
   {
     Index: 744,
@@ -13615,13 +12681,11 @@ const kurral = [
       "A fort must need but slight defence, yet ample be,<br />Defying all the foeman's energy",
     EnglishMeaning:
       'A fort is that which has an extensive space within, but only small places to be guarded, and such as can destroy the courage of besieging foes',
-    Transliteration:
-      'Sirukaappir Peritaththa  Thaaki  Urupakai<br />Ookkam  Azhippa  Tharan',
+    Transliteration: 'Sirukaappir Peritaththa  Thaaki  Urupakai<br />Ookkam  Azhippa  Tharan',
   },
   {
     Index: 745,
-    Tamil:
-      'கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்<br />நிலைக்கெளிதாம் நீர தரண்',
+    Tamil: 'கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்<br />நிலைக்கெளிதாம் நீர தரண்',
     line1: 'கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்',
     line2: 'நிலைக்கெளிதாம் நீர தரண்',
     KalaignarUrai:
@@ -13652,8 +12716,7 @@ const kurral = [
       'A fort, with all munitions amply stored,<br />In time of need should good reserves afford',
     EnglishMeaning:
       'A fort is that which has all (needful) things, and excellent heroes that can help it against destruction (by foes)',
-    Transliteration:
-      'Ellaap Porulum  Utaiththaai  Itaththudhavum<br />Nallaal  Utaiyadhu  Aran',
+    Transliteration: 'Ellaap Porulum  Utaiththaai  Itaththudhavum<br />Nallaal  Utaiyadhu  Aran',
   },
   {
     Index: 747,
@@ -13670,8 +12733,7 @@ const kurral = [
       'A fort should be impregnable to foes who gird it round,<br />Or aim there darts from far, or mine beneath the ground',
     EnglishMeaning:
       'A fort is that which cannot be captured by blockading, assaulting, or undermining it',
-    Transliteration:
-      'Mutriyum Mutraa  Therindhum  Araippatuththum<br />Patrar  Kariyadhu  Aran',
+    Transliteration: 'Mutriyum Mutraa  Therindhum  Araippatuththum<br />Patrar  Kariyadhu  Aran',
   },
   {
     Index: 748,
@@ -13688,8 +12750,7 @@ const kurral = [
       "Howe'er the circling foe may strive access to win,<br />A fort should give the victory to those who guard within",
     EnglishMeaning:
       'That is a fort whose inmates are able to overcome without losing their ground, even abler men who have besieged it',
-    Transliteration:
-      'Mutraatri Mutri  Yavaraiyum  Patraatrip<br />Patriyaar  Velvadhu  Aran',
+    Transliteration: 'Mutraatri Mutri  Yavaraiyum  Patraatrip<br />Patriyaar  Velvadhu  Aran',
   },
   {
     Index: 749,
@@ -13724,8 +12785,7 @@ const kurral = [
       "Howe'er majestic castled walls may rise,<br />To craven souls no fortress strength supplies",
     EnglishMeaning:
       'Although a fort may possess all (the above-said) excellence, it is, as it were without these, if its inmates possess not the excellence of action',
-    Transliteration:
-      'Enaimaatchith Thaakiyak  Kannum  Vinaimaatchi<br />Illaarkan  Illadhu  Aran',
+    Transliteration: 'Enaimaatchith Thaakiyak  Kannum  Vinaimaatchi<br />Illaarkan  Illadhu  Aran',
   },
   {
     Index: 751,
@@ -13738,12 +12798,10 @@ const kurral = [
       'ஒரு பொருளாக மதிக்கத் தகாதவரையும், மதிப்புடையவராகச் செய்வதாகிய பொருள் அல்லாமல் சிறப்புடைய பொருள் வேறு  இல்லை.',
     SolomonPaapaiyaUrai:
       'தகுதி அற்றவரையும்கூடத் தகுதி உடையவராக ஆக்கிவிடும் தகுதி உடையது, பணமே அன்றி வேறொன்றும் இல்லை.',
-    English:
-      'Nothing exists save wealth, that can<br />Change man of nought to worthy man',
+    English: 'Nothing exists save wealth, that can<br />Change man of nought to worthy man',
     EnglishMeaning:
       'Besides wealth there is nothing that can change people of no importance into those of (some) importance',
-    Transliteration:
-      'Porulal Lavaraip  Porulaakach  Cheyyum<br />Porulalladhu  Illai  Porul',
+    Transliteration: 'Porulal Lavaraip  Porulaakach  Cheyyum<br />Porulalladhu  Illai  Porul',
   },
   {
     Index: 752,
@@ -13756,16 +12814,13 @@ const kurral = [
       'பொருள் இல்லாதவரை (வேறு நன்மை உடையவராக இருந்தாலும்) எல்லாரும் இகழ்வார், செல்வரை (வேறு நன்மை இல்லாவிட்டாலும்) எல்லாரும் சிறப்பு செய்வர்.',
     SolomonPaapaiyaUrai:
       ' பணம் இல்லாதவரை எல்லாரும் இகழ்வர். செல்வரையோ எல்லாரும் பெருமைப்படுத்துவர்.',
-    English:
-      'Those who have nought all will despise;<br />All raise the wealthy to the skies',
+    English: 'Those who have nought all will despise;<br />All raise the wealthy to the skies',
     EnglishMeaning: 'All despise the poor; (but) all praise the rich',
-    Transliteration:
-      'Illaarai Ellaarum  Elluvar  Selvarai<br />Ellaarum  Seyvar  Sirappu',
+    Transliteration: 'Illaarai Ellaarum  Elluvar  Selvarai<br />Ellaarum  Seyvar  Sirappu',
   },
   {
     Index: 753,
-    Tamil:
-      'பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்<br />எண்ணிய தேயத்துச் சென்று',
+    Tamil: 'பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்<br />எண்ணிய தேயத்துச் சென்று',
     line1: 'பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்',
     line2: 'எண்ணிய தேயத்துச் சென்று',
     KalaignarUrai:
@@ -13778,8 +12833,7 @@ const kurral = [
       "Wealth, the lamp unfailing, speeds to every land,<br />Dispersing darkness at its lord's command",
     EnglishMeaning:
       'The imperishable light of wealth goes into regions desired (by its owner) and destroys the darkness (of enmity therein)',
-    Transliteration:
-      'Porulennum Poiyaa  Vilakkam  Irularukkum<br />Enniya  Theyaththuch  Chendru',
+    Transliteration: 'Porulennum Poiyaa  Vilakkam  Irularukkum<br />Enniya  Theyaththuch  Chendru',
   },
   {
     Index: 754,
@@ -13796,8 +12850,7 @@ const kurral = [
       'Their wealth, who blameless means can use aright,<br />Is source of virtue and of choice delight',
     EnglishMeaning:
       'The wealth acquired with a knowledge of the proper means and without foul practices will yield virtue and happiness',
-    Transliteration:
-      'Araneenum Inpamum  Eenum  Thiranarindhu<br />Theedhindri  Vandha  Porul',
+    Transliteration: 'Araneenum Inpamum  Eenum  Thiranarindhu<br />Theedhindri  Vandha  Porul',
   },
   {
     Index: 755,
@@ -13810,17 +12863,14 @@ const kurral = [
       'அருளோடும், அன்போடும் பொருந்தாத வழிகளில் வந்த செல்வத்தின் ஆக்கத்தைப் பெற்று மகிழாமல் அதைத் தீமையானது என்று நீக்கிவிட வேண்டும்.',
     SolomonPaapaiyaUrai:
       'பிறர்மீது இரக்கமும் அன்பும் இல்லாமல் சேர்க்கும் பணச் சேமிப்பை ஏற்காது விட்டு விடுக',
-    English:
-      'Wealth gained by loss of love and grace,<br />Let man cast off from his embrace',
+    English: 'Wealth gained by loss of love and grace,<br />Let man cast off from his embrace',
     EnglishMeaning:
       '(Kings) should rather avoid than seek the accumulation of wealth which does not flow in with mercy and love',
-    Transliteration:
-      'Arulotum Anpotum  Vaaraap  Porulaakkam<br />Pullaar  Purala  Vital',
+    Transliteration: 'Arulotum Anpotum  Vaaraap  Porulaakkam<br />Pullaar  Purala  Vital',
   },
   {
     Index: 756,
-    Tamil:
-      'உறுபொருளும் உல்கு பொருளுந்தன் ஒன்னார்த்<br />தெறுபொருளும் வேந்தன் பொருள்',
+    Tamil: 'உறுபொருளும் உல்கு பொருளுந்தன் ஒன்னார்த்<br />தெறுபொருளும் வேந்தன் பொருள்',
     line1: 'உறுபொருளும் உல்கு பொருளுந்தன் ஒன்னார்த்',
     line2: 'தெறுபொருளும் வேந்தன் பொருள்',
     KalaignarUrai:
@@ -13829,17 +12879,13 @@ const kurral = [
       'இறையாக வந்து சேரும் பொருளும், சுங்கமாகக் கொள்ளும் பொருளும், தன் பகைவரை வென்று திறமையாகக் கொள்ளும் பொருளும் அரசனுடைய பொருள்களாகும்.',
     SolomonPaapaiyaUrai:
       'வாரிசுதாரர் இல்லாமல் வந்த பொருள் வெளிநாட்டு பொருட்களுக்கு விதிக்கப்படும் வரி தன் பகைவர் தனக்குக் கட்டும் கப்பம் என்னும் இவை எல்லாம் அரசிற்கு உரிய பொருள்களாம்.',
-    English:
-      "92<br />Wealth that falls to him as heir, wealth from the kingdom's dues,",
-    EnglishMeaning:
-      'The spoils of slaughtered foes; these are the royal revenues',
-    Transliteration:
-      'Uruporulum Ulku  Porulumdhan  Onnaarth<br />Theruporulum  Vendhan  Porul',
+    English: "92<br />Wealth that falls to him as heir, wealth from the kingdom's dues,",
+    EnglishMeaning: 'The spoils of slaughtered foes; these are the royal revenues',
+    Transliteration: 'Uruporulum Ulku  Porulumdhan  Onnaarth<br />Theruporulum  Vendhan  Porul',
   },
   {
     Index: 757,
-    Tamil:
-      'அருளென்னும் அன்பீன் குழவி பொருளென்னும்<br />செல்வச் செவிலியால் உண்டு',
+    Tamil: 'அருளென்னும் அன்பீன் குழவி பொருளென்னும்<br />செல்வச் செவிலியால் உண்டு',
     line1: 'அருளென்னும் அன்பீன் குழவி பொருளென்னும்',
     line2: 'செல்வச் செவிலியால் உண்டு',
     KalaignarUrai:
@@ -13852,13 +12898,11 @@ const kurral = [
       "'Tis love that kindliness as offspring bears:<br />And wealth as bounteous nurse the infant rears",
     EnglishMeaning:
       'The child mercy which is borne by love grows under the care of the rich nurse of wealth',
-    Transliteration:
-      'Arulennum Anpeen  Kuzhavi  Porulennum<br />Selvach  Cheviliyaal  Untu',
+    Transliteration: 'Arulennum Anpeen  Kuzhavi  Porulennum<br />Selvach  Cheviliyaal  Untu',
   },
   {
     Index: 758,
-    Tamil:
-      'குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்<br />றுண்டாகச் செய்வான் வினை',
+    Tamil: 'குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்<br />றுண்டாகச் செய்வான் வினை',
     line1: 'குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்',
     line2: 'றுண்டாகச் செய்வான் வினை',
     KalaignarUrai:
@@ -13885,17 +12929,14 @@ const kurral = [
       'ஒருவன் பொருளை ஈட்டவேண்டும், அவனுடைய பகைவரின் செருக்கைக் கெடுக்க வல்ல வாள் அதைவிடக் கூர்மையானது வேறு இல்லை.',
     SolomonPaapaiyaUrai:
       'எதையும் சாதிக்க எண்ணுவோர் பணத்தைச் சம்பாதியுங்கள்; பகைவரின் அகங்காரத்தை அறுக்கும் கூரிய ஆயுதம், பணத்தைவிட வேறு இல்லை.',
-    English:
-      "Make money! Foeman's insolence o'ergrown<br />To lop away no keener steel is known",
+    English: "Make money! Foeman's insolence o'ergrown<br />To lop away no keener steel is known",
     EnglishMeaning:
       'Accumulate wealth; it will destroy the arrogance of (your) foes; there is no weapon sharper than it',
-    Transliteration:
-      'Seyka Porulaich  Cherunar  Serukkarukkum<br />Eqkadhanir  Kooriya  Thil',
+    Transliteration: 'Seyka Porulaich  Cherunar  Serukkarukkum<br />Eqkadhanir  Kooriya  Thil',
   },
   {
     Index: 760,
-    Tamil:
-      'ஒண்பொருள் காழ்ப்ப இயற்றியார்க் கெண்பொருள்<br />ஏனை இரண்டும் ஒருங்கு',
+    Tamil: 'ஒண்பொருள் காழ்ப்ப இயற்றியார்க் கெண்பொருள்<br />ஏனை இரண்டும் ஒருங்கு',
     line1: 'ஒண்பொருள் காழ்ப்ப இயற்றியார்க் கெண்பொருள்',
     line2: 'ஏனை இரண்டும் ஒருங்கு',
     KalaignarUrai:
@@ -13908,8 +12949,7 @@ const kurral = [
       'Who plenteous store of glorious wealth have gained,<br />By them the other two are easily obtained',
     EnglishMeaning:
       'To those who have honestly acquired an abundance of riches, the other two, (virtue and pleasure) are things easy (of acquisition)',
-    Transliteration:
-      'Onporul Kaazhppa  Iyatriyaarkku  Enporul<br />Enai  Irantum  Orungu',
+    Transliteration: 'Onporul Kaazhppa  Iyatriyaarkku  Enporul<br />Enai  Irantum  Orungu',
   },
   {
     Index: 761,
@@ -13926,8 +12966,7 @@ const kurral = [
       'A conquering host, complete in all its limbs, that fears no wound,<br />Mid treasures of the king is chiefest found',
     EnglishMeaning:
       'The army which is complete in (its) parts and conquers without fear of wounds is the chief wealth of the king',
-    Transliteration:
-      'Uruppamaindhu Ooranjaa  Velpatai  Vendhan<br />Verukkaiyul  Ellaam  Thalai',
+    Transliteration: 'Uruppamaindhu Ooranjaa  Velpatai  Vendhan<br />Verukkaiyul  Ellaam  Thalai',
   },
   {
     Index: 762,
@@ -13962,8 +13001,7 @@ const kurral = [
       'Though, like the sea, the angry mice send forth their battle cry;<br />What then? The dragon breathes upon them, and they die',
     EnglishMeaning:
       'What if (a host of) hostile rats roar like the sea ? They will perish at the mere breath of the cobra',
-    Transliteration:
-      'Oliththakkaal Ennaam  Uvari  Ela�ppakai<br />Naakam  Uyirppak  Ketum',
+    Transliteration: 'Oliththakkaal Ennaam  Uvari  Ela�ppakai<br />Naakam  Uyirppak  Ketum',
   },
   {
     Index: 764,
@@ -13980,8 +13018,7 @@ const kurral = [
       'That is a host, by no defeats, by no desertions shamed,<br />For old hereditary courage famed',
     EnglishMeaning:
       'That indeed is an army which has stood firm of old without suffering destruction or deserting (to the enemy)',
-    Transliteration:
-      'Azhivindri Araipokaa  Thaaki  Vazhivandha<br />Vanka  Nadhuve  Patai',
+    Transliteration: 'Azhivindri Araipokaa  Thaaki  Vazhivandha<br />Vanka  Nadhuve  Patai',
   },
   {
     Index: 765,
@@ -13998,8 +13035,7 @@ const kurral = [
       "That is a 'host' that joins its ranks, and mightily withstands,<br />Though death with sudden wrath should fall upon its bands",
     EnglishMeaning:
       'That indeed is an army which is capable of offering a united resistance, even if Yama advances against it with fury',
-    Transliteration:
-      'Kootrutandru Melvarinum  Kooti  Edhirnirkum<br />Aatra  Ladhuve  Patai',
+    Transliteration: 'Kootrutandru Melvarinum  Kooti  Edhirnirkum<br />Aatra  Ladhuve  Patai',
   },
   {
     Index: 766,
@@ -14016,8 +13052,7 @@ const kurral = [
       "Valour with honour, sure advance in glory's path, with confidence;<br />To warlike host these four are sure defence",
     EnglishMeaning:
       'Valour, honour, following in the excellent-footsteps (of its predecessors) and trust-worthiness; these four alone constitute the safeguard of an army',
-    Transliteration:
-      'Maramaanam Maanta  Vazhichchelavu  Thetram<br />Enanaanke  Emam  Pataikku',
+    Transliteration: 'Maramaanam Maanta  Vazhichchelavu  Thetram<br />Enanaanke  Emam  Pataikku',
   },
   {
     Index: 767,
@@ -14039,8 +13074,7 @@ const kurral = [
   },
   {
     Index: 768,
-    Tamil:
-      'அடல்தகையும் ஆற்றலும் இல்லெனினும் தானை<br />படைத்தகையால் பாடு பெறும்',
+    Tamil: 'அடல்தகையும் ஆற்றலும் இல்லெனினும் தானை<br />படைத்தகையால் பாடு பெறும்',
     line1: 'அடல்தகையும் ஆற்றலும் இல்லெனினும் தானை',
     line2: 'படைத்தகையால் பாடு பெறும்',
     KalaignarUrai:
@@ -14071,8 +13105,7 @@ const kurral = [
       'Where weakness, clinging fear and poverty<br />Are not, the host will gain the victory',
     EnglishMeaning:
       'An army can triumph (over its foes) if it is free from diminution; irremediable aversion and poverty',
-    Transliteration:
-      'Sirumaiyum Sellaath  Thuniyum  Varumaiyum<br />Illaayin  Vellum  Patai',
+    Transliteration: 'Sirumaiyum Sellaath  Thuniyum  Varumaiyum<br />Illaayin  Vellum  Patai',
   },
   {
     Index: 770,
@@ -14085,17 +13118,14 @@ const kurral = [
       'நெடுங்காலமாக நிலைத்திருக்கும் வீரர் பலரை உடையதே ஆனாலும், தலைமைதாங்கும் தலைவர் இல்லாத போது படைக்குப் பெருமை இல்லையாகும்.',
     SolomonPaapaiyaUrai:
       'சிறந்த வீரர்கள் அதிகம் இருந்தாலும், படைக்கு நல்ல தலைவன் இல்லை என்றால் அந்தப் படை போரில் நிலைத்து நிற்காது.',
-    English:
-      'Though men abound, all ready for the war,<br />No army is where no fit leaders are',
+    English: 'Though men abound, all ready for the war,<br />No army is where no fit leaders are',
     EnglishMeaning:
       'Though an army may contain a large number of permanent soldiers, it cannot last if it has no generals',
-    Transliteration:
-      'Nilaimakkal Saala  Utaiththeninum  Thaanai<br />Thalaimakkal  Ilvazhi  Il',
+    Transliteration: 'Nilaimakkal Saala  Utaiththeninum  Thaanai<br />Thalaimakkal  Ilvazhi  Il',
   },
   {
     Index: 771,
-    Tamil:
-      'என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை<br />முன்னின்று கல்நின் றவர்',
+    Tamil: 'என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை<br />முன்னின்று கல்நின் றவர்',
     line1: 'என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை',
     line2: 'முன்னின்று கல்நின் றவர்',
     KalaignarUrai:
@@ -14108,8 +13138,7 @@ const kurral = [
       'Ye foes stand not before my lord for many a one<br />Who did my lord withstand, now stands in stone',
     EnglishMeaning:
       'O my foes, stand not before my leader; (for) many are those who did so but afterwards stood (in the shape of) statues',
-    Transliteration:
-      'Ennaimun Nillanmin  Thevvir  Palarennai<br />Munnindru  Kalnin  Ravar',
+    Transliteration: 'Ennaimun Nillanmin  Thevvir  Palarennai<br />Munnindru  Kalnin  Ravar',
   },
   {
     Index: 772,
@@ -14126,8 +13155,7 @@ const kurral = [
       'Who aims at elephant, though dart should fail, has greater praise<br />Than he who woodland hare with winged arrow slays',
     EnglishMeaning:
       'It is more pleasant to hold the dart that has missed an elephant than that which has hit hare in the forest',
-    Transliteration:
-      'Kaana Muyaleydha  Ampinil  Yaanai<br />Pizhaiththavel  Endhal  Inidhu',
+    Transliteration: 'Kaana Muyaleydha  Ampinil  Yaanai<br />Pizhaiththavel  Endhal  Inidhu',
   },
   {
     Index: 773,
@@ -14144,8 +13172,7 @@ const kurral = [
       'Fierceness in hour of strife heroic greatness shows;<br />Its edge is kindness to our suffering foes',
     EnglishMeaning:
       'The learned say that fierceness (incontest with a foe) is indeed great valour; but to become a benefactor in case of accident (to a foe) is the extreme (limit) of that valour',
-    Transliteration:
-      'Peraanmai Enpa  Tharukanon  Rutrakkaal<br />Ooraanmai  Matradhan  Eqku',
+    Transliteration: 'Peraanmai Enpa  Tharukanon  Rutrakkaal<br />Ooraanmai  Matradhan  Eqku',
   },
   {
     Index: 774,
@@ -14162,13 +13189,11 @@ const kurral = [
       'At elephant he hurls the dart in hand; for weapon pressed,<br />He laughs and plucks the javelin from his wounded breast',
     EnglishMeaning:
       'The hero who after casting the lance in his hand on an elephant, comes (in search of another) will pluck the one (that sticks) in his body and laugh (exultingly)',
-    Transliteration:
-      'Kaivel Kalitrotu  Pokki  Varupavan<br />Meyvel  Pariyaa  Nakum',
+    Transliteration: 'Kaivel Kalitrotu  Pokki  Varupavan<br />Meyvel  Pariyaa  Nakum',
   },
   {
     Index: 775,
-    Tamil:
-      'விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்<br />ஓட்டன்றோ வன்க ணவர்க்கு',
+    Tamil: 'விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்<br />ஓட்டன்றோ வன்க ணவர்க்கு',
     line1: 'விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்',
     line2: 'ஓட்டன்றோ வன்க ணவர்க்கு',
     KalaignarUrai:
@@ -14186,8 +13211,7 @@ const kurral = [
   },
   {
     Index: 776,
-    Tamil:
-      'விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்<br />வைக்குந்தன் நாளை எடுத்து',
+    Tamil: 'விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்<br />வைக்குந்தன் நாளை எடுத்து',
     line1: 'விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்',
     line2: 'வைக்குந்தன் நாளை எடுத்து',
     KalaignarUrai:
@@ -14218,8 +13242,7 @@ const kurral = [
       'Who seek for world-wide fame, regardless of their life,<br />The glorious clasp adorns, sign of heroic strife',
     EnglishMeaning:
       'The fastening of ankle-ring by those who disire a world-wide renown and not (the safety of) their lives is like adorning (themselves)',
-    Transliteration:
-      'Suzhalum Isaiventi  Ventaa  Uyiraar<br />Kazhalyaappuk  Kaarikai  Neerththu',
+    Transliteration: 'Suzhalum Isaiventi  Ventaa  Uyiraar<br />Kazhalyaappuk  Kaarikai  Neerththu',
   },
   {
     Index: 778,
@@ -14236,8 +13259,7 @@ const kurral = [
       "Fearless they rush where'er 'the tide of battle rolls';<br />The king's reproof damps not the ardour of their eager souls",
     EnglishMeaning:
       'The heroes who are not afraid of losing their life in a contest will not cool their ardour, even if the king prohibits (their fighting)',
-    Transliteration:
-      'Urinuyir Anjaa  Maravar  Iraivan<br />Serinum  Seerkundral  Ilar',
+    Transliteration: 'Urinuyir Anjaa  Maravar  Iraivan<br />Serinum  Seerkundral  Ilar',
   },
   {
     Index: 779,
@@ -14252,15 +13274,13 @@ const kurral = [
       'தாம் சொன்ன சபதம் நிறைவேறாமல் போனாலும், அதற்காகவே போர்க் களத்தில் தோற்றவர் என்று எவர் இகழ்ந்து பேசுவார்?',
     English:
       "Who says they err, and visits them scorn,<br />Who die and faithful guard the vow they've sworn",
-    EnglishMeaning:
-      'Who would reproach with failure those who seal their oath with their death ?',
+    EnglishMeaning: 'Who would reproach with failure those who seal their oath with their death ?',
     Transliteration:
       'Izhaiththadhu Ikavaamaich  Chaavaarai  Yaare<br />Pizhaiththadhu  Orukkir  Pavar',
   },
   {
     Index: 780,
-    Tamil:
-      'புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்கா<br />டிரந்துகோட் டக்க துடைத்து',
+    Tamil: 'புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்கா<br />டிரந்துகோட் டக்க துடைத்து',
     line1: 'புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்கா',
     line2: 'டிரந்துகோட் டக்க துடைத்து',
     KalaignarUrai:
@@ -14290,8 +13310,7 @@ const kurral = [
     English:
       "What so hard for men to gain as friendship true<br />What so sure defence 'gainst all that foe can do",
     EnglishMeaning: "What so sure defence 'gainst all that foe can do?",
-    Transliteration:
-      'Seyarkariya Yaavula  Natpin  Adhupol<br />Vinaikkariya  Yaavula  Kaappu',
+    Transliteration: 'Seyarkariya Yaavula  Natpin  Adhupol<br />Vinaikkariya  Yaavula  Kaappu',
   },
   {
     Index: 782,
@@ -14308,8 +13327,7 @@ const kurral = [
       'Friendship with men fulfilled of good Waxes like the crescent moon;<br />Friendship with men of foolish mood, Like the full orb, waneth soon',
     EnglishMeaning:
       'The friendship of the wise waxes like the new moon; (but) that of fools wanes like the full moon',
-    Transliteration:
-      'Niraineera Neeravar  Kenmai  Piraimadhip<br />Pinneera  Pedhaiyaar  Natpu',
+    Transliteration: 'Niraineera Neeravar  Kenmai  Piraimadhip<br />Pinneera  Pedhaiyaar  Natpu',
   },
   {
     Index: 783,
@@ -14326,13 +13344,11 @@ const kurral = [
       'Learned scroll the more you ponder, Sweeter grows the mental food;<br />So the heart by use grows fonder, Bound in friendship with the good',
     EnglishMeaning:
       'Like learning, the friendship of the noble, the more it is cultivated, the more delightful does it become',
-    Transliteration:
-      'Navildhorum Noolnayam  Polum  Payildhorum<br />Panputai  Yaalar  Thotarpu',
+    Transliteration: 'Navildhorum Noolnayam  Polum  Payildhorum<br />Panputai  Yaalar  Thotarpu',
   },
   {
     Index: 784,
-    Tamil:
-      'நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்<br />மேற்சென் றிடித்தற் பொருட்டு',
+    Tamil: 'நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்<br />மேற்சென் றிடித்தற் பொருட்டு',
     line1: 'நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்',
     line2: 'மேற்சென் றிடித்தற் பொருட்டு',
     KalaignarUrai:
@@ -14345,8 +13361,7 @@ const kurral = [
       'Nor for laughter only friendship all the pleasant day,<br />But for strokes of sharp reproving, when from right you stray',
     EnglishMeaning:
       'Friendship is to be practised not for the purpose of laughing but for that of being beforehand in giving one another sharp rebukes in case of transgression',
-    Transliteration:
-      'Nakudhar Poruttandru  Nattal  Mikudhikkan<br />Mersenaru  Itiththar  Poruttu',
+    Transliteration: 'Nakudhar Poruttandru  Nattal  Mikudhikkan<br />Mersenaru  Itiththar  Poruttu',
   },
   {
     Index: 785,
@@ -14381,8 +13396,7 @@ const kurral = [
       "Not the face's smile of welcome shows the friend sincere,<br />But the heart's rejoicing gladness when the friend is near",
     EnglishMeaning:
       'The love that dwells (merely in the smiles of the face is not friendship; (but) that which dwells deep in the smiles of the heart is true friendship',
-    Transliteration:
-      'Mukanaka Natpadhu  Natpandru  Nenjaththu<br />Akanaka  Natpadhu  Natpu',
+    Transliteration: 'Mukanaka Natpadhu  Natpandru  Nenjaththu<br />Akanaka  Natpadhu  Natpu',
   },
   {
     Index: 787,
@@ -14399,8 +13413,7 @@ const kurral = [
       'Friendship from ruin saves, in way of virtue keeps;<br />In troublous time, it weeps with him who weeps',
     EnglishMeaning:
       '(True) friendship turns aside from evil (ways) makes (him) walk in the (good) way, and, in case of loss if shares his sorrow (with him)',
-    Transliteration:
-      'Azhivi Navaineekki  Aaruyththu  Azhivinkan<br />Allal  Uzhappadhaam  Natpu',
+    Transliteration: 'Azhivi Navaineekki  Aaruyththu  Azhivinkan<br />Allal  Uzhappadhaam  Natpu',
   },
   {
     Index: 788,
@@ -14417,13 +13430,11 @@ const kurral = [
       'As hand of him whose vesture slips away,<br />Friendship at once the coming grief will stay',
     EnglishMeaning:
       '(True) friendship hastens to the rescue of the afflicted (as readily) as the hand of one whose garment is loosened (before an assembly)',
-    Transliteration:
-      'Utukkai Izhandhavan  Kaipola  Aange<br />Itukkan  Kalaivadhaam  Natpu',
+    Transliteration: 'Utukkai Izhandhavan  Kaipola  Aange<br />Itukkan  Kalaivadhaam  Natpu',
   },
   {
     Index: 789,
-    Tamil:
-      'நட்பிற்கு வீற்றிருக்கை யாதெனிற் கொட்பின்றி<br />ஒல்லும்வாய் ஊன்றும் நிலை',
+    Tamil: 'நட்பிற்கு வீற்றிருக்கை யாதெனிற் கொட்பின்றி<br />ஒல்லும்வாய் ஊன்றும் நிலை',
     line1: 'நட்பிற்கு வீற்றிருக்கை யாதெனிற் கொட்பின்றி',
     line2: 'ஒல்லும்வாய் ஊன்றும் நிலை',
     KalaignarUrai:
@@ -14436,13 +13447,11 @@ const kurral = [
       "And where is friendship's royal seat? In stable mind,<br />Where friend in every time of need support may find",
     EnglishMeaning:
       'Friendship may be said to be on its throne when it possesses the power of supporting one at all times and under all circumstances, (in the practice or virtue and wealth)',
-    Transliteration:
-      'Natpirku Veetrirukkai  Yaadhenin  Kotpindri<br />Ollumvaai  Oondrum  Nilai',
+    Transliteration: 'Natpirku Veetrirukkai  Yaadhenin  Kotpindri<br />Ollumvaai  Oondrum  Nilai',
   },
   {
     Index: 790,
-    Tamil:
-      'இனையர் இவரெமக் கின்னம்யாம் என்று<br />புனையினும் புல்லென்னும் நட்பு',
+    Tamil: 'இனையர் இவரெமக் கின்னம்யாம் என்று<br />புனையினும் புல்லென்னும் நட்பு',
     line1: 'இனையர் இவரெமக் கின்னம்யாம் என்று',
     line2: 'புனையினும் புல்லென்னும் நட்பு',
     KalaignarUrai:
@@ -14455,8 +13464,7 @@ const kurral = [
       "Mean is the friendship that men blazon forth,<br />'He's thus to me' and 'such to him my worth'",
     EnglishMeaning:
       "Though friends may praise one another saying, 'He is so intimate with us, and we so much (with him)'; (still) such friendship will appear mean",
-    Transliteration:
-      'Inaiyar Ivaremakku  Innamyaam  Endru<br />Punaiyinum  Pullennum  Natpu',
+    Transliteration: 'Inaiyar Ivaremakku  Innamyaam  Endru<br />Punaiyinum  Pullennum  Natpu',
   },
   {
     Index: 791,
@@ -14473,8 +13481,7 @@ const kurral = [
       'To make an untried man your friend is ruin sure;<br />For friendship formed unbroken must endure',
     EnglishMeaning:
       'As those who are of a friendly nature will not forsake (a friend) after once loving (him), there is no evil so great as contracting a friendship without due inquiry',
-    Transliteration:
-      'Naataadhu Nattalir  Ketillai  Nattapin<br />Veetillai  Natpaal  Pavarkku',
+    Transliteration: 'Naataadhu Nattalir  Ketillai  Nattapin<br />Veetillai  Natpaal  Pavarkku',
   },
   {
     Index: 792,
@@ -14509,13 +13516,11 @@ const kurral = [
       'Temper, descent, defects, associations free<br />From blame: know these, then let the man be friend to thee',
     EnglishMeaning:
       "Make friendship (with one) after ascertaining (his) character, birth, defects and the whole of one's relations",
-    Transliteration:
-      'Kunamum Kutimaiyum  Kutramum  Kundraa<br />Inanum  Arindhiyaakka  Natpu',
+    Transliteration: 'Kunamum Kutimaiyum  Kutramum  Kundraa<br />Inanum  Arindhiyaakka  Natpu',
   },
   {
     Index: 794,
-    Tamil:
-      'குடிப்பிறந்து தன்கண் பழிநாணு வானைக்<br />கொடுத்தும் கொளல்வேண்டும் நட்பு',
+    Tamil: 'குடிப்பிறந்து தன்கண் பழிநாணு வானைக்<br />கொடுத்தும் கொளல்வேண்டும் நட்பு',
     line1: 'குடிப்பிறந்து தன்கண் பழிநாணு வானைக்',
     line2: 'கொடுத்தும் கொளல்வேண்டும் நட்பு',
     KalaignarUrai:
@@ -14560,12 +13565,10 @@ const kurral = [
       'கேடு வந்த போதும் ஒருவகை நன்மை உண்டு, அக் கேடு ஒருவனுடைய நண்பரின் இயல்புகளை நீட்டிஅளந்து பார்ப்பதொரு கோலாகும்.',
     SolomonPaapaiyaUrai:
       'எவன் நமக்கு உற்ற நண்பன் என்பதை நீட்டி அளந்து கொள்ளும் அறிவு நம் துன்பத்தில் உண்டு.',
-    English:
-      "Ruin itself one blessing lends:<br />'Tis staff that measures out one's friends",
+    English: "Ruin itself one blessing lends:<br />'Tis staff that measures out one's friends",
     EnglishMeaning:
       "Even in ruin there is some good; (for) it is a rod by which one may measure fully (the affection of one's) relations",
-    Transliteration:
-      'Kettinum Untor  Urudhi  Kilaignarai<br />Neetti  Alappadhor  Kol',
+    Transliteration: 'Kettinum Untor  Urudhi  Kilaignarai<br />Neetti  Alappadhor  Kol',
   },
   {
     Index: 797,
@@ -14576,14 +13579,10 @@ const kurral = [
       'ஒருவருக்குக் கிடைத்த நற்பயன் என்பது அவர் அறிவில்லாத ஒருவருடன் கொண்டிருந்த நட்பைத் துறந்து விடுவதேயாகும்',
     MuVaUrai:
       'ஒருவனுக்கு ஊதியம் என்று சொல்லப்படுவது, அறிவில்லாதவறுடன் செய்து கொண்ட நட்பிலிருந்து நீங்கி அவரைக் கைவிடுதலாகும்.',
-    SolomonPaapaiyaUrai:
-      'அறிவில்லாதவரோடு கொண்ட நட்பை விட்டு விடுவது, ஒருவனுக்கு இலாபம்.',
-    English:
-      "'Tis gain to any man, the sages say,<br />Friendship of fools to put away",
-    EnglishMeaning:
-      'It is indead a gain for one to renounce the friendship of fools',
-    Transliteration:
-      'Oodhiyam Enpadhu  Oruvarkup  Pedhaiyaar<br />Kenmai  Oreei  Vital',
+    SolomonPaapaiyaUrai: 'அறிவில்லாதவரோடு கொண்ட நட்பை விட்டு விடுவது, ஒருவனுக்கு இலாபம்.',
+    English: "'Tis gain to any man, the sages say,<br />Friendship of fools to put away",
+    EnglishMeaning: 'It is indead a gain for one to renounce the friendship of fools',
+    Transliteration: 'Oodhiyam Enpadhu  Oruvarkup  Pedhaiyaar<br />Kenmai  Oreei  Vital',
   },
   {
     Index: 798,
@@ -14600,13 +13599,11 @@ const kurral = [
       'Think not the thoughts that dwarf the soul; nor take<br />For friends the men who friends in time of grief forsake',
     EnglishMeaning:
       'Do not think of things that discourage your mind, nor contract friendship with those who would forsake you in adversity',
-    Transliteration:
-      'Ullarka Ullam  Sirukuva  Kollarka<br />Allarkan  Aatraruppaar  Natpu',
+    Transliteration: 'Ullarka Ullam  Sirukuva  Kollarka<br />Allarkan  Aatraruppaar  Natpu',
   },
   {
     Index: 799,
-    Tamil:
-      'கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை<br />உள்ளினும் உள்ளஞ் சுடும்',
+    Tamil: 'கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை<br />உள்ளினும் உள்ளஞ் சுடும்',
     line1: 'கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை',
     line2: 'உள்ளினும் உள்ளஞ் சுடும்',
     KalaignarUrai:
@@ -14619,8 +13616,7 @@ const kurral = [
       "Of friends deserting us on ruin's brink,<br />'Tis torture e'en in life's last hour to think",
     EnglishMeaning:
       "The very thought of the friendship of those who have deserted one at the approach of adversity will burn one's mind at the time of death",
-    Transliteration:
-      'Ketungaalaik Kaivituvaar  Kenmai  Atungaalai<br />Ullinum  Ullanj  Chutum',
+    Transliteration: 'Ketungaalaik Kaivituvaar  Kenmai  Atungaalai<br />Ullinum  Ullanj  Chutum',
   },
   {
     Index: 800,
@@ -14637,8 +13633,7 @@ const kurral = [
       "Cling to the friendship of the spotless one's; whate'er you pay<br />Renounce alliance with the men of evil way",
     EnglishMeaning:
       'Continue to enjoy the friendship of the pure; (but) renounce even with a gift, the friendship of those who do not agree (with the world)',
-    Transliteration:
-      'Maruvuka Maasatraar  Kenmaion  Reeththum<br />Oruvuka  Oppilaar  Natpu',
+    Transliteration: 'Maruvuka Maasatraar  Kenmaion  Reeththum<br />Oruvuka  Oppilaar  Natpu',
   },
   {
     Index: 801,
@@ -14651,8 +13646,7 @@ const kurral = [
       'பழைமை என்று சொல்லப்படுவது எது என்று வினாவினால் அது பழகியவர் உரிமைப் பற்றிச் செய்யும் செயலைக் கீழ்ப்படுத்தாமல் ஏற்கும் நட்பாகும்.',
     SolomonPaapaiyaUrai:
       'பழைமை என்று சொல்லப்படுவதன் பொருள் என்ன என்றால், நெடுங்கால நண்பர் நம்மீது உரிமை எடுத்துக் கொண்டு பிழைபட நடந்தாலும் அதைப் பொருட்படுத்தாத நட்பு எனலாம்.',
-    English:
-      "Familiarity is friendship's silent pact,<br />That puts restraint on no familiar act",
+    English: "Familiarity is friendship's silent pact,<br />That puts restraint on no familiar act",
     EnglishMeaning:
       'Imtimate friendship is that which cannot in the least be injured by (things done through the) right (of longstanding intimacy)',
     Transliteration:
@@ -14673,8 +13667,7 @@ const kurral = [
       "Familiar freedom friendship's very frame supplies;<br />To be its savour sweet is duty of the wise",
     EnglishMeaning:
       'The constituents of friendship are (things done through) the right of intimacy; to be pleased with such a right is the duty of the wise',
-    Transliteration:
-      'Natpir Kuruppuk  Kezhudhakaimai  Matradharku<br />Uppaadhal  Saandror  Katan',
+    Transliteration: 'Natpir Kuruppuk  Kezhudhakaimai  Matradharku<br />Uppaadhal  Saandror  Katan',
   },
   {
     Index: 803,
@@ -14691,8 +13684,7 @@ const kurral = [
       "When to familiar acts men kind response refuse,<br />What fruit from ancient friendship's use",
     EnglishMeaning:
       'Of what avail is long-standing friendship, if friends do not admit as their own actions done through the right of intimacy ?',
-    Transliteration:
-      'Pazhakiya Natpevan  Seyyung  Kezhudhakaimai<br />Seydhaangu  Amaiyaak  Katai',
+    Transliteration: 'Pazhakiya Natpevan  Seyyung  Kezhudhakaimai<br />Seydhaangu  Amaiyaak  Katai',
   },
   {
     Index: 804,
@@ -14727,13 +13719,11 @@ const kurral = [
       'Not folly merely, but familiar carelessness,<br />Esteem it, when your friends cause you distress',
     EnglishMeaning:
       'If friends should perform what is painful, understand that it is owing not only to ignorance, but also to the strong claims of intimacy',
-    Transliteration:
-      'Pedhaimai Ondro  Perungizhamai  Endrunarka<br />Nodhakka  Nattaar  Seyin',
+    Transliteration: 'Pedhaimai Ondro  Perungizhamai  Endrunarka<br />Nodhakka  Nattaar  Seyin',
   },
   {
     Index: 806,
-    Tamil:
-      'எல்லைக்கண் நின்றார் துறவார் தெலைவிடத்தும்<br />தொல்லைக்கண் நின்றார் தொடர்பு',
+    Tamil: 'எல்லைக்கண் நின்றார் துறவார் தெலைவிடத்தும்<br />தொல்லைக்கண் நின்றார் தொடர்பு',
     line1: 'எல்லைக்கண் நின்றார் துறவார் தெலைவிடத்தும்',
     line2: 'தொல்லைக்கண் நின்றார் தொடர்பு',
     KalaignarUrai:
@@ -14764,13 +13754,11 @@ const kurral = [
       'True friends, well versed in loving ways,<br />Cease not to love, when friend their love betrays',
     EnglishMeaning:
       'Those who have (long) stood in the path of affection will not give it up even if their friends cause (them) their ruin',
-    Transliteration:
-      'Azhivandha Seyyinum  Anparaar  Anpin<br />Vazhivandha  Kenmai  Yavar',
+    Transliteration: 'Azhivandha Seyyinum  Anparaar  Anpin<br />Vazhivandha  Kenmai  Yavar',
   },
   {
     Index: 808,
-    Tamil:
-      'கேளிழுக்கங் கேளாக் கெழுதகைமை வல்லார்க்கு<br />நாளிழுக்கம் நட்டார் செயின்',
+    Tamil: 'கேளிழுக்கங் கேளாக் கெழுதகைமை வல்லார்க்கு<br />நாளிழுக்கம் நட்டார் செயின்',
     line1: 'கேளிழுக்கங் கேளாக் கெழுதகைமை வல்லார்க்கு',
     line2: 'நாளிழுக்கம் நட்டார் செயின்',
     KalaignarUrai:
@@ -14791,18 +13779,15 @@ const kurral = [
     Tamil: 'கெடாஅ வழிவந்த கேண்மையார் கேண்மை<br />விடாஅர் விழையும் உலகு',
     line1: 'கெடாஅ வழிவந்த கேண்மையார் கேண்மை',
     line2: 'விடாஅர் விழையும் உலகு',
-    KalaignarUrai:
-      'தொன்றுதொட்டு உரிமையுடன் பழகிய நட்புறவைக் கைவிடாமல் இருப்பவரை உலகம் போற்றும்',
+    KalaignarUrai: 'தொன்றுதொட்டு உரிமையுடன் பழகிய நட்புறவைக் கைவிடாமல் இருப்பவரை உலகம் போற்றும்',
     MuVaUrai:
       'உரிமை கெடாமல் தொன்று தொட்டு வந்த உறவு உடையவரின் தொடர்பைக் கைவிடாதவரை உலகம் விரும்பிப் போற்றும்.',
     SolomonPaapaiyaUrai:
       'உரிமையை விடாது நெடுங்காலமாக வரும் நட்பினை உடையவர் கேடு செய்தாலும் அந்த நட்பை விட்டு விடாதவரை, அவரது நட்புள்ளம் குறித்து உலகம் விரும்பும்.',
-    English:
-      "Friendship of old and faithful friends,<br />Who ne'er forsake, the world commends",
+    English: "Friendship of old and faithful friends,<br />Who ne'er forsake, the world commends",
     EnglishMeaning:
       'They will be loved by the world, who have not forsaken the friendship of those with whom they have kept up an unbroken long-standing intimacy',
-    Transliteration:
-      'Ketaaa Vazhivandha  Kenmaiyaar  Kenmai<br />Vitaaar  Vizhaiyum  Ulaku',
+    Transliteration: 'Ketaaa Vazhivandha  Kenmaiyaar  Kenmai<br />Vitaaar  Vizhaiyum  Ulaku',
   },
   {
     Index: 810,
@@ -14837,8 +13822,7 @@ const kurral = [
       'Though evil men should all-absorbing friendship show,<br />Their love had better die away than grow',
     EnglishMeaning:
       'The decrease of friendship with those who look as if they would eat you up (through excess of love) while they are really destitute of goodness is far better than its increase',
-    Transliteration:
-      'Parukuvaar Polinum  Panpilaar  Kenmai<br />Perukalir  Kundral  Inidhu',
+    Transliteration: 'Parukuvaar Polinum  Panpilaar  Kenmai<br />Perukalir  Kundral  Inidhu',
   },
   {
     Index: 812,
@@ -14855,8 +13839,7 @@ const kurral = [
       'What though you gain or lose friendship of men of alien heart,<br />Who when you thrive are friends, and when you fail depart',
     EnglishMeaning:
       'Of what avail is it to get or lose the friendship of those who love when there is gain and leave when there is none ?',
-    Transliteration:
-      'Urinnattu Arinoruum  Oppilaar  Kenmai<br />Perinum  Izhappinum  En?',
+    Transliteration: 'Urinnattu Arinoruum  Oppilaar  Kenmai<br />Perinum  Izhappinum  En?',
   },
   {
     Index: 813,
@@ -14873,8 +13856,7 @@ const kurral = [
       "These are alike: the friends who ponder friendship's gain<br />Those who accept whate'er you give, and all the plundering train",
     EnglishMeaning:
       'Friendship who calculate the profits (of their friendship), prostitutes who are bent on obtaining their gains, and thieves are (all) of the same character',
-    Transliteration:
-      'Uruvadhu Seerdhookkum  Natpum  Peruvadhu<br />Kolvaarum  Kalvarum  Ner',
+    Transliteration: 'Uruvadhu Seerdhookkum  Natpum  Peruvadhu<br />Kolvaarum  Kalvarum  Ner',
   },
   {
     Index: 814,
@@ -14891,8 +13873,7 @@ const kurral = [
       'A steed untrained will leave you in the tug of war;<br />Than friends like that to dwell alone is better far',
     EnglishMeaning:
       'Solitude is more to be desired than the society of those who resemble the untrained horses which throw down (their riders) in the fields of battle',
-    Transliteration:
-      'Amarakaththu Aatrarukkum  Kallaamaa  Annaar<br />Thamarin  Thanimai  Thalai',
+    Transliteration: 'Amarakaththu Aatrarukkum  Kallaamaa  Annaar<br />Thamarin  Thanimai  Thalai',
   },
   {
     Index: 815,
@@ -14909,8 +13890,7 @@ const kurral = [
       "'Tis better not to gain than gain the friendship profitless<br />Of men of little minds, who succour fails when dangers press",
     EnglishMeaning:
       'It is far better to avoid that to contract the evil friendship of the base who cannot protect (their friends) even when appointed to do so',
-    Transliteration:
-      'Seydhemanj Chaaraach  Chiriyavar  Punkenmai<br />Eydhalin  Eydhaamai  Nandru',
+    Transliteration: 'Seydhemanj Chaaraach  Chiriyavar  Punkenmai<br />Eydhalin  Eydhaamai  Nandru',
   },
   {
     Index: 816,
@@ -14927,8 +13907,7 @@ const kurral = [
       "Better ten million times incur the wise man's hate,<br />Than form with foolish men a friendship intimate",
     EnglishMeaning:
       'The hatred of the wise is ten-million times more profitable than the excessive intimacy of the fool',
-    Transliteration:
-      'Pedhai Perungezheei  Natpin  Arivutaiyaar<br />Edhinmai  Koti  Urum',
+    Transliteration: 'Pedhai Perungezheei  Natpin  Arivutaiyaar<br />Edhinmai  Koti  Urum',
   },
   {
     Index: 817,
@@ -14945,8 +13924,7 @@ const kurral = [
       "From foes ten million fold a greater good you gain,<br />Than friendship yields that's formed with laughers vain",
     EnglishMeaning:
       'What comes from enemies is a hundred million times more profitable than what comes from the friendship of those who cause only laughter',
-    Transliteration:
-      'Nakaivakaiya Raakiya  Natpin  Pakaivaraal<br />Paththatuththa  Koti  Urum',
+    Transliteration: 'Nakaivakaiya Raakiya  Natpin  Pakaivaraal<br />Paththatuththa  Koti  Urum',
   },
   {
     Index: 818,
@@ -14963,8 +13941,7 @@ const kurral = [
       'Those men who make a grievous toil of what they do<br />On your behalf, their friendship silently eschew',
     EnglishMeaning:
       'Gradually abandon without revealing (beforehand) the friendship of those who pretend inability to carry out what they (really) could do',
-    Transliteration:
-      'Ollum Karumam  Utatru  Pavarkenmai<br />Sollaataar  Sora  Vital',
+    Transliteration: 'Ollum Karumam  Utatru  Pavarkenmai<br />Sollaataar  Sora  Vital',
   },
   {
     Index: 819,
@@ -14975,19 +13952,16 @@ const kurral = [
       'சொல்லுக்கும் செயலுக்கும் தொடர்பில்லாதவரின் நட்பு கனவிலேகூடத் துன்பத்தைத்தான் கொடுக்கும்',
     MuVaUrai:
       'செய்யும் செயல் வேறாகவும் சொல்லும் சொல் வேறாகவும் உள்ளவரின் நட்பு, ஒருவனுக்கு கனவிலும் துன்பம் தருவதாகும்.',
-    SolomonPaapaiyaUrai:
-      'சொல் ஒன்று, செயல் வேறாக இருப்பவரின் நட்பு கனவிலும் கூடத் துன்பமானதாகும்.',
+    SolomonPaapaiyaUrai: 'சொல் ஒன்று, செயல் வேறாக இருப்பவரின் நட்பு கனவிலும் கூடத் துன்பமானதாகும்.',
     English:
       "E'en in a dream the intercourse is bitterness<br />With men whose deeds are other than their words profess",
     EnglishMeaning:
       "The friendship of those whose actions do not agree with their words will distress (one) even in (one's) dreams",
-    Transliteration:
-      'Kanavinum Innaadhu  Manno  Vinaiveru<br />Solveru  Pattaar  Thotarpu',
+    Transliteration: 'Kanavinum Innaadhu  Manno  Vinaiveru<br />Solveru  Pattaar  Thotarpu',
   },
   {
     Index: 820,
-    Tamil:
-      'எனைத்துங் குறுகுதல் ஓம்பல் மனைக்கெழீஇ<br />மன்றிற் பழிப்பார் தொடர்பு',
+    Tamil: 'எனைத்துங் குறுகுதல் ஓம்பல் மனைக்கெழீஇ<br />மன்றிற் பழிப்பார் தொடர்பு',
     line1: 'எனைத்துங் குறுகுதல் ஓம்பல் மனைக்கெழீஇ',
     line2: 'மன்றிற் பழிப்பார் தொடர்பு',
     KalaignarUrai:
@@ -15018,8 +13992,7 @@ const kurral = [
       "Anvil where thou shalt smitten be, when men occasion find,<br />Is friendship's form without consenting mind",
     EnglishMeaning:
       'The friendship of those who behave like friends without inward affection is a weapon that may be thrown when a favourable opportunity presents itself',
-    Transliteration:
-      'Seeritam Kaanin  Eridharkup  Pattatai<br />Neraa  Nirandhavar  Natpu',
+    Transliteration: 'Seeritam Kaanin  Eridharkup  Pattatai<br />Neraa  Nirandhavar  Natpu',
   },
   {
     Index: 822,
@@ -15036,8 +14009,7 @@ const kurral = [
       "Friendship of those who seem our kin, but are not really kind<br />Will change from hour to hour like woman's mind",
     EnglishMeaning:
       'The friendship of those who seem to be friends while they are not, will change like the love of women',
-    Transliteration:
-      'Inampondru Inamallaar  Kenmai  Makalir<br />Manampola  Veru  Patum',
+    Transliteration: 'Inampondru Inamallaar  Kenmai  Makalir<br />Manampola  Veru  Patum',
   },
   {
     Index: 823,
@@ -15054,8 +14026,7 @@ const kurral = [
       'To heartfelt goodness men ignoble hardly may attain,<br />Although abundant stores of goodly lore they gain',
     EnglishMeaning:
       "Though (one's) enemies may have mastered many good books, it will be impossible for them to become truly loving at heart",
-    Transliteration:
-      'Palanalla Katrak  Kataiththu  Mananallar<br />Aakudhal  Maanaark  Karidhu',
+    Transliteration: 'Palanalla Katrak  Kataiththu  Mananallar<br />Aakudhal  Maanaark  Karidhu',
   },
   {
     Index: 824,
@@ -15072,8 +14043,7 @@ const kurral = [
       "'Tis fitting you should dread dissemblers' guile,<br />Whose hearts are bitter while their faces smile",
     EnglishMeaning:
       'One should fear the deceitful who smile sweetly with their face but never love with their heart',
-    Transliteration:
-      'Mukaththin Iniya  Nakaaa  Akaththinnaa<br />Vanjarai  Anjap  Patum',
+    Transliteration: 'Mukaththin Iniya  Nakaaa  Akaththinnaa<br />Vanjarai  Anjap  Patum',
   },
   {
     Index: 825,
@@ -15108,13 +14078,11 @@ const kurral = [
       'Though many goodly words they speak in friendly tone,<br />The words of foes will speedily be known',
     EnglishMeaning:
       "Though (one's) foes may utter good things as though they were friends, once will at once understand (their evil, import)",
-    Transliteration:
-      'Nattaarpol Nallavai  Sollinum  Ottaarsol<br />Ollai  Unarap  Patum',
+    Transliteration: 'Nattaarpol Nallavai  Sollinum  Ottaarsol<br />Ollai  Unarap  Patum',
   },
   {
     Index: 827,
-    Tamil:
-      'சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்<br />தீங்கு குறித்தமை யான்',
+    Tamil: 'சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்<br />தீங்கு குறித்தமை யான்',
     line1: 'சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்',
     line2: 'தீங்கு குறித்தமை யான்',
     KalaignarUrai:
@@ -15150,8 +14118,7 @@ const kurral = [
   },
   {
     Index: 829,
-    Tamil:
-      'மிகச்செய்து தம்மெள்ளு வாரை நகச்செய்து <br />நட்பினுட் சாப்புல்லற் பாற்று',
+    Tamil: 'மிகச்செய்து தம்மெள்ளு வாரை நகச்செய்து <br />நட்பினுட் சாப்புல்லற் பாற்று',
     line1: 'மிகச்செய்து தம்மெள்ளு வாரை நகச்செய்து ',
     line2: 'நட்பினுட் சாப்புல்லற் பாற்று',
     KalaignarUrai:
@@ -15182,8 +14149,7 @@ const kurral = [
       "When time shall come that foes as friends appear,<br />Then thou, to hide a hostile heart, a smiling face may'st wear",
     EnglishMeaning:
       "When one's foes begin to affect friendship, one should love them with one's looks, and, cherishing no love in the heart, give up (even the former)",
-    Transliteration:
-      'Pakainatpaam Kaalam  Varungaal  Mukanattu<br />Akanatpu  Oreei  Vital',
+    Transliteration: 'Pakainatpaam Kaalam  Varungaal  Mukanattu<br />Akanatpu  Oreei  Vital',
   },
   {
     Index: 831,
@@ -15200,8 +14166,7 @@ const kurral = [
       "What one thing merits folly's special name.<br />Letting gain go, loss for one's own to claim",
     EnglishMeaning:
       'Folly is one (of the chief defects); it is that which (makes one) incur loss and forego gain',
-    Transliteration:
-      'Pedhaimai Enpadhondru  Yaadhenin  Edhangontu<br />Oodhiyam  Poka  Vital',
+    Transliteration: 'Pedhaimai Enpadhondru  Yaadhenin  Edhangontu<br />Oodhiyam  Poka  Vital',
   },
   {
     Index: 832,
@@ -15218,8 +14183,7 @@ const kurral = [
       "'Mid follies chiefest folly is to fix your love<br />On deeds which to your station unbefitting prove",
     EnglishMeaning:
       'The greatest folly is that which leads one to take delight in doing what is forbidden',
-    Transliteration:
-      'Pedhaimaiyul Ellaam  Pedhaimai  Kaadhanmai<br />Kaiyalla  Thankat  Seyal',
+    Transliteration: 'Pedhaimaiyul Ellaam  Pedhaimai  Kaadhanmai<br />Kaiyalla  Thankat  Seyal',
   },
   {
     Index: 833,
@@ -15236,13 +14200,11 @@ const kurral = [
       "Ashamed of nothing, searching nothing out, of loveless heart,<br />Nought cherishing, 'tis thus the fool will play his part",
     EnglishMeaning:
       'Shamelessness indifference (to what must be sought after), harshness, and aversion for everything (that ought to be desired) are the qualities of the fool',
-    Transliteration:
-      'Naanaamai Naataamai  Naarinmai  Yaadhondrum<br />Penaamai  Pedhai  Thozhil',
+    Transliteration: 'Naanaamai Naataamai  Naarinmai  Yaadhondrum<br />Penaamai  Pedhai  Thozhil',
   },
   {
     Index: 834,
-    Tamil:
-      'ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்<br />பேதையிற் பேதையார் இல்',
+    Tamil: 'ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்<br />பேதையிற் பேதையார் இல்',
     line1: 'ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்',
     line2: 'பேதையிற் பேதையார் இல்',
     KalaignarUrai:
@@ -15273,8 +14235,7 @@ const kurral = [
       'The fool will merit hell in one brief life on earth,<br />In which he entering sinks through sevenfold round of birth',
     EnglishMeaning:
       'A fool can procure in a single birth a hell into which he may enter and suffer through all the seven births',
-    Transliteration:
-      'Orumaich Cheyalaatrum  Pedhai  Ezhumaiyum<br />Thaanpuk  Kazhundhum  Alaru',
+    Transliteration: 'Orumaich Cheyalaatrum  Pedhai  Ezhumaiyum<br />Thaanpuk  Kazhundhum  Alaru',
   },
   {
     Index: 836,
@@ -15291,8 +14252,7 @@ const kurral = [
       'When fool some task attempts with uninstructed pains,<br />It fails; nor that alone, himself he binds with chains',
     EnglishMeaning:
       'If the fool, who knows not how to act undertakes a work, he will (certainly) fail (But) is it all ? He will even adorn himself with fetters',
-    Transliteration:
-      'Poipatum Ondro  Punaipoonum  Kaiyariyaap<br />Pedhai  Vinaimer  Kolin',
+    Transliteration: 'Poipatum Ondro  Punaipoonum  Kaiyariyaap<br />Pedhai  Vinaimer  Kolin',
   },
   {
     Index: 837,
@@ -15309,8 +14269,7 @@ const kurral = [
       "When fools are blessed with fortune's bounteous store,<br />Their foes feed full, their friends are prey to hunger sore",
     EnglishMeaning:
       'If a fool happens to get an immense fortune, his neighbours will enjoy it while his relations starve',
-    Transliteration:
-      'Edhilaar Aarath  Thamarpasippar  Pedhai<br />Perunjelvam  Utrak  Katai',
+    Transliteration: 'Edhilaar Aarath  Thamarpasippar  Pedhai<br />Perunjelvam  Utrak  Katai',
   },
   {
     Index: 838,
@@ -15327,8 +14286,7 @@ const kurral = [
       "When folly's hand grasps wealth's increase, 'twill be<br />As when a mad man raves in drunken glee",
     EnglishMeaning:
       'A fool happening to possess something is like the intoxication of one who is (already) giddy',
-    Transliteration:
-      'Maiyal Oruvan  Kaliththatraal  Pedhaidhan<br />Kaiyondru  Utaimai  Perin',
+    Transliteration: 'Maiyal Oruvan  Kaliththatraal  Pedhaidhan<br />Kaiyondru  Utaimai  Perin',
   },
   {
     Index: 839,
@@ -15345,13 +14303,11 @@ const kurral = [
       'Friendship of fools is very pleasant thing,<br />Parting with them will leave behind no sting',
     EnglishMeaning:
       'The friendship between fools is exceedingly delightful (to each other): for at parting there will be',
-    Transliteration:
-      'Peridhinidhu Pedhaiyaar  Kenmai  Pirivinkan<br />Peezhai  Tharuvadhon  Ril',
+    Transliteration: 'Peridhinidhu Pedhaiyaar  Kenmai  Pirivinkan<br />Peezhai  Tharuvadhon  Ril',
   },
   {
     Index: 840,
-    Tamil:
-      'கழாஅக்கால் பள்ளியுள் வைத்தற்றாற் சான்றோர்<br />குழாஅத்துப் பேதை புகல்',
+    Tamil: 'கழாஅக்கால் பள்ளியுள் வைத்தற்றாற் சான்றோர்<br />குழாஅத்துப் பேதை புகல்',
     line1: 'கழாஅக்கால் பள்ளியுள் வைத்தற்றாற் சான்றோர்',
     line2: 'குழாஅத்துப் பேதை புகல்',
     KalaignarUrai:
@@ -15382,8 +14338,7 @@ const kurral = [
       "Want of knowledge, 'mid all wants the sorest want we deem;<br />Want of other things the world will not as want esteem",
     EnglishMeaning:
       'The want of wisdom is the greatest of all wants; but that of wealth the world will not regard as such',
-    Transliteration:
-      'Arivinmai Inmaiyul  Inmai  Piridhinmai<br />Inmaiyaa  Vaiyaa  Thulaku',
+    Transliteration: 'Arivinmai Inmaiyul  Inmai  Piridhinmai<br />Inmaiyaa  Vaiyaa  Thulaku',
   },
   {
     Index: 842,
@@ -15400,13 +14355,11 @@ const kurral = [
       "The gift of foolish man, with willing heart bestowed, is nought,<br />But blessing by receiver's penance bought",
     EnglishMeaning:
       "(The cause of) a fool cheerfully giving (something) is nothing else but the receiver's merit (in a former birth)",
-    Transliteration:
-      'Arivilaan Nenjuvandhu  Eedhal  Piridhiyaadhum<br />Illai  Peruvaan  Thavam',
+    Transliteration: 'Arivilaan Nenjuvandhu  Eedhal  Piridhiyaadhum<br />Illai  Peruvaan  Thavam',
   },
   {
     Index: 843,
-    Tamil:
-      'அறிவிலார் தாந்தம்மைப் பீழிக்கும் பீழை<br />செறுவார்க்கும் செய்தல் அரிது',
+    Tamil: 'அறிவிலார் தாந்தம்மைப் பீழிக்கும் பீழை<br />செறுவார்க்கும் செய்தல் அரிது',
     line1: 'அறிவிலார் தாந்தம்மைப் பீழிக்கும் பீழை',
     line2: 'செறுவார்க்கும் செய்தல் அரிது',
     KalaignarUrai:
@@ -15435,10 +14388,8 @@ const kurral = [
       'அறிவின்மை என்று சொல்லப்படுவது என்ன என்று கேட்டால், அது தம்மைத் தாமே  நல அறிவு உடையவரென்று என்னும் மயக்கமே ஆகும்.',
     English:
       "What is stupidity? The arrogance that cries,<br />'Behold, we claim the glory of the wise.'",
-    EnglishMeaning:
-      "What is called want of wisdom is the vanity which says, 'We are wise'",
-    Transliteration:
-      'Venmai Enappatuva  Thiyaadhenin  Onmai<br />Utaiyamyaam  Ennum  Serukku',
+    EnglishMeaning: "What is called want of wisdom is the vanity which says, 'We are wise'",
+    Transliteration: 'Venmai Enappatuva  Thiyaadhenin  Onmai<br />Utaiyamyaam  Ennum  Serukku',
   },
   {
     Index: 845,
@@ -15455,8 +14406,7 @@ const kurral = [
       "If men what they have never learned assume to know,<br />Upon their real learning's power a doubt 'twill throw",
     EnglishMeaning:
       'Fools pretending to know what has not been read (by them) will rouse suspicion even as to what they have thoroughly mastered',
-    Transliteration:
-      'Kallaadha Merkon  Tozhukal  Kasatara<br />Valladhooum  Aiyam  Tharum',
+    Transliteration: 'Kallaadha Merkon  Tozhukal  Kasatara<br />Valladhooum  Aiyam  Tharum',
   },
   {
     Index: 846,
@@ -15473,8 +14423,7 @@ const kurral = [
       'Fools are they who their nakedness conceal,<br />And yet their faults unveiled reveal',
     EnglishMeaning:
       "Even to cover one's nakedness would be folly, if (one's) faults were not covered (by forsaking them)",
-    Transliteration:
-      'Atram Maraiththalo  Pullarivu  Thamvayin<br />Kutram  Maraiyaa  Vazhi',
+    Transliteration: 'Atram Maraiththalo  Pullarivu  Thamvayin<br />Kutram  Maraiyaa  Vazhi',
   },
   {
     Index: 847,
@@ -15491,8 +14440,7 @@ const kurral = [
       'From out his soul who lets the mystic teachings die,<br />Entails upon himself abiding misery',
     EnglishMeaning:
       'The fool who neglects precious counsel does, of his own accord, a great injury to himself',
-    Transliteration:
-      'Arumarai Sorum  Arivilaan  Seyyum<br />Perumirai  Thaane  Thanakku',
+    Transliteration: 'Arumarai Sorum  Arivilaan  Seyyum<br />Perumirai  Thaane  Thanakku',
   },
   {
     Index: 848,
@@ -15509,13 +14457,11 @@ const kurral = [
       "Advised, he heeds not; of himself knows nothing wise;<br />This man's whole life is all one plague until he dies",
     EnglishMeaning:
       'The fool will not perform (his duties) even when advised nor ascertain them himself; such a soul is a',
-    Transliteration:
-      'Evavum Seykalaan  Thaandheraan  Avvuyir<br />Poom  Alavumor  Noi',
+    Transliteration: 'Evavum Seykalaan  Thaandheraan  Avvuyir<br />Poom  Alavumor  Noi',
   },
   {
     Index: 849,
-    Tamil:
-      'காணாதான் காட்டுவான் தான்காணான் காணாதான்<br />கண்டானாம் தான்கண்ட வாறு',
+    Tamil: 'காணாதான் காட்டுவான் தான்காணான் காணாதான்<br />கண்டானாம் தான்கண்ட வாறு',
     line1: 'காணாதான் காட்டுவான் தான்காணான் காணாதான்',
     line2: 'கண்டானாம் தான்கண்ட வாறு',
     KalaignarUrai:
@@ -15551,8 +14497,7 @@ const kurral = [
   },
   {
     Index: 851,
-    Tamil:
-      'இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்<br />பண்பின்மை பாரிக்கும் நோய்',
+    Tamil: 'இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்<br />பண்பின்மை பாரிக்கும் நோய்',
     line1: 'இகலென்ப எல்லா உயிர்க்கும் பகலென்னும்',
     line2: 'பண்பின்மை பாரிக்கும் நோய்',
     KalaignarUrai:
@@ -15565,8 +14510,7 @@ const kurral = [
       "Hostility disunion's plague will bring,<br />That evil quality, to every living thing",
     EnglishMeaning:
       'The disease which fosters the evil of disunion among all creatures is termed hatred by the wise',
-    Transliteration:
-      'Ikalenpa Ellaa  Uyirkkum  Pakalennum<br />Panpinmai  Paarikkum  Noi',
+    Transliteration: 'Ikalenpa Ellaa  Uyirkkum  Pakalennum<br />Panpinmai  Paarikkum  Noi',
   },
   {
     Index: 852,
@@ -15583,8 +14527,7 @@ const kurral = [
       "Though men disunion plan, and do thee much despite<br />'Tis best no enmity to plan, nor evil deeds requite",
     EnglishMeaning:
       'Though disagreeable things may be done from (a feeling of) disunion, it is far better that nothing painful be done from (that of) hatred',
-    Transliteration:
-      'Pakalkarudhip Patraa  Seyinum  Ikalkarudhi<br />Innaasey  Yaamai  Thalai',
+    Transliteration: 'Pakalkarudhip Patraa  Seyinum  Ikalkarudhi<br />Innaasey  Yaamai  Thalai',
   },
   {
     Index: 853,
@@ -15597,17 +14540,14 @@ const kurral = [
       'ஒருவன் இகல் என்று சொல்லப்படும் துன்ப நோயை நீக்கி விட்டால் அஃது அவனுக்கு அழிவில்லாத நிலையான புகழைக் கொடுக்கும்.',
     SolomonPaapaiyaUrai:
       'மனவேறுபாடு என்னும் துன்பம் தரும் நோயை மனத்திலிருந்து நீக்கினால், அது ஒருவனுக்குக் கெடாத, அழியாத புகழைக் கொடுக்கும்.',
-    English:
-      'If enmity, that grievous plague, you shun,<br />Endless undying praises shall be won',
+    English: 'If enmity, that grievous plague, you shun,<br />Endless undying praises shall be won',
     EnglishMeaning:
       'To rid one-self of the distressing dtsease of hatred will bestow (on one) a never-decreasing imperishable fame',
-    Transliteration:
-      'Ikalennum Evvanoi  Neekkin  Thavalillaath<br />Thaavil  Vilakkam  Tharum',
+    Transliteration: 'Ikalennum Evvanoi  Neekkin  Thavalillaath<br />Thaavil  Vilakkam  Tharum',
   },
   {
     Index: 854,
-    Tamil:
-      'இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்<br />துன்பத்துள் துன்பங் கெடின்',
+    Tamil: 'இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்<br />துன்பத்துள் துன்பங் கெடின்',
     line1: 'இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்',
     line2: 'துன்பத்துள் துன்பங் கெடின்',
     KalaignarUrai:
@@ -15616,12 +14556,10 @@ const kurral = [
       'இகல் என்று சொல்லப்படும் துன்பங்களில் கொடிய துன்பம் கெட்டுவிட்டால், அஃது அவனுக்கு இன்பங்களில் சிறந்த இன்பத்தை கொடுக்கும்.',
     SolomonPaapaiyaUrai:
       'துன்பங்கள் எல்லாவற்றிலும் மிகக் கொடிதான மனவேறுபாடு எனும் துன்பம், ஒருவனது உள்ளத்துள் இல்லை என்றால், அது அவனுக்கு இன்பங்கள் எல்லாவற்றிலும் சிறந்த இன்பத்தைத் தரும்.',
-    English:
-      'Joy of joys abundant grows,<br />When malice dies that woe of woes',
+    English: 'Joy of joys abundant grows,<br />When malice dies that woe of woes',
     EnglishMeaning:
       'If hatred which is the greatest misery is destroyed, it will yield the greatest delight',
-    Transliteration:
-      'Inpaththul Inpam  Payakkum  Ikalennum<br />Thunpaththul  Thunpang  Ketin',
+    Transliteration: 'Inpaththul Inpam  Payakkum  Ikalennum<br />Thunpaththul  Thunpang  Ketin',
   },
   {
     Index: 855,
@@ -15638,8 +14576,7 @@ const kurral = [
       'If men from enmity can keep their spirits free,<br />Who over them shall gain the victory',
     EnglishMeaning:
       'Who indeed would think of conquering those who naturally shrink back from hatred ?',
-    Transliteration:
-      'Ikaledhir Saaindhozhuka  Vallaarai  Yaare<br />Mikalookkum  Thanmai  Yavar',
+    Transliteration: 'Ikaledhir Saaindhozhuka  Vallaarai  Yaare<br />Mikalookkum  Thanmai  Yavar',
   },
   {
     Index: 856,
@@ -15654,10 +14591,8 @@ const kurral = [
       'பிறருடன் மனவேறுபாடு கொண்டு வளர்வது நல்லதே என்பவன் வாழ்க்கை, அழியாமல் இருப்பதும் சிறிது காலமே; அழிந்து போவதும் சிறிது காலத்திற்குள்ளேயாம்.',
     English:
       'The life of those who cherished enmity hold dear,<br />To grievous fault and utter death is near',
-    EnglishMeaning:
-      'Failure and ruin are not far from him who says it is sweet to excel in hatred',
-    Transliteration:
-      'Ikalin Mikalinidhu  Enpavan  Vaazhkkai<br />Thavalum  Ketalum  Naniththu',
+    EnglishMeaning: 'Failure and ruin are not far from him who says it is sweet to excel in hatred',
+    Transliteration: 'Ikalin Mikalinidhu  Enpavan  Vaazhkkai<br />Thavalum  Ketalum  Naniththu',
   },
   {
     Index: 857,
@@ -15673,8 +14608,7 @@ const kurral = [
     English:
       'The very truth that greatness gives their eyes can never see,<br />Who only know to work men woe, fulfilled of enmity',
     EnglishMeaning: 'Who only know to work men woe, fulfilled of enmity',
-    Transliteration:
-      'Mikalmeval Meypporul  Kaanaar  Ikalmeval<br />Innaa  Arivi  Navar',
+    Transliteration: 'Mikalmeval Meypporul  Kaanaar  Ikalmeval<br />Innaa  Arivi  Navar',
   },
   {
     Index: 858,
@@ -15687,12 +14621,10 @@ const kurral = [
       'இகலுக்கு எதிரே சாய்ந்து நடத்தல் ஒருவனுக்கு ஆக்கமாகும், அதனை எதிர்த்து வெல்லக்கருதினால் கேடு அவனிடம் வரக் கருதும்.',
     SolomonPaapaiyaUrai:
       'மனவேறுபாடு தோன்றும்போது அதை வரவேற்காமல் இருப்பது ஒருவனுக்குச் செல்வமாகும்; வரவேற்பது கேட்டையே வரவேற்ப‌தாகும்.',
-    English:
-      "'Tis gain to turn the soul from enmity;<br />Ruin reigns where this hath mastery",
+    English: "'Tis gain to turn the soul from enmity;<br />Ruin reigns where this hath mastery",
     EnglishMeaning:
       'Shrinking back from hatred will yield wealth; indulging in its increase will hasten ruin',
-    Transliteration:
-      'Ikalirku Edhirsaaidhal  Aakkam  Adhanai<br />Mikalookkin  Ookkumaam  Ketu',
+    Transliteration: 'Ikalirku Edhirsaaidhal  Aakkam  Adhanai<br />Mikalookkin  Ookkumaam  Ketu',
   },
   {
     Index: 859,
@@ -15709,8 +14641,7 @@ const kurral = [
       "Men think not hostile thought in fortune's favouring hour,<br />They cherish enmity when in misfortune's power",
     EnglishMeaning:
       "At the approach of wealth one will not think of hatred (but) to secure one's ruin, one will look to its increase",
-    Transliteration:
-      'Ikalkaanaan Aakkam  Varungaal  Adhanai<br />Mikalkaanum  Ketu  Thararku',
+    Transliteration: 'Ikalkaanaan Aakkam  Varungaal  Adhanai<br />Mikalkaanum  Ketu  Thararku',
   },
   {
     Index: 860,
@@ -15727,8 +14658,7 @@ const kurral = [
       'From enmity do all afflictive evils flow;<br />But friendliness doth wealth of kindly good bestow',
     EnglishMeaning:
       'All calamities are caused by hatred; but by the delight (of friendship) is caused the great wealth of good virtues',
-    Transliteration:
-      'Ikalaanaam Innaadha  Ellaam  Nakalaanaam<br />Nannayam  Ennum  Serukku',
+    Transliteration: 'Ikalaanaam Innaadha  Ellaam  Nakalaanaam<br />Nannayam  Ennum  Serukku',
   },
   {
     Index: 861,
@@ -15745,13 +14675,11 @@ const kurral = [
       'With stronger than thyself, turn from the strife away;<br />With weaker shun not, rather court the fray',
     EnglishMeaning:
       'Avoid offering resistance to the strong; (but) never fail to cherish enmity towards the weak',
-    Transliteration:
-      'Valiyaarkku Maaretral  Ompuka  Ompaa<br />Meliyaarmel  Meka  Pakai',
+    Transliteration: 'Valiyaarkku Maaretral  Ompuka  Ompaa<br />Meliyaarmel  Meka  Pakai',
   },
   {
     Index: 862,
-    Tamil:
-      'அன்பிலன் ஆன்ற துணையிலன் தான்றுவ்வான்<br />என்பரியும் ஏதிலான் துப்பு',
+    Tamil: 'அன்பிலன் ஆன்ற துணையிலன் தான்றுவ்வான்<br />என்பரியும் ஏதிலான் துப்பு',
     line1: 'அன்பிலன் ஆன்ற துணையிலன் தான்றுவ்வான்',
     line2: 'என்பரியும் ஏதிலான் துப்பு',
     KalaignarUrai:
@@ -15764,8 +14692,7 @@ const kurral = [
       "No kinsman's love, no strength of friends has he;<br />How can he bear his foeman's enmity",
     EnglishMeaning:
       'How can he who is unloving, destitute of powerful aids, and himself without strength overcome the might of his foe ?',
-    Transliteration:
-      'Anpilan Aandra  Thunaiyilan  Thaandhuvvaan<br />Enpariyum  Edhilaan  Thuppu',
+    Transliteration: 'Anpilan Aandra  Thunaiyilan  Thaandhuvvaan<br />Enpariyum  Edhilaan  Thuppu',
   },
   {
     Index: 863,
@@ -15782,13 +14709,11 @@ const kurral = [
       'A craven thing! knows nought, accords with none, gives nought away;<br />To wrath of any foe he falls an easy prey',
     EnglishMeaning:
       'In the estimation of foes miserably weak is he, who is timid, ignorant, unsociable and niggardly',
-    Transliteration:
-      'Anjum Ariyaan  Amaivilan  Eekalaan<br />Thanjam  Eliyan  Pakaikku',
+    Transliteration: 'Anjum Ariyaan  Amaivilan  Eekalaan<br />Thanjam  Eliyan  Pakaikku',
   },
   {
     Index: 864,
-    Tamil:
-      'நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்<br />யாங்கணும் யார்க்கும் எளிது',
+    Tamil: 'நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்<br />யாங்கணும் யார்க்கும் எளிது',
     line1: 'நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்',
     line2: 'யாங்கணும் யார்க்கும் எளிது',
     KalaignarUrai:
@@ -15801,13 +14726,11 @@ const kurral = [
       "His wrath still blazes, every secret told; each day<br />This man's in every place to every foe an easy prey",
     EnglishMeaning:
       'He who neither refrains from anger nor keeps his secrets will at all times and in all places be easily conquered by all',
-    Transliteration:
-      'Neengaan Vekuli  Niraiyilan  Egngnaandrum<br />Yaanganum  Yaarkkum  Elidhu',
+    Transliteration: 'Neengaan Vekuli  Niraiyilan  Egngnaandrum<br />Yaanganum  Yaarkkum  Elidhu',
   },
   {
     Index: 865,
-    Tamil:
-      'வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்<br />பண்பிலன் பற்றார்க் கினிது',
+    Tamil: 'வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்<br />பண்பிலன் பற்றார்க் கினிது',
     line1: 'வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்',
     line2: 'பண்பிலன் பற்றார்க் கினிது',
     KalaignarUrai:
@@ -15838,13 +14761,11 @@ const kurral = [
       'Blind in his rage, his lustful passions rage and swell;<br />If such a man mislikes you, like it well',
     EnglishMeaning:
       'Highly to be desired is the hatred of him whose anger is blind, and whose lust increases beyond measure',
-    Transliteration:
-      'Kaanaach Chinaththaan  Kazhiperung  Kaamaththaan<br />Penaamai  Penap  Patum',
+    Transliteration: 'Kaanaach Chinaththaan  Kazhiperung  Kaamaththaan<br />Penaamai  Penap  Patum',
   },
   {
     Index: 867,
-    Tamil:
-      'கொடுத்துங் கொளல்வேண்டும் மன்ற அடுத்திருந்து<br />மாணாத செய்வான் பகை',
+    Tamil: 'கொடுத்துங் கொளல்வேண்டும் மன்ற அடுத்திருந்து<br />மாணாத செய்வான் பகை',
     line1: 'கொடுத்துங் கொளல்வேண்டும் மன்ற அடுத்திருந்து',
     line2: 'மாணாத செய்வான் பகை',
     KalaignarUrai:
@@ -15862,8 +14783,7 @@ const kurral = [
   },
   {
     Index: 868,
-    Tamil:
-      'குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்<br />கினனிலனாம் ஏமாப் புடைத்து',
+    Tamil: 'குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்<br />கினனிலனாம் ஏமாப் புடைத்து',
     line1: 'குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்',
     line2: 'கினனிலனாம் ஏமாப் புடைத்து',
     KalaignarUrai:
@@ -15894,8 +14814,7 @@ const kurral = [
       "The joy of victory is never far removed from those<br />Who've luck to meet with ignorant and timid foes",
     EnglishMeaning:
       'There will be no end of lofty delights to the victorious, if their foes are (both) ignorant and timid',
-    Transliteration:
-      'Seruvaarkkuch Chenikavaa  Inpam  Arivilaa<br />Anjum  Pakaivarp  Perin',
+    Transliteration: 'Seruvaarkkuch Chenikavaa  Inpam  Arivilaa<br />Anjum  Pakaivarp  Perin',
   },
   {
     Index: 870,
@@ -15912,8 +14831,7 @@ const kurral = [
       "The task of angry war with men unlearned in virtue's lore<br />Who will not meet, glory shall meet him never more",
     EnglishMeaning:
       'The light (of fame) will never be gained by him who gains not the trifling reputation of having fought an unlearned (foe)',
-    Transliteration:
-      'Kallaan Vekulum  Siruporul  Egngnaandrum<br />Ollaanai  Ollaa  Tholi',
+    Transliteration: 'Kallaan Vekulum  Siruporul  Egngnaandrum<br />Ollaanai  Ollaa  Tholi',
   },
   {
     Index: 871,
@@ -15924,14 +14842,11 @@ const kurral = [
       'பகை உணர்வு என்பது பண்புக்கு மாறுபாடானது என்பதால் அதனை வேடிக்கை விளையாட்டாகக்கூட ஒருவன் கொள்ளக்கூடாது',
     MuVaUrai:
       'பகை என்று சொல்லப்படும் பண்பு இல்லாத தீமையை ஒருவன் சிறிதும் பொழுது போக்கும் விளையாட்டாகவும் விரும்புதலாகாது.',
-    SolomonPaapaiyaUrai:
-      'பகை எனப்படும் பண்பற்ற ஒன்று, விளையாட்டிலும் கூட் விரும்பத்தக்கது அன்று.',
+    SolomonPaapaiyaUrai: 'பகை எனப்படும் பண்பற்ற ஒன்று, விளையாட்டிலும் கூட் விரும்பத்தக்கது அன்று.',
     English:
       "For Hate, that ill-conditioned thing not e'en in jest<br />Let any evil longing rule your breast",
-    EnglishMeaning:
-      'The evil of hatred is not of a nature to be desired by one even in sport',
-    Transliteration:
-      'Pakaiennum Panpi  Ladhanai  Oruvan<br />Nakaiyeyum  Ventarpaatru  Andru',
+    EnglishMeaning: 'The evil of hatred is not of a nature to be desired by one even in sport',
+    Transliteration: 'Pakaiennum Panpi  Ladhanai  Oruvan<br />Nakaiyeyum  Ventarpaatru  Andru',
   },
   {
     Index: 872,
@@ -15948,8 +14863,7 @@ const kurral = [
       'Although you hate incur of those whose ploughs are bows,<br />Make not the men whose ploughs are words your foes',
     EnglishMeaning:
       'Though you may incur the hatred of warriors whose ploughs are bows, incur not that of ministers whose ploughs are words',
-    Transliteration:
-      'Viller Uzhavar  Pakaikolinum  Kollarka<br />Soller  Uzhavar  Pakai',
+    Transliteration: 'Viller Uzhavar  Pakaikolinum  Kollarka<br />Soller  Uzhavar  Pakai',
   },
   {
     Index: 873,
@@ -15966,13 +14880,11 @@ const kurral = [
       "Than men of mind diseased, a wretch more utterly forlorn,<br />Is he who stands alone, object of many foeman's scorn",
     EnglishMeaning:
       'He who being alone, incurs the hatred of many is more infatuated than even mad men',
-    Transliteration:
-      'Emur Ravarinum  Ezhai  Thamiyanaaip<br />Pallaar  Pakaikol  Pavan',
+    Transliteration: 'Emur Ravarinum  Ezhai  Thamiyanaaip<br />Pallaar  Pakaikol  Pavan',
   },
   {
     Index: 874,
-    Tamil:
-      'பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்<br />தகைமைக்கண் தங்கிற் றுலகு',
+    Tamil: 'பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்<br />தகைமைக்கண் தங்கிற் றுலகு',
     line1: 'பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்',
     line2: 'தகைமைக்கண் தங்கிற் றுலகு',
     KalaignarUrai:
@@ -15989,8 +14901,7 @@ const kurral = [
   },
   {
     Index: 875,
-    Tamil:
-      'தன்றுணை இன்றால் பகையிரண்டால் தானொருவன்<br />இன்றுணையாக் கொள்கவற்றின் ஒன்று',
+    Tamil: 'தன்றுணை இன்றால் பகையிரண்டால் தானொருவன்<br />இன்றுணையாக் கொள்கவற்றின் ஒன்று',
     line1: 'தன்றுணை இன்றால் பகையிரண்டால் தானொருவன்',
     line2: 'இன்றுணையாக் கொள்கவற்றின் ஒன்று',
     KalaignarUrai:
@@ -16021,8 +14932,7 @@ const kurral = [
       "Whether you trust or not, in time of sore distress,<br />Questions of diff'rence or agreement cease to press",
     EnglishMeaning:
       "Though (one's foe is) aware or not of one's misfortune one should act so as neither to join nor separate (from him)",
-    Transliteration:
-      'Thera�num Theraa  Vitinum  Azhivinkan<br />Theraan  Pakaaan  Vital',
+    Transliteration: 'Thera�num Theraa  Vitinum  Azhivinkan<br />Theraan  Pakaaan  Vital',
   },
   {
     Index: 877,
@@ -16039,8 +14949,7 @@ const kurral = [
       "To those who know them not, complain not of your woes;<br />Nor to your foeman's eyes infirmities disclose",
     EnglishMeaning:
       'Relate not your suffering even to friends who are ignorant of it, nor refer to your weakness in the presence of your foes',
-    Transliteration:
-      'Novarka Nondhadhu  Ariyaarkku  Mevarka<br />Menmai  Pakaivar  Akaththu',
+    Transliteration: 'Novarka Nondhadhu  Ariyaarkku  Mevarka<br />Menmai  Pakaivar  Akaththu',
   },
   {
     Index: 878,
@@ -16075,8 +14984,7 @@ const kurral = [
       "Destroy the thorn, while tender point can work thee no offence;<br />Matured by time, 'twill pierce the hand that plucks it thence",
     EnglishMeaning:
       'A thorny tree should be felled while young, (for) when it is grown it will destroy the hand of the feller',
-    Transliteration:
-      'Ilaidhaaka Mulmaram  Kolka  Kalaiyunar<br />Kaikollum  Kaazhththa  Itaththu',
+    Transliteration: 'Ilaidhaaka Mulmaram  Kolka  Kalaiyunar<br />Kaikollum  Kaazhththa  Itaththu',
   },
   {
     Index: 880,
@@ -16093,8 +15001,7 @@ const kurral = [
       'But breathe upon them, and they surely die,<br />Who fail to tame the pride of angry enemy',
     EnglishMeaning:
       'Those who do not destroy the pride of those who hate (them) will certainly not exist even to breathe',
-    Transliteration:
-      'Uyirppa Ularallar  Mandra  Seyirppavar<br />Semmal  Sidhaikkalaa  Thaar',
+    Transliteration: 'Uyirppa Ularallar  Mandra  Seyirppavar<br />Semmal  Sidhaikkalaa  Thaar',
   },
   {
     Index: 881,
@@ -16111,8 +15018,7 @@ const kurral = [
       'Water and shade, if they unwholesome prove, will bring you pain<br />And qualities of friends who treacherous act, will be your bane',
     EnglishMeaning:
       "Shade and water are not pleasant, (if) they cause disease; so are the qualities of (one's) relations not agreeable, (if) they cause pain",
-    Transliteration:
-      'Nizhalneerum Innaadha  Innaa  Thamarneerum<br />Innaavaam  Innaa  Seyin',
+    Transliteration: 'Nizhalneerum Innaadha  Innaa  Thamarneerum<br />Innaavaam  Innaa  Seyin',
   },
   {
     Index: 882,
@@ -16129,8 +15035,7 @@ const kurral = [
       'Dread not the foes that as drawn swords appear;<br />Friendship of foes, who seem like kinsmen, fear',
     EnglishMeaning:
       'Fear not foes (who say they would cut) like a sword; (but) fear the friendship of foes (who seemingly',
-    Transliteration:
-      'Vaalpola Pakaivarai  Anjarka  Anjuka<br />Kelpol  Pakaivar  Thotarpu',
+    Transliteration: 'Vaalpola Pakaivarai  Anjarka  Anjuka<br />Kelpol  Pakaivar  Thotarpu',
   },
   {
     Index: 883,
@@ -16147,8 +15052,7 @@ const kurral = [
       "Of hidden hate beware, and guard thy life;<br />In troublous time 'twill deeper wound than potter's knife",
     EnglishMeaning:
       "Fear internal enmity and guard yourself; (if not) it will destroy (you) in an evil hour, as surely as the tool which cuts the potter's clay",
-    Transliteration:
-      'Utpakai Anjiththar  Kaakka  Ulaivitaththu<br />Matpakaiyin  Maanath  Therum',
+    Transliteration: 'Utpakai Anjiththar  Kaakka  Ulaivitaththu<br />Matpakaiyin  Maanath  Therum',
   },
   {
     Index: 884,
@@ -16165,8 +15069,7 @@ const kurral = [
       'If secret enmities arise that minds pervert,<br />Then even kin unkind will work thee grievous hurt',
     EnglishMeaning:
       "The secret enmity of a person whose mind in unreformed will lead to many evils causing disaffection among (one's) relations",
-    Transliteration:
-      'Manamaanaa Utpakai  Thondrin  Inamaanaa<br />Edham  Palavum  Tharum',
+    Transliteration: 'Manamaanaa Utpakai  Thondrin  Inamaanaa<br />Edham  Palavum  Tharum',
   },
   {
     Index: 885,
@@ -16179,12 +15082,10 @@ const kurral = [
       'உறவுமுறையோடு உட்பகை உண்டாகுமானால், அது ஒருவனுக்கு இறக்கும் வகையான துன்பம் பலவற்றையும் கொடுக்கும்.',
     SolomonPaapaiyaUrai:
       'உறவு முறையை உடையவனே ( சொந்தக் கட்சிக்காரனே) உட்பகையானால், அது சாவோடு கூடிய குற்றம் பலவற்றையும் உண்டாக்கும்.',
-    English:
-      "Amid one's relatives if hidden hath arise,<br />'Twill hurt inflict in deadly wise",
+    English: "Amid one's relatives if hidden hath arise,<br />'Twill hurt inflict in deadly wise",
     EnglishMeaning:
       "If there appears internal hatred in a (king's) family; it will lead to many a fatal crime",
-    Transliteration:
-      'Uralmuraiyaan Utpakai  Thondrin  Iralmuraiyaan<br />Edham  Palavum  Tharum',
+    Transliteration: 'Uralmuraiyaan Utpakai  Thondrin  Iralmuraiyaan<br />Edham  Palavum  Tharum',
   },
   {
     Index: 886,
@@ -16201,8 +15102,7 @@ const kurral = [
       "If discord finds a place midst those who dwelt at one before,<br />'Tis ever hard to keep destruction from the door",
     EnglishMeaning:
       "If hatred arises among (one's) own people, it will be hardly possible (for one) to escape death",
-    Transliteration:
-      'Ondraamai Ondriyaar  Katpatin  Egngnaandrum<br />Pondraamai  Ondral  Aridhu',
+    Transliteration: 'Ondraamai Ondriyaar  Katpatin  Egngnaandrum<br />Pondraamai  Ondral  Aridhu',
   },
   {
     Index: 887,
@@ -16219,8 +15119,7 @@ const kurral = [
       'As casket with its cover, though in one they live alway,<br />No union to the house where hate concealed hath sway',
     EnglishMeaning:
       'Never indeed will a family subject to internal hatred unite (really) though it may present an apparent union like that of a casket and its lid',
-    Transliteration:
-      'Seppin Punarchchipol  Kootinum  Kootaadhe<br />Utpakai  Utra  Kuti',
+    Transliteration: 'Seppin Punarchchipol  Kootinum  Kootaadhe<br />Utpakai  Utra  Kuti',
   },
   {
     Index: 888,
@@ -16237,16 +15136,14 @@ const kurral = [
       'As gold with which the file contends is worn away,<br />So strength of house declines where hate concealed hath sway',
     EnglishMeaning:
       'A family subject to internal hatred will wear out and lose its strength like iron that has been filed away',
-    Transliteration:
-      'Aramporudha Ponpolath  Theyum  Uramporudhu<br />Utpakai  Utra  Kuti',
+    Transliteration: 'Aramporudha Ponpolath  Theyum  Uramporudhu<br />Utpakai  Utra  Kuti',
   },
   {
     Index: 889,
     Tamil: 'எட்பக வன்ன சிறுமைத்தே ஆயினும்<br />உட்பகை உள்ளதாங் கேடு',
     line1: 'எட்பக வன்ன சிறுமைத்தே ஆயினும்',
     line2: 'உட்பகை உள்ளதாங் கேடு',
-    KalaignarUrai:
-      'எள்ளின் பிளவுபோன்று சிறிதாக இருந்தாலும் உட்பகையால் பெருங்கேடு விளையும்',
+    KalaignarUrai: 'எள்ளின் பிளவுபோன்று சிறிதாக இருந்தாலும் உட்பகையால் பெருங்கேடு விளையும்',
     MuVaUrai:
       'எள்ளின் பிளவைப் போன்ற சிறிய அளவு உடையதே ஆனாலும், ஒரு குடியை அழிக்கவல்ல கேடு உட்பகையில் உள்ளதாகும்.',
     SolomonPaapaiyaUrai:
@@ -16255,8 +15152,7 @@ const kurral = [
       "Though slight as shred of 'seasame' seed it be,<br />Destruction lurks in hidden enmity",
     EnglishMeaning:
       'Although internal hatred be as small as the fragment of the sesamum (seed), still does destruction dwell in it',
-    Transliteration:
-      'Etpaka Vanna  Sirumaiththe  Aayinum<br />Utpakai  Ulladhaang  Ketu',
+    Transliteration: 'Etpaka Vanna  Sirumaiththe  Aayinum<br />Utpakai  Ulladhaang  Ketu',
   },
   {
     Index: 890,
@@ -16273,8 +15169,7 @@ const kurral = [
       "Domestic life with those who don't agree,<br />Is dwelling in a shed with snake for company",
     EnglishMeaning:
       'Living with those who do not agree (with one) is like dwelling with a cobra (in the same) hut',
-    Transliteration:
-      'Utampaatu Ilaadhavar  Vaazhkkai  Kutangarul<br />Paampotu  Utanurain  Thatru',
+    Transliteration: 'Utampaatu Ilaadhavar  Vaazhkkai  Kutangarul<br />Paampotu  Utanurain  Thatru',
   },
   {
     Index: 891,
@@ -16291,26 +15186,22 @@ const kurral = [
       'The chiefest care of those who guard themselves from ill,<br />Is not to slight the powers of those who work their mighty will',
     EnglishMeaning:
       'Not to disregard the power of those who can carry out (their wishes) is more important than all the watchfulness of those who guard (themselves against evil)',
-    Transliteration:
-      'Aatruvaar Aatral  Ikazhaamai  Potruvaar<br />Potralul  Ellaam  Thalai',
+    Transliteration: 'Aatruvaar Aatral  Ikazhaamai  Potruvaar<br />Potralul  Ellaam  Thalai',
   },
   {
     Index: 892,
     Tamil: 'பெரியாரைப் பேணா தொழுகிற் பெரியாராற்<br />பேரா இடும்பை தரும்',
     line1: 'பெரியாரைப் பேணா தொழுகிற் பெரியாராற்',
     line2: 'பேரா இடும்பை தரும்',
-    KalaignarUrai:
-      'பெரியோர்களை மதிக்காமல் நடந்து கொண்டால் நீங்காத பெருந்துன்பத்தை அடைய நேரிடும்',
+    KalaignarUrai: 'பெரியோர்களை மதிக்காமல் நடந்து கொண்டால் நீங்காத பெருந்துன்பத்தை அடைய நேரிடும்',
     MuVaUrai:
       'ஆற்றல் மிகுந்த பெரியாரை விரும்பி மதிக்காமல் நடந்தால், அது அப் பெரியாரால் நீங்காத துன்பத்தைத் தருவதாகும்.',
-    SolomonPaapaiyaUrai:
-      'பெரியவர்களை மதிக்காமல் நடந்தால், அப்பெரியவர்களால் தீராத துன்பம் வரும்.',
+    SolomonPaapaiyaUrai: 'பெரியவர்களை மதிக்காமல் நடந்தால், அப்பெரியவர்களால் தீராத துன்பம் வரும்.',
     English:
       "If men will lead their lives reckless of great men's will,<br />Such life, through great men's powers, will bring perpetual ill",
     EnglishMeaning:
       'To behave without respect for the great (rulers) will make them do (us) irremediable evils',
-    Transliteration:
-      'Periyaaraip Penaadhu  Ozhukir  Periyaaraal<br />Peraa  Itumpai  Tharum',
+    Transliteration: 'Periyaaraip Penaadhu  Ozhukir  Periyaaraal<br />Peraa  Itumpai  Tharum',
   },
   {
     Index: 893,
@@ -16327,13 +15218,11 @@ const kurral = [
       'Who ruin covet let them shut their ears, and do despite<br />To those who, where they list to ruin have the might',
     EnglishMeaning:
       'If a person desires ruin, let him not listen to the righteous dictates of law, but commit crimes against those who are able to slay (other sovereigns)',
-    Transliteration:
-      'Ketalventin Kelaadhu  Seyka  Atalventin<br />Aatru  Pavarkan  Izhukku',
+    Transliteration: 'Ketalventin Kelaadhu  Seyka  Atalventin<br />Aatru  Pavarkan  Izhukku',
   },
   {
     Index: 894,
-    Tamil:
-      'கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்<br />காற்றாதார் இன்னா செயல்',
+    Tamil: 'கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்<br />காற்றாதார் இன்னா செயல்',
     line1: 'கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்',
     line2: 'காற்றாதார் இன்னா செயல்',
     KalaignarUrai:
@@ -16351,8 +15240,7 @@ const kurral = [
   },
   {
     Index: 895,
-    Tamil:
-      'யாண்டுச்சென் றியாண்டும் உளராகார் வெந்துப்பின்<br />வேந்து செறப்பட் டவர்',
+    Tamil: 'யாண்டுச்சென் றியாண்டும் உளராகார் வெந்துப்பின்<br />வேந்து செறப்பட் டவர்',
     line1: 'யாண்டுச்சென் றியாண்டும் உளராகார் வெந்துப்பின்',
     line2: 'வேந்து செறப்பட் டவர்',
     KalaignarUrai:
@@ -16370,8 +15258,7 @@ const kurral = [
   },
   {
     Index: 896,
-    Tamil:
-      'எரியாற் சுடப்படினும் உய்வுண்டாம் உய்யார்<br />பெரியார்ப் பிழைத்தொழுகு வார்',
+    Tamil: 'எரியாற் சுடப்படினும் உய்வுண்டாம் உய்யார்<br />பெரியார்ப் பிழைத்தொழுகு வார்',
     line1: 'எரியாற் சுடப்படினும் உய்வுண்டாம் உய்யார்',
     line2: 'பெரியார்ப் பிழைத்தொழுகு வார்',
     KalaignarUrai:
@@ -16389,8 +15276,7 @@ const kurral = [
   },
   {
     Index: 897,
-    Tamil:
-      'வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்<br />தகைமாண்ட தக்கார் செறின்',
+    Tamil: 'வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்<br />தகைமாண்ட தக்கார் செறின்',
     line1: 'வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்',
     line2: 'தகைமாண்ட தக்கார் செறின்',
     KalaignarUrai:
@@ -16408,8 +15294,7 @@ const kurral = [
   },
   {
     Index: 898,
-    Tamil:
-      'குன்றன்னார் குன்ற மதிப்பிற் குடியொடு<br />நின்றன்னார் மாய்வர் நிலத்து',
+    Tamil: 'குன்றன்னார் குன்ற மதிப்பிற் குடியொடு<br />நின்றன்னார் மாய்வர் நிலத்து',
     line1: 'குன்றன்னார் குன்ற மதிப்பிற் குடியொடு',
     line2: 'நின்றன்னார் மாய்வர் நிலத்து',
     KalaignarUrai:
@@ -16422,8 +15307,7 @@ const kurral = [
       'If they, whose virtues like a mountain rise, are light esteemed;<br />They die from earth who, with their households, ever-during seemed',
     EnglishMeaning:
       'If (the) hill-like (devotees) resolve on destruction, those who seemed to be everlasting will be destroyed root and branch from the earth',
-    Transliteration:
-      'Kundrannaar Kundra  Madhippin  Kutiyotu<br />Nindrannaar  Maaivar  Nilaththu',
+    Transliteration: 'Kundrannaar Kundra  Madhippin  Kutiyotu<br />Nindrannaar  Maaivar  Nilaththu',
   },
   {
     Index: 899,
@@ -16439,13 +15323,11 @@ const kurral = [
     English:
       'When blazes forth the wrath of men of lofty fame,<br />Kings even fall from high estate and perish in the flame',
     EnglishMeaning: 'Kings even fall from high estate and perish in the flame',
-    Transliteration:
-      'Endhiya Kolkaiyaar  Seerin  Itaimurindhu<br />Vendhanum  Vendhu  Ketum',
+    Transliteration: 'Endhiya Kolkaiyaar  Seerin  Itaimurindhu<br />Vendhanum  Vendhu  Ketum',
   },
   {
     Index: 900,
-    Tamil:
-      'இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார்<br />சிறந்தமைந்த சீரார் செறின்',
+    Tamil: 'இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார்<br />சிறந்தமைந்த சீரார் செறின்',
     line1: 'இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார்',
     line2: 'சிறந்தமைந்த சீரார் செறின்',
     KalaignarUrai:
@@ -16463,8 +15345,7 @@ const kurral = [
   },
   {
     Index: 901,
-    Tamil:
-      'மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்<br />வேண்டாப் பொருளும் அது',
+    Tamil: 'மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்<br />வேண்டாப் பொருளும் அது',
     line1: 'மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழைவார்',
     line2: 'வேண்டாப் பொருளும் அது',
     KalaignarUrai:
@@ -16495,13 +15376,11 @@ const kurral = [
       "Who gives himself to love of wife, careless of noble name<br />His wealth will clothe him with o'erwhelming shame",
     EnglishMeaning:
       "The wealth of him who, regardless (of his manliness), devotes himself to his wife's feminine nature will cause great shame (to ali men) and to himself;",
-    Transliteration:
-      'Penaadhu Penvizhaivaan  Aakkam  Periyadhor<br />Naanaaka  Naanuth  Tharum',
+    Transliteration: 'Penaadhu Penvizhaivaan  Aakkam  Periyadhor<br />Naanaaka  Naanuth  Tharum',
   },
   {
     Index: 903,
-    Tamil:
-      'இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்<br />நல்லாருள் நாணுத் தரும்',
+    Tamil: 'இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்<br />நல்லாருள் நாணுத் தரும்',
     line1: 'இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்',
     line2: 'நல்லாருள் நாணுத் தரும்',
     KalaignarUrai:
@@ -16532,8 +15411,7 @@ const kurral = [
       "No glory crowns e'en manly actions wrought<br />By him who dreads his wife, nor gives the other world a thought",
     EnglishMeaning:
       'The undertaking of one, who fears his wife and is therefore destitute of (bliss), will never be applauded',
-    Transliteration:
-      'Manaiyaalai Anjum  Marumaiyi  Laalan<br />Vinaiyaanmai  Veereydha  Lindru',
+    Transliteration: 'Manaiyaalai Anjum  Marumaiyi  Laalan<br />Vinaiyaanmai  Veereydha  Lindru',
   },
   {
     Index: 905,
@@ -16550,8 +15428,7 @@ const kurral = [
       'Who quakes before his wife will ever tremble too,<br />Good deeds to men of good deserts to do',
     EnglishMeaning:
       'He that fears his wife will always be afraid of doing good deeds (even) to the good',
-    Transliteration:
-      'Illaalai Anjuvaan  Anjumar  Regngnaandrum<br />Nallaarkku  Nalla  Seyal',
+    Transliteration: 'Illaalai Anjuvaan  Anjumar  Regngnaandrum<br />Nallaarkku  Nalla  Seyal',
   },
   {
     Index: 906,
@@ -16568,13 +15445,11 @@ const kurral = [
       "Though, like the demi-gods, in bliss they dwell secure from harm,<br />Those have no dignity who fear the housewife's slender arm",
     EnglishMeaning:
       'They that fear the bamboo-like shoulders of their wives will be destitute of manliness though they may flourish like the Gods',
-    Transliteration:
-      'Imaiyaarin Vaazhinum  Paatilare  Illaal<br />Amaiyaardhol  Anju  Pavar',
+    Transliteration: 'Imaiyaarin Vaazhinum  Paatilare  Illaal<br />Amaiyaardhol  Anju  Pavar',
   },
   {
     Index: 907,
-    Tamil:
-      'பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்<br />பெண்ணே பெருமை உடைத்து',
+    Tamil: 'பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்<br />பெண்ணே பெருமை உடைத்து',
     line1: 'பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்',
     line2: 'பெண்ணே பெருமை உடைத்து',
     KalaignarUrai:
@@ -16587,13 +15462,11 @@ const kurral = [
       "The dignity of modest womanhood excels<br />His manliness, obedient to a woman's law who dwells",
     EnglishMeaning:
       'Even shame faced womanhood is more to be esteemed than the shameless manhood that performs',
-    Transliteration:
-      'Penneval Seydhozhukum  Aanmaiyin  Naanutaip<br />Penne  Perumai  Utaiththu',
+    Transliteration: 'Penneval Seydhozhukum  Aanmaiyin  Naanutaip<br />Penne  Perumai  Utaiththu',
   },
   {
     Index: 908,
-    Tamil:
-      'நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்<br />பெட்டாங் கொழுகு பவர்',
+    Tamil: 'நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்<br />பெட்டாங் கொழுகு பவர்',
     line1: 'நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்',
     line2: 'பெட்டாங் கொழுகு பவர்',
     KalaignarUrai:
@@ -16611,8 +15484,7 @@ const kurral = [
   },
   {
     Index: 909,
-    Tamil:
-      'அறவினையும் ஆன்ற பொருளும் பிறவினையும்<br />பெண்ணேவல் செய்வார்கண் இல்',
+    Tamil: 'அறவினையும் ஆன்ற பொருளும் பிறவினையும்<br />பெண்ணேவல் செய்வார்கண் இல்',
     line1: 'அறவினையும் ஆன்ற பொருளும் பிறவினையும்',
     line2: 'பெண்ணேவல் செய்வார்கண் இல்',
     KalaignarUrai:
@@ -16625,13 +15497,11 @@ const kurral = [
       "No virtuous deed, no seemly wealth, no pleasure, rests<br />With them who live obedient to their wives' behests",
     EnglishMeaning:
       'From those who obey the commands of their wives are to be expected neither deeds of virtue, nor those of wealth nor (even) those of pleasure',
-    Transliteration:
-      'Aravinaiyum Aandra  Porulum  Piravinaiyum<br />Peneval  Seyvaarkan  Il',
+    Transliteration: 'Aravinaiyum Aandra  Porulum  Piravinaiyum<br />Peneval  Seyvaarkan  Il',
   },
   {
     Index: 910,
-    Tamil:
-      'எண்சேர்ந்த நெஞ்சத் திடனுடையார்க் கெஞ்ஞான்றும்<br />பெண்சேர்ந்தாம் பேதைமை இல்',
+    Tamil: 'எண்சேர்ந்த நெஞ்சத் திடனுடையார்க் கெஞ்ஞான்றும்<br />பெண்சேர்ந்தாம் பேதைமை இல்',
     line1: 'எண்சேர்ந்த நெஞ்சத் திடனுடையார்க் கெஞ்ஞான்றும்',
     line2: 'பெண்சேர்ந்தாம் பேதைமை இல்',
     KalaignarUrai:
@@ -16649,8 +15519,7 @@ const kurral = [
   },
   {
     Index: 911,
-    Tamil:
-      'அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்<br />இன்சொல் இழுக்குத் தரும்',
+    Tamil: 'அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்<br />இன்சொல் இழுக்குத் தரும்',
     line1: 'அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்',
     line2: 'இன்சொல் இழுக்குத் தரும்',
     KalaignarUrai:
@@ -16663,13 +15532,11 @@ const kurral = [
       'Those that choice armlets wear who seek not thee with love,<br />But seek thy wealth, their pleasant words will ruin prove',
     EnglishMeaning:
       'The sweet words of elegant braceleted (prostitutes) who desire (a man) not from affection but from avarice, will cause sorrow',
-    Transliteration:
-      'Anpin Vizhaiyaar  Porulvizhaiyum  Aaidhotiyaar<br />Insol  Izhukkuth  Tharum',
+    Transliteration: 'Anpin Vizhaiyaar  Porulvizhaiyum  Aaidhotiyaar<br />Insol  Izhukkuth  Tharum',
   },
   {
     Index: 912,
-    Tamil:
-      'பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்<br />நயன்தூக்கி நள்ளா விடல்',
+    Tamil: 'பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்<br />நயன்தூக்கி நள்ளா விடல்',
     line1: 'பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்',
     line2: 'நயன்தூக்கி நள்ளா விடல்',
     KalaignarUrai:
@@ -16682,13 +15549,11 @@ const kurral = [
       "Who weigh the gain, and utter virtuous words with vicious heart,<br />Weighing such women's worth, from their society depart",
     EnglishMeaning:
       'One must ascertain the character of the ill-natured women who after ascertaining the wealth (of a man) speak (as if they were) good natured-ones, and avoid intercourse (with them)',
-    Transliteration:
-      'Payandhookkip Panpuraikkum  Panpin  Makalir<br />Nayandhookki  Nallaa  Vital',
+    Transliteration: 'Payandhookkip Panpuraikkum  Panpin  Makalir<br />Nayandhookki  Nallaa  Vital',
   },
   {
     Index: 913,
-    Tamil:
-      'பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்<br />ஏதில் பிணந்தழீஇ அற்று',
+    Tamil: 'பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்<br />ஏதில் பிணந்தழீஇ அற்று',
     line1: 'பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்',
     line2: 'ஏதில் பிணந்தழீஇ அற்று',
     KalaignarUrai:
@@ -16701,8 +15566,7 @@ const kurral = [
       "As one in darkened room, some stranger corpse inarms,<br />Is he who seeks delight in mercenary women's charms",
     EnglishMeaning:
       'The false embraces of wealth-loving women are like (hired men) embracing a strange corpse in a dark room',
-    Transliteration:
-      'Porutpentir Poimmai  Muyakkam  Iruttaraiyil<br />Edhil  Pinandhazheei  Atru',
+    Transliteration: 'Porutpentir Poimmai  Muyakkam  Iruttaraiyil<br />Edhil  Pinandhazheei  Atru',
   },
   {
     Index: 914,
@@ -16719,8 +15583,7 @@ const kurral = [
       'Their worthless charms, whose only weal is wealth of gain,<br />From touch of these the wise, who seek the wealth of grace, abstain',
     EnglishMeaning:
       'The wise who seek the wealth of grace will not desire the base favours of those who regard wealth (and not pleasure) as (their) riches',
-    Transliteration:
-      'Porutporulaar Punnalan  Thoyaar  Arutporul<br />Aayum  Arivi  Navar',
+    Transliteration: 'Porutporulaar Punnalan  Thoyaar  Arutporul<br />Aayum  Arivi  Navar',
   },
   {
     Index: 915,
@@ -16742,8 +15605,7 @@ const kurral = [
   },
   {
     Index: 916,
-    Tamil:
-      'தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப் <br />புன்னலம் பாரிப்பார் தோள்',
+    Tamil: 'தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப் <br />புன்னலம் பாரிப்பார் தோள்',
     line1: 'தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப் ',
     line2: 'புன்னலம் பாரிப்பார் தோள்',
     KalaignarUrai:
@@ -16774,8 +15636,7 @@ const kurral = [
       "Who cherish alien thoughts while folding in their feigned embrace,<br />These none approach save those devoid of virtue's grace",
     EnglishMeaning:
       'Those who are destitute of a perfectly (reformed) mind will covet the shoulders of those who embrace (them) while their hearts covet other things',
-    Transliteration:
-      'Nirainenjam Illavar  Thoivaar  Piranenjir<br />Penip  Punarpavar  Thol',
+    Transliteration: 'Nirainenjam Illavar  Thoivaar  Piranenjir<br />Penip  Punarpavar  Thol',
   },
   {
     Index: 918,
@@ -16792,8 +15653,7 @@ const kurral = [
       "As demoness who lures to ruin woman's treacherous love<br />To men devoid of wisdom's searching power will prove",
     EnglishMeaning:
       'The wise say that to such as are destitute of discerning sense the embraces of faithless women are (as ruinous as those of) the celestail female',
-    Transliteration:
-      'Aayum Arivinar  Allaarkku  Anangenpa<br />Maaya  Makalir  Muyakku',
+    Transliteration: 'Aayum Arivinar  Allaarkku  Anangenpa<br />Maaya  Makalir  Muyakku',
   },
   {
     Index: 919,
@@ -16828,13 +15688,11 @@ const kurral = [
       "Women of double minds, strong drink, and dice; to these giv'n o'er,<br />Are those on whom the light of Fortune shines no more",
     EnglishMeaning:
       'Treacherous women, liquor, and gambling are the associates of such as have forsaken by Fortune',
-    Transliteration:
-      '920 Irumanap  Pentirum  Kallum  Kavarum<br />Thiruneekkap  Pattaar  Thotarpu',
+    Transliteration: '920 Irumanap  Pentirum  Kallum  Kavarum<br />Thiruneekkap  Pattaar  Thotarpu',
   },
   {
     Index: 921,
-    Tamil:
-      'உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்<br />கட்காதல் கொண்டொழுகு வார்',
+    Tamil: 'உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்<br />கட்காதல் கொண்டொழுகு வார்',
     line1: 'உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும்',
     line2: 'கட்காதல் கொண்டொழுகு வார்',
     KalaignarUrai:
@@ -16847,8 +15705,7 @@ const kurral = [
       "Who love the palm's intoxicating juice, each day,<br />No rev'rence they command, their glory fades away",
     EnglishMeaning:
       'Those who always thirst after drink will neither inspire fear (in others) nor retain the light (of their fame)',
-    Transliteration:
-      'Utkap Pataaar  Oliyizhappar  Egngnaandrum<br />Katkaadhal  Kontozhuku  Vaar',
+    Transliteration: 'Utkap Pataaar  Oliyizhappar  Egngnaandrum<br />Katkaadhal  Kontozhuku  Vaar',
   },
   {
     Index: 922,
@@ -16865,13 +15722,11 @@ const kurral = [
       "Drink not inebriating draught Let him count well the cost<br />Who drinks, by drinking, all good men's esteem is lost",
     EnglishMeaning:
       'Let no liquor be drunk; if it is desired, let it be drunk by those who care not for esteem of the great',
-    Transliteration:
-      'Unnarka Kallai  Unilunka  Saandroraan<br />Ennap  Pataventaa  Thaar',
+    Transliteration: 'Unnarka Kallai  Unilunka  Saandroraan<br />Ennap  Pataventaa  Thaar',
   },
   {
     Index: 923,
-    Tamil:
-      'ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்<br />சான்றோர் முகத்துக் களி',
+    Tamil: 'ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்<br />சான்றோர் முகத்துக் களி',
     line1: 'ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்',
     line2: 'சான்றோர் முகத்துக் களி',
     KalaignarUrai:
@@ -16889,8 +15744,7 @@ const kurral = [
   },
   {
     Index: 924,
-    Tamil:
-      'நாணென்னும் நல்லாள் புறங்கொடுக்கும் கள்ளென்னும்<br />பேணாப் பெருங்குற்றத் தார்க்கு',
+    Tamil: 'நாணென்னும் நல்லாள் புறங்கொடுக்கும் கள்ளென்னும்<br />பேணாப் பெருங்குற்றத் தார்க்கு',
     line1: 'நாணென்னும் நல்லாள் புறங்கொடுக்கும் கள்ளென்னும்',
     line2: 'பேணாப் பெருங்குற்றத் தார்க்கு',
     KalaignarUrai:
@@ -16921,13 +15775,11 @@ const kurral = [
       'With gift of goods who self-oblivion buys,<br />Is ignorant of all that man should prize',
     EnglishMeaning:
       "To give money and purchase unconsciousness is the result of one's ignorance of (one's own actions)",
-    Transliteration:
-      'Kaiyari Yaamai  Utaiththe  Porulkotuththu<br />Meyyari  Yaamai  Kolal',
+    Transliteration: 'Kaiyari Yaamai  Utaiththe  Porulkotuththu<br />Meyyari  Yaamai  Kolal',
   },
   {
     Index: 926,
-    Tamil:
-      'துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்<br />நஞ்சுண்பார் கள்ளுண் பவர்',
+    Tamil: 'துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்<br />நஞ்சுண்பார் கள்ளுண் பவர்',
     line1: 'துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்',
     line2: 'நஞ்சுண்பார் கள்ளுண் பவர்',
     KalaignarUrai:
@@ -16945,8 +15797,7 @@ const kurral = [
   },
   {
     Index: 927,
-    Tamil:
-      'உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் <br />கள்ளொற்றிக் கண்சாய் பவர்',
+    Tamil: 'உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் <br />கள்ளொற்றிக் கண்சாய் பவர்',
     line1: 'உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் ',
     line2: 'கள்ளொற்றிக் கண்சாய் பவர்',
     KalaignarUrai:
@@ -16959,8 +15810,7 @@ const kurral = [
       "Who turn aside to drink, and droop their heavy eye,<br />Shall be their townsmen's jest, when they the fault espy",
     EnglishMeaning:
       'Those who always intoxicate themselves by a private (indulgence in) drink; will have their secrets detected and laughed at by their fellow-townsmen',
-    Transliteration:
-      'Ullotri Ulloor  Nakappatuvar  Egngnaandrum<br />Kallotrik  Kansaai  Pavar',
+    Transliteration: 'Ullotri Ulloor  Nakappatuvar  Egngnaandrum<br />Kallotrik  Kansaai  Pavar',
   },
   {
     Index: 928,
@@ -16982,8 +15832,7 @@ const kurral = [
   },
   {
     Index: 929,
-    Tamil:
-      'களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்<br />குளித்தானைத் தீத்துரீஇ அற்று',
+    Tamil: 'களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்<br />குளித்தானைத் தீத்துரீஇ அற்று',
     line1: 'களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்',
     line2: 'குளித்தானைத் தீத்துரீஇ அற்று',
     KalaignarUrai:
@@ -17001,8 +15850,7 @@ const kurral = [
   },
   {
     Index: 930,
-    Tamil:
-      'கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கால்<br />உள்ளான்கொல் உண்டதன் சோர்வு',
+    Tamil: 'கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கால்<br />உள்ளான்கொல் உண்டதன் சோர்வு',
     line1: 'கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கால்',
     line2: 'உள்ளான்கொல் உண்டதன் சோர்வு',
     KalaignarUrai:
@@ -17020,8 +15868,7 @@ const kurral = [
   },
   {
     Index: 931,
-    Tamil:
-      'வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்<br />தூண்டிற்பொன் மீன்விழுங்கி அற்று',
+    Tamil: 'வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்<br />தூண்டிற்பொன் மீன்விழுங்கி அற்று',
     line1: 'வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம்',
     line2: 'தூண்டிற்பொன் மீன்விழுங்கி அற்று',
     KalaignarUrai:
@@ -17039,8 +15886,7 @@ const kurral = [
   },
   {
     Index: 932,
-    Tamil:
-      'ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்<br />நன்றெய்தி வாழ்வதோர் ஆறு',
+    Tamil: 'ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்<br />நன்றெய்தி வாழ்வதோர் ஆறு',
     line1: 'ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்',
     line2: 'நன்றெய்தி வாழ்வதோர் ஆறு',
     KalaignarUrai:
@@ -17071,8 +15917,7 @@ const kurral = [
       'If prince unceasing speak of nought but play,<br />Treasure and revenue will pass from him away',
     EnglishMeaning:
       "If the king is incessantly addicted to the rolling dice in the hope of gain, his wealth and the resources thereof will take their departure and fall into other's hands",
-    Transliteration:
-      'Urulaayam Ovaadhu  Koorin  Porulaayam<br />Pooip  Purame  Patum',
+    Transliteration: 'Urulaayam Ovaadhu  Koorin  Porulaayam<br />Pooip  Purame  Patum',
   },
   {
     Index: 934,
@@ -17089,8 +15934,7 @@ const kurral = [
       'Gaming brings many woes, and ruins fair renown;<br />Nothing to want brings men so surely down',
     EnglishMeaning:
       "There is nothing else that brings (us) poverty like gambling which causes many a misery and destroys (one's) reputation",
-    Transliteration:
-      'Sirumai Palaseydhu  Seerazhikkum  Soodhin<br />Varumai  Tharuvadhondru  Il',
+    Transliteration: 'Sirumai Palaseydhu  Seerazhikkum  Soodhin<br />Varumai  Tharuvadhondru  Il',
   },
   {
     Index: 935,
@@ -17107,8 +15951,7 @@ const kurral = [
       "The dice, and gaming-hall, and gamester's art, they eager sought,<br />Thirsting for gain- the men in other days who came to nought",
     EnglishMeaning:
       'Penniless are those who by reason of their attachment would never forsake gambling, the gamblingplace and the handling (of dice)',
-    Transliteration:
-      'Kavarum Kazhakamum  Kaiyum  Tharukki<br />Ivariyaar  Illaaki  Yaar',
+    Transliteration: 'Kavarum Kazhakamum  Kaiyum  Tharukki<br />Ivariyaar  Illaaki  Yaar',
   },
   {
     Index: 936,
@@ -17125,8 +15968,7 @@ const kurral = [
       "Gambling's Misfortune's other name: o'er whom she casts her veil,<br />They suffer grievous want, and sorrows sore bewail",
     EnglishMeaning:
       "Those who are swallowed by the goddess called 'gambling' will never have their hunger satisfied, but suffer the pangs of hell in the next world",
-    Transliteration:
-      'Akataaraar Allal  Uzhapparsoo  Thennum<br />Mukatiyaan  Mootappat  Taar',
+    Transliteration: 'Akataaraar Allal  Uzhapparsoo  Thennum<br />Mukatiyaan  Mootappat  Taar',
   },
   {
     Index: 937,
@@ -17143,13 +15985,11 @@ const kurral = [
       "Ancestral wealth and noble fame to ruin haste,<br />If men in gambler's halls their precious moments waste",
     EnglishMeaning:
       'To waste time at the place of gambling will destroy inherited wealth and goodness of character',
-    Transliteration:
-      'Pazhakiya Selvamum  Panpum  Ketukkum<br />Kazhakaththuk  Kaalai  Pukin',
+    Transliteration: 'Pazhakiya Selvamum  Panpum  Ketukkum<br />Kazhakaththuk  Kaalai  Pukin',
   },
   {
     Index: 938,
-    Tamil:
-      'பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்<br />தல்லல் உழப்பிக்கும் சூது',
+    Tamil: 'பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்<br />தல்லல் உழப்பிக்கும் சூது',
     line1: 'பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்',
     line2: 'தல்லல் உழப்பிக்கும் சூது',
     KalaignarUrai:
@@ -17180,13 +16020,11 @@ const kurral = [
       "Clothes, wealth, food, praise, and learning, all depart<br />From him on gambler's gain who sets his heart",
     EnglishMeaning:
       'The habit of gambling prevents the attainment of these five: clothing, wealth, food, fame and learning',
-    Transliteration:
-      'Utaiselvam Oonoli  Kalviendru  Aindhum<br />Ataiyaavaam  Aayang  Kolin',
+    Transliteration: 'Utaiselvam Oonoli  Kalviendru  Aindhum<br />Ataiyaavaam  Aayang  Kolin',
   },
   {
     Index: 940,
-    Tamil:
-      'இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்<br />உழத்தொறூஉம் காதற் றுயிர்',
+    Tamil: 'இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்<br />உழத்தொறூஉம் காதற் றுயிர்',
     line1: 'இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்',
     line2: 'உழத்தொறூஉம் காதற் றுயிர்',
     KalaignarUrai:
@@ -17204,8 +16042,7 @@ const kurral = [
   },
   {
     Index: 941,
-    Tamil:
-      'மிகினும் குறையினும் நோய்செய்யும் நூலோர்<br />வளிமுதலா எண்ணிய மூன்று',
+    Tamil: 'மிகினும் குறையினும் நோய்செய்யும் நூலோர்<br />வளிமுதலா எண்ணிய மூன்று',
     line1: 'மிகினும் குறையினும் நோய்செய்யும் நூலோர்',
     line2: 'வளிமுதலா எண்ணிய மூன்று',
     KalaignarUrai:
@@ -17218,8 +16055,7 @@ const kurral = [
       "The learned books count three, with wind as first; of these,<br />As any one prevail, or fail; 'twill cause disease",
     EnglishMeaning:
       'If (food and work are either) excessive or deficient, the three things enumerated by (medical) writers, flatulence, biliousness, and phlegm, will cause (one) disease',
-    Transliteration:
-      'Mikinum Kuraiyinum  Noiseyyum  Noolor<br />Valimudhalaa  Enniya  Moondru',
+    Transliteration: 'Mikinum Kuraiyinum  Noiseyyum  Noolor<br />Valimudhalaa  Enniya  Moondru',
   },
   {
     Index: 942,
@@ -17236,8 +16072,7 @@ const kurral = [
       "No need of medicine to heal your body's pain,<br />If, what you ate before digested well, you eat again",
     EnglishMeaning:
       'No medicine is necessary for him who eats after assuring (himself) that what he has (already) eaten has been digested',
-    Transliteration:
-      'Marundhena Ventaavaam  Yaakkaikku  Arundhiyadhu<br />Atradhu  Potri  Unin',
+    Transliteration: 'Marundhena Ventaavaam  Yaakkaikku  Arundhiyadhu<br />Atradhu  Potri  Unin',
   },
   {
     Index: 943,
@@ -17254,8 +16089,7 @@ const kurral = [
       'Who has a body gained may long the gift retain,<br />If, food digested well, in measure due he eat again',
     EnglishMeaning:
       "If (one's food has been) digested let one eat with moderation; (for) that is the way to prolong the life of an embodied soul",
-    Transliteration:
-      'Atraal Aravarindhu  Unka  Aqdhutampu<br />Petraan  Netidhuykkum  Aaru',
+    Transliteration: 'Atraal Aravarindhu  Unka  Aqdhutampu<br />Petraan  Netidhuykkum  Aaru',
   },
   {
     Index: 944,
@@ -17272,8 +16106,7 @@ const kurral = [
       'Knowing the food digested well, when hunger prompteth thee,<br />With constant care, the viands choose that well agree',
     EnglishMeaning:
       '(First) assure yourself that your food has been digested and never fail to eat, when very hungry, whatever is not disagreeable (to you)',
-    Transliteration:
-      'Atradhu Arindhu  Kataippitiththu  Maaralla<br />Thuykka  Thuvarap  Pasiththu',
+    Transliteration: 'Atradhu Arindhu  Kataippitiththu  Maaralla<br />Thuykka  Thuvarap  Pasiththu',
   },
   {
     Index: 945,
@@ -17290,35 +16123,29 @@ const kurral = [
       'With self-denial take the well-selected meal;<br />So shall thy frame no sudden sickness feel',
     EnglishMeaning:
       "There will be no disaster to one's life if one eats with moderation, food that is not disagreeable",
-    Transliteration:
-      'Maarupaatu Illaadha  Unti  Maruththunnin<br />Oorupaatu  Illai  Uyirkku',
+    Transliteration: 'Maarupaatu Illaadha  Unti  Maruththunnin<br />Oorupaatu  Illai  Uyirkku',
   },
   {
     Index: 946,
-    Tamil:
-      'இழிவறிந் துண்பான்கண் இன்பம்போல் நிற்கும்<br />கழிபேர் இரையான்கண் நோய்',
+    Tamil: 'இழிவறிந் துண்பான்கண் இன்பம்போல் நிற்கும்<br />கழிபேர் இரையான்கண் நோய்',
     line1: 'இழிவறிந் துண்பான்கண் இன்பம்போல் நிற்கும்',
     line2: 'கழிபேர் இரையான்கண் நோய்',
-    KalaignarUrai:
-      'அளவோடு உண்பவர் உடல் நலமுடன் வாழ்வதும் அதிகம் உண்பவர் நோய்க்கு ஆளாவதம் இயற்கை',
+    KalaignarUrai: 'அளவோடு உண்பவர் உடல் நலமுடன் வாழ்வதும் அதிகம் உண்பவர் நோய்க்கு ஆளாவதம் இயற்கை',
     MuVaUrai:
       'குறைந்த அளவு இன்னதென்று அறிந்து உண்பவனிடத்தில் இன்பம் நிலைநிற்பது போல, மிகப்பெரிதும் உண்பவனிடத்தில் நோய் நிற்க்கும்.',
     SolomonPaapaiyaUrai:
       'குறைவாக உண்பதே நல்லது என்று அறிந்து உண்பவனிடம் இன்பம் விலகாமல் இருப்பது போல் மிக அதிகமாக விழுங்குபவனிடம் நோய் விலகாமல் இருக்கும்.',
-    English:
-      'On modest temperance as pleasures pure,<br />So pain attends the greedy epicure',
+    English: 'On modest temperance as pleasures pure,<br />So pain attends the greedy epicure',
     EnglishMeaning:
       'As pleasure dwells with him who eats moderately, so disease (dwells) with the glutton who eats voraciously',
-    Transliteration:
-      'Izhivarindhu Unpaankan  Inpampol  Nirkum<br />Kazhiper  Iraiyaankan  Noi',
+    Transliteration: 'Izhivarindhu Unpaankan  Inpampol  Nirkum<br />Kazhiper  Iraiyaankan  Noi',
   },
   {
     Index: 947,
     Tamil: 'தீயள வன்றித் தெரியான் பெரிதுண்ணின்<br />நோயள வின்றிப் படும்',
     line1: 'தீயள வன்றித் தெரியான் பெரிதுண்ணின்',
     line2: 'நோயள வின்றிப் படும்',
-    KalaignarUrai:
-      'பசியின் அளவு அறியாமலும், ஆராயாமலும் அதிகம் உண்டால் நோய்களும் அளவின்றி வரும்',
+    KalaignarUrai: 'பசியின் அளவு அறியாமலும், ஆராயாமலும் அதிகம் உண்டால் நோய்களும் அளவின்றி வரும்',
     MuVaUrai:
       'பசித்தீயின் அளவின் படி அல்லாமல், அதை ஆராயாமல் மிகுதியாக உண்டால் , அதனால் நோய்கள்  அளவில்லாமல் ஏற்ப்பட்டு விடும்.',
     SolomonPaapaiyaUrai:
@@ -17327,8 +16154,7 @@ const kurral = [
       'Who largely feeds, nor measure of the fire within maintains,<br />That thoughtless man shall feel unmeasured pains',
     EnglishMeaning:
       'He will be afflicted with numberless diseases, who eats immoderately, ignorant (of the rules of health)',
-    Transliteration:
-      'Theeyala Vandrith  Theriyaan  Peridhunnin<br />Noyala  Vindrip  Patum',
+    Transliteration: 'Theeyala Vandrith  Theriyaan  Peridhunnin<br />Noyala  Vindrip  Patum',
   },
   {
     Index: 948,
@@ -17345,8 +16171,7 @@ const kurral = [
       'Disease, its cause, what may abate the ill:<br />Let leech examine these, then use his skill',
     EnglishMeaning:
       'Let the physician enquire into the (nature of the) disease, its cause and its method of cure and treat it faithfully according to (medical rule)',
-    Transliteration:
-      'Noinaati Noimudhal  Naati  Adhudhanikkum<br />Vaainaati  Vaaippach  Cheyal',
+    Transliteration: 'Noinaati Noimudhal  Naati  Adhudhanikkum<br />Vaainaati  Vaaippach  Cheyal',
   },
   {
     Index: 949,
@@ -17363,13 +16188,11 @@ const kurral = [
       'The habitudes of patient and disease, the crises of the ill<br />These must the learned leech think over well, then use his skill',
     EnglishMeaning:
       'The learned (physician) should ascertain the condition of his patient; the nature of his disease, and the season (of the year) and (then) proceed (with his treatment)',
-    Transliteration:
-      'Utraan Alavum  Piniyalavum  Kaalamum<br />Katraan  Karudhich  Cheyal',
+    Transliteration: 'Utraan Alavum  Piniyalavum  Kaalamum<br />Katraan  Karudhich  Cheyal',
   },
   {
     Index: 950,
-    Tamil:
-      'உற்றவன் தீர்ப்பான் மருந்துழைச் செல்வானென்<br />றப்பானாற் கூற்றே மருந்து',
+    Tamil: 'உற்றவன் தீர்ப்பான் மருந்துழைச் செல்வானென்<br />றப்பானாற் கூற்றே மருந்து',
     line1: 'உற்றவன் தீர்ப்பான் மருந்துழைச் செல்வானென்',
     line2: 'றப்பானாற் கூற்றே மருந்து',
     KalaignarUrai:
@@ -17387,8 +16210,7 @@ const kurral = [
   },
   {
     Index: 951,
-    Tamil:
-      'இற்பிறந்தார் கண்ணல்ல தில்லை இயல்பாகச் <br />செப்பமும் நாணும் ஒருங்கு',
+    Tamil: 'இற்பிறந்தார் கண்ணல்ல தில்லை இயல்பாகச் <br />செப்பமும் நாணும் ஒருங்கு',
     line1: 'இற்பிறந்தார் கண்ணல்ல தில்லை இயல்பாகச் ',
     line2: 'செப்பமும் நாணும் ஒருங்கு',
     KalaignarUrai:
@@ -17401,13 +16223,11 @@ const kurral = [
       'Save in the scions of a noble house, you never find<br />Instinctive sense of right and virtuous shame combined',
     EnglishMeaning:
       'Consistency (of thought, word and deed) and fear (of sin) are conjointly natural only to the high-born',
-    Transliteration:
-      'Irpirandhaar Kanalladhu  Illai  Iyalpaakach<br />Cheppamum  Naanum  Orungu',
+    Transliteration: 'Irpirandhaar Kanalladhu  Illai  Iyalpaakach<br />Cheppamum  Naanum  Orungu',
   },
   {
     Index: 952,
-    Tamil:
-      'ஒழுக்கமும் வாய்மையும் நாணுமிம் மூன்றும்<br />இழுக்கார் குடிப்பிறந் தார்',
+    Tamil: 'ஒழுக்கமும் வாய்மையும் நாணுமிம் மூன்றும்<br />இழுக்கார் குடிப்பிறந் தார்',
     line1: 'ஒழுக்கமும் வாய்மையும் நாணுமிம் மூன்றும்',
     line2: 'இழுக்கார் குடிப்பிறந் தார்',
     KalaignarUrai:
@@ -17438,8 +16258,7 @@ const kurral = [
       'The smile, the gift, the pleasant word, unfailing courtesy<br />These are the signs, they say, of true nobility',
     EnglishMeaning:
       'A cheerful countenance, liberality, pleasant words, and an unreviling disposition, these four are said to be the proper qualities of the truly high-born',
-    Transliteration:
-      'Nakaieekai Insol  Ikazhaamai  Naankum<br />Vakaiyenpa  Vaaimaik  Kutikku',
+    Transliteration: 'Nakaieekai Insol  Ikazhaamai  Naankum<br />Vakaiyenpa  Vaaimaik  Kutikku',
   },
   {
     Index: 954,
@@ -17456,13 +16275,11 @@ const kurral = [
       'Millions on millions piled would never win<br />The men of noble race to soul-degrading sin',
     EnglishMeaning:
       'Though blessed with immense wealth, the noble will never do anything unbecoming',
-    Transliteration:
-      'Atukkiya Koti  Perinum  Kutippirandhaar<br />Kundruva  Seydhal  Ilar',
+    Transliteration: 'Atukkiya Koti  Perinum  Kutippirandhaar<br />Kundruva  Seydhal  Ilar',
   },
   {
     Index: 955,
-    Tamil:
-      'வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி <br />பண்பின் தலைப்பிரிதல் இன்று',
+    Tamil: 'வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி <br />பண்பின் தலைப்பிரிதல் இன்று',
     line1: 'வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி ',
     line2: 'பண்பின் தலைப்பிரிதல் இன்று',
     KalaignarUrai:
@@ -17480,8 +16297,7 @@ const kurral = [
   },
   {
     Index: 956,
-    Tamil:
-      'சலம்பற்றிச் சால்பில செய்யார்மா சற்ற<br />குலம்பற்றி வாழ்துமென் பார்',
+    Tamil: 'சலம்பற்றிச் சால்பில செய்யார்மா சற்ற<br />குலம்பற்றி வாழ்துமென் பார்',
     line1: 'சலம்பற்றிச் சால்பில செய்யார்மா சற்ற',
     line2: 'குலம்பற்றி வாழ்துமென் பார்',
     KalaignarUrai:
@@ -17499,8 +16315,7 @@ const kurral = [
   },
   {
     Index: 957,
-    Tamil:
-      'குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்<br />மதிக்கண் மறுப்போல் உயர்ந்து',
+    Tamil: 'குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்<br />மதிக்கண் மறுப்போல் உயர்ந்து',
     line1: 'குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்',
     line2: 'மதிக்கண் மறுப்போல் உயர்ந்து',
     KalaignarUrai:
@@ -17511,8 +16326,7 @@ const kurral = [
       'நல்ல குடும்பத்தில் பிறந்தவரிடம் ஏதேனும் குறை இருந்தால் அது நிலாவில் தெரியும் களங்கம் போல் பெரிதாகத் தெரியும்.',
     English:
       'The faults of men of noble race are seen by every eye,<br />As spots on her bright orb that walks sublime the evening sky',
-    EnglishMeaning:
-      'As spots on her bright orb that walks sublime the evening sky',
+    EnglishMeaning: 'As spots on her bright orb that walks sublime the evening sky',
     Transliteration:
       'Kutippirandhaar Kanvilangum  Kutram  Visumpin<br />Madhikkan  Maruppol  Uyarndhu',
   },
@@ -17531,13 +16345,11 @@ const kurral = [
       "If lack of love appear in those who bear some goodly name,<br />'Twill make men doubt the ancestry they claim",
     EnglishMeaning:
       'If one of a good family betrays want of affection, his descent from it will be called in question',
-    Transliteration:
-      'Nalaththinkan Naarinmai  Thondrin  Avanaik<br />Kulaththinkan  Aiyap  Patum',
+    Transliteration: 'Nalaththinkan Naarinmai  Thondrin  Avanaik<br />Kulaththinkan  Aiyap  Patum',
   },
   {
     Index: 959,
-    Tamil:
-      'நிலத்திற் கிடந்தமை கால்காட்டும் காட்டும்<br />குலத்திற் பிறந்தார்வாய்ச் சொல்',
+    Tamil: 'நிலத்திற் கிடந்தமை கால்காட்டும் காட்டும்<br />குலத்திற் பிறந்தார்வாய்ச் சொல்',
     line1: 'நிலத்திற் கிடந்தமை கால்காட்டும் காட்டும்',
     line2: 'குலத்திற் பிறந்தார்வாய்ச் சொல்',
     KalaignarUrai:
@@ -17555,8 +16367,7 @@ const kurral = [
   },
   {
     Index: 960,
-    Tamil:
-      'நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்<br />வேண்டுக யார்க்கும் பணிவு',
+    Tamil: 'நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்<br />வேண்டுக யார்க்கும் பணிவு',
     line1: 'நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்',
     line2: 'வேண்டுக யார்க்கும் பணிவு',
     KalaignarUrai:
@@ -17587,8 +16398,7 @@ const kurral = [
       "Though linked to splendours man no otherwise may gain,<br />Reject each act that may thine honour's clearness stain",
     EnglishMeaning:
       "Actions that would degrade (one's) family should not be done; though they may be so important that not doing them would end in death",
-    Transliteration:
-      'Indri Amaiyaach  Chirappina  Aayinum<br />Kundra  Varupa  Vital',
+    Transliteration: 'Indri Amaiyaach  Chirappina  Aayinum<br />Kundra  Varupa  Vital',
   },
   {
     Index: 962,
@@ -17605,8 +16415,7 @@ const kurral = [
       "Who seek with glory to combine honour's untarnished fame,<br />Do no inglorious deeds, though men accord them glory's name",
     EnglishMeaning:
       'Those who desire (to maintain their) honour, will surely do nothing dishonourable, even for the sake of fame',
-    Transliteration:
-      'Seerinum Seeralla  Seyyaare  Seerotu<br />Peraanmai  Ventu  Pavar',
+    Transliteration: 'Seerinum Seeralla  Seyyaare  Seerotu<br />Peraanmai  Ventu  Pavar',
   },
   {
     Index: 963,
@@ -17621,10 +16430,8 @@ const kurral = [
       'நல்ல குடும்பத்தில் பிறந்து மானம் காக்க எண்ணுவோர் செல்வம் நிறைந்த காலத்தில் பிறரிடம் பணிவுடனும், வறுமை வந்த காலத்தில் தாழ்ந்து விட்டுக் கொடுக்காமலும் நடந்து கொள்ள வேண்டும்.',
     English:
       "Bow down thy soul, with increase blest, in happy hour;<br />Lift up thy heart, when stript of all by fortune's power",
-    EnglishMeaning:
-      'In great prosperity humility is becoming; dignity, in great adversity',
-    Transliteration:
-      'Perukkaththu Ventum  Panidhal  Siriya<br />Surukkaththu  Ventum  Uyarvu',
+    EnglishMeaning: 'In great prosperity humility is becoming; dignity, in great adversity',
+    Transliteration: 'Perukkaththu Ventum  Panidhal  Siriya<br />Surukkaththu  Ventum  Uyarvu',
   },
   {
     Index: 964,
@@ -17641,8 +16448,7 @@ const kurral = [
       "Like hairs from off the head that fall to earth,<br />When fall'n from high estate are men of noble birth",
     EnglishMeaning:
       'They who have fallen from their (high) position are like the hair which has fallen from the head',
-    Transliteration:
-      'Thalaiyin Izhindha  Mayiranaiyar  Maandhar<br />Nilaiyin  Izhindhak  Katai',
+    Transliteration: 'Thalaiyin Izhindha  Mayiranaiyar  Maandhar<br />Nilaiyin  Izhindhak  Katai',
   },
   {
     Index: 965,
@@ -17659,13 +16465,11 @@ const kurral = [
       "If meanness, slight as 'abrus' grain, by men be wrought,<br />Though like a hill their high estate, they sink to nought",
     EnglishMeaning:
       'Even those who are exalted like a hill will be thought low, if they commit deeds that are debasing',
-    Transliteration:
-      'Kundrin Anaiyaarum  Kundruvar  Kundruva<br />Kundri  Anaiya  Seyin',
+    Transliteration: 'Kundrin Anaiyaarum  Kundruvar  Kundruva<br />Kundri  Anaiya  Seyin',
   },
   {
     Index: 966,
-    Tamil:
-      'புகழின்றால் புத்தேணாட் டுய்யாதால் என்மற்<br />றிகழ்வார்பின் சென்று நிலை',
+    Tamil: 'புகழின்றால் புத்தேணாட் டுய்யாதால் என்மற்<br />றிகழ்வார்பின் சென்று நிலை',
     line1: 'புகழின்றால் புத்தேணாட் டுய்யாதால் என்மற்',
     line2: 'றிகழ்வார்பின் சென்று நிலை',
     KalaignarUrai:
@@ -17682,8 +16486,7 @@ const kurral = [
   },
   {
     Index: 967,
-    Tamil:
-      'ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே<br />கெட்டான் எனப்படுதல் நன்று',
+    Tamil: 'ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே<br />கெட்டான் எனப்படுதல் நன்று',
     line1: 'ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே',
     line2: 'கெட்டான் எனப்படுதல் நன்று',
     KalaignarUrai:
@@ -17732,8 +16535,7 @@ const kurral = [
       'Like the wild ox that, of its tuft bereft, will pine away,<br />Are those who, of their honour shorn, will quit the light of day',
     EnglishMeaning:
       'Those who give up (their) life when (their) honour is at stake are like the yark which kills itself at the loss of (even one of) its hairs',
-    Transliteration:
-      'Mayirneeppin Vaazhaak  Kavarimaa  Annaar<br />Uyirneeppar  Maanam  Varin',
+    Transliteration: 'Mayirneeppin Vaazhaak  Kavarimaa  Annaar<br />Uyirneeppar  Maanam  Varin',
   },
   {
     Index: 970,
@@ -17750,8 +16552,7 @@ const kurral = [
       'Who, when dishonour comes, refuse to live, their honoured memory<br />Will live in worship and applause of all the world for aye',
     EnglishMeaning:
       'The world will (always) praise and adore the fame of the honourable who would rather die than suffer indignity',
-    Transliteration:
-      'Ilivarin Vaazhaadha  Maanam  Utaiyaar<br />Olidhozhudhu  Eththum  Ulaku',
+    Transliteration: 'Ilivarin Vaazhaadha  Maanam  Utaiyaar<br />Olidhozhudhu  Eththum  Ulaku',
   },
   {
     Index: 971,
@@ -17768,13 +16569,11 @@ const kurral = [
       "The light of life is mental energy; disgrace is his<br />Who says, 'I 'ill lead a happy life devoid of this.'",
     EnglishMeaning:
       "One's light is the abundance of one's courage; one's darkness is the desire to live destitute of such (a state of mind.)",
-    Transliteration:
-      'Olioruvarku Ulla  Verukkai  Ilioruvarku<br />Aqdhirandhu  Vaazhdhum  Enal',
+    Transliteration: 'Olioruvarku Ulla  Verukkai  Ilioruvarku<br />Aqdhirandhu  Vaazhdhum  Enal',
   },
   {
     Index: 972,
-    Tamil:
-      'பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா<br />செய்தொழில் வேற்றுமை யான்',
+    Tamil: 'பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா<br />செய்தொழில் வேற்றுமை யான்',
     line1: 'பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா',
     line2: 'செய்தொழில் வேற்றுமை யான்',
     KalaignarUrai:
@@ -17787,13 +16586,11 @@ const kurral = [
       'All men that live are one in circumstances of birth;<br />Diversities of works give each his special worth',
     EnglishMeaning:
       'All human beings agree as regards their birth but differ as regards their characteristics, because of the different qualities of their actions',
-    Transliteration:
-      'Pirappokkum Ellaa  Uyirkkum  Sirappovvaa<br />Seydhozhil  Vetrumai  Yaan',
+    Transliteration: 'Pirappokkum Ellaa  Uyirkkum  Sirappovvaa<br />Seydhozhil  Vetrumai  Yaan',
   },
   {
     Index: 973,
-    Tamil:
-      'மேலிருந்துத் மேலல்லார் மேலல்லர் கீழிருந்தும்<br />கீழல்லார் கீழல் லவர்',
+    Tamil: 'மேலிருந்துத் மேலல்லார் மேலல்லர் கீழிருந்தும்<br />கீழல்லார் கீழல் லவர்',
     line1: 'மேலிருந்துத் மேலல்லார் மேலல்லர் கீழிருந்தும்',
     line2: 'கீழல்லார் கீழல் லவர்',
     KalaignarUrai:
@@ -17820,11 +16617,9 @@ const kurral = [
       'ஒரு தன்மையான கற்புடைய  மகளிரைப்போல் பெருமைப் பண்பும் ஒருவன் தன்னைத் தான் காத்துக் கொண்டு நடந்தால் உளதாகும்.',
     SolomonPaapaiyaUrai:
       'தன் கணவனை அன்றிப் பிறரிடம் மனத்தாலும் உறவு கொள்ளாத பெண்களின் சிறப்பைப் போல,சிறந்து நெறிகளிலிருந்து தவறி விடாமல் தன்னைக் காத்துக்கொண்டு வாழ்பவனுக்கே பெருமை உண்டு.',
-    English:
-      'Like single-hearted women, greatness too,<br />Exists while to itself is true',
+    English: 'Like single-hearted women, greatness too,<br />Exists while to itself is true',
     EnglishMeaning: 'Exists while to itself is true',
-    Transliteration:
-      'Orumai Makalire  Polap  Perumaiyum<br />Thannaiththaan  Kontozhukin  Untu',
+    Transliteration: 'Orumai Makalire  Polap  Perumaiyum<br />Thannaiththaan  Kontozhukin  Untu',
   },
   {
     Index: 975,
@@ -17837,17 +16632,14 @@ const kurral = [
       'பெருமைப் பண்பு உடையவர் செய்வதற்கு அருமையானச் செயலைச் செய்வதற்க்கு உரிய நெறியில் செய்து முடிக்க வல்லவர் ஆவர்.',
     SolomonPaapaiyaUrai:
       'எத்தனை நெருக்கடி வந்தாலும் பிறர் செய்வதற்கு அரிய செயல்களை உரிய வழிகளில் செய்து முடிப்பவர் பெருமை உடையவர்.',
-    English:
-      'The man endowed with greatness true,<br />Rare deeds in perfect wise will do',
+    English: 'The man endowed with greatness true,<br />Rare deeds in perfect wise will do',
     EnglishMeaning:
       '(Though reduced) the great will be able to perform, in the proper way, deeds difficult (for others to do)',
-    Transliteration:
-      'Perumai Yutaiyavar  Aatruvaar  Aatrin<br />Arumai  Utaiya  Seyal',
+    Transliteration: 'Perumai Yutaiyavar  Aatruvaar  Aatrin<br />Arumai  Utaiya  Seyal',
   },
   {
     Index: 976,
-    Tamil:
-      'சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்<br />பேணிக்கொள் வேமென்னும் நோக்கு',
+    Tamil: 'சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்<br />பேணிக்கொள் வேமென்னும் நோக்கு',
     line1: 'சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்',
     line2: 'பேணிக்கொள் வேமென்னும் நோக்கு',
     KalaignarUrai:
@@ -17860,8 +16652,7 @@ const kurral = [
       "'As votaries of the truly great we will ourselves enroll,'<br />Is thought that enters not the mind of men of little soul",
     EnglishMeaning:
       'It is never in the nature of the base to seek the society of the great and partake of their nature',
-    Transliteration:
-      'Siriyaar Unarchchiyul  Illai  Periyaaraip<br />Penikkol  Vemennum  Nokku',
+    Transliteration: 'Siriyaar Unarchchiyul  Illai  Periyaaraip<br />Penikkol  Vemennum  Nokku',
   },
   {
     Index: 977,
@@ -17878,8 +16669,7 @@ const kurral = [
       "Whene'er distinction lights on some unworthy head,<br />Then deeds of haughty insolence are bred",
     EnglishMeaning:
       'Even nobility of birth, wealth and learning, if in (the possession of) the base, will (only) produce everincreasing pride',
-    Transliteration:
-      'Irappe Purindha  Thozhitraam  Sirappundhaan<br />Seeral  Lavarkan  Patin',
+    Transliteration: 'Irappe Purindha  Thozhitraam  Sirappundhaan<br />Seeral  Lavarkan  Patin',
   },
   {
     Index: 978,
@@ -17896,8 +16686,7 @@ const kurral = [
       'Greatness humbly bends, but littleness always<br />Spreads out its plumes, and loads itself with praise',
     EnglishMeaning:
       'The great will always humble himself; but the mean will exalt himself in self-admiration',
-    Transliteration:
-      'Paniyumaam Endrum  Perumai  Sirumai<br />Aniyumaam  Thannai  Viyandhu',
+    Transliteration: 'Paniyumaam Endrum  Perumai  Sirumai<br />Aniyumaam  Thannai  Viyandhu',
   },
   {
     Index: 979,
@@ -17914,8 +16703,7 @@ const kurral = [
       'Greatness is absence of conceit; meanness, we deem,<br />Riding on car of vanity supreme',
     EnglishMeaning:
       'Freedom from conceit is (the nature of true) greatness; (while) obstinacy therein is (that of) meanness',
-    Transliteration:
-      'Perumai Perumidham  Inmai  Sirumai<br />Perumidham  Oorndhu  Vital',
+    Transliteration: 'Perumai Perumidham  Inmai  Sirumai<br />Perumidham  Oorndhu  Vital',
   },
   {
     Index: 980,
@@ -17930,15 +16718,12 @@ const kurral = [
       'பெருமைக்குரியவர் பிறர் பெருமைகளைச் சொல்லி அவர் குறைகளைக் கூறாமல் மறைத்து விடுவர்; சிறுமைக்கு உரியவர்‌களோ பிறர் பெருமைகளை மறைத்துக் குறைகளை மட்டுமே கூறிவிடுவர்.',
     English:
       "Greatness will hide a neighbour's shame;<br />Meanness his faults to all the world proclaim",
-    EnglishMeaning:
-      'The great hide the faults of others; the base only divulge them',
-    Transliteration:
-      'Atram Maraikkum  Perumai  Sirumaidhaan<br />Kutrame  Koori  Vitum',
+    EnglishMeaning: 'The great hide the faults of others; the base only divulge them',
+    Transliteration: 'Atram Maraikkum  Perumai  Sirumaidhaan<br />Kutrame  Koori  Vitum',
   },
   {
     Index: 981,
-    Tamil:
-      'கடனென்ப நல்லவை யெல்லாம் கடனறிந்து<br />சான்றாண்மை மேற்கொள் பவர்க்கு',
+    Tamil: 'கடனென்ப நல்லவை யெல்லாம் கடனறிந்து<br />சான்றாண்மை மேற்கொள் பவர்க்கு',
     line1: 'கடனென்ப நல்லவை யெல்லாம் கடனறிந்து',
     line2: 'சான்றாண்மை மேற்கொள் பவர்க்கு',
     KalaignarUrai:
@@ -17951,16 +16736,14 @@ const kurral = [
       "All goodly things are duties to the men, they say<br />Who set themselves to walk in virtue's perfect way",
     EnglishMeaning:
       'It is said that those who are conscious of their duty and behave with a perfect goodness will regard as natural all that is good',
-    Transliteration:
-      'Katanenpa Nallavai  Ellaam  Katanarindhu<br />Saandraanmai  Merkol  Pavarkku',
+    Transliteration: 'Katanenpa Nallavai  Ellaam  Katanarindhu<br />Saandraanmai  Merkol  Pavarkku',
   },
   {
     Index: 982,
     Tamil: 'குணநலஞ் சான்றோர் நலனே பிறநலம்<br />எந்நலத் துள்ளதூஉ மன்று',
     line1: 'குணநலஞ் சான்றோர் நலனே பிறநலம்',
     line2: 'எந்நலத் துள்ளதூஉ மன்று',
-    KalaignarUrai:
-      'நற்பண்பு ஒன்றே சான்றோர்க்கான அழகாகும் வேறு எந்த அழகும் அழகல்ல',
+    KalaignarUrai: 'நற்பண்பு ஒன்றே சான்றோர்க்கான அழகாகும் வேறு எந்த அழகும் அழகல்ல',
     MuVaUrai:
       'சான்றோரின் நலம் என்று கூறப்படுவது அவறுடைய பண்புகளின் நலமே, மற்ற நலம் வேறு எந்த நலத்திலும் சேர்ந்துள்ளதும் அன்று.',
     SolomonPaapaiyaUrai:
@@ -17969,13 +16752,11 @@ const kurral = [
       'The good of inward excellence they claim,<br />The perfect men; all other good is only good in name',
     EnglishMeaning:
       'The only delight of the perfect is that of their goodness; all other (sensual) delights are not to be included among any (true) delights',
-    Transliteration:
-      'Kunanalam Saandror  Nalane  Piranalam<br />Ennalaththu  Ulladhooum  Andru',
+    Transliteration: 'Kunanalam Saandror  Nalane  Piranalam<br />Ennalaththu  Ulladhooum  Andru',
   },
   {
     Index: 983,
-    Tamil:
-      'அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொ<br />டைந்துசால் பூன்றிய தூண்',
+    Tamil: 'அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொ<br />டைந்துசால் பூன்றிய தூண்',
     line1: 'அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொ',
     line2: 'டைந்துசால் பூன்றிய தூண்',
     KalaignarUrai:
@@ -17988,8 +16769,7 @@ const kurral = [
       "Love, modesty, beneficence, benignant grace,<br />With truth, are pillars five of perfect virtue's resting-place",
     EnglishMeaning:
       'Affection, fear (of sin), benevolence, favour and truthfulness; these are the five pillars on which perfect goodness rests',
-    Transliteration:
-      'Anpunaan Oppuravu  Kannottam  Vaaimaiyotu<br />Aindhusaal  Oondriya  Thoon',
+    Transliteration: 'Anpunaan Oppuravu  Kannottam  Vaaimaiyotu<br />Aindhusaal  Oondriya  Thoon',
   },
   {
     Index: 984,
@@ -18006,8 +16786,7 @@ const kurral = [
       "The type of 'penitence' is virtuous good that nothing slays;<br />To speak no ill of other men is perfect virtue's praise",
     EnglishMeaning:
       "Penance consists in the goodness that kills not , and perfection in the goodness that tells not others' faults",
-    Transliteration:
-      'Kollaa Nalaththadhu  Nonmai  Pirardheemai<br />Sollaa  Nalaththadhu  Saalpu',
+    Transliteration: 'Kollaa Nalaththadhu  Nonmai  Pirardheemai<br />Sollaa  Nalaththadhu  Saalpu',
   },
   {
     Index: 985,
@@ -18024,8 +16803,7 @@ const kurral = [
       "Submission is the might of men of mighty acts; the sage<br />With that same weapon stills his foeman's rage",
     EnglishMeaning:
       'Stooping (to inferiors) is the strength of those who can accomplish (an undertaking); and that is the weapon with which the great avert their foes',
-    Transliteration:
-      'Aatruvaar Aatral  Panidhal  Adhusaandror<br />Maatraarai  Maatrum  Patai',
+    Transliteration: 'Aatruvaar Aatral  Panidhal  Adhusaandror<br />Maatraarai  Maatrum  Patai',
   },
   {
     Index: 986,
@@ -18042,8 +16820,7 @@ const kurral = [
       "What is perfection's test? The equal mind<br />To bear repulse from even meaner men resigned",
     EnglishMeaning:
       "The touch-stone of perfection is to receive a defeat even at the hands of one's inferiors",
-    Transliteration:
-      'Saalpirkuk Kattalai  Yaadhenin  Tholvi<br />Thulaiyallaar  Kannum  Kolal',
+    Transliteration: 'Saalpirkuk Kattalai  Yaadhenin  Tholvi<br />Thulaiyallaar  Kannum  Kolal',
   },
   {
     Index: 987,
@@ -18060,8 +16837,7 @@ const kurral = [
       'What fruit doth your perfection yield you, say!<br />Unless to men who work you ill good repay',
     EnglishMeaning:
       'Of what avail is perfect goodness if it cannot do pleasing things even to those who have pained (it) ?',
-    Transliteration:
-      'Innaasey Thaarkkum  Iniyave  Seyyaakkaal<br />Enna  Payaththadho  Saalpu',
+    Transliteration: 'Innaasey Thaarkkum  Iniyave  Seyyaakkaal<br />Enna  Payaththadho  Saalpu',
   },
   {
     Index: 988,
@@ -18076,10 +16852,8 @@ const kurral = [
       'சான்றாண்மை எனப்படும் மன ஆற்றல் மட்டும் ஒருவனிடம் இருந்து விடுமானால், வறுமை அவனுக்கு இழிவு ஆகாது.',
     English:
       "To soul with perfect virtue's strength endued,<br />Brings no disgrace the lack of every earthly good",
-    EnglishMeaning:
-      'Poverty is no disgrace to one who abounds in good qualities',
-    Transliteration:
-      'Inmai Oruvarku  Ilivandru  Saalpennum<br />Thinmai  Un  Taakap  Perin',
+    EnglishMeaning: 'Poverty is no disgrace to one who abounds in good qualities',
+    Transliteration: 'Inmai Oruvarku  Ilivandru  Saalpennum<br />Thinmai  Un  Taakap  Perin',
   },
   {
     Index: 989,
@@ -18096,8 +16870,7 @@ const kurral = [
       "Call them of perfect virtue's sea the shore,<br />Who, though the fates should fail, fail not for evermore",
     EnglishMeaning:
       'Those who are said to be the shore of the sea of perfection will never change, though ages may change',
-    Transliteration:
-      'Oozhi Peyarinum  Thaampeyaraar  Saandraanmaikku<br />Aazhi  Enappatu  Vaar',
+    Transliteration: 'Oozhi Peyarinum  Thaampeyaraar  Saandraanmaikku<br />Aazhi  Enappatu  Vaar',
   },
   {
     Index: 990,
@@ -18119,8 +16892,7 @@ const kurral = [
   },
   {
     Index: 991,
-    Tamil:
-      'எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்<br />பண்புடைமை என்னும் வழக்கு',
+    Tamil: 'எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்<br />பண்புடைமை என்னும் வழக்கு',
     line1: 'எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்',
     line2: 'பண்புடைமை என்னும் வழக்கு',
     KalaignarUrai:
@@ -18138,8 +16910,7 @@ const kurral = [
   },
   {
     Index: 992,
-    Tamil:
-      'அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்<br />பண்புடைமை என்னும் வழக்கு',
+    Tamil: 'அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்<br />பண்புடைமை என்னும் வழக்கு',
     line1: 'அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்',
     line2: 'பண்புடைமை என்னும் வழக்கு',
     KalaignarUrai:
@@ -18148,8 +16919,7 @@ const kurral = [
       'அன்புடையவராக இருத்தல், உயர்ந்த குடியில் பிறந்த தன்மை அமைந்திருத்தல் ஆகிய இவ் விரண்டும் பண்பு உடையவராக வாழும் நல்வழியாகும்.',
     SolomonPaapaiyaUrai:
       'எல்லாரிடமும் அன்புள்ளவனாக வாழ்வது. உலகத்தோடு ஒத்து வாழும் குடும்பத்தில் பிறந்திருத்தல் இவை இரண்டும் பண்புடைமை என்னும் நல்ல வழிகளாகும்.',
-    English:
-      'Benevolence and high born dignity,<br />These two are beaten paths of courtesy',
+    English: 'Benevolence and high born dignity,<br />These two are beaten paths of courtesy',
     EnglishMeaning:
       'Affectionateness and birth in a good family, these two constitute what is called a proper behaviour to all',
     Transliteration:
@@ -18157,8 +16927,7 @@ const kurral = [
   },
   {
     Index: 993,
-    Tamil:
-      'உறுப்பொத்தல் மக்களொப் பன்றால் வெறுத்தக்க<br />பண்பொத்தல் ஒப்பதாம் ஒப்பு',
+    Tamil: 'உறுப்பொத்தல் மக்களொப் பன்றால் வெறுத்தக்க<br />பண்பொத்தல் ஒப்பதாம் ஒப்பு',
     line1: 'உறுப்பொத்தல் மக்களொப் பன்றால் வெறுத்தக்க',
     line2: 'பண்பொத்தல் ஒப்பதாம் ஒப்பு',
     KalaignarUrai:
@@ -18189,13 +16958,11 @@ const kurral = [
       "Of men of fruitful life, who kindly benefits dispense,<br />The world unites to praise the 'noble excellence.'",
     EnglishMeaning:
       'The world applauds the character of those whose usefulness results from their equity and charity',
-    Transliteration:
-      'Nayanotu Nandri  Purindha  Payanutaiyaar<br />Panpupaa  Raattum  Ulaku',
+    Transliteration: 'Nayanotu Nandri  Purindha  Payanutaiyaar<br />Panpupaa  Raattum  Ulaku',
   },
   {
     Index: 995,
-    Tamil:
-      'நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும்<br />பண்புள பாடறிவார் மாட்டு',
+    Tamil: 'நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும்<br />பண்புள பாடறிவார் மாட்டு',
     line1: 'நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும்',
     line2: 'பண்புள பாடறிவார் மாட்டு',
     KalaignarUrai:
@@ -18213,8 +16980,7 @@ const kurral = [
   },
   {
     Index: 996,
-    Tamil:
-      'பண்புடையார்ப் பட்டுண் டுலகம் அதுவின்றேல்<br />மண்புக்கு மாய்வது மன்',
+    Tamil: 'பண்புடையார்ப் பட்டுண் டுலகம் அதுவின்றேல்<br />மண்புக்கு மாய்வது மன்',
     line1: 'பண்புடையார்ப் பட்டுண் டுலகம் அதுவின்றேல்',
     line2: 'மண்புக்கு மாய்வது மன்',
     KalaignarUrai:
@@ -18227,8 +16993,7 @@ const kurral = [
       "The world abides; for 'worthy' men its weight sustain<br />Were it not so, 'twould fall to dust again",
     EnglishMeaning:
       'The (way of the) world subsists by contact with the good; if not, it would bury itself in the earth and perish',
-    Transliteration:
-      'Panputaiyaarp Pattuntu  Ulakam  Adhuindrel<br />Manpukku  Maaivadhu  Man',
+    Transliteration: 'Panputaiyaarp Pattuntu  Ulakam  Adhuindrel<br />Manpukku  Maaivadhu  Man',
   },
   {
     Index: 997,
@@ -18245,8 +17010,7 @@ const kurral = [
       "Though sharp their wit as file, as blocks they must remain,<br />Whose souls are void of 'courtesy humane'",
     EnglishMeaning:
       'He who is destitute of (true) human qualities (only) resembles a tree, though he may possess the sharpness of a file',
-    Transliteration:
-      'Arampolum Koormaiya  Renum  Marampolvar<br />Makkatpanpu  Illaa  Thavar',
+    Transliteration: 'Arampolum Koormaiya  Renum  Marampolvar<br />Makkatpanpu  Illaa  Thavar',
   },
   {
     Index: 998,
@@ -18263,8 +17027,7 @@ const kurral = [
       "Though men with all unfriendly acts and wrongs assail,<br />'Tis uttermost disgrace in 'courtesy' to fail",
     EnglishMeaning:
       'It is wrong (for the wise) not to exhibit (good) qualities even towards those who bearing no friendship (for them) do only what is hateful',
-    Transliteration:
-      'Nanpaatraar Aaki  Nayamila  Seyvaarkkum<br />Panpaatraar  Aadhal  Katai',
+    Transliteration: 'Nanpaatraar Aaki  Nayamila  Seyvaarkkum<br />Panpaatraar  Aadhal  Katai',
   },
   {
     Index: 999,
@@ -18281,13 +17044,11 @@ const kurral = [
       "To him who knows not how to smile in kindly mirth,<br />Darkness in daytime broods o'er all the vast and mighty earth",
     EnglishMeaning:
       'To those who cannot rejoice, the wide world is buried darkness even in (broad) day light',
-    Transliteration:
-      'Nakalvallar Allaarkku  Maayiru  Gnaalam<br />Pakalumpaar  Pattandru  Irul',
+    Transliteration: 'Nakalvallar Allaarkku  Maayiru  Gnaalam<br />Pakalumpaar  Pattandru  Irul',
   },
   {
     Index: 1000,
-    Tamil:
-      'பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்<br />கலந்தீமை யால்திரிந் தற்று',
+    Tamil: 'பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்<br />கலந்தீமை யால்திரிந் தற்று',
     line1: 'பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்',
     line2: 'கலந்தீமை யால்திரிந் தற்று',
     KalaignarUrai:
@@ -18300,13 +17061,11 @@ const kurral = [
       "Like sweet milk soured because in filthy vessel poured,<br />Is ample wealth in churlish man's unopened coffers stored",
     EnglishMeaning:
       'The great wealth obtained by one who has no goodness will perish like pure milk spoilt by the',
-    Transliteration:
-      'Panpilaan Petra  Perunjelvam  Nanpaal<br />Kalandheemai  Yaaldhirin  Thatru',
+    Transliteration: 'Panpilaan Petra  Perunjelvam  Nanpaal<br />Kalandheemai  Yaaldhirin  Thatru',
   },
   {
     Index: 1001,
-    Tamil:
-      'வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்<br />செத்தான் செயக்கிடந்த தில்',
+    Tamil: 'வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்<br />செத்தான் செயக்கிடந்த தில்',
     line1: 'வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான்',
     line2: 'செத்தான் செயக்கிடந்த தில்',
     KalaignarUrai:
@@ -18337,8 +17096,7 @@ const kurral = [
       "Who giving nought, opines from wealth all blessing springs,<br />Degraded birth that doting miser's folly brings",
     EnglishMeaning:
       'He who knows that wealth yields every pleasure and yet is so blind as to lead miserly life will be born a demon',
-    Transliteration:
-      'Porulaanaam Ellaamendru  Eeyaadhu  Ivarum<br />Marulaanaam  Maanaap  Pirappu',
+    Transliteration: 'Porulaanaam Ellaamendru  Eeyaadhu  Ivarum<br />Marulaanaam  Maanaap  Pirappu',
   },
   {
     Index: 1003,
@@ -18355,8 +17113,7 @@ const kurral = [
       'Who lust to heap up wealth, but glory hold not dear,<br />It burthens earth when on the stage of being they appear',
     EnglishMeaning:
       'A burden to the earth are men bent on the acquisition of riches and not (true) fame',
-    Transliteration:
-      'Eettam Ivari  Isaiventaa  Aatavar<br />Thotram  Nilakkup  Porai',
+    Transliteration: 'Eettam Ivari  Isaiventaa  Aatavar<br />Thotram  Nilakkup  Porai',
   },
   {
     Index: 1004,
@@ -18373,13 +17130,11 @@ const kurral = [
       'Whom no one loves, when he shall pass away,<br />What doth he look to leave behind, I pray',
     EnglishMeaning:
       'What will the miser who is not liked (by any one) regard as his own (in the world to come) ?',
-    Transliteration:
-      'Echchamendru Enennung  Kollo  Oruvaraal<br />Nachchap  Pataaa  Thavan',
+    Transliteration: 'Echchamendru Enennung  Kollo  Oruvaraal<br />Nachchap  Pataaa  Thavan',
   },
   {
     Index: 1005,
-    Tamil:
-      'கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க் கடுக்கிய<br />கோடியுண் டாயினும் இல்',
+    Tamil: 'கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க் கடுக்கிய<br />கோடியுண் டாயினும் இல்',
     line1: 'கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க் கடுக்கிய',
     line2: 'கோடியுண் டாயினும் இல்',
     KalaignarUrai:
@@ -18392,13 +17147,11 @@ const kurral = [
       'Amid accumulated millions they are poor,<br />Who nothing give and nought enjoy of all they store',
     EnglishMeaning:
       'Those who neither give (to others) nor enjoy (their property) are (truly) destitute, though possessing immense riches',
-    Transliteration:
-      'Kotuppadhooum Thuyppadhooum  Illaarkku  Atukkiya<br />Kotiyun  Taayinum  Il',
+    Transliteration: 'Kotuppadhooum Thuyppadhooum  Illaarkku  Atukkiya<br />Kotiyun  Taayinum  Il',
   },
   {
     Index: 1006,
-    Tamil:
-      'ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்<br />றீத லியல்பிலா தான்',
+    Tamil: 'ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்<br />றீத லியல்பிலா தான்',
     line1: 'ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்',
     line2: 'றீத லியல்பிலா தான்',
     KalaignarUrai:
@@ -18416,8 +17169,7 @@ const kurral = [
   },
   {
     Index: 1007,
-    Tamil:
-      'அற்றார்க்கொன் றாற்றாதான் செல்வம் மிகநலம்<br />பெற்றாள் தமியள்மூத் தற்று',
+    Tamil: 'அற்றார்க்கொன் றாற்றாதான் செல்வம் மிகநலம்<br />பெற்றாள் தமியள்மூத் தற்று',
     line1: 'அற்றார்க்கொன் றாற்றாதான் செல்வம் மிகநலம்',
     line2: 'பெற்றாள் தமியள்மூத் தற்று',
     KalaignarUrai:
@@ -18448,8 +17200,7 @@ const kurral = [
       "When he whom no man loves exults in great prosperity,<br />'Tis as when fruits in midmost of the town some poisonous tree",
     EnglishMeaning:
       'The wealth of him who is disliked (by all) is like the fruit-bearing of the etty tree in the midst of a town',
-    Transliteration:
-      'Nachchap Pataadhavan  Selvam  Natuvoorul<br />Nachchu  Marampazhuth  Thatru',
+    Transliteration: 'Nachchap Pataadhavan  Selvam  Natuvoorul<br />Nachchu  Marampazhuth  Thatru',
   },
   {
     Index: 1009,
@@ -18464,10 +17215,8 @@ const kurral = [
       'பிறர்க்கு ஈயாமல் அன்பை விட்டு விலகி, எதையும் அனுபவிக்காமல் தன்னை வருத்தி, அறத்தை எண்ணாது சேர்த்த  பொருளை மற்றவர் அனுபவிப்பர்.',
     English:
       "Who love abandon, self-afflict, and virtue's way forsake<br />To heap up glittering wealth, their hoards shall others take",
-    EnglishMeaning:
-      'To heap up glittering wealth, their hoards shall others take',
-    Transliteration:
-      'Anporeeith Tharsetru  Aranokkaadhu  Eettiya<br />Onporul  Kolvaar  Pirar',
+    EnglishMeaning: 'To heap up glittering wealth, their hoards shall others take',
+    Transliteration: 'Anporeeith Tharsetru  Aranokkaadhu  Eettiya<br />Onporul  Kolvaar  Pirar',
   },
   {
     Index: 1010,
@@ -18484,8 +17233,7 @@ const kurral = [
       "'Tis as when rain cloud in the heaven grows day,<br />When generous wealthy man endures brief poverty",
     EnglishMeaning:
       'The short-lived poverty of those who are noble and rich is like the clouds becoming poor (for a while)',
-    Transliteration:
-      'Seerutaich Chelvar  Sirudhuni  Maari<br />Varangoorn  Thanaiyadhu  Utaiththu',
+    Transliteration: 'Seerutaich Chelvar  Sirudhuni  Maari<br />Varangoorn  Thanaiyadhu  Utaiththu',
   },
   {
     Index: 1011,
@@ -18502,8 +17250,7 @@ const kurral = [
       "To shrink abashed from evil deed is 'generous shame';<br />Other is that of bright-browed one of virtuous fame",
     EnglishMeaning:
       'True modesty is the fear of (evil) deeds; all other modesty is (simply) the bashfulness of virtuous maids',
-    Transliteration:
-      'Karumaththaal Naanudhal  Naanun  Thirunudhal<br />Nallavar  Naanup  Pira',
+    Transliteration: 'Karumaththaal Naanudhal  Naanun  Thirunudhal<br />Nallavar  Naanup  Pira',
   },
   {
     Index: 1012,
@@ -18520,8 +17267,7 @@ const kurral = [
       'Food, clothing, and other things alike all beings own;<br />By sense of shame the excellence of men is known',
     EnglishMeaning:
       'Food, clothing and the like are common to all men but modesty is peculiar to the good',
-    Transliteration:
-      'Oonutai Echcham  Uyirkkellaam  Veralla<br />Naanutaimai  Maandhar  Sirappu',
+    Transliteration: 'Oonutai Echcham  Uyirkkellaam  Veralla<br />Naanutaimai  Maandhar  Sirappu',
   },
   {
     Index: 1013,
@@ -18538,8 +17284,7 @@ const kurral = [
       'All spirits homes of flesh as habitation claim,<br />And perfect virtue ever dwells with shame',
     EnglishMeaning:
       'As the body is the abode of the spirit, so the excellence of modesty is the abode of perfection',
-    Transliteration:
-      'Oonaik Kuriththa  Uyirellaam  Naanennum<br />Nanmai  Kuriththadhu  Saalpu',
+    Transliteration: 'Oonaik Kuriththa  Uyirellaam  Naanennum<br />Nanmai  Kuriththadhu  Saalpu',
   },
   {
     Index: 1014,
@@ -18556,8 +17301,7 @@ const kurral = [
       'And is not shame an ornament to men of dignity?<br />Without it step of stately pride is piteous thing to see',
     EnglishMeaning:
       'Is not the modesty ornament of the noble ? Without it, their haughtiness would be a pain (to others)',
-    Transliteration:
-      'Aniandro Naanutaimai  Saandrorkku  Aqdhindrel<br />Piniandro  Peetu  Natai',
+    Transliteration: 'Aniandro Naanutaimai  Saandrorkku  Aqdhindrel<br />Piniandro  Peetu  Natai',
   },
   {
     Index: 1015,
@@ -18574,8 +17318,7 @@ const kurral = [
       'As home of virtuous shame by all the world the men are known,<br />Who feel ashamed for others, guilt as for their own',
     EnglishMeaning:
       "The world regards as the abode of modesty him who fear his own and other's guilt",
-    Transliteration:
-      'Pirarpazhiyum Thampazhiyum  Naanuvaar  Naanukku<br />Uraipadhi  Ennum  Ulaku',
+    Transliteration: 'Pirarpazhiyum Thampazhiyum  Naanuvaar  Naanukku<br />Uraipadhi  Ennum  Ulaku',
   },
   {
     Index: 1016,
@@ -18590,15 +17333,12 @@ const kurral = [
       'பெரியவர்கள் தனக்குப் பாதுகாப்பாக நாணத்தைக் கொள்வாரே அல்லாமல், இந்தப் பெரிய உலகத்தைக் கொள்ள விரும்ப மாட்டார்கள்.',
     English:
       "Unless the hedge of shame inviolate remain,<br />For men of lofty soul the earth's vast realms no charms retain",
-    EnglishMeaning:
-      'The great make modesty their barrier (of defence) and not the wide world',
-    Transliteration:
-      'Naanveli Kollaadhu  Manno  Viyangnaalam<br />Penalar  Melaa  Yavar',
+    EnglishMeaning: 'The great make modesty their barrier (of defence) and not the wide world',
+    Transliteration: 'Naanveli Kollaadhu  Manno  Viyangnaalam<br />Penalar  Melaa  Yavar',
   },
   {
     Index: 1017,
-    Tamil:
-      'நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்<br />நாண்துறவார் நாணாள் பவர்',
+    Tamil: 'நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்<br />நாண்துறவார் நாணாள் பவர்',
     line1: 'நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்',
     line2: 'நாண்துறவார் நாணாள் பவர்',
     KalaignarUrai:
@@ -18647,8 +17387,7 @@ const kurral = [
       "'Twill race consume if right observance fail;<br />'Twill every good consume if shamelessness prevail",
     EnglishMeaning:
       "Want of manners injures one's family; but want of modesty injures one's character",
-    Transliteration:
-      'Kulanjutum Kolkai  Pizhaippin  Nalanjutum<br />Naaninmai  Nindrak  Katai',
+    Transliteration: 'Kulanjutum Kolkai  Pizhaippin  Nalanjutum<br />Naaninmai  Nindrak  Katai',
   },
   {
     Index: 1020,
@@ -18665,8 +17404,7 @@ const kurral = [
       "'Tis as with strings a wooden puppet apes life's functions, when<br />Those void of shame within hold intercourse with men",
     EnglishMeaning:
       'The actions of those who are without modesty at heart are like those of puppet moved by a string',
-    Transliteration:
-      'Naanakath Thillaar  Iyakkam  Marappaavai<br />Naanaal  Uyirmarutti  Atru',
+    Transliteration: 'Naanakath Thillaar  Iyakkam  Marappaavai<br />Naanaal  Uyirmarutti  Atru',
   },
   {
     Index: 1021,
@@ -18683,8 +17421,7 @@ const kurral = [
       "Who says 'I'll do my work, nor slack my hand',<br />His greatness, clothed with dignity supreme, shall stand",
     EnglishMeaning:
       'There is no higher greatness than that of one saying I will not cease in my effort (to raise my family)',
-    Transliteration:
-      'Karumam Seyaoruvan  Kaidhooven  Ennum<br />Perumaiyin  Peetutaiyadhu  Il',
+    Transliteration: 'Karumam Seyaoruvan  Kaidhooven  Ennum<br />Perumaiyin  Peetutaiyadhu  Il',
   },
   {
     Index: 1022,
@@ -18701,13 +17438,11 @@ const kurral = [
       "The manly act and knowledge full, when these combine<br />In deed prolonged, then lengthens out the race's line",
     EnglishMeaning:
       "One's family is raised by untiring perseverance in both effort and wise contrivances",
-    Transliteration:
-      'Aalvinaiyum Aandra  Arivum  Enairantin<br />Neelvinaiyaal  Neelum  Kuti',
+    Transliteration: 'Aalvinaiyum Aandra  Arivum  Enairantin<br />Neelvinaiyaal  Neelum  Kuti',
   },
   {
     Index: 1023,
-    Tamil:
-      'குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்<br />மடிதற்றுத் தான்முந் துறும்',
+    Tamil: 'குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்<br />மடிதற்றுத் தான்முந் துறும்',
     line1: 'குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்',
     line2: 'மடிதற்றுத் தான்முந் துறும்',
     KalaignarUrai:
@@ -18720,8 +17455,7 @@ const kurral = [
       "'I'll make my race renowned,' if man shall say,<br />With vest succinct the goddess leads the way",
     EnglishMeaning:
       'The Deity will clothe itself and appear before him who resolves on raising his family',
-    Transliteration:
-      'Kutiseyval Ennum  Oruvarkuth  Theyvam<br />Matidhatruth  Thaanmun  Thurum',
+    Transliteration: 'Kutiseyval Ennum  Oruvarkuth  Theyvam<br />Matidhatruth  Thaanmun  Thurum',
   },
   {
     Index: 1024,
@@ -18743,8 +17477,7 @@ const kurral = [
   },
   {
     Index: 1025,
-    Tamil:
-      'குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்<br />சுற்றமாச் சுற்றும் உலகு',
+    Tamil: 'குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்<br />சுற்றமாச் சுற்றும் உலகு',
     line1: 'குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்',
     line2: 'சுற்றமாச் சுற்றும் உலகு',
     KalaignarUrai:
@@ -18757,16 +17490,14 @@ const kurral = [
       "With blameless life who seeks to build his race's fame,<br />The world shall circle him, and kindred claim",
     EnglishMeaning:
       'People will eagerly seek the friendship of the prosperous soul who has raised his family without foul means',
-    Transliteration:
-      'Kutram Ilanaaik  Kutiseydhu  Vaazhvaanaich<br />Chutramaach  Chutrum  Ulaku',
+    Transliteration: 'Kutram Ilanaaik  Kutiseydhu  Vaazhvaanaich<br />Chutramaach  Chutrum  Ulaku',
   },
   {
     Index: 1026,
     Tamil: 'நல்லாண்மை என்ப தொருவற்குத் தான்பிறந்த<br />இல்லாண்மை ஆக்கிக் கொளல்',
     line1: 'நல்லாண்மை என்ப தொருவற்குத் தான்பிறந்த',
     line2: 'இல்லாண்மை ஆக்கிக் கொளல்',
-    KalaignarUrai:
-      'நல்ல முறையில் ஆளும் திறமை பெற்றவர், தான் பிறந்த குடிக்கே பெருமை சேர்ப்பவராவார்',
+    KalaignarUrai: 'நல்ல முறையில் ஆளும் திறமை பெற்றவர், தான் பிறந்த குடிக்கே பெருமை சேர்ப்பவராவார்',
     MuVaUrai:
       'ஒருவனுக்கு நல்ல ஆண்மை என்று சொல்லப்படுவது தான் பிறந்த குடியை ஆளும் சிறப்பைத் தனக்கு உண்டாக்கி கொள்வதாகும்.',
     SolomonPaapaiyaUrai:
@@ -18775,8 +17506,7 @@ const kurral = [
       'Of virtuous manliness the world accords the praise<br />To him who gives his powers, the house from which he sprang to raise',
     EnglishMeaning:
       "A man's true manliness consists in making himself the head and benefactor of his family",
-    Transliteration:
-      'Nallaanmai Enpadhu  Oruvarkuth  Thaanpirandha<br />Illaanmai  Aakkik  Kolal',
+    Transliteration: 'Nallaanmai Enpadhu  Oruvarkuth  Thaanpirandha<br />Illaanmai  Aakkik  Kolal',
   },
   {
     Index: 1027,
@@ -18792,8 +17522,7 @@ const kurral = [
     English:
       'The fearless hero bears the brunt amid the warrior throng;<br />Amid his kindred so the burthen rests upon the strong',
     EnglishMeaning: 'Amid his kindred so the burthen rests upon the strong',
-    Transliteration:
-      'Amarakaththu Vankannar  Polath  Thamarakaththum<br />Aatruvaar  Metre  Porai',
+    Transliteration: 'Amarakaththu Vankannar  Polath  Thamarakaththum<br />Aatruvaar  Metre  Porai',
   },
   {
     Index: 1028,
@@ -18810,13 +17539,11 @@ const kurral = [
       "Wait for no season, when you would your house uprear;<br />'Twill perish, if you wait supine, or hold your honour dear",
     EnglishMeaning:
       "As a family suffers by (one's) indolence and false dignity there is to be so season (good or bad) to those who strive to raise their family",
-    Transliteration:
-      'Kutiseyvaark Killai  Paruvam  Matiseydhu<br />Maanang  Karudhak  Ketum',
+    Transliteration: 'Kutiseyvaark Killai  Paruvam  Matiseydhu<br />Maanang  Karudhak  Ketum',
   },
   {
     Index: 1029,
-    Tamil:
-      'இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக்<br />குற்ற மறைப்பான் உடம்பு',
+    Tamil: 'இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக்<br />குற்ற மறைப்பான் உடம்பு',
     line1: 'இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக்',
     line2: 'குற்ற மறைப்பான் உடம்பு',
     KalaignarUrai:
@@ -18829,8 +17556,7 @@ const kurral = [
       'Is not his body vase that various sorrows fill,<br />Who would his household screen from every ill',
     EnglishMeaning:
       'Is it only to suffering that his body is exposed who undertakes to preserve his family from evil ?',
-    Transliteration:
-      'Itumpaikke Kolkalam  Kollo  Kutumpaththaik<br />Kutra  Maraippaan  Utampu',
+    Transliteration: 'Itumpaikke Kolkalam  Kollo  Kutumpaththaik<br />Kutra  Maraippaan  Utampu',
   },
   {
     Index: 1030,
@@ -18847,8 +17573,7 @@ const kurral = [
       'When trouble the foundation saps the house must fall,<br />If no strong hand be nigh to prop the tottering wall',
     EnglishMeaning:
       'If there are none to prop up and maintain a family (in distress), it will fall at the stroke of the axe of misfortune',
-    Transliteration:
-      'Itukkankaal Kondrita  Veezhum  Atuththoondrum<br />Nallaal  Ilaadha  Kuti',
+    Transliteration: 'Itukkankaal Kondrita  Veezhum  Atuththoondrum<br />Nallaal  Ilaadha  Kuti',
   },
   {
     Index: 1031,
@@ -18865,8 +17590,7 @@ const kurral = [
       "Howe'er they roam, the world must follow still the plougher's team;<br />Though toilsome, culture of the ground as noblest toil esteem",
     EnglishMeaning:
       'Agriculture, though laborious, is the most excellent (form of labour); for people, though they go about (in search of various employments), have at last to resort to the farmer',
-    Transliteration:
-      'Suzhandrumerp Pinnadhu  Ulakam  Adhanaal<br />Uzhandhum  Uzhave  Thalai',
+    Transliteration: 'Suzhandrumerp Pinnadhu  Ulakam  Adhanaal<br />Uzhandhum  Uzhave  Thalai',
   },
   {
     Index: 1032,
@@ -18888,8 +17612,7 @@ const kurral = [
   },
   {
     Index: 1033,
-    Tamil:
-      'உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்<br />தொழுதுண்டு பின்செல் பவர்',
+    Tamil: 'உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்<br />தொழுதுண்டு பின்செல் பவர்',
     line1: 'உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்',
     line2: 'தொழுதுண்டு பின்செல் பவர்',
     KalaignarUrai:
@@ -18920,8 +17643,7 @@ const kurral = [
       "O'er many a land they 'll see their monarch reign,<br />Whose fields are shaded by the waving grain",
     EnglishMeaning:
       'Patriotic farmers desire to bring all other states under the control of their own king',
-    Transliteration:
-      'Palakutai Neezhalum  Thangutaikkeezhk  Kaanpar<br />Alakutai  Neezha  Lavar',
+    Transliteration: 'Palakutai Neezhalum  Thangutaikkeezhk  Kaanpar<br />Alakutai  Neezha  Lavar',
   },
   {
     Index: 1035,
@@ -18938,13 +17660,11 @@ const kurral = [
       'They nothing ask from others, but to askers give,<br />Who raise with their own hands the food on which they live',
     EnglishMeaning:
       'Those whose nature is to live by manual labour will never beg but give something to those who beg',
-    Transliteration:
-      'Iravaar Irappaarkkondru  Eevar  Karavaadhu<br />Kaiseydhoon  Maalai  Yavar',
+    Transliteration: 'Iravaar Irappaarkkondru  Eevar  Karavaadhu<br />Kaiseydhoon  Maalai  Yavar',
   },
   {
     Index: 1036,
-    Tamil:
-      'உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்<br />விட்டேமென் பார்க்கும் நிலை',
+    Tamil: 'உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்<br />விட்டேமென் பார்க்கும் நிலை',
     line1: 'உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்',
     line2: 'விட்டேமென் பார்க்கும் நிலை',
     KalaignarUrai:
@@ -18955,15 +17675,13 @@ const kurral = [
       'உழுபவர் கை மட்டும் வேலை செய்யாது மடங்கிவிட்டால், எல்லாரும் விரும்பும் உணவையும், நாம் விட்டுவிட்டோம் என்று கூறும் துறவியரும்கூட  அவரது அறத்தில் நிலைத்து நிற்க முடியாது.',
     English:
       "For those who 've left what all men love no place is found,<br />When they with folded hands remain who till the ground",
-    EnglishMeaning:
-      "If the farmer's hands are slackened, even the ascetic state will fail",
+    EnglishMeaning: "If the farmer's hands are slackened, even the ascetic state will fail",
     Transliteration:
       'Uzhavinaar Kaimmatangin  Illai  Vizhaivadhooum<br />Vittemen  Paarkkum  Nilai',
   },
   {
     Index: 1037,
-    Tamil:
-      'தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்<br />வேண்டாது சாலப் படும்',
+    Tamil: 'தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்<br />வேண்டாது சாலப் படும்',
     line1: 'தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்',
     line2: 'வேண்டாது சாலப் படும்',
     KalaignarUrai:
@@ -18976,8 +17694,7 @@ const kurral = [
       "Reduce your soil to that dry state, When ounce is quarter-ounce's weight;<br />Without one handful of manure, Abundant crops you thus secure",
     EnglishMeaning:
       'If the land is dried so as to reduce one ounce of earth to a quarter, it will grow plentifully even without a handful of manure',
-    Transliteration:
-      'Thotippuzhudhi Kaqsaa  Unakkin  Pitiththeruvum<br />Ventaadhu  Saalap  Patum',
+    Transliteration: 'Thotippuzhudhi Kaqsaa  Unakkin  Pitiththeruvum<br />Ventaadhu  Saalap  Patum',
   },
   {
     Index: 1038,
@@ -18994,8 +17711,7 @@ const kurral = [
       'To cast manure is better than to plough;<br />Weed well; to guard is more than watering now',
     EnglishMeaning:
       'Manuring is better than ploughing; after weeding, watching is better than watering (it)',
-    Transliteration:
-      'Erinum Nandraal  Eruvitudhal  Kattapin<br />Neerinum  Nandradhan  Kaappu',
+    Transliteration: 'Erinum Nandraal  Eruvitudhal  Kattapin<br />Neerinum  Nandradhan  Kaappu',
   },
   {
     Index: 1039,
@@ -19012,8 +17728,7 @@ const kurral = [
       'When master from the field aloof hath stood;<br />Then land will sulk, like wife in angry mood',
     EnglishMeaning:
       'If the owner does not (personally) attend to his cultivation, his land will behave like an angry wife and yield him no pleasure',
-    Transliteration:
-      'Sellaan Kizhavan  Iruppin  Nilampulandhu<br />Illaalin  Ooti  Vitum',
+    Transliteration: 'Sellaan Kizhavan  Iruppin  Nilampulandhu<br />Illaalin  Ooti  Vitum',
   },
   {
     Index: 1040,
@@ -19030,8 +17745,7 @@ const kurral = [
       'The earth, that kindly dame, will laugh to see,<br />Men seated idle pleading poverty',
     EnglishMeaning:
       'The maiden, Earth, will laugh at the sight of those who plead poverty and lead an idle life',
-    Transliteration:
-      'Ilamendru Asaii  Iruppaaraik  Kaanin<br />Nilamennum  Nallaal  Nakum',
+    Transliteration: 'Ilamendru Asaii  Iruppaaraik  Kaanin<br />Nilamennum  Nallaal  Nakum',
   },
   {
     Index: 1041,
@@ -19042,13 +17756,11 @@ const kurral = [
       'வறுமைத் துன்பத்துக்கு உவமையாகக் காட்டுவதற்கு வறுமைத் துன்பத்தைத் தவிர வேறு துன்பம் எதுவுமில்லை',
     MuVaUrai:
       'வறுமையைப் போல்  துன்பமானது எது என்று கேட்டால், வறுமையைப் போல் துன்பமானது வறுமை ஒன்றே ஆகும்.',
-    SolomonPaapaiyaUrai:
-      'இன்மையை விடக் கொடியதுஎது என்றால், இல்லாமையை விடக் கொடியது இல்லாமையே.',
+    SolomonPaapaiyaUrai: 'இன்மையை விடக் கொடியதுஎது என்றால், இல்லாமையை விடக் கொடியது இல்லாமையே.',
     English:
       'You ask what sharper pain than poverty is known;<br />Nothing pains more than poverty, save poverty alone',
     EnglishMeaning: 'There is nothing that afflicts (one) like poverty',
-    Transliteration:
-      'Inmaiyin Innaadhadhu  Yaadhenin  Inmaiyin<br />Inmaiye  Innaa  Thadhu',
+    Transliteration: 'Inmaiyin Innaadhadhu  Yaadhenin  Inmaiyin<br />Inmaiye  Innaa  Thadhu',
   },
   {
     Index: 1042,
@@ -19061,12 +17773,10 @@ const kurral = [
       'வறுமை என்று சொல்லப்படும் பாவி ஒருவனை நெருங்கினால், அவனுக்கு மறுமையின்பமும், இன்மையின்பமும் இல்லாமற்  போகும் நிலைமை வரும்.',
     SolomonPaapaiyaUrai:
       'இல்லாமை என்ற ஒரு பாவி ஒருவனிடத்தில் சேர்ந்தால், அவன் பிறர்க்குக் கொடுக்க இல்லாதவன் ஆவதால் அவனுக்கு மறுமை இன்பமும் இல்லை; தானே அனுபவிக்க ஏதும் இல்லாததால் இம்மை இன்பமும் இல்லை.',
-    English:
-      "Malefactor matchless! poverty destroys<br />This world's and the next world's joys",
+    English: "Malefactor matchless! poverty destroys<br />This world's and the next world's joys",
     EnglishMeaning:
       'When cruel poverty comes on, it deprives one of both the present and future (bliss)',
-    Transliteration:
-      'Inmai Enavoru  Paavi  Marumaiyum<br />Immaiyum  Indri  Varum',
+    Transliteration: 'Inmai Enavoru  Paavi  Marumaiyum<br />Immaiyum  Indri  Varum',
   },
   {
     Index: 1043,
@@ -19083,13 +17793,11 @@ const kurral = [
       'Importunate desire, which poverty men name,<br />Destroys both old descent and goodly fame',
     EnglishMeaning:
       "Hankering poverty destroys at once the greatness of (one's) ancient descent and (the dignity of one's) speech",
-    Transliteration:
-      'Tholvaravum Tholum  Ketukkum  Thokaiyaaka<br />Nalkuravu  Ennum  Nasai',
+    Transliteration: 'Tholvaravum Tholum  Ketukkum  Thokaiyaaka<br />Nalkuravu  Ennum  Nasai',
   },
   {
     Index: 1044,
-    Tamil:
-      'இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த<br />சொற்பிறக்கும் சோர்வு தரும்',
+    Tamil: 'இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த<br />சொற்பிறக்கும் சோர்வு தரும்',
     line1: 'இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த',
     line2: 'சொற்பிறக்கும் சோர்வு தரும்',
     KalaignarUrai:
@@ -19102,31 +17810,24 @@ const kurral = [
       "From penury will spring, 'mid even those of noble race,<br />Oblivion that gives birth to words that bring disgrace",
     EnglishMeaning:
       'Even in those of high birth, poverty will produce the fault of uttering mean words',
-    Transliteration:
-      'Irpirandhaar Kanneyum  Inmai  Ilivandha<br />Sorpirakkum  Sorvu  Tharum',
+    Transliteration: 'Irpirandhaar Kanneyum  Inmai  Ilivandha<br />Sorpirakkum  Sorvu  Tharum',
   },
   {
     Index: 1045,
     Tamil: 'நல்குர வென்னும் இடும்பையுள் பல்குரைத்<br />துன்பங்கள் சென்று படும்',
     line1: 'நல்குர வென்னும் இடும்பையுள் பல்குரைத்',
     line2: 'துன்பங்கள் சென்று படும்',
-    KalaignarUrai:
-      'வறுமையெனும் துன்பத்திற்குள்ளிருந்து பல்வேறு வகையான துன்பங்கள் கிளர்ந்தெழும்',
+    KalaignarUrai: 'வறுமையெனும் துன்பத்திற்குள்ளிருந்து பல்வேறு வகையான துன்பங்கள் கிளர்ந்தெழும்',
     MuVaUrai:
       'வறுமை என்று சொல்லப்படும் துன்ப நிலையினுள் பலவகையாக வேறுபட்டுள்ள எல்லாத் துன்பங்களும் சென்று விளைந்திடும்.',
-    SolomonPaapaiyaUrai:
-      'இல்லாமை என்னும் துன்பத்திற்குள் எல்லா வகைத் துன்பங்களும் அடங்கும்.',
-    English:
-      'From poverty, that grievous woe,<br />Attendant sorrows plenteous grow',
-    EnglishMeaning:
-      'The misery of poverty brings in its train many (more) miseries',
-    Transliteration:
-      'Nalkuravu Ennum  Itumpaiyul  Palkuraith<br />Thunpangal  Sendru  Patum',
+    SolomonPaapaiyaUrai: 'இல்லாமை என்னும் துன்பத்திற்குள் எல்லா வகைத் துன்பங்களும் அடங்கும்.',
+    English: 'From poverty, that grievous woe,<br />Attendant sorrows plenteous grow',
+    EnglishMeaning: 'The misery of poverty brings in its train many (more) miseries',
+    Transliteration: 'Nalkuravu Ennum  Itumpaiyul  Palkuraith<br />Thunpangal  Sendru  Patum',
   },
   {
     Index: 1046,
-    Tamil:
-      'நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்<br />சொற்பொருள் சோர்வு படும்',
+    Tamil: 'நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்<br />சொற்பொருள் சோர்வு படும்',
     line1: 'நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்',
     line2: 'சொற்பொருள் சோர்வு படும்',
     KalaignarUrai:
@@ -19139,8 +17840,7 @@ const kurral = [
       "Though deepest sense, well understood, the poor man's words convey,<br />Their sense from memory of mankind will fade away",
     EnglishMeaning:
       'The words of the poor are profitless, though they may be sound in thought and clear in expression',
-    Transliteration:
-      'Narporul Nankunarndhu  Sollinum  Nalkoorndhaar<br />Sorporul  Sorvu  Patum',
+    Transliteration: 'Narporul Nankunarndhu  Sollinum  Nalkoorndhaar<br />Sorporul  Sorvu  Patum',
   },
   {
     Index: 1047,
@@ -19157,8 +17857,7 @@ const kurral = [
       "From indigence devoid of virtue's grace,<br />The mother e'en that bare, estranged, will turn her face",
     EnglishMeaning:
       'He that is reduced to absolute poverty will be regarded as a stranger even by his own mother',
-    Transliteration:
-      'Aranjaaraa Nalkuravu  Eendradhaa  Yaanum<br />Piranpola  Nokkap  Patum',
+    Transliteration: 'Aranjaaraa Nalkuravu  Eendradhaa  Yaanum<br />Piranpola  Nokkap  Patum',
   },
   {
     Index: 1048,
@@ -19171,17 +17870,13 @@ const kurral = [
       'நேற்றும் கொலை செய்தது போல் துன்புறுத்திய வறுமை இன்றும் என்னிடம் வருமோ, (என்று வறியவன் நாள்தோறும் கலங்கி வருந்துவான்).',
     SolomonPaapaiyaUrai:
       'நேற்று என்னைக் கொன்றது போன்ற துன்பத்தைத் தந்த இல்லாமை, இன்றும் கூட வருமோ?',
-    English:
-      'And will it come today as yesterday,<br />The grief of want that eats my soul away',
-    EnglishMeaning:
-      'Is the poverty that almost killed me yesterday, to meet me today too ?',
-    Transliteration:
-      'Indrum Varuvadhu  Kollo  Nerunalum<br />Kondradhu  Polum  Nirappu',
+    English: 'And will it come today as yesterday,<br />The grief of want that eats my soul away',
+    EnglishMeaning: 'Is the poverty that almost killed me yesterday, to meet me today too ?',
+    Transliteration: 'Indrum Varuvadhu  Kollo  Nerunalum<br />Kondradhu  Polum  Nirappu',
   },
   {
     Index: 1049,
-    Tamil:
-      'நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்<br />யாதொன்றும் கண்பா டரிது',
+    Tamil: 'நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்<br />யாதொன்றும் கண்பா டரிது',
     line1: 'நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்',
     line2: 'யாதொன்றும் கண்பா டரிது',
     KalaignarUrai:
@@ -19192,10 +17887,8 @@ const kurral = [
       'யோக வலிமையால் நெருப்பிற்குள் படுத்து உறங்கவும் முடியும்; ஆனால், பசிக் கொடுமைக்குள் சிறிது கூடக் கண் மூட முடியாது.',
     English:
       "Amid the flames sleep may men's eyelids close,<br />In poverty the eye knows no repose",
-    EnglishMeaning:
-      'One may sleep in the midst of fire; but by no means in the midst of poverty',
-    Transliteration:
-      'Neruppinul Thunjalum  Aakum  Nirappinul<br />Yaadhondrum  Kanpaatu  Aridhu',
+    EnglishMeaning: 'One may sleep in the midst of fire; but by no means in the midst of poverty',
+    Transliteration: 'Neruppinul Thunjalum  Aakum  Nirappinul<br />Yaadhondrum  Kanpaatu  Aridhu',
   },
   {
     Index: 1050,
@@ -19212,8 +17905,7 @@ const kurral = [
       "Unless the destitute will utterly themselves deny,<br />They cause their neighbour's salt and vinegar to die",
     EnglishMeaning:
       "The destitute poor, who do not renounce their bodies, only consume their neighbour's salt and water",
-    Transliteration:
-      'Thuppura Villaar  Thuvarath  Thuravaamai<br />Uppirkum  Kaatikkum  Kootru',
+    Transliteration: 'Thuppura Villaar  Thuvarath  Thuravaamai<br />Uppirkum  Kaatikkum  Kootru',
   },
   {
     Index: 1051,
@@ -19230,8 +17922,7 @@ const kurral = [
       "When those you find from whom 'tis meet to ask,- for aid apply;<br />Theirs is the sin, not yours, if they the gift deny",
     EnglishMeaning:
       'If you meet with those that may be begged of, you may beg; (but) if they withhold (their gift) it is their blame and not yours',
-    Transliteration:
-      'Irakka Iraththakkaark  Kaanin  Karappin<br />Avarpazhi  Thampazhi  Andru',
+    Transliteration: 'Irakka Iraththakkaark  Kaanin  Karappin<br />Avarpazhi  Thampazhi  Andru',
   },
   {
     Index: 1052,
@@ -19248,8 +17939,7 @@ const kurral = [
       'Even to ask an alms may pleasure give,<br />If what you ask without annoyance you receive',
     EnglishMeaning:
       'Even begging may be pleasant, if what is begged for is obtained without grief (to him that begs)',
-    Transliteration:
-      'Inpam Oruvarku  Iraththal  Irandhavai<br />Thunpam  Uraaa  Varin',
+    Transliteration: 'Inpam Oruvarku  Iraththal  Irandhavai<br />Thunpam  Uraaa  Varin',
   },
   {
     Index: 1053,
@@ -19266,8 +17956,7 @@ const kurral = [
       "The men who nought deny, but know what's due, before their face<br />To stand as suppliants affords especial grace",
     EnglishMeaning:
       'There is even a beauty in standing before and begging of those who are liberal in their gifts and understand their duty (to beggars)',
-    Transliteration:
-      'Karappilaa Nenjin  Katanarivaar  Munnindru<br />Irappumo  Reer  Utaiththu',
+    Transliteration: 'Karappilaa Nenjin  Katanarivaar  Munnindru<br />Irappumo  Reer  Utaiththu',
   },
   {
     Index: 1054,
@@ -19284,8 +17973,7 @@ const kurral = [
       'Like giving alms, may even asking pleasant seem,<br />From men who of denial never even dream',
     EnglishMeaning:
       'To beg of such as never think of withholding (their charity) even in their dreams, is in fact the same as giving (it oneself);',
-    Transliteration:
-      'Iraththalum Eedhale  Polum  Karaththal<br />Kanavilum  Thetraadhaar  Maattu',
+    Transliteration: 'Iraththalum Eedhale  Polum  Karaththal<br />Kanavilum  Thetraadhaar  Maattu',
   },
   {
     Index: 1055,
@@ -19302,13 +17990,11 @@ const kurral = [
       'Because on earth the men exist, who never say them nay,<br />Men bear to stand before their eyes for help to pray',
     EnglishMeaning:
       'As there are in the world those that give without refusing, there are (also) those that prefer to beg by simply standing before them',
-    Transliteration:
-      'Karappilaar Vaiyakaththu  Unmaiyaal  Kannindru<br />Irappavar  Merkol  Vadhu',
+    Transliteration: 'Karappilaar Vaiyakaththu  Unmaiyaal  Kannindru<br />Irappavar  Merkol  Vadhu',
   },
   {
     Index: 1056,
-    Tamil:
-      'கரப்பிடும்பை யில்லாரைக் காணின் நிரப்பிடும்பை<br />யெல்லா மொருங்கு கெடும்',
+    Tamil: 'கரப்பிடும்பை யில்லாரைக் காணின் நிரப்பிடும்பை<br />யெல்லா மொருங்கு கெடும்',
     line1: 'கரப்பிடும்பை யில்லாரைக் காணின் நிரப்பிடும்பை',
     line2: 'யெல்லா மொருங்கு கெடும்',
     KalaignarUrai:
@@ -19321,13 +18007,11 @@ const kurral = [
       "It those you find from evil of 'denial' free,<br />At once all plague of poverty will flee",
     EnglishMeaning:
       'All the evil of begging will be removed at the sight of those who are far from the evil of refusing',
-    Transliteration:
-      'Karappitumpai Yillaaraik  Kaanin  Nirappitumpai<br />Ellaam  Orungu  Ketum',
+    Transliteration: 'Karappitumpai Yillaaraik  Kaanin  Nirappitumpai<br />Ellaam  Orungu  Ketum',
   },
   {
     Index: 1057,
-    Tamil:
-      'இகழ்ந்தெள்ளா தீவாரைக் காணின் மகிழ்ந்துள்ளம்<br />உள்ளுள் உவப்ப துடைத்து',
+    Tamil: 'இகழ்ந்தெள்ளா தீவாரைக் காணின் மகிழ்ந்துள்ளம்<br />உள்ளுள் உவப்ப துடைத்து',
     line1: 'இகழ்ந்தெள்ளா தீவாரைக் காணின் மகிழ்ந்துள்ளம்',
     line2: 'உள்ளுள் உவப்ப துடைத்து',
     KalaignarUrai:
@@ -19358,8 +18042,7 @@ const kurral = [
       'If askers cease, the mighty earth, where cooling fountains flow,<br />Will be a stage where wooden puppets come and go',
     EnglishMeaning:
       'If there were no beggars, (the actions done in) the cool wide world would only resemble the movement of a puppet',
-    Transliteration:
-      'Irappaarai Illaayin  Eernganmaa  Gnaalam<br />Marappaavai  Sendruvan  Thatru',
+    Transliteration: 'Irappaarai Illaayin  Eernganmaa  Gnaalam<br />Marappaavai  Sendruvan  Thatru',
   },
   {
     Index: 1059,
@@ -19376,8 +18059,7 @@ const kurral = [
       "What glory will there be to men of generous soul,<br />When none are found to love the askers' role",
     EnglishMeaning:
       'What (praise) would there be to givers (of alms) if there were no beggars to ask for and reveive (them)',
-    Transliteration:
-      'Eevaarkan Ennuntaam  Thotram  Irandhukol<br />Mevaar  Ilaaak  Katai',
+    Transliteration: 'Eevaarkan Ennuntaam  Thotram  Irandhukol<br />Mevaar  Ilaaak  Katai',
   },
   {
     Index: 1060,
@@ -19394,8 +18076,7 @@ const kurral = [
       'Askers refused from wrath must stand aloof;<br />The plague of poverty itself is ample proof',
     EnglishMeaning:
       'He who begs ought not to be angry (at a refusal); for even the misery of (his own) poverty should be a sufficient reason (for so doing)',
-    Transliteration:
-      'Irappaan Vekulaamai  Ventum  Nirappitumpai<br />Thaaneyum  Saalum  Kari',
+    Transliteration: 'Irappaan Vekulaamai  Ventum  Nirappitumpai<br />Thaaneyum  Saalum  Kari',
   },
   {
     Index: 1061,
@@ -19412,8 +18093,7 @@ const kurral = [
       "Ten million-fold 'tis greater gain, asking no alms to live,<br />Even from those, like eyes in worth, who nought concealing gladly give",
     EnglishMeaning:
       'Not to beg (at all) even from those excellent persons who cheerfully give without refusing, will do immense good',
-    Transliteration:
-      'Karavaadhu Uvandheeyum  Kannannaar  Kannum<br />Iravaamai  Koti  Urum',
+    Transliteration: 'Karavaadhu Uvandheeyum  Kannannaar  Kannum<br />Iravaamai  Koti  Urum',
   },
   {
     Index: 1062,
@@ -19430,8 +18110,7 @@ const kurral = [
       "If he that shaped the world desires that men should begging go,<br />Through life's long course, let him a wanderer be and perish so",
     EnglishMeaning:
       'If the Creator of the world has decreed even begging as a means of livelihood, may he too go abegging and perish',
-    Transliteration:
-      'Irandhum Uyirvaazhdhal  Ventin  Parandhu<br />Ketuka  Ulakiyatri  Yaan',
+    Transliteration: 'Irandhum Uyirvaazhdhal  Ventin  Parandhu<br />Ketuka  Ulakiyatri  Yaan',
   },
   {
     Index: 1063,
@@ -19448,13 +18127,11 @@ const kurral = [
       "Nothing is harder than the hardness that will say,<br />'The plague of penury by asking alms we'll drive away.'",
     EnglishMeaning:
       'There is no greater folly than the boldness with which one seeks to remedy the evils of poverty by begging (rather than by working)',
-    Transliteration:
-      'Inmai Itumpai  Irandhudheer  Vaamennum<br />Vanmaiyin  Vanpaatta  Thil',
+    Transliteration: 'Inmai Itumpai  Irandhudheer  Vaamennum<br />Vanmaiyin  Vanpaatta  Thil',
   },
   {
     Index: 1064,
-    Tamil:
-      'இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்<br />காலும் இரவொல்லாச் சால்பு',
+    Tamil: 'இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்<br />காலும் இரவொல்லாச் சால்பு',
     line1: 'இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்',
     line2: 'காலும் இரவொல்லாச் சால்பு',
     KalaignarUrai:
@@ -19483,10 +18160,8 @@ const kurral = [
       'நீரே மிகுதியாக இருக்கச் சமைக்கப்பட்ட கஞ்சியே என்றாலும், உழைத்த வரவில் உண்பதைக் காட்டிலும் மேலான மகிழ்ச்சி இல்லை.',
     English:
       'Nothing is sweeter than to taste the toil-won cheer,<br />Though mess of pottage as tasteless as the water clear',
-    EnglishMeaning:
-      'Even thin gruel is ambrosia to him who has obtained it by labour',
-    Transliteration:
-      'Thenneer Atupurkai  Aayinum  Thaaldhandhadhu<br />Unnalin  Oonginiya  Thil',
+    EnglishMeaning: 'Even thin gruel is ambrosia to him who has obtained it by labour',
+    Transliteration: 'Thenneer Atupurkai  Aayinum  Thaaldhandhadhu<br />Unnalin  Oonginiya  Thil',
   },
   {
     Index: 1066,
@@ -19503,8 +18178,7 @@ const kurral = [
       "E'en if a draught of water for a cow you ask,<br />Nought's so distasteful to the tongue as beggar's task",
     EnglishMeaning:
       "There is nothing more disgraceful to one's tongue than to use it in begging water even for a cow",
-    Transliteration:
-      'Aavirku Neerendru  Irappinum  Naavirku<br />Iravin  Ilivandha  Thil',
+    Transliteration: 'Aavirku Neerendru  Irappinum  Naavirku<br />Iravin  Ilivandha  Thil',
   },
   {
     Index: 1067,
@@ -19521,8 +18195,7 @@ const kurral = [
       "One thing I beg of beggars all, 'If beg ye may,<br />Of those who hide their wealth, beg not, I pray.'",
     EnglishMeaning:
       "I beseech all beggars and say, 'If you need to beg, never beg of those who give unwillingly.'",
-    Transliteration:
-      'Irappan Irappaarai  Ellaam  Irappin<br />Karappaar  Iravanmin  Endru',
+    Transliteration: 'Irappan Irappaarai  Ellaam  Irappin<br />Karappaar  Iravanmin  Endru',
   },
   {
     Index: 1068,
@@ -19535,12 +18208,9 @@ const kurral = [
       'இரத்தல் என்னும் காவல் இல்லாத மரக்கலம் உள்ளதை ஒளித்துவைக்கும் தன்மையாகிய வன்னிலம் தாக்கினால் உடைந்து விடும்.',
     SolomonPaapaiyaUrai:
       'வறுமைக் கடலைக் கடந்துவிட ஏறிய பிச்சை என்னும் வலு இல்லாத தோணி இருப்பதை மறைத்தல் என்னும் பாறையில் மோதப் பிளந்துபோகும்.',
-    English:
-      "The fragile bark of beggary<br />Wrecked on denial's rock will lie",
-    EnglishMeaning:
-      'The unsafe raft of begging will split when it strikes on the rock of refusal',
-    Transliteration:
-      'Iravennum Emaappil  Thoni  Karavennum<br />Paardhaakkap  Pakku  Vitum',
+    English: "The fragile bark of beggary<br />Wrecked on denial's rock will lie",
+    EnglishMeaning: 'The unsafe raft of begging will split when it strikes on the rock of refusal',
+    Transliteration: 'Iravennum Emaappil  Thoni  Karavennum<br />Paardhaakkap  Pakku  Vitum',
   },
   {
     Index: 1069,
@@ -19557,13 +18227,11 @@ const kurral = [
       "The heart will melt away at thought of beggary,<br />With thought of stern repulse 'twill perish utterly",
     EnglishMeaning:
       "To think of (the evil of) begging is enough to melt one's heart; but to think of refusal is enough to break it",
-    Transliteration:
-      'Iravulla Ullam  Urukum  Karavulla<br />Ulladhooum  Indrik  Ketum',
+    Transliteration: 'Iravulla Ullam  Urukum  Karavulla<br />Ulladhooum  Indrik  Ketum',
   },
   {
     Index: 1070,
-    Tamil:
-      'கரப்பவர்க் கியாங்கொளிக்கும் கொல்லோ இரப்பவர்<br />சொல்லாடப் போஒம் உயிர்',
+    Tamil: 'கரப்பவர்க் கியாங்கொளிக்கும் கொல்லோ இரப்பவர்<br />சொல்லாடப் போஒம் உயிர்',
     line1: 'கரப்பவர்க் கியாங்கொளிக்கும் கொல்லோ இரப்பவர்',
     line2: 'சொல்லாடப் போஒம் உயிர்',
     KalaignarUrai:
@@ -19576,8 +18244,7 @@ const kurral = [
       "E'en as he asks, the shamefaced asker dies;<br />Where shall his spirit hide who help denies",
     EnglishMeaning:
       "Saying 'No' to a beggar takes away his life. (but as that very word will kill the refuser) where then would the latter's life hide itself ?",
-    Transliteration:
-      'Karappavarkku Yaangolikkum  Kollo  Irappavar<br />Sollaatap  Poom  Uyir',
+    Transliteration: 'Karappavarkku Yaangolikkum  Kollo  Irappavar<br />Sollaatap  Poom  Uyir',
   },
   {
     Index: 1071,
@@ -19594,8 +18261,7 @@ const kurral = [
       "The base resemble men in outward form, I ween;<br />But counterpart exact to them I've never seen",
     EnglishMeaning:
       'The base resemble men perfectly (as regards form); and we have not seen such (exact) resemblance (among any other species)',
-    Transliteration:
-      'Makkale Polvar  Kayavar  Avaranna<br />Oppaari  Yaanganta  Thil',
+    Transliteration: 'Makkale Polvar  Kayavar  Avaranna<br />Oppaari  Yaanganta  Thil',
   },
   {
     Index: 1072,
@@ -19612,8 +18278,7 @@ const kurral = [
       'Than those of grateful heart the base must luckier be,<br />Their minds from every anxious thought are free',
     EnglishMeaning:
       'The low enjoy more felicity than those who know what is good; for the former are not troubled with anxiety (as to the good)',
-    Transliteration:
-      'Nandrari Vaarir  Kayavar  Thiruvutaiyar<br />Nenjaththu  Avalam  Ilar',
+    Transliteration: 'Nandrari Vaarir  Kayavar  Thiruvutaiyar<br />Nenjaththu  Avalam  Ilar',
   },
   {
     Index: 1073,
@@ -19626,16 +18291,13 @@ const kurral = [
       'கயவரும் தேவரைப் போல்  தான் விரும்புகின்றவைகளைச் செய்து மனம் போன போக்கில் நடத்தலால், கயவர் தேவரைப் போன்றவர்.',
     SolomonPaapaiyaUrai:
       'தம்மைக் கட்டுப்படுத்துவார் இல்லாமல் தாம் விரும்பியபடி எல்லாம் செய்து வாழ்வதால், கயவர் தேவரைப் போன்றவராவர்.',
-    English:
-      'The base are as the Gods; they too<br />Do ever what they list to do',
+    English: 'The base are as the Gods; they too<br />Do ever what they list to do',
     EnglishMeaning: 'The base resemble the Gods; for the base act as they like',
-    Transliteration:
-      'Thevar Anaiyar  Kayavar  Avarundhaam<br />Mevana  Seydhozhuka  Laan',
+    Transliteration: 'Thevar Anaiyar  Kayavar  Avarundhaam<br />Mevana  Seydhozhuka  Laan',
   },
   {
     Index: 1074,
-    Tamil:
-      'அகப்பட்டி ஆவாரைக் காணின் அவரின் <br />மிகப்பட்டுச் செம்மாக்கும் கீழ்',
+    Tamil: 'அகப்பட்டி ஆவாரைக் காணின் அவரின் <br />மிகப்பட்டுச் செம்மாக்கும் கீழ்',
     line1: 'அகப்பட்டி ஆவாரைக் காணின் அவரின் ',
     line2: 'மிகப்பட்டுச் செம்மாக்கும் கீழ்',
     KalaignarUrai:
@@ -19646,10 +18308,8 @@ const kurral = [
       'தனக்கும் கீழாகத் தான் விரும்பியபடி எல்லாம் வாழும் நாய் போன்றவரைக் கண்டால் அவரைக் காட்டிலும் மேலாகத் தன் நிலையைக் காட்டி கயமை, இறுமாப்புக் கொள்ளும்.',
     English:
       'When base men those behold of conduct vile,<br />They straight surpass them, and exulting smile',
-    EnglishMeaning:
-      'The base feels proud when he sees persons whose acts meaner than his own',
-    Transliteration:
-      'Akappatti Aavaaraik  Kaanin  Avarin<br />Mikappattuch  Chemmaakkum  Keezh',
+    EnglishMeaning: 'The base feels proud when he sees persons whose acts meaner than his own',
+    Transliteration: 'Akappatti Aavaaraik  Kaanin  Avarin<br />Mikappattuch  Chemmaakkum  Keezh',
   },
   {
     Index: 1075,
@@ -19666,8 +18326,7 @@ const kurral = [
       "Fear is the base man's virtue; if that fail,<br />Intense desire some little may avail",
     EnglishMeaning:
       '(The principle of) behaviour in the mean is chiefly fear; if not, hope of gain, to some extent',
-    Transliteration:
-      'Achchame Keezhkaladhu  Aasaaram  Echcham<br />Avaavuntel  Untaam  Siridhu',
+    Transliteration: 'Achchame Keezhkaladhu  Aasaaram  Echcham<br />Avaavuntel  Untaam  Siridhu',
   },
   {
     Index: 1076,
@@ -19684,13 +18343,11 @@ const kurral = [
       "The base are like the beaten drum; for, when they hear<br />The sound the secret out in every neighbour's ear",
     EnglishMeaning:
       'The base are like a drum that is beaten, for they unburden to others the secrets they have heard',
-    Transliteration:
-      'Araiparai Annar  Kayavardhaam  Ketta<br />Maraipirarkku  Uyththuraikka  Laan',
+    Transliteration: 'Araiparai Annar  Kayavardhaam  Ketta<br />Maraipirarkku  Uyththuraikka  Laan',
   },
   {
     Index: 1077,
-    Tamil:
-      'ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்குங்<br />கூன்கையர் அல்லா தவர்க்கு',
+    Tamil: 'ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்குங்<br />கூன்கையர் அல்லா தவர்க்கு',
     line1: 'ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்குங்',
     line2: 'கூன்கையர் அல்லா தவர்க்கு',
     KalaignarUrai:
@@ -19703,8 +18360,7 @@ const kurral = [
       'From off their moistened hands no clinging grain they shake,<br />Unless to those with clenched fist their jaws who break',
     EnglishMeaning:
       'The mean will not (even) shake off (what sticks to) their hands (soon after a meal) to any but those who would break their jaws with their clenched fists',
-    Transliteration:
-      'Eerngai Vidhiraar  Kayavar  Kotirutaikkum<br />Koonkaiyar  Allaa  Thavarkku',
+    Transliteration: 'Eerngai Vidhiraar  Kayavar  Kotirutaikkum<br />Koonkaiyar  Allaa  Thavarkku',
   },
   {
     Index: 1078,
@@ -19721,13 +18377,11 @@ const kurral = [
       'The good to those will profit yield fair words who use;<br />The base, like sugar-cane, will profit those who bruise',
     EnglishMeaning:
       'The great bestow (their alms) as soon as they are informed; (but) the mean, like the sugar-cane, only when they are tortured to death',
-    Transliteration:
-      'Sollap Payanpatuvar  Saandror  Karumpupol<br />Kollap  Payanpatum  Keezh',
+    Transliteration: 'Sollap Payanpatuvar  Saandror  Karumpupol<br />Kollap  Payanpatum  Keezh',
   },
   {
     Index: 1079,
-    Tamil:
-      'உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்<br />வடுக்காண வற்றாகும் கீழ்',
+    Tamil: 'உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்<br />வடுக்காண வற்றாகும் கீழ்',
     line1: 'உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்',
     line2: 'வடுக்காண வற்றாகும் கீழ்',
     KalaignarUrai:
@@ -19740,8 +18394,7 @@ const kurral = [
       'If neighbours clothed and fed he see, the base<br />Is mighty man some hidden fault to trace',
     EnglishMeaning:
       'The base will bring an evil (accusation) against others, as soon as he sees them (enjoying) good food',
-    Transliteration:
-      'Utuppadhooum Unpadhooum  Kaanin  Pirarmel<br />Vatukkaana  Vatraakum  Keezh',
+    Transliteration: 'Utuppadhooum Unpadhooum  Kaanin  Pirarmel<br />Vatukkaana  Vatraakum  Keezh',
   },
   {
     Index: 1080,
@@ -19758,31 +18411,26 @@ const kurral = [
       'For what is base man fit, if griefs assail?<br />Himself to offer, there and then, for sale',
     EnglishMeaning:
       'The base will hasten to sell themselves as soon as a calamity has befallen them. For what else are they fitted ?',
-    Transliteration:
-      'Etrir Kuriyar  Kayavarondru  Utrakkaal<br />Vitrarku  Uriyar  Viraindhu',
+    Transliteration: 'Etrir Kuriyar  Kayavarondru  Utrakkaal<br />Vitrarku  Uriyar  Viraindhu',
   },
   {
     Index: 1081,
     Tamil: 'அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை<br />மாதர்கொல் மாலுமென் நெஞ்சு',
     line1: 'அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை',
     line2: 'மாதர்கொல் மாலுமென் நெஞ்சு',
-    KalaignarUrai:
-      'எனை வாட்டும் அழகோ! வண்ண மயிலோ! இந்த மங்கையைக் கண்டு மயங்குகிறதே நெஞ்சம்',
-    MuVaUrai:
-      'தெய்வப் பெண்ணோ! மயிலோ,  கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே.',
+    KalaignarUrai: 'எனை வாட்டும் அழகோ! வண்ண மயிலோ! இந்த மங்கையைக் கண்டு மயங்குகிறதே நெஞ்சம்',
+    MuVaUrai: 'தெய்வப் பெண்ணோ! மயிலோ,  கனமான குழை அணிந்த மனிதப் பெண்ணோ, என் நெஞ்சம் மயங்குகின்றதே.',
     SolomonPaapaiyaUrai:
       'அதோ பெரிய கம்மல்அணிந்து இருப்பது தெய்வமா? நல்லமயிலா? பெண்ணா? யார் என்று அறிய முடியாமல் என் மனம் மயங்குகிறது.',
     English:
       'Goddess? or peafowl rare? She whose ears rich jewels wear,<br />Is she a maid of human kind? All wildered is my mind',
     EnglishMeaning:
       'Is this jewelled female a celestial, a choice peahen, or a human being ? My mind is perplexed',
-    Transliteration:
-      'Anangukol Aaimayil  Kollo  Kananguzhai<br />Maadharkol  Maalum  En  Nenju',
+    Transliteration: 'Anangukol Aaimayil  Kollo  Kananguzhai<br />Maadharkol  Maalum  En  Nenju',
   },
   {
     Index: 1082,
-    Tamil:
-      'நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு<br />தானைக்கொண் டன்ன துடைத்து',
+    Tamil: 'நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு<br />தானைக்கொண் டன்ன துடைத்து',
     line1: 'நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு',
     line2: 'தானைக்கொண் டன்ன துடைத்து',
     KalaignarUrai:
@@ -19800,8 +18448,7 @@ const kurral = [
   },
   {
     Index: 1083,
-    Tamil:
-      'பண்டறியேன் கூற்றென் பதனை இனியறிந்தேன்<br />பெண்டகையால் பேரமர்க் கட்டு',
+    Tamil: 'பண்டறியேன் கூற்றென் பதனை இனியறிந்தேன்<br />பெண்டகையால் பேரமர்க் கட்டு',
     line1: 'பண்டறியேன் கூற்றென் பதனை இனியறிந்தேன்',
     line2: 'பெண்டகையால் பேரமர்க் கட்டு',
     KalaignarUrai:
@@ -19832,8 +18479,7 @@ const kurral = [
       "In sweet simplicity, A woman's gracious form hath she;<br />But yet those eyes, that drink my life, Are with the form at strife",
     EnglishMeaning:
       'These eyes that seem to kill those who look at them are as it were in hostilities with this feminine simplicity',
-    Transliteration:
-      'Kantaar Uyirunnum  Thotraththaal  Pentakaip<br />Pedhaikku  Amarththana  Kan',
+    Transliteration: 'Kantaar Uyirunnum  Thotraththaal  Pentakaip<br />Pedhaikku  Amarththana  Kan',
   },
   {
     Index: 1085,
@@ -19850,8 +18496,7 @@ const kurral = [
       "The light that on me gleams, Is it death's dart? or eye's bright beams?<br />Or fawn's shy glance? All three appear In form of maiden here",
     EnglishMeaning:
       'Is it Yama, (a pair of) eyes or a hind ?- Are not all these three in the looks of this maid ?',
-    Transliteration:
-      'Kootramo Kanno  Pinaiyo  Matavaral<br />Nokkamim  Moondrum  Utaiththu',
+    Transliteration: 'Kootramo Kanno  Pinaiyo  Matavaral<br />Nokkamim  Moondrum  Utaiththu',
   },
   {
     Index: 1086,
@@ -19868,8 +18513,7 @@ const kurral = [
       "If cruel eye-brow's bow, Unbent, would veil those glances now;<br />The shafts that wound this trembling heart Her eyes no more would dart",
     EnglishMeaning:
       'Her eyes will cause (me) no trembling sorrow, if they are properly hidden by her cruel arched eyebrows',
-    Transliteration:
-      'Kotumpuruvam Kotaa  Maraippin  Natungagnar<br />Seyyala  Manival  Kan',
+    Transliteration: 'Kotumpuruvam Kotaa  Maraippin  Natungagnar<br />Seyyala  Manival  Kan',
   },
   {
     Index: 1087,
@@ -19886,8 +18530,7 @@ const kurral = [
       "As veil o'er angry eyes Of raging elephant that lies,<br />The silken cincture's folds invest This maiden's panting breast",
     EnglishMeaning:
       'The cloth that covers the firm bosom of this maiden is (like) that which covers the eyes of a rutting elephant',
-    Transliteration:
-      'Kataaak Kalitrinmer  Katpataam  Maadhar<br />Pataaa  Mulaimel  Thukil',
+    Transliteration: 'Kataaak Kalitrinmer  Katpataam  Maadhar<br />Pataaa  Mulaimel  Thukil',
   },
   {
     Index: 1088,
@@ -19904,8 +18547,7 @@ const kurral = [
       'Ah woe is me my might, That awed my foemen in the fight,<br />By lustre of that beaming brow Borne down, lies broken now',
     EnglishMeaning:
       'On her bright brow alone is destroyed even that power of mine that used to terrify the most fearless',
-    Transliteration:
-      'Onnudhar Koo  Utaindhadhe  Gnaatpinul<br />Nannaarum  Utkumen  Peetu',
+    Transliteration: 'Onnudhar Koo  Utaindhadhe  Gnaatpinul<br />Nannaarum  Utkumen  Peetu',
   },
   {
     Index: 1089,
@@ -19922,16 +18564,14 @@ const kurral = [
       "Like tender fawn's her eye; Clothed on is she with modesty;<br />What added beauty can be lent; By alien ornament",
     EnglishMeaning:
       'Of what use are other jewels to her who is adorned with modesty, and the meek looks of a hind ?',
-    Transliteration:
-      'Pinaiyer Matanokkum  Naanum  Utaiyaatku<br />Aniyevano  Edhila  Thandhu',
+    Transliteration: 'Pinaiyer Matanokkum  Naanum  Utaiyaatku<br />Aniyevano  Edhila  Thandhu',
   },
   {
     Index: 1090,
     Tamil: 'உண்டார்க ணல்லது அடுநறாக் காமம்போல்<br />கண்டார் மகிழ்செய்தல் இன்று',
     line1: 'உண்டார்க ணல்லது அடுநறாக் காமம்போல்',
     line2: 'கண்டார் மகிழ்செய்தல் இன்று',
-    KalaignarUrai:
-      'மதுவை உண்டால்தான் மயக்கம் வரும்; ஆனால், கண்டாலே மயக்கம் தருவது காதல்தான்',
+    KalaignarUrai: 'மதுவை உண்டால்தான் மயக்கம் வரும்; ஆனால், கண்டாலே மயக்கம் தருவது காதல்தான்',
     MuVaUrai:
       'கள், தன்னை உண்டவரிடத்தில் அல்லாமல் காமத்தைப் போல் தன்னைக் கண்டவரிடத்தில் மயக்கத்தை உண்டாக்குவதில்லையே.',
     SolomonPaapaiyaUrai:
@@ -19940,13 +18580,11 @@ const kurral = [
       "The palm-tree's fragrant wine, To those who taste yields joys divine;<br />But love hath rare felicity For those that only see",
     EnglishMeaning:
       'Unlike boiled honey which yields delight only when it is drunk, love gives pleasure even when looked at',
-    Transliteration:
-      'Untaarkan Alladhu  Atunaraak  Kaamampol<br />Kantaar  Makizhseydhal  Indru',
+    Transliteration: 'Untaarkan Alladhu  Atunaraak  Kaamampol<br />Kantaar  Makizhseydhal  Indru',
   },
   {
     Index: 1091,
-    Tamil:
-      'இருநோக் கிவளுண்கண் உள்ள தொருநோக்கு<br />நோய்நோக்கொன் றந்நோய் மருந்து',
+    Tamil: 'இருநோக் கிவளுண்கண் உள்ள தொருநோக்கு<br />நோய்நோக்கொன் றந்நோய் மருந்து',
     line1: 'இருநோக் கிவளுண்கண் உள்ள தொருநோக்கு',
     line2: 'நோய்நோக்கொன் றந்நோய் மருந்து',
     KalaignarUrai:
@@ -19959,8 +18597,7 @@ const kurral = [
       'A double witchery have glances of her liquid eye;<br />One glance is glance that brings me pain; the other heals again',
     EnglishMeaning:
       'There are two looks in the dyed eyes of this (fair one); one causes pain, and the other is the cure thereof',
-    Transliteration:
-      'Irunokku Ivalunkan  Ulladhu  Orunokku<br />Noinokkon  Rannoi  Marundhu',
+    Transliteration: 'Irunokku Ivalunkan  Ulladhu  Orunokku<br />Noinokkon  Rannoi  Marundhu',
   },
   {
     Index: 1092,
@@ -19977,8 +18614,7 @@ const kurral = [
       "The furtive glance, that gleams one instant bright,<br />Is more than half of love's supreme delight",
     EnglishMeaning:
       'A single stolen glance of her eyes is more than half the pleasure (of sexual embrace)',
-    Transliteration:
-      'Kankalavu Kollum  Sirunokkam  Kaamaththil<br />Sempaakam  Andru  Peridhu',
+    Transliteration: 'Kankalavu Kollum  Sirunokkam  Kaamaththil<br />Sempaakam  Andru  Peridhu',
   },
   {
     Index: 1093,
@@ -19995,8 +18631,7 @@ const kurral = [
       "She looked, and looking drooped her head:<br />On springing shoot of love 'its water shed",
     EnglishMeaning:
       'She has looked (at men) and stooped (her head); and that (sign) waters as it were (the corn of) our love',
-    Transliteration:
-      'Nokkinaal Nokki  Irainjinaal  Aqdhaval<br />Yaappinul  Attiya  Neer',
+    Transliteration: 'Nokkinaal Nokki  Irainjinaal  Aqdhaval<br />Yaappinul  Attiya  Neer',
   },
   {
     Index: 1094,
@@ -20011,10 +18646,8 @@ const kurral = [
       'நான் அவளை பார்க்கும்போது தலைகுனிந்து நிலத்தைப் பார்ப்பாள், நான் பார்க்காதபோதோ என்னைப் பார்த்து மெல்ல தனக்குள்ளே சிரிப்பாள்.',
     English:
       'I look on her: her eyes are on the ground the while:<br />I look away: she looks on me with timid smile',
-    EnglishMeaning:
-      'When I look, she looks down; when I do not, she looks and smiles gently',
-    Transliteration:
-      'Yaannokkum Kaalai  Nilannokkum  Nokkaakkaal<br />Thaannokki  Mella  Nakum',
+    EnglishMeaning: 'When I look, she looks down; when I do not, she looks and smiles gently',
+    Transliteration: 'Yaannokkum Kaalai  Nilannokkum  Nokkaakkaal<br />Thaannokki  Mella  Nakum',
   },
   {
     Index: 1095,
@@ -20031,8 +18664,7 @@ const kurral = [
       'She seemed to see me not; but yet the maid<br />Her love, by smiling side-long glance, betrayed',
     EnglishMeaning:
       'She not only avoids a direct look at me, but looks as it were with a half-closed eye and smiles',
-    Transliteration:
-      'Kurikkontu Nokkaamai  Allaal  Orukan<br />Sirakkaniththaal  Pola  Nakum',
+    Transliteration: 'Kurikkontu Nokkaamai  Allaal  Orukan<br />Sirakkaniththaal  Pola  Nakum',
   },
   {
     Index: 1096,
@@ -20049,13 +18681,11 @@ const kurral = [
       "Though with their lips affection they disown,<br />Yet, when they hate us not, 'tis quickly known",
     EnglishMeaning:
       'Though they may speak harshly as if they were strangers, the words of the friendly are soon understood',
-    Transliteration:
-      'Uraaa Thavarpol  Solinum  Seraaarsol<br />Ollai  Unarap  Patum',
+    Transliteration: 'Uraaa Thavarpol  Solinum  Seraaarsol<br />Ollai  Unarap  Patum',
   },
   {
     Index: 1097,
-    Tamil:
-      'செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்<br />உறாஅர்போன் றுற்றார் குறிப்பு',
+    Tamil: 'செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்<br />உறாஅர்போன் றுற்றார் குறிப்பு',
     line1: 'செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்',
     line2: 'உறாஅர்போன் றுற்றார் குறிப்பு',
     KalaignarUrai:
@@ -20068,8 +18698,7 @@ const kurral = [
       'The slighting words that anger feign, while eyes their love reveal<br />Are signs of those that love, but would their love conceal',
     EnglishMeaning:
       'Little words that are harsh and looks that are hateful are (but) the expressions of lovers who wish to act like strangers',
-    Transliteration:
-      'Seraaach Chirusollum  Setraarpol  Nokkum<br />Uraaarpondru  Utraar  Kurippu',
+    Transliteration: 'Seraaach Chirusollum  Setraarpol  Nokkum<br />Uraaarpondru  Utraar  Kurippu',
   },
   {
     Index: 1098,
@@ -20086,8 +18715,7 @@ const kurral = [
       'I gaze, the tender maid relents the while;<br />And, oh the matchless grace of that soft smile',
     EnglishMeaning:
       'When I look, the pitying maid looks in return and smiles gently; and that is a comforting sign for me',
-    Transliteration:
-      'Asaiyiyarku Untaantor  Eeryaan  Nokkap<br />Pasaiyinal  Paiya  Nakum',
+    Transliteration: 'Asaiyiyarku Untaantor  Eeryaan  Nokkap<br />Pasaiyinal  Paiya  Nakum',
   },
   {
     Index: 1099,
@@ -20104,8 +18732,7 @@ const kurral = [
       "The look indifferent, that would its love disguise,<br />Is only read aright by lovers' eyes",
     EnglishMeaning:
       'Both the lovers are capable of looking at each other in an ordinary way, as if they were perfect strangers',
-    Transliteration:
-      'Edhilaar Polap  Podhunokku  Nokkudhal<br />Kaadhalaar  Kanne  Ula',
+    Transliteration: 'Edhilaar Polap  Podhunokku  Nokkudhal<br />Kaadhalaar  Kanne  Ula',
   },
   {
     Index: 1100,
@@ -20122,13 +18749,11 @@ const kurral = [
       'When eye to answering eye reveals the tale of love,<br />All words that lips can say must useless prove',
     EnglishMeaning:
       'The words of the mouths are of no use whatever, when there is perfect agreement between the eyes (of lovers)',
-    Transliteration:
-      'Kannotu Kaninai  Nokkokkin  Vaaichchorkal<br />Enna  Payanum  Ila',
+    Transliteration: 'Kannotu Kaninai  Nokkokkin  Vaaichchorkal<br />Enna  Payanum  Ila',
   },
   {
     Index: 1101,
-    Tamil:
-      'கண்டுகேட் டுண்டுயிர்த் துற்றறியும் ஐம்புலனும்<br />ஒண்தொடி கண்ணே உள',
+    Tamil: 'கண்டுகேட் டுண்டுயிர்த் துற்றறியும் ஐம்புலனும்<br />ஒண்தொடி கண்ணே உள',
     line1: 'கண்டுகேட் டுண்டுயிர்த் துற்றறியும் ஐம்புலனும்',
     line2: 'ஒண்தொடி கண்ணே உள',
     KalaignarUrai:
@@ -20141,8 +18766,7 @@ const kurral = [
       'All joys that senses five- sight, hearing, taste, smell, touch- can give,<br />In this resplendent armlets-bearing damsel live',
     EnglishMeaning:
       'The (simultaneous) enjoyment of the five senses of sight, hearing, taste, smell and touch can only be found with bright braceleted (women)',
-    Transliteration:
-      'Kantukettu Untuyirththu  Utrariyum  Aimpulanum<br />Ondhoti  Kanne  Ula',
+    Transliteration: 'Kantukettu Untuyirththu  Utrariyum  Aimpulanum<br />Ondhoti  Kanne  Ula',
   },
   {
     Index: 1102,
@@ -20159,8 +18783,7 @@ const kurral = [
       'Disease and medicine antagonists we surely see;<br />This maid, to pain she gives, herself is remedy',
     EnglishMeaning:
       'The remedy for a disease is always something different (from it); but for the disease caused by this jewelled maid, she is herself the cure',
-    Transliteration:
-      'Pinikku Marundhu  Piraman  Aniyizhai<br />Thannoikkuth  Thaane  Marundhu',
+    Transliteration: 'Pinikku Marundhu  Piraman  Aniyizhai<br />Thannoikkuth  Thaane  Marundhu',
   },
   {
     Index: 1103,
@@ -20177,13 +18800,11 @@ const kurral = [
       "Than rest in her soft arms to whom the soul is giv'n,<br />Is any sweeter joy in his, the Lotus-eyed-one's heaven",
     EnglishMeaning:
       "Can the lotus-eyed Vishnu's heaven be indeed as sweet to those who delight to sleep in the delicate arms of their beloved ?",
-    Transliteration:
-      'Thaamveezhvaar Mendrol  Thuyilin  Inidhukol<br />Thaamaraik  Kannaan  Ulaku',
+    Transliteration: 'Thaamveezhvaar Mendrol  Thuyilin  Inidhukol<br />Thaamaraik  Kannaan  Ulaku',
   },
   {
     Index: 1104,
-    Tamil:
-      'நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்<br />தீயாண்டுப் பெற்றாள் இவள்',
+    Tamil: 'நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்<br />தீயாண்டுப் பெற்றாள் இவள்',
     line1: 'நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்',
     line2: 'தீயாண்டுப் பெற்றாள் இவள்',
     KalaignarUrai:
@@ -20196,8 +18817,7 @@ const kurral = [
       'Withdraw, it burns; approach, it soothes the pain;<br />Whence did the maid this wondrous fire obtain',
     EnglishMeaning:
       'From whence has she got this fire that burns when I withdraw and cools when I approach ?',
-    Transliteration:
-      'Neengin Theru�um  Kurukungaal  Thannennum<br />Theeyaantup  Petraal  Ival?',
+    Transliteration: 'Neengin Theru�um  Kurukungaal  Thannennum<br />Theeyaantup  Petraal  Ival?',
   },
   {
     Index: 1105,
@@ -20213,8 +18833,7 @@ const kurral = [
     English:
       'In her embrace, whose locks with flowery wreaths are bound,<br />Each varied form of joy the soul can wish is found',
     EnglishMeaning: 'Each varied form of joy the soul can wish is found',
-    Transliteration:
-      'Vetta Pozhudhin  Avaiyavai  Polume<br />Thottaar  Kadhuppinaal  Thol',
+    Transliteration: 'Vetta Pozhudhin  Avaiyavai  Polume<br />Thottaar  Kadhuppinaal  Thol',
   },
   {
     Index: 1106,
@@ -20249,8 +18868,7 @@ const kurral = [
       "As when one eats from household store, with kindly grace<br />Sharing his meal: such is this golden maid's embrace",
     EnglishMeaning:
       "The embraces of a gold-complexioned beautiful female are as pleasant as to dwell in one's own house and live by one's own (earnings) after distributing (a portion of it in charity)",
-    Transliteration:
-      'Thammil Irundhu  Thamadhupaaththu  Untatraal<br />Ammaa  Arivai  Muyakku',
+    Transliteration: 'Thammil Irundhu  Thamadhupaaththu  Untatraal<br />Ammaa  Arivai  Muyakku',
   },
   {
     Index: 1108,
@@ -20267,8 +18885,7 @@ const kurral = [
       'Sweet is the strict embrace of those whom fond affection binds,<br />Where no dissevering breath of discord entrance finds',
     EnglishMeaning:
       'To ardent lovers sweet is the embrace that cannot be penetrated even by a breath of breeze',
-    Transliteration:
-      'Veezhum Iruvarkku  Inidhe  Valiyitai<br />Pozhap  Pataaa  Muyakku',
+    Transliteration: 'Veezhum Iruvarkku  Inidhe  Valiyitai<br />Pozhap  Pataaa  Muyakku',
   },
   {
     Index: 1109,
@@ -20285,8 +18902,7 @@ const kurral = [
       'The jealous variance, the healing of the strife, reunion gained:<br />These are the fruits from wedded love obtained',
     EnglishMeaning:
       'Love quarrel, reconciliation and intercourse - these are the advantages reaped by those who marry for lust',
-    Transliteration:
-      'Ootal Unardhal  Punardhal  Ivaikaamam<br />Kootiyaar  Petra  Payan',
+    Transliteration: 'Ootal Unardhal  Punardhal  Ivaikaamam<br />Kootiyaar  Petra  Payan',
   },
   {
     Index: 1110,
@@ -20303,8 +18919,7 @@ const kurral = [
       "The more men learn, the more their lack of learning they detect;<br />'Tis so when I approach the maid with gleaming jewels decked",
     EnglishMeaning:
       "As (one's) ignorance is discovered the more one learns, so does repeated intercourse with a welladorned female (only create a desire for more)",
-    Transliteration:
-      'Aridhoru Ariyaamai  Kantatraal  Kaamam<br />Seridhorum  Seyizhai  Maattu',
+    Transliteration: 'Aridhoru Ariyaamai  Kantatraal  Kaamam<br />Seridhorum  Seyizhai  Maattu',
   },
   {
     Index: 1111,
@@ -20321,13 +18936,11 @@ const kurral = [
       "O flower of the sensitive plant! than thee<br />More tender's the maiden beloved by me",
     EnglishMeaning:
       'May you flourish, O Anicham! you have a delicate nature But my beloved is more delicate than you',
-    Transliteration:
-      'Nanneerai Vaazhi  Anichchame  Ninninum<br />Menneeral  Yaamveezh  Paval',
+    Transliteration: 'Nanneerai Vaazhi  Anichchame  Ninninum<br />Menneeral  Yaamveezh  Paval',
   },
   {
     Index: 1112,
-    Tamil:
-      'மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்<br />பலர்காணும் பூவொக்கும் என்று',
+    Tamil: 'மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்<br />பலர்காணும் பூவொக்கும் என்று',
     line1: 'மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்',
     line2: 'பலர்காணும் பூவொக்கும் என்று',
     KalaignarUrai:
@@ -20340,13 +18953,11 @@ const kurral = [
       'You deemed, as you saw the flowers, her eyes were as flowers, my soul,<br />That many may see; it was surely some folly that over you stole',
     EnglishMeaning:
       'O my soul, fancying that flowers which are seen by many can resemble her eyes, you become confused at the sight of them',
-    Transliteration:
-      'Malarkaanin Maiyaaththi  Nenje  Ivalkan<br />Palarkaanum  Poovokkum  Endru',
+    Transliteration: 'Malarkaanin Maiyaaththi  Nenje  Ivalkan<br />Palarkaanum  Poovokkum  Endru',
   },
   {
     Index: 1113,
-    Tamil:
-      'முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்<br />வேலுண்கண் வேய்த்தோ ளவட்கு',
+    Tamil: 'முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்<br />வேலுண்கண் வேய்த்தோ ளவட்கு',
     line1: 'முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்',
     line2: 'வேலுண்கண் வேய்த்தோ ளவட்கு',
     KalaignarUrai:
@@ -20359,8 +18970,7 @@ const kurral = [
       'As tender shoot her frame; teeth, pearls; around her odours blend;<br />Darts are the eyes of her whose shoulders like the bambu bend',
     EnglishMeaning:
       'The complexion of this bamboo-shouldered one is that of a shoot; her teeth, are pearls; her breath,',
-    Transliteration:
-      'Murimeni Muththam  Muruval  Verinaatram<br />Velunkan  Veyththo  Lavatku',
+    Transliteration: 'Murimeni Muththam  Muruval  Verinaatram<br />Velunkan  Veyththo  Lavatku',
   },
   {
     Index: 1114,
@@ -20377,8 +18987,7 @@ const kurral = [
       "The lotus, seeing her, with head demiss, the ground would eye,<br />And say, 'With eyes of her, rich gems who wears, we cannot vie.'",
     EnglishMeaning:
       "If the blue lotus could see, it would stoop and look at the ground saying, 'I can never resemble the eyes of this excellent jewelled one.'",
-    Transliteration:
-      'Kaanin Kuvalai  Kavizhndhu  Nilannokkum<br />Maanizhai  Kannovvem  Endru',
+    Transliteration: 'Kaanin Kuvalai  Kavizhndhu  Nilannokkum<br />Maanizhai  Kannovvem  Endru',
   },
   {
     Index: 1115,
@@ -20395,8 +19004,7 @@ const kurral = [
       "The flowers of the sensitive plant as a girdle around her she placed;<br />The stems she forgot to nip off; they 'll weigh down the delicate waist",
     EnglishMeaning:
       'No merry drums will be beaten for the (tender) waist of her who has adorned herself with the anicham without having removed its stem',
-    Transliteration:
-      'Anichchappook Kaalkalaiyaal  Peydhaal  Nukappirku<br />Nalla  Pataaa  Parai',
+    Transliteration: 'Anichchappook Kaalkalaiyaal  Peydhaal  Nukappirku<br />Nalla  Pataaa  Parai',
   },
   {
     Index: 1116,
@@ -20413,8 +19021,7 @@ const kurral = [
       "The stars perplexed are rushing wildly from their spheres;<br />For like another moon this maiden's face appears",
     EnglishMeaning:
       "The stars have become confused in their places not being able to distinguish between the moon and the maid's countenance",
-    Transliteration:
-      'Madhiyum Matandhai  Mukanum  Ariyaa<br />Padhiyin  Kalangiya  Meen',
+    Transliteration: 'Madhiyum Matandhai  Mukanum  Ariyaa<br />Padhiyin  Kalangiya  Meen',
   },
   {
     Index: 1117,
@@ -20431,8 +19038,7 @@ const kurral = [
       'In moon, that waxing waning shines, as sports appear,<br />Are any spots discerned in face of maiden here',
     EnglishMeaning:
       'Could there be spots in the face of this maid like those in the bright full moon ?',
-    Transliteration:
-      'Aruvaai Niraindha  Avirmadhikkup  Pola<br />Maruvunto  Maadhar  Mukaththu',
+    Transliteration: 'Aruvaai Niraindha  Avirmadhikkup  Pola<br />Maruvunto  Maadhar  Mukaththu',
   },
   {
     Index: 1118,
@@ -20449,8 +19055,7 @@ const kurral = [
       'Farewell, O moon! If that thine orb could shine<br />Bright as her face, thou shouldst be love of mine',
     EnglishMeaning:
       'If you can indeed shine like the face of women, flourish, O moon, for then would you be worth loving ?',
-    Transliteration:
-      'Maadhar Mukampol  Olivita  Vallaiyel<br />Kaadhalai  Vaazhi  Madhi',
+    Transliteration: 'Maadhar Mukampol  Olivita  Vallaiyel<br />Kaadhalai  Vaazhi  Madhi',
   },
   {
     Index: 1119,
@@ -20467,8 +19072,7 @@ const kurral = [
       'If as her face, whose eyes are flowers, thou wouldst have charms for me,<br />Shine for my eyes alone, O moon, shine not for all to see',
     EnglishMeaning:
       'O moon, if you wish to resemble the face of her whose eyes are like (these) flowers, do not appear so as to be seen by all',
-    Transliteration:
-      'Malaranna Kannaal  Mukamoththi  Yaayin<br />Palarkaanath  Thondral  Madhi',
+    Transliteration: 'Malaranna Kannaal  Mukamoththi  Yaayin<br />Palarkaanath  Thondral  Madhi',
   },
   {
     Index: 1120,
@@ -20485,8 +19089,7 @@ const kurral = [
       "The flower of the sensitive plant, and the down on the swan's white breast,<br />As the thorn are harsh, by the delicate feet of this maiden pressed",
     EnglishMeaning:
       'The anicham and the feathers of the swan are to the feet of females, like the fruit of the (thorny) Nerunji',
-    Transliteration:
-      'Anichchamum Annaththin  Thooviyum  Maadhar<br />Atikku  Nerunjip  Pazham',
+    Transliteration: 'Anichchamum Annaththin  Thooviyum  Maadhar<br />Atikku  Nerunjip  Pazham',
   },
   {
     Index: 1121,
@@ -20503,8 +19106,7 @@ const kurral = [
       'The dew on her white teeth, whose voice is soft and low,<br />Is as when milk and honey mingled flow',
     EnglishMeaning:
       'The water which oozes from the white teeth of this soft speeched damsel is like a mixture of milk and honey',
-    Transliteration:
-      'Paalotu Thenkalan  Thatre  Panimozhi<br />Vaaleyiru  Ooriya  Neer',
+    Transliteration: 'Paalotu Thenkalan  Thatre  Panimozhi<br />Vaaleyiru  Ooriya  Neer',
   },
   {
     Index: 1122,
@@ -20519,10 +19121,8 @@ const kurral = [
       'என் மனைவிக்கும் எனக்கும் இடையே உள்ள உறவு, உடம்பிற்கும் உயிருக்கும் இடையே எத்தகைய உறவோ அத்தகையது.',
     English:
       'Between this maid and me the friendship kind<br />Is as the bonds that soul and body bind',
-    EnglishMeaning:
-      'The love between me and this damsel is like the union of body and soul',
-    Transliteration:
-      'Utampotu Uyiritai  Ennamar  Ranna<br />Matandhaiyotu  Emmitai  Natpu',
+    EnglishMeaning: 'The love between me and this damsel is like the union of body and soul',
+    Transliteration: 'Utampotu Uyiritai  Ennamar  Ranna<br />Matandhaiyotu  Emmitai  Natpu',
   },
   {
     Index: 1123,
@@ -20539,8 +19139,7 @@ const kurral = [
       'For her with beauteous brow, the maid I love, there place is none;<br />To give her image room, O pupil of mine eye, begone',
     EnglishMeaning:
       'O you image in the pupil (of my eye)! depart; there is no room for (my) fair-browed beloved',
-    Transliteration:
-      'Karumaniyir Paavaainee  Podhaayaam  Veezhum<br />Thirunudharku  Illai  Itam',
+    Transliteration: 'Karumaniyir Paavaainee  Podhaayaam  Veezhum<br />Thirunudharku  Illai  Itam',
   },
   {
     Index: 1124,
@@ -20557,8 +19156,7 @@ const kurral = [
       'Life is she to my very soul when she draws nigh;<br />Dissevered from the maid with jewels rare, I die',
     EnglishMeaning:
       'My fair-jewelled one resembles the living soul (when she is in union with me), the dying soul when she leaves me',
-    Transliteration:
-      'Vaazhdhal Uyirkkannal  Aayizhai  Saadhal<br />Adharkannal  Neengum  Itaththu',
+    Transliteration: 'Vaazhdhal Uyirkkannal  Aayizhai  Saadhal<br />Adharkannal  Neengum  Itaththu',
   },
   {
     Index: 1125,
@@ -20575,8 +19173,7 @@ const kurral = [
       "I might recall, if I could once forget; but from my heart<br />Her charms fade not, whose eyes gleam like the warrior's dart",
     EnglishMeaning:
       'If I had forgotten her who has bright battling eyes, I would have remembered (thee); but I never forget her (Thus says he to her maid)',
-    Transliteration:
-      'Ulluvan Manyaan  Marappin  Marappariyen<br />Ollamark  Kannaal  Kunam',
+    Transliteration: 'Ulluvan Manyaan  Marappin  Marappariyen<br />Ollamark  Kannaal  Kunam',
   },
   {
     Index: 1126,
@@ -20593,8 +19190,7 @@ const kurral = [
       "My loved one's subtle form departs not from my eyes;<br />I wink them not, lest I should pain him where he lies",
     EnglishMeaning:
       'My lover would not depart from mine eyes; even if I wink, he would not suffer (from pain); he is so ethereal',
-    Transliteration:
-      'Kannullin Pokaar  Imaippin  Parukuvaraa<br />Nunniyarem  Kaadha  Lavar',
+    Transliteration: 'Kannullin Pokaar  Imaippin  Parukuvaraa<br />Nunniyarem  Kaadha  Lavar',
   },
   {
     Index: 1127,
@@ -20607,12 +19203,10 @@ const kurral = [
       'எம் காதலர் கண்ணினுள் இருக்கின்றார், ஆகையால் மை எழுதினால் அவர் மறைவதை எண்ணிக் கண்ணுக்கு மையும் எழுதமாட்டோம்.',
     SolomonPaapaiyaUrai:
       'என் கண்ணுக்குள் அவர் இருப்பதால் கண்ணுக்கு மை தீட்டும் நேரம் அவர் மறைய நேரும் என்பதை அறிந்து மையும்  தீட்டமாட்டேன்.',
-    English:
-      'My love doth ever in my eyes reside;<br />I stain them not, fearing his form to hide',
+    English: 'My love doth ever in my eyes reside;<br />I stain them not, fearing his form to hide',
     EnglishMeaning:
       'As my lover abides in my eyes, I will not even paint them, for he would (then) have to conceal himself',
-    Transliteration:
-      'Kannullaar Kaadha  Lavaraakak  Kannum<br />Ezhudhem  Karappaakku  Arindhu',
+    Transliteration: 'Kannullaar Kaadha  Lavaraakak  Kannum<br />Ezhudhem  Karappaakku  Arindhu',
   },
   {
     Index: 1128,
@@ -20629,8 +19223,7 @@ const kurral = [
       'Within my heart my lover dwells; from food I turn<br />That smacks of heat, lest he should feel it burn',
     EnglishMeaning:
       'As my lover is in my heart, I am afraid of eating (anything) hot, for I know it would pain him',
-    Transliteration:
-      'Nenjaththaar Kaadha  Lavaraaka  Veydhuntal<br />Anjudhum  Vepaak  Karindhu',
+    Transliteration: 'Nenjaththaar Kaadha  Lavaraaka  Veydhuntal<br />Anjudhum  Vepaak  Karindhu',
   },
   {
     Index: 1129,
@@ -20647,13 +19240,11 @@ const kurral = [
       "I fear his form to hide, nor close my eyes:<br />'Her love estranged is gone!' the village cries",
     EnglishMeaning:
       'I will not wink, knowing that if I did, my lover would hide himself; and for this reason, this town says, he is unloving',
-    Transliteration:
-      'Imaippin Karappaakku  Arival  Anaiththirke<br />Edhilar  Ennum  Iv  Voor',
+    Transliteration: 'Imaippin Karappaakku  Arival  Anaiththirke<br />Edhilar  Ennum  Iv  Voor',
   },
   {
     Index: 1130,
-    Tamil:
-      'உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்<br />ஏதிலர் என்னுமிவ் வூர்',
+    Tamil: 'உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்<br />ஏதிலர் என்னுமிவ் வூர்',
     line1: 'உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்',
     line2: 'ஏதிலர் என்னுமிவ் வூர்',
     KalaignarUrai:
@@ -20684,8 +19275,7 @@ const kurral = [
       "To those who 've proved love's joy, and now afflicted mourn,<br />Except the helpful 'horse of palm', no other strength remains",
     EnglishMeaning:
       'To those who after enjoyment of sexual pleasure suffer (for want of more), there is no help so efficient as the palmyra horse',
-    Transliteration:
-      'Kaamam Uzhandhu  Varundhinaarkku  Emam<br />Matalalladhu  Illai  Vali',
+    Transliteration: 'Kaamam Uzhandhu  Varundhinaarkku  Emam<br />Matalalladhu  Illai  Vali',
   },
   {
     Index: 1132,
@@ -20702,13 +19292,11 @@ const kurral = [
       "My body and my soul, that can no more endure,<br />Will lay reserve aside, and mount the 'horse of palm'",
     EnglishMeaning:
       'Having got rid of shame, the suffering body and soul save themselves on the palmyra horse',
-    Transliteration:
-      'Nonaa Utampum  Uyirum  Matalerum<br />Naaninai  Neekki  Niruththu',
+    Transliteration: 'Nonaa Utampum  Uyirum  Matalerum<br />Naaninai  Neekki  Niruththu',
   },
   {
     Index: 1133,
-    Tamil:
-      'நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்<br />காமுற்றார் ஏறும் மடல்',
+    Tamil: 'நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்<br />காமுற்றார் ஏறும் மடல்',
     line1: 'நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்',
     line2: 'காமுற்றார் ஏறும் மடல்',
     KalaignarUrai:
@@ -20721,8 +19309,7 @@ const kurral = [
       "I once retained reserve and seemly manliness;<br />To-day I nought possess but lovers' 'horse of palm'",
     EnglishMeaning:
       'Modesty and manliness were once my own; now, my own is the palmyra horse that is ridden by the lustful',
-    Transliteration:
-      'Naanotu Nallaanmai  Pantutaiyen  Indrutaiyen<br />Kaamutraar  Erum  Matal',
+    Transliteration: 'Naanotu Nallaanmai  Pantutaiyen  Indrutaiyen<br />Kaamutraar  Erum  Matal',
   },
   {
     Index: 1134,
@@ -20739,8 +19326,7 @@ const kurral = [
       "Love's rushing tide will sweep away the raft<br />Of seemly manliness and shame combined",
     EnglishMeaning:
       'The raft of modesty and manliness, is, alas, carried-off by the strong current of lust',
-    Transliteration:
-      'Kaamak Katumpunal  Uykkum  Naanotu<br />Nallaanmai  Ennum  Punai',
+    Transliteration: 'Kaamak Katumpunal  Uykkum  Naanotu<br />Nallaanmai  Ennum  Punai',
   },
   {
     Index: 1135,
@@ -20757,8 +19343,7 @@ const kurral = [
       "The maid that slender armlets wears, like flowers entwined,<br />Has brought me 'horse of palm,' and pangs of eventide",
     EnglishMeaning:
       'She with the small garland-like bracelets has given me the palmyra horse and the sorrow that is endured at night',
-    Transliteration:
-      'Thotalaik Kurundhoti  Thandhaal  Matalotu<br />Maalai  Uzhakkum  Thuyar',
+    Transliteration: 'Thotalaik Kurundhoti  Thandhaal  Matalotu<br />Maalai  Uzhakkum  Thuyar',
   },
   {
     Index: 1136,
@@ -20775,8 +19360,7 @@ const kurral = [
       "Of climbing 'horse of palm' in midnight hour, I think;<br />My eyes know no repose for that same simple maid",
     EnglishMeaning:
       "Mine eyes will not close in sleep on your mistress's account; even at midnight will I think of mounting the palmyra horse",
-    Transliteration:
-      'Mataloordhal Yaamaththum  Ulluven  Mandra<br />Patalollaa  Pedhaikken  Kan',
+    Transliteration: 'Mataloordhal Yaamaththum  Ulluven  Mandra<br />Patalollaa  Pedhaikken  Kan',
   },
   {
     Index: 1137,
@@ -20793,8 +19377,7 @@ const kurral = [
       "There's nought of greater worth than woman's long-enduring soul,<br />Who, vexed by love like ocean waves, climbs not the 'horse of palm'",
     EnglishMeaning:
       'There is nothing so noble as the womanly nature that would not ride the palmyra horse, though plunged a sea of lust',
-    Transliteration:
-      'Katalanna Kaamam  Uzhandhum  Mataleraap<br />Pennin  Perundhakka  Thil',
+    Transliteration: 'Katalanna Kaamam  Uzhandhum  Mataleraap<br />Pennin  Perundhakka  Thil',
   },
   {
     Index: 1138,
@@ -20811,8 +19394,7 @@ const kurral = [
       'In virtue hard to move, yet very tender, too, are we;<br />Love deems not so, would rend the veil, and court publicity',
     EnglishMeaning:
       'Even the Lust (of women) transgresses its secrecy and appears in public, forgetting that they are too chaste and liberal (to be overcome by it)',
-    Transliteration:
-      'Niraiyariyar Manaliyar  Ennaadhu  Kaamam<br />Maraiyirandhu  Mandru  Patum',
+    Transliteration: 'Niraiyariyar Manaliyar  Ennaadhu  Kaamam<br />Maraiyirandhu  Mandru  Patum',
   },
   {
     Index: 1139,
@@ -20828,8 +19410,7 @@ const kurral = [
     English:
       "'There's no one knows my heart,' so says my love,<br />And thus, in public ways, perturbed will rove",
     EnglishMeaning: 'And thus, in public ways, perturbed will rove',
-    Transliteration:
-      'Arikilaar Ellaarum  Endreen  Kaamam<br />Marukin  Marukum  Maruntu',
+    Transliteration: 'Arikilaar Ellaarum  Endreen  Kaamam<br />Marukin  Marukum  Maruntu',
   },
   {
     Index: 1140,
@@ -20846,8 +19427,7 @@ const kurral = [
       "Before my eyes the foolish make a mock of me,<br />Because they ne'er endured the pangs I now must drie",
     EnglishMeaning:
       'Even strangers laugh (at us) so as to be seen by us, for they have not suffered',
-    Transliteration:
-      'Yaamkannin Kaana  Nakupa  Arivillaar<br />Yaampatta  Thaampataa  Aaru',
+    Transliteration: 'Yaamkannin Kaana  Nakupa  Arivillaar<br />Yaampatta  Thaampataa  Aaru',
   },
   {
     Index: 1141,
@@ -20864,8 +19444,7 @@ const kurral = [
       "By this same rumour's rise, my precious life stands fast;<br />Good fortune grant the many know this not",
     EnglishMeaning:
       'My precious life is saved by the raise of rumour, and this, to my good luck no others are aware of',
-    Transliteration:
-      'Alarezha Aaruyir  Na�rkum  Adhanaip<br />Palarariyaar  Paakkiyath  Thaal',
+    Transliteration: 'Alarezha Aaruyir  Na�rkum  Adhanaip<br />Palarariyaar  Paakkiyath  Thaal',
   },
   {
     Index: 1142,
@@ -20882,8 +19461,7 @@ const kurral = [
       "The village hath to us this rumour giv'n, that makes her mine;<br />Unweeting all the rareness of the maid with flower-like eyne",
     EnglishMeaning:
       'Not knowing the value of her whose eyes are like flowers this town has got up a rumour about me',
-    Transliteration:
-      'Malaranna Kannaal  Arumai  Ariyaadhu<br />Alaremakku  Eendhadhiv  Voor',
+    Transliteration: 'Malaranna Kannaal  Arumai  Ariyaadhu<br />Alaremakku  Eendhadhiv  Voor',
   },
   {
     Index: 1143,
@@ -20900,8 +19478,7 @@ const kurral = [
       'The rumour spread within the town, is it not gain to me?<br />It is as though that were obtained that may not be',
     EnglishMeaning:
       'Will I not get a rumour that is known to the (whole) town ? For what I have not got is as if I had got it (already)',
-    Transliteration:
-      'Uraaadho Oorarindha  Kelavai  Adhanaip<br />Peraaadhu  Petranna  Neerththu',
+    Transliteration: 'Uraaadho Oorarindha  Kelavai  Adhanaip<br />Peraaadhu  Petranna  Neerththu',
   },
   {
     Index: 1144,
@@ -20918,13 +19495,11 @@ const kurral = [
       'The rumour rising makes my love to rise;<br />My love would lose its power and languish otherwise',
     EnglishMeaning:
       'Rumour increases the violence of my passion; without it it would grow weak and waste away',
-    Transliteration:
-      'Kavvaiyaal Kavvidhu  Kaamam  Adhuvindrel<br />Thavvennum  Thanmai  Izhandhu',
+    Transliteration: 'Kavvaiyaal Kavvidhu  Kaamam  Adhuvindrel<br />Thavvennum  Thanmai  Izhandhu',
   },
   {
     Index: 1145,
-    Tamil:
-      'களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்<br />வெளிப்படுந் தோறும் இனிது',
+    Tamil: 'களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்<br />வெளிப்படுந் தோறும் இனிது',
     line1: 'களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்',
     line2: 'வெளிப்படுந் தோறும் இனிது',
     KalaignarUrai:
@@ -20937,8 +19512,7 @@ const kurral = [
       "The more man drinks, the more he ever drunk would be;<br />The more my love's revealed, the sweeter 'tis to me",
     EnglishMeaning:
       'As drinking liquor is delightful (to one) whenever one is in mirth, so is lust delightful to me whenever it is the subject of rumour',
-    Transliteration:
-      'Kaliththorum Kalluntal  Vettatraal  Kaamam<br />Velippatun  Thorum  Inidhu',
+    Transliteration: 'Kaliththorum Kalluntal  Vettatraal  Kaamam<br />Velippatun  Thorum  Inidhu',
   },
   {
     Index: 1146,
@@ -20955,8 +19529,7 @@ const kurral = [
       'I saw him but one single day: rumour spreads soon<br />As darkness, when the dragon seizes on the moon',
     EnglishMeaning:
       'It was but a single day that I looked on (my lover); but the rumour thereof has spread like the seizure of the moon by the serpent',
-    Transliteration:
-      'Kantadhu Mannum  Orunaal  Alarmannum<br />Thingalaip  Paampukon  Tatru',
+    Transliteration: 'Kantadhu Mannum  Orunaal  Alarmannum<br />Thingalaip  Paampukon  Tatru',
   },
   {
     Index: 1147,
@@ -20973,13 +19546,11 @@ const kurral = [
       "My anguish grows apace: the town's report<br />Manures it; my mother's word doth water it",
     EnglishMeaning:
       'This malady (of lust) is manured by the talk of women and watered by the (harsh) words of my mother',
-    Transliteration:
-      'Ooravar Kelavai  Eruvaaka  Annaisol<br />Neeraaka  Neelumin  Noi',
+    Transliteration: 'Ooravar Kelavai  Eruvaaka  Annaisol<br />Neeraaka  Neelumin  Noi',
   },
   {
     Index: 1148,
-    Tamil:
-      'நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்<br />காமம் நுதுப்பேம் எனல்',
+    Tamil: 'நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்<br />காமம் நுதுப்பேம் எனல்',
     line1: 'நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்',
     line2: 'காமம் நுதுப்பேம் எனல்',
     KalaignarUrai:
@@ -20992,8 +19563,7 @@ const kurral = [
       "With butter-oil extinguish fire! 'Twill prove<br />Harder by scandal to extinguish love",
     EnglishMeaning:
       'To say that one could extinguish passion by rumour is like extinguishing fire with ghee',
-    Transliteration:
-      'Neyyaal Erinudhuppem  Endratraal  Kelavaiyaal<br />Kaamam  Nudhuppem  Enal',
+    Transliteration: 'Neyyaal Erinudhuppem  Endratraal  Kelavaiyaal<br />Kaamam  Nudhuppem  Enal',
   },
   {
     Index: 1149,
@@ -21010,13 +19580,11 @@ const kurral = [
       "When he who said 'Fear not!' hath left me blamed,<br />While many shrink, can I from rumour hide ashamed",
     EnglishMeaning:
       "When the departure of him who said 'fear not' has put me to shame before others, why need I be ashamed of scandal",
-    Transliteration:
-      'Alarnaana Olvadho  Anjalompu  Endraar<br />Palarnaana  Neeththak  Katai',
+    Transliteration: 'Alarnaana Olvadho  Anjalompu  Endraar<br />Palarnaana  Neeththak  Katai',
   },
   {
     Index: 1150,
-    Tamil:
-      'தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்<br />கௌவை எடுக்குமிவ் வூர்',
+    Tamil: 'தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்<br />கௌவை எடுக்குமிவ் வூர்',
     line1: 'தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்',
     line2: 'கௌவை எடுக்குமிவ் வூர்',
     KalaignarUrai:
@@ -21029,8 +19597,7 @@ const kurral = [
       'If we desire, who loves will grant what we require;<br />This town sends forth the rumour we desire',
     EnglishMeaning:
       'The rumour I desire is raised by the town (itself); and my lover would if desired consent (to my following him)',
-    Transliteration:
-      'Thaamventin Nalkuvar  Kaadhalar  Yaamventum<br />Kelavai  Etukkumiv  Voor',
+    Transliteration: 'Thaamventin Nalkuvar  Kaadhalar  Yaamventum<br />Kelavai  Etukkumiv  Voor',
   },
   {
     Index: 1151,
@@ -21047,13 +19614,11 @@ const kurral = [
       "If you will say, 'I leave thee not,' then tell me so;<br />Of quick return tell those that can survive this woe",
     EnglishMeaning:
       'If it is not departure, tell me; but if it is your speedy return, tell it to those who would be alive then',
-    Transliteration:
-      'Sellaamai Untel  Enakkurai  Matrunin<br />Valvaravu  Vaazhvaark  Kurai',
+    Transliteration: 'Sellaamai Untel  Enakkurai  Matrunin<br />Valvaravu  Vaazhvaark  Kurai',
   },
   {
     Index: 1152,
-    Tamil:
-      'இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்<br />புன்கண் உடைத்தால் புணர்வு',
+    Tamil: 'இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்<br />புன்கண் உடைத்தால் புணர்வு',
     line1: 'இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்',
     line2: 'புன்கண் உடைத்தால் புணர்வு',
     KalaignarUrai:
@@ -21066,8 +19631,7 @@ const kurral = [
       'It once was perfect joy to look upon his face;<br />But now the fear of parting saddens each embrace',
     EnglishMeaning:
       'His very look was once pleasing; but (now) even intercourse is painful through fear of separation',
-    Transliteration:
-      'Inkan Utaiththavar  Paarval  Pirivanjum<br />Punkan  Utaiththaal  Punarvu',
+    Transliteration: 'Inkan Utaiththavar  Paarval  Pirivanjum<br />Punkan  Utaiththaal  Punarvu',
   },
   {
     Index: 1153,
@@ -21084,13 +19648,11 @@ const kurral = [
       "To trust henceforth is hard, if ever he depart,<br />E'en he, who knows his promise and my breaking heart",
     EnglishMeaning:
       'As even the lover who understands (everything) may at times depart, confidence is hardly possible',
-    Transliteration:
-      'Aridharo Thetram  Arivutaiyaar  Kannum<br />Pirivo  Ritaththunmai  Yaan',
+    Transliteration: 'Aridharo Thetram  Arivutaiyaar  Kannum<br />Pirivo  Ritaththunmai  Yaan',
   },
   {
     Index: 1154,
-    Tamil:
-      'அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்<br />தேறியார்க் குண்டோ தவறு',
+    Tamil: 'அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்<br />தேறியார்க் குண்டோ தவறு',
     line1: 'அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்',
     line2: 'தேறியார்க் குண்டோ தவறு',
     KalaignarUrai:
@@ -21108,8 +19670,7 @@ const kurral = [
   },
   {
     Index: 1155,
-    Tamil:
-      'ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்<br />நீங்கின் அரிதால் புணர்வு',
+    Tamil: 'ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்<br />நீங்கின் அரிதால் புணர்வு',
     line1: 'ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்',
     line2: 'நீங்கின் அரிதால் புணர்வு',
     KalaignarUrai:
@@ -21122,8 +19683,7 @@ const kurral = [
       'If you would guard my life, from going him restrain<br />Who fills my life! If he depart, hardly we meet again',
     EnglishMeaning:
       'If you would save (my life), delay the departure of my destined (husband); for if he departs, intercourse will become impossible',
-    Transliteration:
-      'Ompin Amaindhaar  Pirivompal  Matravar<br />Neengin  Aridhaal  Punarvu',
+    Transliteration: 'Ompin Amaindhaar  Pirivompal  Matravar<br />Neengin  Aridhaal  Punarvu',
   },
   {
     Index: 1156,
@@ -21138,10 +19698,8 @@ const kurral = [
       'நான் வேலையின் பொருட்டுப் பிரியப் போகிறேன் என்று அவரே என்னிடம் சொல்லும் அளவிற்குக் கொடியவர் என்றால், அவர் பிரிவைத் தாங்க முடியாத என் மீது அன்பு காட்டுவார் என்னும் என் எதிர்பார்ப்பு பயனற்றது.',
     English:
       'To cherish longing hope that he should ever gracious be,<br />Is hard, when he could stand, and of departure speak to me',
-    EnglishMeaning:
-      'Is hard, when he could stand, and of departure speak to me',
-    Transliteration:
-      'Pirivuraikkum Vankannar  Aayin  Aridhavar<br />Nalkuvar  Ennum  Nasai',
+    EnglishMeaning: 'Is hard, when he could stand, and of departure speak to me',
+    Transliteration: 'Pirivuraikkum Vankannar  Aayin  Aridhavar<br />Nalkuvar  Ennum  Nasai',
   },
   {
     Index: 1157,
@@ -21158,8 +19716,7 @@ const kurral = [
       'The bracelet slipping from my wrist announced before<br />Departure of the Prince that rules the ocean shore',
     EnglishMeaning:
       'Do not the rings that begin to slide down my fingers forebode the separation of my lord ?',
-    Transliteration:
-      'Thuraivan Thurandhamai  Thootraakol  Munkai<br />Iraiiravaa  Nindra  Valai',
+    Transliteration: 'Thuraivan Thurandhamai  Thootraakol  Munkai<br />Iraiiravaa  Nindra  Valai',
   },
   {
     Index: 1158,
@@ -21176,8 +19733,7 @@ const kurral = [
       "'Tis sad to sojourn in the town where no kind kinsmen dwell;<br />'Tis sadder still to bid a friend beloved farewell",
     EnglishMeaning:
       "Painful is it to live in a friendless town; but far more painful is it to part from one's lover",
-    Transliteration:
-      'Innaadhu Inaniloor  Vaazhdhal  Adhaninum<br />Innaadhu  Iniyaarp  Pirivu',
+    Transliteration: 'Innaadhu Inaniloor  Vaazhdhal  Adhaninum<br />Innaadhu  Iniyaarp  Pirivu',
   },
   {
     Index: 1159,
@@ -21194,13 +19750,11 @@ const kurral = [
       'Fire burns the hands that touch; but smart of love<br />Will burn in hearts that far away remove',
     EnglishMeaning:
       'Fire burns when touched; but, like the sickness of love, can it also burn when removed ?',
-    Transliteration:
-      'Thotirsutin Alladhu  Kaamanoi  Pola<br />Vitirsutal  Aatrumo  Thee',
+    Transliteration: 'Thotirsutin Alladhu  Kaamanoi  Pola<br />Vitirsutal  Aatrumo  Thee',
   },
   {
     Index: 1160,
-    Tamil:
-      'அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்<br />பின்இருந்து வாழ்வார் பலர்',
+    Tamil: 'அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்<br />பின்இருந்து வாழ்வார் பலர்',
     line1: 'அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்',
     line2: 'பின்இருந்து வாழ்வார் பலர்',
     KalaignarUrai:
@@ -21213,8 +19767,7 @@ const kurral = [
       "Sorrow's sadness meek sustaining, Driving sore distress away,<br />Separation uncomplaining Many bear the livelong day",
     EnglishMeaning:
       'As if there were many indeed that can consent to the impossible, kill their pain, endure separation and yet continue to live afterwards',
-    Transliteration:
-      'Aridhaatri Allalnoi  Neekkip  Pirivaatrip<br />Pinirundhu  Vaazhvaar  Palar',
+    Transliteration: 'Aridhaatri Allalnoi  Neekkip  Pirivaatrip<br />Pinirundhu  Vaazhvaar  Palar',
   },
   {
     Index: 1161,
@@ -21231,13 +19784,11 @@ const kurral = [
       'I would my pain conceal, but see! it surging swells,<br />As streams to those that draw from ever-springing wells',
     EnglishMeaning:
       'I would hide this pain from others; but it (only) swells like a spring to those who drain it',
-    Transliteration:
-      'Maraippenman Yaaniqdho  Noyai  Iraippavarkku<br />Ootruneer  Pola  Mikum',
+    Transliteration: 'Maraippenman Yaaniqdho  Noyai  Iraippavarkku<br />Ootruneer  Pola  Mikum',
   },
   {
     Index: 1162,
-    Tamil:
-      'கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்<br />குரைத்தலும் நாணுத் தரும்',
+    Tamil: 'கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்<br />குரைத்தலும் நாணுத் தரும்',
     line1: 'கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்',
     line2: 'குரைத்தலும் நாணுத் தரும்',
     KalaignarUrai:
@@ -21268,8 +19819,7 @@ const kurral = [
       "My soul, like porter's pole, within my wearied frame,<br />Sustains a two-fold burthen poised, of love and shame",
     EnglishMeaning:
       '(Both) lust and shame, with my soul for their shoulder pole balance themselves on a body that cannot bear them',
-    Transliteration:
-      'Kaamamum Naanum  Uyirkaavaath  Thoongumen<br />Nonaa  Utampin  Akaththu',
+    Transliteration: 'Kaamamum Naanum  Uyirkaavaath  Thoongumen<br />Nonaa  Utampin  Akaththu',
   },
   {
     Index: 1164,
@@ -21286,8 +19836,7 @@ const kurral = [
       "A sea of love, 'tis true, I see stretched out before,<br />But not the trusty bark that wafts to yonder shore",
     EnglishMeaning:
       'There is indeed a flood of lust; but there is no raft of safety to cross it with',
-    Transliteration:
-      'Kaamak Katalmannum  Unte  Adhuneendhum<br />Emap  Punaimannum  Il',
+    Transliteration: 'Kaamak Katalmannum  Unte  Adhuneendhum<br />Emap  Punaimannum  Il',
   },
   {
     Index: 1165,
@@ -21303,8 +19852,7 @@ const kurral = [
     English:
       "Who work us woe in friendship's trustful hour,<br />What will they prove when angry tempests lower",
     EnglishMeaning: 'What will they prove when angry tempests lower?',
-    Transliteration:
-      'Thuppin Evanaavar  Mankol  Thuyarvaravu<br />Natpinul  Aatru  Pavar',
+    Transliteration: 'Thuppin Evanaavar  Mankol  Thuyarvaravu<br />Natpinul  Aatru  Pavar',
   },
   {
     Index: 1166,
@@ -21321,8 +19869,7 @@ const kurral = [
       "A happy love 's sea of joy; but mightier sorrows roll<br />From unpropitious love athwart the troubled soul",
     EnglishMeaning:
       'The pleasure of lust is (as great as) the sea; but the pain of lust is far greater',
-    Transliteration:
-      'Inpam Katalmatruk  Kaamam  Aqdhatungaal<br />Thunpam  Adhanir  Peridhu',
+    Transliteration: 'Inpam Katalmatruk  Kaamam  Aqdhatungaal<br />Thunpam  Adhanir  Peridhu',
   },
   {
     Index: 1167,
@@ -21339,8 +19886,7 @@ const kurral = [
       "I swim the cruel tide of love, and can no shore descry,<br />In watches of the night, too, 'mid the waters, only I",
     EnglishMeaning:
       'I have swam across the terrible flood of lust, but have not seen its shore; even at midnight I am alone; still I live',
-    Transliteration:
-      'Kaamak Katumpunal  Neendhik  Karaikaanen<br />Yaamaththum  Yaane  Ulen',
+    Transliteration: 'Kaamak Katumpunal  Neendhik  Karaikaanen<br />Yaamaththum  Yaane  Ulen',
   },
   {
     Index: 1168,
@@ -21357,8 +19903,7 @@ const kurral = [
       'All living souls in slumber soft she steeps;<br />But me alone kind night for her companing keeps',
     EnglishMeaning:
       'The night which graciously lulls to sleep all living creatures, has me alone for her companion',
-    Transliteration:
-      'Mannuyir Ellaam  Thuyitri  Aliththiraa<br />Ennalladhu  Illai  Thunai',
+    Transliteration: 'Mannuyir Ellaam  Thuyitri  Aliththiraa<br />Ennalladhu  Illai  Thunai',
   },
   {
     Index: 1169,
@@ -21375,13 +19920,11 @@ const kurral = [
       'More cruel than the cruelty of him, the cruel one,<br />In these sad times are lengthening hours of night I watch alone',
     EnglishMeaning:
       'The long nights of these days are far more cruel than the heartless one who is torturing me',
-    Transliteration:
-      'Kotiyaar Kotumaiyin  Thaamkotiya  Innaal<br />Netiya  Kazhiyum  Iraa',
+    Transliteration: 'Kotiyaar Kotumaiyin  Thaamkotiya  Innaal<br />Netiya  Kazhiyum  Iraa',
   },
   {
     Index: 1170,
-    Tamil:
-      'உள்ளம்போன் றுள்வழிச் செல்கிற்பின் வெள்ளநீர்<br />நீந்தல மன்னோவென் கண்',
+    Tamil: 'உள்ளம்போன் றுள்வழிச் செல்கிற்பின் வெள்ளநீர்<br />நீந்தல மன்னோவென் கண்',
     line1: 'உள்ளம்போன் றுள்வழிச் செல்கிற்பின் வெள்ளநீர்',
     line2: 'நீந்தல மன்னோவென் கண்',
     KalaignarUrai:
@@ -21394,8 +19937,7 @@ const kurral = [
       'When eye of mine would as my soul go forth to him,<br />It knows not how through floods of its own tears to swim',
     EnglishMeaning:
       'Could mine eyes travel like my thoughts to the abode (of my absent lord), they would not swim in this flood of tears',
-    Transliteration:
-      'Ullampondru Ulvazhich  Chelkirpin  Vellaneer<br />Neendhala  Mannoen  Kan',
+    Transliteration: 'Ullampondru Ulvazhich  Chelkirpin  Vellaneer<br />Neendhala  Mannoen  Kan',
   },
   {
     Index: 1171,
@@ -21412,8 +19954,7 @@ const kurral = [
       'They showed me him, and then my endless pain<br />I saw: why then should weeping eyes complain',
     EnglishMeaning:
       'As this incurable malady has been caused by my eyes which showed (him) to me, why should they now weep for (him)',
-    Transliteration:
-      'Kandhaam Kaluzhva  Thevankolo  Thantaanoi<br />Thaamkaatta  Yaamkan  Tadhu',
+    Transliteration: 'Kandhaam Kaluzhva  Thevankolo  Thantaanoi<br />Thaamkaatta  Yaamkan  Tadhu',
   },
   {
     Index: 1172,
@@ -21453,8 +19994,7 @@ const kurral = [
   },
   {
     Index: 1174,
-    Tamil:
-      'பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா<br />உய்வில்நோய் என்கண் நிறுத்து',
+    Tamil: 'பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா<br />உய்வில்நோய் என்கண் நிறுத்து',
     line1: 'பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா',
     line2: 'உய்வில்நோய் என்கண் நிறுத்து',
     KalaignarUrai:
@@ -21467,8 +20007,7 @@ const kurral = [
       'Those eyes have wept till all the fount of tears is dry,<br />That brought upon me pain that knows no remedy',
     EnglishMeaning:
       'These painted eyes have caused me a lasting mortal disease; and now they can weep no more, the tears having dried up',
-    Transliteration:
-      'Peyalaatraa Neerulandha  Unkan  Uyalaatraa<br />Uyvilnoi  Enkan  Niruththu',
+    Transliteration: 'Peyalaatraa Neerulandha  Unkan  Uyalaatraa<br />Uyvilnoi  Enkan  Niruththu',
   },
   {
     Index: 1175,
@@ -21485,8 +20024,7 @@ const kurral = [
       'The eye that wrought me more than sea could hold of woes,<br />Is suffering pangs that banish all repose',
     EnglishMeaning:
       'Mine eyes have caused me a lust that is greater than the sea and (they themselves) endure the torture of sleeplessness',
-    Transliteration:
-      'Patalaatraa Paidhal  Uzhakkum  Katalaatraak<br />Kaamanoi  Seydhaen  Kan',
+    Transliteration: 'Patalaatraa Paidhal  Uzhakkum  Katalaatraak<br />Kaamanoi  Seydhaen  Kan',
   },
   {
     Index: 1176,
@@ -21503,8 +20041,7 @@ const kurral = [
       'Oho! how sweet a thing to see! the eye<br />That wrought this pain, in the same gulf doth lie',
     EnglishMeaning:
       'The eyes that have given me this disease have themselves been seized with this (suffering) Oh! I am much delighted',
-    Transliteration:
-      'Oo Inidhe  Emakkinnoi  Seydhakan<br />Thaaam  Itharpat  Tadhu',
+    Transliteration: 'Oo Inidhe  Emakkinnoi  Seydhakan<br />Thaaam  Itharpat  Tadhu',
   },
   {
     Index: 1177,
@@ -21521,8 +20058,7 @@ const kurral = [
       'Aching, aching, let those exhaust their stream,<br />That melting, melting, that day gazed on him',
     EnglishMeaning:
       'The eyes that became tender and gazed intently on him, may they suffer so much as to dry up the fountain of their tears',
-    Transliteration:
-      'Uzhandhuzhan Thulneer  Aruka  Vizhaindhizhaindhu<br />Venti  Avarkkanta  Kan',
+    Transliteration: 'Uzhandhuzhan Thulneer  Aruka  Vizhaindhizhaindhu<br />Venti  Avarkkanta  Kan',
   },
   {
     Index: 1178,
@@ -21539,8 +20075,7 @@ const kurral = [
       'Who loved me once, onloving now doth here remain;<br />Not seeing him, my eye no rest can gain',
     EnglishMeaning:
       'He is indeed here who loved me with his lips but not with his heart but mine eyes suffer from not seeing him',
-    Transliteration:
-      'Penaadhu Pettaar  Ularmanno  Matravark<br />Kaanaadhu  Amaivila  Kan',
+    Transliteration: 'Penaadhu Pettaar  Ularmanno  Matravark<br />Kaanaadhu  Amaivila  Kan',
   },
   {
     Index: 1179,
@@ -21557,8 +20092,7 @@ const kurral = [
       'When he comes not, all slumber flies; no sleep when he is there;<br />Thus every way my eyes have troubles hard to bear',
     EnglishMeaning:
       'When he is away they do not sleep; when he is present they do not sleep; in either case, mine eyes endure unbearable agony',
-    Transliteration:
-      'Vaaraakkaal Thunjaa  Varindhunjaa  Aayitai<br />Aaragnar  Utrana  Kan',
+    Transliteration: 'Vaaraakkaal Thunjaa  Varindhunjaa  Aayitai<br />Aaragnar  Utrana  Kan',
   },
   {
     Index: 1180,
@@ -21575,13 +20109,11 @@ const kurral = [
       'It is not hard for all the town the knowledge to obtain,<br />When eyes, as mine, like beaten tambours, make the mystery plain',
     EnglishMeaning:
       'It is not difficult for the people of this place to understand the secret of those whose eyes, like mine, are as it were beaten drums',
-    Transliteration:
-      'Maraiperal Ooraarkku  Aridhandraal  Empol<br />Araiparai  Kannaar  Akaththu',
+    Transliteration: 'Maraiperal Ooraarkku  Aridhandraal  Empol<br />Araiparai  Kannaar  Akaththu',
   },
   {
     Index: 1181,
-    Tamil:
-      'நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்<br />பண்பியார்க் குரைக்கோ பிற',
+    Tamil: 'நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்<br />பண்பியார்க் குரைக்கோ பிற',
     line1: 'நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென்',
     line2: 'பண்பியார்க் குரைக்கோ பிற',
     KalaignarUrai:
@@ -21612,8 +20144,7 @@ const kurral = [
       "'He gave': this sickly hue thus proudly speaks,<br />Then climbs, and all my frame its chariot makes",
     EnglishMeaning:
       'Sallowness, as if proud of having been caused by him, would now ride on my person',
-    Transliteration:
-      'Avardhandhaar Ennum  Thakaiyaal  Ivardhandhen<br />Menimel  Oorum  Pasappu',
+    Transliteration: 'Avardhandhaar Ennum  Thakaiyaal  Ivardhandhen<br />Menimel  Oorum  Pasappu',
   },
   {
     Index: 1183,
@@ -21630,8 +20161,7 @@ const kurral = [
       'Of comeliness and shame he me bereft,<br />While pain and sickly hue, in recompense, he left',
     EnglishMeaning:
       'He has taken (away) my beauty and modesty, and given me instead disease and sallowness',
-    Transliteration:
-      'Saayalum Naanum  Avarkontaar  Kaimmaaraa<br />Noyum  Pasalaiyum  Thandhu',
+    Transliteration: 'Saayalum Naanum  Avarkontaar  Kaimmaaraa<br />Noyum  Pasalaiyum  Thandhu',
   },
   {
     Index: 1184,
@@ -21648,8 +20178,7 @@ const kurral = [
       'I meditate his words, his worth is theme of all I say,<br />This sickly hue is false that would my trust betray',
     EnglishMeaning:
       'I think (of him); and what I speak about is but his excellence; still is there sallowness; and this is deceitful',
-    Transliteration:
-      'Ulluvan Manyaan  Uraippadhu  Avardhiramaal<br />Kallam  Piravo  Pasappu',
+    Transliteration: 'Ulluvan Manyaan  Uraippadhu  Avardhiramaal<br />Kallam  Piravo  Pasappu',
   },
   {
     Index: 1185,
@@ -21664,15 +20193,12 @@ const kurral = [
       'முன்பும்கூட, அந்தப் பக்கம் என் அன்பர் போயிருப்பார்; இந்தப் பக்கம் என் மேனி பசலை கொண்டு விடும். முன்பே அப்படி என்றால் இப்போது எப்படி இருக்கும்?',
     English:
       'My lover there went forth to roam;<br />This pallor of my frame usurps his place at home',
-    EnglishMeaning:
-      'Just as my lover departed then, did not sallowness spread here on my person ?',
-    Transliteration:
-      'Uvakkaanem Kaadhalar  Selvaar  Ivakkaanen<br />Meni  Pasappoor  Vadhu',
+    EnglishMeaning: 'Just as my lover departed then, did not sallowness spread here on my person ?',
+    Transliteration: 'Uvakkaanem Kaadhalar  Selvaar  Ivakkaanen<br />Meni  Pasappoor  Vadhu',
   },
   {
     Index: 1186,
-    Tamil:
-      'விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கண்<br />முயக்கற்றம் பார்க்கும் பசப்பு',
+    Tamil: 'விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கண்<br />முயக்கற்றம் பார்க்கும் பசப்பு',
     line1: 'விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கண்',
     line2: 'முயக்கற்றம் பார்க்கும் பசப்பு',
     KalaignarUrai:
@@ -21685,13 +20211,11 @@ const kurral = [
       "As darkness waits till lamp expires, to fill the place,<br />This pallor waits till I enjoy no more my lord's embrace",
     EnglishMeaning:
       "Just as darkness waits for the failing light; so does sallowness wait for the laxity of my husband's intercourse",
-    Transliteration:
-      'Vilakkatram Paarkkum  Irulepol  Konkan<br />Muyakkatram  Paarkkum  Pasappu',
+    Transliteration: 'Vilakkatram Paarkkum  Irulepol  Konkan<br />Muyakkatram  Paarkkum  Pasappu',
   },
   {
     Index: 1187,
-    Tamil:
-      'புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்<br />அள்ளிக்கொள் வற்றே பசப்பு',
+    Tamil: 'புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்<br />அள்ளிக்கொள் வற்றே பசப்பு',
     line1: 'புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்',
     line2: 'அள்ளிக்கொள் வற்றே பசப்பு',
     KalaignarUrai:
@@ -21704,8 +20228,7 @@ const kurral = [
       'I lay in his embrace, I turned unwittingly;<br />Forthwith this hue, as you might grasp it, came on me',
     EnglishMeaning:
       'I who was in close embrace just turned aside and the moment I did so, sallowness came on me like something to be seized on',
-    Transliteration:
-      'Pullik Kitandhen  Putaipeyarndhen  Avvalavil<br />Allikkol  Vatre  Pasappu',
+    Transliteration: 'Pullik Kitandhen  Putaipeyarndhen  Avvalavil<br />Allikkol  Vatre  Pasappu',
   },
   {
     Index: 1188,
@@ -21722,8 +20245,7 @@ const kurral = [
       "On me, because I pine, they cast a slur;<br />But no one says, 'He first deserted her.'",
     EnglishMeaning:
       "Besides those who say 'she has turned sallow' there are none who say 'he has forsaken her'",
-    Transliteration:
-      'Pasandhaal Ivalenpadhu  Allaal  Ivalaith<br />Thurandhaar  Avarenpaar  Il',
+    Transliteration: 'Pasandhaal Ivalenpadhu  Allaal  Ivalaith<br />Thurandhaar  Avarenpaar  Il',
   },
   {
     Index: 1189,
@@ -21740,13 +20262,11 @@ const kurral = [
       "Well let my frame, as now, be sicklied o'er with pain,<br />If he who won my heart's consent, in good estate remain",
     EnglishMeaning:
       'If he is clear of guilt who has conciliated me (to his departure) let my body suffer its due and turn sallow',
-    Transliteration:
-      'Pasakkaman Pattaangen  Meni  Nayappiththaar<br />Nannilaiyar  Aavar  Enin',
+    Transliteration: 'Pasakkaman Pattaangen  Meni  Nayappiththaar<br />Nannilaiyar  Aavar  Enin',
   },
   {
     Index: 1190,
-    Tamil:
-      'பசப்பெனப் பேர்பெறுதல் நன்றே நயப்பித்தார்<br />நல்காமை தூற்றார் எனின்',
+    Tamil: 'பசப்பெனப் பேர்பெறுதல் நன்றே நயப்பித்தார்<br />நல்காமை தூற்றார் எனின்',
     line1: 'பசப்பெனப் பேர்பெறுதல் நன்றே நயப்பித்தார்',
     line2: 'நல்காமை தூற்றார் எனின்',
     KalaignarUrai:
@@ -21782,8 +20302,7 @@ const kurral = [
   },
   {
     Index: 1192,
-    Tamil:
-      'வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு<br />வீழ்வார் அளிக்கும் அளி',
+    Tamil: 'வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு<br />வீழ்வார் அளிக்கும் அளி',
     line1: 'வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு',
     line2: 'வீழ்வார் அளிக்கும் அளி',
     KalaignarUrai:
@@ -21814,8 +20333,7 @@ const kurral = [
       "Who love and are beloved to them alone<br />Belongs the boast, 'We've made life's very joys our own.'",
     EnglishMeaning:
       "The pride that says 'we shall live' suits only those who are loved by their beloved (husbands)",
-    Transliteration:
-      'Veezhunar Veezhap  Patuvaarkku  Amaiyume<br />Vaazhunam  Ennum  Serukku',
+    Transliteration: 'Veezhunar Veezhap  Patuvaarkku  Amaiyume<br />Vaazhunam  Ennum  Serukku',
   },
   {
     Index: 1194,
@@ -21828,12 +20346,10 @@ const kurral = [
       'தாம் விரும்பும் காதலரால் விரும்பப்படாவிட்டால் உலகத்தாரால் விரும்பப்படும் நிலையில் உள்ளவரும் நல்வினை பொருந்தியவர் அல்லர்.',
     SolomonPaapaiyaUrai:
       'தாம் விரும்பும்  கணவனால் விரும்பப்படாதவளாக மனைவி இருந்துவிடுவாளானால், அவள் தீவினை வசப்பட்டவளே.',
-    English:
-      'Those well-beloved will luckless prove,<br />Unless beloved by those they love',
+    English: 'Those well-beloved will luckless prove,<br />Unless beloved by those they love',
     EnglishMeaning:
       'Even those who are esteemed (by other women) are devoid of excellence, if they are not loved by their beloved',
-    Transliteration:
-      'Veezhap Patuvaar  Kezheeiyilar  Thaamveezhvaar<br />Veezhap  Pataaar  Enin',
+    Transliteration: 'Veezhap Patuvaar  Kezheeiyilar  Thaamveezhvaar<br />Veezhap  Pataaar  Enin',
   },
   {
     Index: 1195,
@@ -21846,12 +20362,9 @@ const kurral = [
       'நாம் காதல் கொண்ட காதலர் தாமும் அவ்வாறே நம்மிடம் காதல் கொள்ளாதபோது, நமக்கு அவர் என்ன நன்மை செய்வார்?',
     SolomonPaapaiyaUrai:
       'நாம் காதலித்தவர் நம்மைக் காதலிக்கவில்லை என்றால் நமக்கு எத்தகைய மகிழ்ச்சியைத் தருவார்?',
-    English:
-      'From him I love to me what gain can be,<br />Unless, as I love him, he loveth me',
-    EnglishMeaning:
-      'He who is beloved by me, what will he do to me, if I am not beloved by him ?',
-    Transliteration:
-      'Naamkaadhal Kontaar  Namakkevan  Seypavo<br />Thaamkaadhal  Kollaak  Katai',
+    English: 'From him I love to me what gain can be,<br />Unless, as I love him, he loveth me',
+    EnglishMeaning: 'He who is beloved by me, what will he do to me, if I am not beloved by him ?',
+    Transliteration: 'Naamkaadhal Kontaar  Namakkevan  Seypavo<br />Thaamkaadhal  Kollaak  Katai',
   },
   {
     Index: 1196,
@@ -21868,8 +20381,7 @@ const kurral = [
       'Love on one side is bad; like balanced load<br />By porter borne, love on both sides is good',
     EnglishMeaning:
       'Lust, like the weight of the KAVADI, pains if it lies in one end only but pleases if it is in both',
-    Transliteration:
-      'Orudhalaiyaan Innaadhu  Kaamamkaap  Pola<br />Irudhalai  Yaanum  Inidhu',
+    Transliteration: 'Orudhalaiyaan Innaadhu  Kaamamkaap  Pola<br />Irudhalai  Yaanum  Inidhu',
   },
   {
     Index: 1197,
@@ -21886,8 +20398,7 @@ const kurral = [
       'While Kaman rushes straight at me alone,<br />Is all my pain and wasting grief unknown',
     EnglishMeaning:
       'Would not cupid who abides and contends in one party (only) witness the pain and sorrow (in that party)?',
-    Transliteration:
-      'Paruvaralum Paidhalum  Kaanaankol  Kaaman<br />Oruvarkan  Nindrozhuku  Vaan',
+    Transliteration: 'Paruvaralum Paidhalum  Kaanaankol  Kaaman<br />Oruvarkan  Nindrozhuku  Vaan',
   },
   {
     Index: 1198,
@@ -21904,8 +20415,7 @@ const kurral = [
       "Who hear from lover's lips no pleasant word from day to day,<br />Yet in the world live out their life,- no braver souls than they",
     EnglishMeaning:
       'There is no one in the world so hard-hearted as those who can live without receiving (even) a kind word from their beloved',
-    Transliteration:
-      'Veezhvaarin Insol  Peraaadhu  Ulakaththu<br />Vaazhvaarin  Vankanaar  Il',
+    Transliteration: 'Veezhvaarin Insol  Peraaadhu  Ulakaththu<br />Vaazhvaarin  Vankanaar  Il',
   },
   {
     Index: 1199,
@@ -21922,8 +20432,7 @@ const kurral = [
       'Though he my heart desires no grace accords to me,<br />Yet every accent of his voice is melody',
     EnglishMeaning:
       '145 Though my beloved bestows no love on one, still are his words sweet to my ears',
-    Transliteration:
-      'Nasaiiyaar Nalkaar  Eninum  Avarmaattu<br />Isaiyum  Iniya  Sevikku',
+    Transliteration: 'Nasaiiyaar Nalkaar  Eninum  Avarmaattu<br />Isaiyum  Iniya  Sevikku',
   },
   {
     Index: 1200,
@@ -21936,12 +20445,10 @@ const kurral = [
       'நெஞ்சமே! நீ வாழி! அன்பு இல்லாதவரிடம் உன் மிகுந்த துன்பத்தைச் சொல்கின்றாய்! அதை விட எளிதாகக் கடலைத் தூர்ப்பாயாக.',
     SolomonPaapaiyaUrai:
       'நெஞ்சே நீ வாழ்க! பாவம், நீ ஏன் உன்னோடு உறவில்லாதவர்க்கு உன் அளவற்ற துன்பத்தைச் சொல்லிக் கொண்டிருக்கிறாய்? (அதற்குப் பதில்) உன்னைத் துன்புறுத்தும் கடலைத் தூர்க்க முயற்சி செய்; அது முடியும்.',
-    English:
-      'Tell him thy pain that loves not thee?<br />Farewell, my soul, fill up the sea',
+    English: 'Tell him thy pain that loves not thee?<br />Farewell, my soul, fill up the sea',
     EnglishMeaning:
       'Live, O my soul, would you who relate your great sorrow to strangers, try rather to fill up your own sea (of sorrow)',
-    Transliteration:
-      'Uraaarkku Urunoi  Uraippaai  Katalaich<br />Cheraaaai  Vaazhiya  Nenju',
+    Transliteration: 'Uraaarkku Urunoi  Uraippaai  Katalaich<br />Cheraaaai  Vaazhiya  Nenju',
   },
   {
     Index: 1201,
@@ -21958,8 +20465,7 @@ const kurral = [
       'From thought of her unfailing gladness springs,<br />Sweeter than palm-rice wine the joy love brings',
     EnglishMeaning:
       'Sexuality is sweeter than liquor, because when remembered, it creates a most rapturous delight',
-    Transliteration:
-      'Ullinum Theeraap  Perumakizh  Seydhalaal<br />Kallinum  Kaamam  Inidhu',
+    Transliteration: 'Ullinum Theeraap  Perumakizh  Seydhalaal<br />Kallinum  Kaamam  Inidhu',
   },
   {
     Index: 1202,
@@ -21981,8 +20487,7 @@ const kurral = [
   },
   {
     Index: 1203,
-    Tamil:
-      'நினைப்பவர் போன்று நினையார்கொல் தும்மல்<br />சினைப்பது போன்று கெடும்',
+    Tamil: 'நினைப்பவர் போன்று நினையார்கொல் தும்மல்<br />சினைப்பது போன்று கெடும்',
     line1: 'நினைப்பவர் போன்று நினையார்கொல் தும்மல்',
     line2: 'சினைப்பது போன்று கெடும்',
     KalaignarUrai:
@@ -21995,8 +20500,7 @@ const kurral = [
       'A fit of sneezing threatened, but it passed away;<br />He seemed to think of me, but do his fancies stray',
     EnglishMeaning:
       'I feel as if I am going to sneeze but do not, and (therefore) my beloved is about to think (of me) but does not',
-    Transliteration:
-      'Ninaippavar Pondru  Ninaiyaarkol  Thummal<br />Sinaippadhu  Pondru  Ketum',
+    Transliteration: 'Ninaippavar Pondru  Ninaiyaarkol  Thummal<br />Sinaippadhu  Pondru  Ketum',
   },
   {
     Index: 1204,
@@ -22009,17 +20513,13 @@ const kurral = [
       'எம்முடைய நெஞ்சில் காதலராகிய அவர் இருக்கின்றாரே! ( அது போலவே) யாமும் அவருடைய நெஞ்சத்தில் நீங்காமல் இருக்கின்றோ‌மோ?',
     SolomonPaapaiyaUrai:
       'என் நெஞ்சத்தில் அவர் எப்போதும் இருக்கிறார். அவர் நெஞ்சத்தில் நானும் இருப்பேனா?',
-    English:
-      'Have I a place within his heart!<br />From mine, alas! he never doth depart',
-    EnglishMeaning:
-      'He continues to abide in my soul, do I likewise abide in his ?',
-    Transliteration:
-      'Yaamum Ulengol  Avarnenjaththu  Ennenjaththu<br />Oo  Ulare  Avar',
+    English: 'Have I a place within his heart!<br />From mine, alas! he never doth depart',
+    EnglishMeaning: 'He continues to abide in my soul, do I likewise abide in his ?',
+    Transliteration: 'Yaamum Ulengol  Avarnenjaththu  Ennenjaththu<br />Oo  Ulare  Avar',
   },
   {
     Index: 1205,
-    Tamil:
-      'தம்நெஞ்சத் தெம்மைக் கடிகொண்டார் நாணார்கொல்<br />எம்நெஞ்சத் தோவா வரல்',
+    Tamil: 'தம்நெஞ்சத் தெம்மைக் கடிகொண்டார் நாணார்கொல்<br />எம்நெஞ்சத் தோவா வரல்',
     line1: 'தம்நெஞ்சத் தெம்மைக் கடிகொண்டார் நாணார்கொல்',
     line2: 'எம்நெஞ்சத் தோவா வரல்',
     KalaignarUrai:
@@ -22050,8 +20550,7 @@ const kurral = [
       "How live I yet? I live to ponder o'er<br />The days of bliss with him that are no more",
     EnglishMeaning:
       'I live by remembering my (former) intercourse with him; if it were not so, how could I live ?',
-    Transliteration:
-      'Matriyaan Ennulen  Manno  Avaroti  Yaan<br />Utranaal  Ulla  Ulen',
+    Transliteration: 'Matriyaan Ennulen  Manno  Avaroti  Yaan<br />Utranaal  Ulla  Ulen',
   },
   {
     Index: 1207,
@@ -22068,13 +20567,11 @@ const kurral = [
       'If I remembered not what were I then? And yet,<br />The fiery smart of what my spirit knows not to forget',
     EnglishMeaning:
       'I have never forgotten (the pleasure); even to think of it burns my soul; could I live, if I should ever forget it ?',
-    Transliteration:
-      'Marappin Evanaavan  Markol  Marappariyen<br />Ullinum  Ullam  Sutum',
+    Transliteration: 'Marappin Evanaavan  Markol  Marappariyen<br />Ullinum  Ullam  Sutum',
   },
   {
     Index: 1208,
-    Tamil:
-      'எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ<br />காதலர் செய்யும் சிறப்பு',
+    Tamil: 'எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ<br />காதலர் செய்யும் சிறப்பு',
     line1: 'எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ',
     line2: 'காதலர் செய்யும் சிறப்பு',
     KalaignarUrai:
@@ -22105,8 +20602,7 @@ const kurral = [
       "Dear life departs, when his ungracious deeds I ponder o'er,<br />Who said erewhile, 'We're one for evermore'",
     EnglishMeaning:
       'My precious life is wasting away by thinking too much on the cruelty of him who said we were not different',
-    Transliteration:
-      'Viliyumen Innuyir  Verallam  Enpaar<br />Aliyinmai  Aatra  Ninaindhu',
+    Transliteration: 'Viliyumen Innuyir  Verallam  Enpaar<br />Aliyinmai  Aatra  Ninaindhu',
   },
   {
     Index: 1210,
@@ -22123,8 +20619,7 @@ const kurral = [
       "Set not; so may'st thou prosper, moon! that eyes may see<br />My love who went away, but ever bides with me",
     EnglishMeaning:
       'May you live, O Moon! Do not set, that I mine see him who has departed without quitting my soul',
-    Transliteration:
-      'Vitaaadhu Sendraaraik  Kanninaal  Kaanap<br />Pataaadhi  Vaazhi  Madhi',
+    Transliteration: 'Vitaaadhu Sendraaraik  Kanninaal  Kaanap<br />Pataaadhi  Vaazhi  Madhi',
   },
   {
     Index: 1211,
@@ -22141,13 +20636,11 @@ const kurral = [
       'It came and brought to me, that nightly vision rare,<br />A message from my love,- what feast shall I prepare',
     EnglishMeaning:
       "Where with shall I feast the dream which has brought me my dear one's messenger ?",
-    Transliteration:
-      'Kaadhalar Thoodhotu  Vandha  Kanavinukku<br />Yaadhusey  Venkol  Virundhu',
+    Transliteration: 'Kaadhalar Thoodhotu  Vandha  Kanavinukku<br />Yaadhusey  Venkol  Virundhu',
   },
   {
     Index: 1212,
-    Tamil:
-      'கயலுண்கண் யானிரப்பத் துஞ்சின் கலந்தார்க்<br />குயலுண்மை சாற்றுவேன் மன்',
+    Tamil: 'கயலுண்கண் யானிரப்பத் துஞ்சின் கலந்தார்க்<br />குயலுண்மை சாற்றுவேன் மன்',
     line1: 'கயலுண்கண் யானிரப்பத் துஞ்சின் கலந்தார்க்',
     line2: 'குயலுண்மை சாற்றுவேன் மன்',
     KalaignarUrai:
@@ -22178,8 +20671,7 @@ const kurral = [
       'Him, who in waking hour no kindness shows,<br />In dreams I see; and so my lifetime goes',
     EnglishMeaning:
       'My life lasts because in my dream I behold him who does not favour me in my waking hours',
-    Transliteration:
-      'Nanavinaal Nalkaa  Thavaraik  Kanavinaal<br />Kaantalin  Unten  Uyir',
+    Transliteration: 'Nanavinaal Nalkaa  Thavaraik  Kanavinaal<br />Kaantalin  Unten  Uyir',
   },
   {
     Index: 1214,
@@ -22196,8 +20688,7 @@ const kurral = [
       'Some pleasure I enjoy when him who loves not me<br />In waking hours, the vision searches out and makes me see',
     EnglishMeaning:
       'There is pleasure in my dream, because in it I seek and obtain him who does not visit me in my wakefulness',
-    Transliteration:
-      'Kanavinaan Untaakum  Kaamam  Nanavinaan<br />Nalkaarai  Naatith  Thararku',
+    Transliteration: 'Kanavinaan Untaakum  Kaamam  Nanavinaan<br />Nalkaarai  Naatith  Thararku',
   },
   {
     Index: 1215,
@@ -22214,8 +20705,7 @@ const kurral = [
       'As what I then beheld in waking hour was sweet,<br />So pleasant dreams in hour of sleep my spirit greet',
     EnglishMeaning:
       'I saw him in my waking hours, and then it was pleasant; I see him just now in my dream, and it is (equally) pleasant',
-    Transliteration:
-      'Nanavinaal Kantadhooum  Aange  Kanavundhaan<br />Kanta  Pozhudhe  Inidhu',
+    Transliteration: 'Nanavinaal Kantadhooum  Aange  Kanavundhaan<br />Kanta  Pozhudhe  Inidhu',
   },
   {
     Index: 1216,
@@ -22232,8 +20722,7 @@ const kurral = [
       'And if there were no waking hour, my love<br />In dreams would never from my side remove',
     EnglishMeaning:
       'Were there no such thing as wakefulness, my beloved (who visited me) in my dream would not depart from me',
-    Transliteration:
-      'Nanavena Ondrillai  Aayin  Kanavinaal<br />Kaadhalar  Neengalar  Man',
+    Transliteration: 'Nanavena Ondrillai  Aayin  Kanavinaal<br />Kaadhalar  Neengalar  Man',
   },
   {
     Index: 1217,
@@ -22250,13 +20739,11 @@ const kurral = [
       'The cruel one, in waking hour, who all ungracious seems,<br />Why should he thus torment my soul in nightly dreams',
     EnglishMeaning:
       'The cruel one who would not favour me in my wakefulness, what right has he to torture me in my dreams?',
-    Transliteration:
-      'Nanavinaal Nalkaak  Kotiyaar  Kanavanaal<br />Enemmaip  Peezhip  Padhu',
+    Transliteration: 'Nanavinaal Nalkaak  Kotiyaar  Kanavanaal<br />Enemmaip  Peezhip  Padhu',
   },
   {
     Index: 1218,
-    Tamil:
-      'துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்<br />நெஞ்சத்தார் ஆவர் விரைந்து',
+    Tamil: 'துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்<br />நெஞ்சத்தார் ஆவர் விரைந்து',
     line1: 'துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்',
     line2: 'நெஞ்சத்தார் ஆவர் விரைந்து',
     KalaignarUrai:
@@ -22287,8 +20774,7 @@ const kurral = [
       "In dreams who ne'er their lover's form perceive,<br />For those in waking hours who show no love will grieve",
     EnglishMeaning:
       'They who have no dear ones to behold in their dreams blame him who visits me not in my waking hours',
-    Transliteration:
-      'Nanavinaal Nalkaarai  Novar  Kanavinaal<br />Kaadhalark  Kaanaa  Thavar',
+    Transliteration: 'Nanavinaal Nalkaarai  Novar  Kanavinaal<br />Kaadhalark  Kaanaa  Thavar',
   },
   {
     Index: 1220,
@@ -22305,8 +20791,7 @@ const kurral = [
       'They say, that he in waking hours has left me lone;<br />In dreams they surely see him not,- these people of the town;',
     EnglishMeaning:
       'The women of this place say he has forsaken me in my wakefulness I think they have not seen him visit me in my dreams',
-    Transliteration:
-      'Nanavinaal Namneeththaar  Enpar  Kanavinaal<br />Kaanaarkol  Ivvoo  Ravar',
+    Transliteration: 'Nanavinaal Namneeththaar  Enpar  Kanavinaal<br />Kaanaarkol  Ivvoo  Ravar',
   },
   {
     Index: 1221,
@@ -22323,8 +20808,7 @@ const kurral = [
       'Thou art not evening, but a spear that doth devour<br />The souls of brides; farewell, thou evening hour',
     EnglishMeaning:
       'Live, O you evening are you (the former) evening? No, you are the season that slays (married) women',
-    Transliteration:
-      'Maalaiyo Allai  Manandhaar  Uyirunnum<br />Velainee  Vaazhi  Pozhudhu',
+    Transliteration: 'Maalaiyo Allai  Manandhaar  Uyirunnum<br />Velainee  Vaazhi  Pozhudhu',
   },
   {
     Index: 1222,
@@ -22341,8 +20825,7 @@ const kurral = [
       'Thine eye is sad; Hail, doubtful hour of eventide!<br />Of cruel eye, as is my spouse, is too thy bride',
     EnglishMeaning:
       'A long life to you, O dark evening! You are sightless Is your help-mate (also) as hard-hearted as mine',
-    Transliteration:
-      'Punkannai Vaazhi  Marulmaalai  Emkelpol<br />Vankanna  Thonin  Thunai',
+    Transliteration: 'Punkannai Vaazhi  Marulmaalai  Emkelpol<br />Vankanna  Thonin  Thunai',
   },
   {
     Index: 1223,
@@ -22359,8 +20842,7 @@ const kurral = [
       "With buds of chilly dew wan evening's shade enclose;<br />My anguish buds space and all my sorrow grows",
     EnglishMeaning:
       'The evening that (once) came in with trembling and dimness (now) brings me an aversion for life and increasing sorrow',
-    Transliteration:
-      'Paniarumpip Paidhalkol  Maalai  Thuniarumpith<br />Thunpam  Valara  Varum',
+    Transliteration: 'Paniarumpip Paidhalkol  Maalai  Thuniarumpith<br />Thunpam  Valara  Varum',
   },
   {
     Index: 1224,
@@ -22377,21 +20859,18 @@ const kurral = [
       'When absent is my love, the evening hour descends,<br />As when an alien host to field of battle wends',
     EnglishMeaning:
       'In the absence of my lover, evening comes in like slayers on the field of slaughter',
-    Transliteration:
-      'Kaadhalar Ilvazhi  Maalai  Kolaikkalaththu<br />Edhilar  Pola  Varum',
+    Transliteration: 'Kaadhalar Ilvazhi  Maalai  Kolaikkalaththu<br />Edhilar  Pola  Varum',
   },
   {
     Index: 1225,
-    Tamil:
-      'காலைக்குச் செய்தநன் றென்கொல் எவன்கொல்யான்<br />மாலைக்குச் செய்த பகை',
+    Tamil: 'காலைக்குச் செய்தநன் றென்கொல் எவன்கொல்யான்<br />மாலைக்குச் செய்த பகை',
     line1: 'காலைக்குச் செய்தநன் றென்கொல் எவன்கொல்யான்',
     line2: 'மாலைக்குச் செய்த பகை',
     KalaignarUrai:
       "மாலைப் பொழுதாகிவிட்டால் காதல் துன்பம் அதிகமாக வருத்துகிறது அதனால் பிரிந்திருக்கும் காதலர் உள்ளம் ``காலை நேரத்துக்கு நான் செய்த நன்மை என்ன? மாலை நேரத்துக்குச் செய்த தீமைதான் என்ன?'' என்று புலம்புகிறது",
     MuVaUrai:
       'யான் காலைப்பொழுதிற்குச் செய்த நன்மை என்ன? (என்னைத் துன்புறுத்துகின்ற) மாலைப் பொழுதிற்குச் செய்த பகையான தீமை என்ன?',
-    SolomonPaapaiyaUrai:
-      'காலைக்கு நான் செய்த நன்மை என்ன? மாலைக்கு நான் செய்த தீமை என்ன?',
+    SolomonPaapaiyaUrai: 'காலைக்கு நான் செய்த நன்மை என்ன? மாலைக்கு நான் செய்த தீமை என்ன?',
     English:
       "O morn, how have I won thy grace? thou bring'st relief<br />O eve, why art thou foe! thou dost renew my grief",
     EnglishMeaning: 'O eve, why art thou foe! thou dost renew my grief',
@@ -22411,10 +20890,8 @@ const kurral = [
       'முன்பு எனக்கு மகிழ்ச்சி தந்த மாலைப்பொழுது இப்படித் துன்பம் தரும் என்பதை, என்னை மணந்த காதலர் என்னைப் பிரிவதற்கு முன்பு நான் அறிந்தது கூட இல்லை.',
     English:
       'The pangs that evening brings I never knew,<br />Till he, my wedded spouse, from me withdrew',
-    EnglishMeaning:
-      "Previous to my husband's departure, I know not the painful nature of evening",
-    Transliteration:
-      'Maalainoi Seydhal  Manandhaar  Akalaadha<br />Kaalai  Arindha  Thilen',
+    EnglishMeaning: "Previous to my husband's departure, I know not the painful nature of evening",
+    Transliteration: 'Maalainoi Seydhal  Manandhaar  Akalaadha<br />Kaalai  Arindha  Thilen',
   },
   {
     Index: 1227,
@@ -22431,8 +20908,7 @@ const kurral = [
       'My grief at morn a bud, all day an opening flower,<br />Full-blown expands in evening hour',
     EnglishMeaning:
       'This malady buds forth in the morning, expands all day long and blossoms in the evening',
-    Transliteration:
-      'Kaalai Arumpip  Pakalellaam  Podhaaki<br />Maalai  Malarumin  Noi',
+    Transliteration: 'Kaalai Arumpip  Pakalellaam  Podhaaki<br />Maalai  Malarumin  Noi',
   },
   {
     Index: 1228,
@@ -22449,8 +20925,7 @@ const kurral = [
       "The shepherd's pipe is like a murderous weapon, to my ear,<br />For it proclaims the hour of ev'ning's fiery anguish near",
     EnglishMeaning:
       "The shepherd's flute now sounds as a fiery forerunner of night, and is become a weapon that slays (me)",
-    Transliteration:
-      'Azhalpolum Maalaikkuth  Thoodhaaki  Aayan<br />Kuzhalpolum  Kollum  Patai',
+    Transliteration: 'Azhalpolum Maalaikkuth  Thoodhaaki  Aayan<br />Kuzhalpolum  Kollum  Patai',
   },
   {
     Index: 1229,
@@ -22485,8 +20960,7 @@ const kurral = [
       'This darkening eve, my darkling soul must perish utterly;<br />Remembering him who seeks for wealth, but seeks not me',
     EnglishMeaning:
       'My (hitherto) unextinguished life is now lost in this bewildering night at the thought of him who has the nature of wealth',
-    Transliteration:
-      'Porulmaalai Yaalarai  Ulli  Marulmaalai<br />Maayumen  Maayaa  Uyir',
+    Transliteration: 'Porulmaalai Yaalarai  Ulli  Marulmaalai<br />Maayumen  Maayaa  Uyir',
   },
   {
     Index: 1231,
@@ -22503,8 +20977,7 @@ const kurral = [
       "Thine eyes grown dim are now ashamed the fragrant flow'rs to see,<br />Thinking on him, who wand'ring far, leaves us in misery",
     EnglishMeaning:
       'While we endure the unbearable sorrow, your eyes weep for him who is gone afar, and shun (the sight of) fragrant flowers',
-    Transliteration:
-      'Sirumai Namakkozhiyach  Chetchendraar  Ulli<br />Narumalar  Naanina  Kan',
+    Transliteration: 'Sirumai Namakkozhiyach  Chetchendraar  Ulli<br />Narumalar  Naanina  Kan',
   },
   {
     Index: 1232,
@@ -22521,8 +20994,7 @@ const kurral = [
       "The eye, with sorrow wan, all wet with dew of tears,<br />As witness of the lover's lack of love appears",
     EnglishMeaning:
       'The discoloured eyes that shed tears profusely seem to betray the unkindness of our beloved',
-    Transliteration:
-      'Nayandhavar Nalkaamai  Solluva  Polum<br />Pasandhu  Panivaarum  Kan',
+    Transliteration: 'Nayandhavar Nalkaamai  Solluva  Polum<br />Pasandhu  Panivaarum  Kan',
   },
   {
     Index: 1233,
@@ -22539,8 +21011,7 @@ const kurral = [
       "These withered arms, desertion's pangs abundantly display,<br />That swelled with joy on that glad nuptial day",
     EnglishMeaning:
       'The shoulders that swelled on the day of our union (now) seem to announce our separation clearly (to the public)',
-    Transliteration:
-      'Thanandhamai Saala  Arivippa  Polum<br />Manandhanaal  Veengiya  Thol',
+    Transliteration: 'Thanandhamai Saala  Arivippa  Polum<br />Manandhanaal  Veengiya  Thol',
   },
   {
     Index: 1234,
@@ -22557,8 +21028,7 @@ const kurral = [
       "When lover went, then faded all their wonted charms,<br />And armlets' golden round slips off from these poor wasted arms",
     EnglishMeaning:
       'In the absence of your consort, your shoulders having lost their former beauty and fulness, your bracelets of pure gold have become loose',
-    Transliteration:
-      'Panaineengip Paindhoti  Sorum  Thunaineengith<br />Tholkavin  Vaatiya  Thol',
+    Transliteration: 'Panaineengip Paindhoti  Sorum  Thunaineengith<br />Tholkavin  Vaatiya  Thol',
   },
   {
     Index: 1235,
@@ -22575,8 +21045,7 @@ const kurral = [
       'These wasted arms, the bracelet with their wonted beauty gone,<br />The cruelty declare of that most cruel one',
     EnglishMeaning:
       'The (loosened) bracelets, and the shoulders from which the old beauty has faded, relate the cruelty of the pitiless one',
-    Transliteration:
-      'Kotiyaar Kotumai  Uraikkum  Thotiyotu<br />Tholkavin  Vaatiya  Thol',
+    Transliteration: 'Kotiyaar Kotumai  Uraikkum  Thotiyotu<br />Tholkavin  Vaatiya  Thol',
   },
   {
     Index: 1236,
@@ -22593,8 +21062,7 @@ const kurral = [
       "I grieve, 'tis pain to me to hear him cruel chid,<br />Because the armlet from my wasted arm has slid",
     EnglishMeaning:
       'I am greatly pained to hear you call him a cruel man, just because your shoulders are reduced and your bracelets loosened',
-    Transliteration:
-      'Thotiyotu Tholnekizha  Noval  Avaraik<br />Kotiyar  Enakkooral  Nondhu',
+    Transliteration: 'Thotiyotu Tholnekizha  Noval  Avaraik<br />Kotiyar  Enakkooral  Nondhu',
   },
   {
     Index: 1237,
@@ -22611,8 +21079,7 @@ const kurral = [
       'My heart! say ought of glory wilt thou gain,<br />If to that cruel one thou of thy wasted arms complain',
     EnglishMeaning:
       'Can you O my soul! gain glory by relating to the (so-called) cruel one the clamour of my fading shoulders?',
-    Transliteration:
-      'Paatu Perudhiyo  Nenje  Kotiyaarkken<br />Vaatudhot  Poosal  Uraiththu',
+    Transliteration: 'Paatu Perudhiyo  Nenje  Kotiyaarkken<br />Vaatudhot  Poosal  Uraiththu',
   },
   {
     Index: 1238,
@@ -22629,8 +21096,7 @@ const kurral = [
       'One day the fervent pressure of embracing arms I checked,<br />Grew wan the forehead of the maid with golden armlet decked',
     EnglishMeaning:
       'When I once loosened the arms that were in embrace, the forehead of the gold-braceleted women turned sallow',
-    Transliteration:
-      'Muyangiya Kaikalai  Ookkap  Pasandhadhu<br />Paindhotip  Pedhai  Nudhal',
+    Transliteration: 'Muyangiya Kaikalai  Ookkap  Pasandhadhu<br />Paindhotip  Pedhai  Nudhal',
   },
   {
     Index: 1239,
@@ -22647,8 +21113,7 @@ const kurral = [
       "As we embraced a breath of wind found entrance there;<br />The maid's large liquid eyes were dimmed with care",
     EnglishMeaning:
       'When but a breath of breeze penetrated our embrace, her large cool eyes became sallow',
-    Transliteration:
-      'Muyakkitaith Thanvali  Pozhap  Pasapputra<br />Pedhai  Perumazhaik  Kan',
+    Transliteration: 'Muyakkitaith Thanvali  Pozhap  Pasapputra<br />Pedhai  Perumazhaik  Kan',
   },
   {
     Index: 1240,
@@ -22665,13 +21130,11 @@ const kurral = [
       'The dimness of her eye felt sorrow now,<br />Beholding what was done by that bright brow',
     EnglishMeaning:
       'Was it at the sight of what the bright forehead had done that the sallowness of her eyes became sad?',
-    Transliteration:
-      'Kannin Pasappo  Paruvaral  Eydhindre<br />Onnudhal  Seydhadhu  Kantu',
+    Transliteration: 'Kannin Pasappo  Paruvaral  Eydhindre<br />Onnudhal  Seydhadhu  Kantu',
   },
   {
     Index: 1241,
-    Tamil:
-      'நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்<br />எவ்வநோய் தீர்க்கு மருந்து',
+    Tamil: 'நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்<br />எவ்வநோய் தீர்க்கு மருந்து',
     line1: 'நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும்',
     line2: 'எவ்வநோய் தீர்க்கு மருந்து',
     KalaignarUrai:
@@ -22698,16 +21161,13 @@ const kurral = [
       'என் நெஞ்சே! வாழ்க!  அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவரை நினைந்து வருந்துவது உன் அறியாமையே!',
     SolomonPaapaiyaUrai:
       'என் நெஞ்சே நீ வாழ்ந்து போ; அவர் நம்மீது அன்பு இல்லாதவராக இருக்க, நீ மட்டும் அவர் வரவை எண்ணி வருந்துவது மூடத்தனமே.',
-    English:
-      'Since he loves not, thy smart<br />Is folly, fare thee well my heart',
+    English: 'Since he loves not, thy smart<br />Is folly, fare thee well my heart',
     EnglishMeaning: 'Is folly, fare thee well my heart!',
-    Transliteration:
-      'Kaadhal Avarilar  Aakanee  Novadhu<br />Pedhaimai  Vaazhiyen  Nenju',
+    Transliteration: 'Kaadhal Avarilar  Aakanee  Novadhu<br />Pedhaimai  Vaazhiyen  Nenju',
   },
   {
     Index: 1243,
-    Tamil:
-      'இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்<br />பைதல்நோய் செய்தார்கண் இல்',
+    Tamil: 'இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்<br />பைதல்நோய் செய்தார்கண் இல்',
     line1: 'இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்',
     line2: 'பைதல்நோய் செய்தார்கண் இல்',
     KalaignarUrai:
@@ -22720,13 +21180,11 @@ const kurral = [
       'What comes of sitting here in pining thought, O heart? He knows<br />No pitying thought, the cause of all these wasting woes',
     EnglishMeaning:
       'O my soul! why remain (here) and suffer thinking (of him)? There are no lewd thoughts (of you) in him who has caused you this disease of sorrow',
-    Transliteration:
-      'Irundhulli Enparidhal  Nenje  Parindhullal<br />Paidhalnoi  Seydhaarkan  Il',
+    Transliteration: 'Irundhulli Enparidhal  Nenje  Parindhullal<br />Paidhalnoi  Seydhaarkan  Il',
   },
   {
     Index: 1244,
-    Tamil:
-      'கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்<br />தின்னும் அவர்க்காணல் உற்று',
+    Tamil: 'கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்<br />தின்னும் அவர்க்காணல் உற்று',
     line1: 'கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்',
     line2: 'தின்னும் அவர்க்காணல் உற்று',
     KalaignarUrai:
@@ -22739,8 +21197,7 @@ const kurral = [
       'O rid me of these eyes, my heart; for they,<br />Longing to see him, wear my life away',
     EnglishMeaning:
       'O my soul! take my eyes also with you, (if not), these would eat me up (in their desire) to see him',
-    Transliteration:
-      'Kannum Kolachcheri  Nenje  Ivaiyennaith<br />Thinnum  Avarkkaanal  Utru',
+    Transliteration: 'Kannum Kolachcheri  Nenje  Ivaiyennaith<br />Thinnum  Avarkkaanal  Utru',
   },
   {
     Index: 1245,
@@ -22757,13 +21214,11 @@ const kurral = [
       'O heart, as a foe, can I abandon utterly<br />Him who, though I long for him, longs not for me',
     EnglishMeaning:
       'O my soul! can he who loves not though he is beloved, be forsaken saying he hates me (now)?',
-    Transliteration:
-      'Setraar Enakkai  Vitalunto  Nenjeyaam<br />Utraal  Uraaa  Thavar',
+    Transliteration: 'Setraar Enakkai  Vitalunto  Nenjeyaam<br />Utraal  Uraaa  Thavar',
   },
   {
     Index: 1246,
-    Tamil:
-      'கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய்<br />பொய்க்காய்வு காய்தியென் நெஞ்சு',
+    Tamil: 'கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய்<br />பொய்க்காய்வு காய்தியென் நெஞ்சு',
     line1: 'கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய்',
     line2: 'பொய்க்காய்வு காய்தியென் நெஞ்சு',
     KalaignarUrai:
@@ -22792,15 +21247,12 @@ const kurral = [
       'நல்ல நெஞ்சே! ஒன்று காதல் விருப்பத்தை விடு; அல்லது நாணத்தை விடு; இரண்டையுமே விடமுடியாது என்பது உன் எண்ணம் என்றால், ஒன்றிற்கொன்று வேறுபட்ட இந்த இரண்டையும் சேர்த்துத் தாங்கும் ஆற்றல் எனக்கு இல்லை.',
     English:
       'Or bid thy love, or bid thy shame depart;<br />For me, I cannot bear them both, my worthy heart',
-    EnglishMeaning:
-      'O my good soul, give up either lust or honour, as for me I can endure neither',
-    Transliteration:
-      'Kaamam Vituondro  Naanvitu  Nannenje<br />Yaano  Poreniv  Virantu',
+    EnglishMeaning: 'O my good soul, give up either lust or honour, as for me I can endure neither',
+    Transliteration: 'Kaamam Vituondro  Naanvitu  Nannenje<br />Yaano  Poreniv  Virantu',
   },
   {
     Index: 1248,
-    Tamil:
-      'பரிந்தவர் நல்காரென் றேங்கிப் பிரிந்தவர்<br />பின்செல்வாய் பேதையென் நெஞ்சு',
+    Tamil: 'பரிந்தவர் நல்காரென் றேங்கிப் பிரிந்தவர்<br />பின்செல்வாய் பேதையென் நெஞ்சு',
     line1: 'பரிந்தவர் நல்காரென் றேங்கிப் பிரிந்தவர்',
     line2: 'பின்செல்வாய் பேதையென் நெஞ்சு',
     KalaignarUrai:
@@ -22827,12 +21279,9 @@ const kurral = [
       'என் நெஞ்சே! காதலர் உன் உள்ளத்தில் உள்ளவராக இருக்கும்போது நீ அவரை நினைத்து யாரிடம் தேடிச் செல்கின்றாய்?',
     SolomonPaapaiyaUrai:
       'என் நெஞ்சே! நம் அன்பர் நம் மனத்திற்குள்ளேயே இருக்க, நீ அவரைத் தேடி எவரிடம் போகிறாய்?',
-    English:
-      'My heart! my lover lives within my mind;<br />Roaming, whom dost thou think to find',
-    EnglishMeaning:
-      'O my soul! to whom would you repair, while the dear one is within yourself?',
-    Transliteration:
-      'Ullaththaar Kaadha  Lavaraal  Ullinee<br />Yaaruzhaich  Cheriyen  Nenju',
+    English: 'My heart! my lover lives within my mind;<br />Roaming, whom dost thou think to find',
+    EnglishMeaning: 'O my soul! to whom would you repair, while the dear one is within yourself?',
+    Transliteration: 'Ullaththaar Kaadha  Lavaraal  Ullinee<br />Yaaruzhaich  Cheriyen  Nenju',
   },
   {
     Index: 1250,
@@ -22849,8 +21298,7 @@ const kurral = [
       'If I should keep in mind the man who utterly renounces me,<br />My soul must suffer further loss of dignity',
     EnglishMeaning:
       'If I retain in my heart him who has left me without befriending me, I shall lose even the (inward) beauty that remains',
-    Transliteration:
-      'Thunnaath Thurandhaarai  Nenjaththu  Utaiyemaa<br />Innum  Izhaththum  Kavin',
+    Transliteration: 'Thunnaath Thurandhaarai  Nenjaththu  Utaiyemaa<br />Innum  Izhaththum  Kavin',
   },
   {
     Index: 1251,
@@ -22885,13 +21333,11 @@ const kurral = [
       "What men call love is the one thing of merciless power;<br />It gives my soul no rest, e'en in the midnight hour",
     EnglishMeaning:
       'Even at midnight is my mind worried by lust, and this one thing, alas! is without mercy',
-    Transliteration:
-      'Kaamam Enavondro  Kannindren  Nenjaththai<br />Yaamaththum  Aalum  Thozhil',
+    Transliteration: 'Kaamam Enavondro  Kannindren  Nenjaththai<br />Yaamaththum  Aalum  Thozhil',
   },
   {
     Index: 1253,
-    Tamil:
-      'மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்<br />தும்மல்போல் தோன்றி விடும்',
+    Tamil: 'மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்<br />தும்மல்போல் தோன்றி விடும்',
     line1: 'மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்',
     line2: 'தும்மல்போல் தோன்றி விடும்',
     KalaignarUrai:
@@ -22922,13 +21368,11 @@ const kurral = [
       'In womanly reserve I deemed myself beyond assail;<br />But love will come abroad, and casts away the veil',
     EnglishMeaning:
       'I say I would be firm, but alas, my malady breaks out from its concealment and appears in public',
-    Transliteration:
-      'Niraiyutaiyen Enpenman  Yaanoen  Kaamam<br />Maraiyirandhu  Mandru  Patum',
+    Transliteration: 'Niraiyutaiyen Enpenman  Yaanoen  Kaamam<br />Maraiyirandhu  Mandru  Patum',
   },
   {
     Index: 1255,
-    Tamil:
-      'செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்<br />உற்றார் அறிவதொன் றன்று',
+    Tamil: 'செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்<br />உற்றார் அறிவதொன் றன்று',
     line1: 'செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்',
     line2: 'உற்றார் அறிவதொன் றன்று',
     KalaignarUrai:
@@ -22959,8 +21403,7 @@ const kurral = [
       'My grief how full of grace, I pray you see!<br />It seeks to follow him that hateth me',
     EnglishMeaning:
       'The sorrow I have endured by desiring to go after my absent lover, in what way is it excellent?',
-    Transliteration:
-      'Setravar Pinseral  Venti  Aliththaro<br />Etrennai  Utra  Thuyar',
+    Transliteration: 'Setravar Pinseral  Venti  Aliththaro<br />Etrennai  Utra  Thuyar',
   },
   {
     Index: 1257,
@@ -22977,8 +21420,7 @@ const kurral = [
       'No sense of shame my gladdened mind shall prove,<br />When he returns my longing heart to bless with love',
     EnglishMeaning:
       'I know nothing like shame when my beloved does from love (just) what is desired (by me)',
-    Transliteration:
-      'Naanena Ondro  Ariyalam  Kaamaththaal<br />Peniyaar  Petpa  Seyin',
+    Transliteration: 'Naanena Ondro  Ariyalam  Kaamaththaal<br />Peniyaar  Petpa  Seyin',
   },
   {
     Index: 1258,
@@ -22995,8 +21437,7 @@ const kurral = [
       "The words of that deceiver, versed in every wily art,<br />Are instruments that break through every guard of woman's heart",
     EnglishMeaning:
       'Are not the enticing words of my trick-abounding roguish lover the weapon that breaks away my feminine firmness?',
-    Transliteration:
-      'Panmaayak Kalvan  Panimozhi  Andronam<br />Penmai  Utaikkum  Patai',
+    Transliteration: 'Panmaayak Kalvan  Panimozhi  Andronam<br />Penmai  Utaikkum  Patai',
   },
   {
     Index: 1259,
@@ -23013,13 +21454,11 @@ const kurral = [
       "'I 'll shun his greeting'; saying thus with pride away I went:<br />I held him in my arms, for straight I felt my heart relent",
     EnglishMeaning:
       'I said I would feign dislike and so went (away); (but) I embraced him the moment I say my mind began to unite with him!',
-    Transliteration:
-      'Pulappal Enachchendren  Pullinen  Nenjam<br />Kalaththal  Uruvadhu  Kantu',
+    Transliteration: 'Pulappal Enachchendren  Pullinen  Nenjam<br />Kalaththal  Uruvadhu  Kantu',
   },
   {
     Index: 1260,
-    Tamil:
-      'நிணந்தீயில் இட்டன்ன நெஞ்சினார்க் குண்டோ<br />புணர்ந்தூடி நிற்பேம் எனல்',
+    Tamil: 'நிணந்தீயில் இட்டன்ன நெஞ்சினார்க் குண்டோ<br />புணர்ந்தூடி நிற்பேம் எனல்',
     line1: 'நிணந்தீயில் இட்டன்ன நெஞ்சினார்க் குண்டோ',
     line2: 'புணர்ந்தூடி நிற்பேம் எனல்',
     KalaignarUrai:
@@ -23032,13 +21471,11 @@ const kurral = [
       "'We 'll stand aloof and then embrace': is this for them to say,<br />Whose hearts are as the fat that in the blaze dissolves away",
     EnglishMeaning:
       'Is it possible for those whose hearts melt like fat in the fire to say they can feign a strong dislike and remain so?',
-    Transliteration:
-      'Ninandheeyil Ittanna  Nenjinaarkku  Unto<br />Punarndhooti  Nirpem  Enal',
+    Transliteration: 'Ninandheeyil Ittanna  Nenjinaarkku  Unto<br />Punarndhooti  Nirpem  Enal',
   },
   {
     Index: 1261,
-    Tamil:
-      'வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற<br />நாளொற்றித் தேய்ந்த விரல்',
+    Tamil: 'வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற<br />நாளொற்றித் தேய்ந்த விரல்',
     line1: 'வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற',
     line2: 'நாளொற்றித் தேய்ந்த விரல்',
     KalaignarUrai:
@@ -23051,13 +21488,11 @@ const kurral = [
       'My eyes have lost their brightness, sight is dimmed; my fingers worn,<br />With nothing on the wall the days since I was left forlorn',
     EnglishMeaning:
       'My finger has worn away by marking (on the wall) the days he has been absent while my eyes have lost their lustre and begin to fail',
-    Transliteration:
-      'Vaalatrup Purkendra  Kannum  Avarsendra<br />Naalotrith  Theyndha  Viral',
+    Transliteration: 'Vaalatrup Purkendra  Kannum  Avarsendra<br />Naalotrith  Theyndha  Viral',
   },
   {
     Index: 1262,
-    Tamil:
-      'இலங்கிழாய் இன்று மறப்பினென் தோள்மேல்<br />கலங்கழியும் காரிகை நீத்து',
+    Tamil: 'இலங்கிழாய் இன்று மறப்பினென் தோள்மேல்<br />கலங்கழியும் காரிகை நீத்து',
     line1: 'இலங்கிழாய் இன்று மறப்பினென் தோள்மேல்',
     line2: 'கலங்கழியும் காரிகை நீத்து',
     KalaignarUrai:
@@ -23088,8 +21523,7 @@ const kurral = [
       'On victory intent, His mind sole company he went;<br />And I yet life sustain And long to see his face again',
     EnglishMeaning:
       'I still live by longing for the arrival of him who has gone out of love for victory and with valour as his guide',
-    Transliteration:
-      'Urannasaii Ullam  Thunaiyaakach  Chendraar<br />Varalnasaii  Innum  Ulen',
+    Transliteration: 'Urannasaii Ullam  Thunaiyaakach  Chendraar<br />Varalnasaii  Innum  Ulen',
   },
   {
     Index: 1264,
@@ -23106,13 +21540,11 @@ const kurral = [
       "'He comes again, who left my side, and I shall taste love's joy,'-<br />My heart with rapture swells, when thoughts like these my mind employ",
     EnglishMeaning:
       'My heart is rid of its sorrow and swells with rapture to think of my absent lover returning with his love',
-    Transliteration:
-      'Kootiya Kaamam  Pirindhaar  Varavullik<br />Kotuko  Terumen  Nenju',
+    Transliteration: 'Kootiya Kaamam  Pirindhaar  Varavullik<br />Kotuko  Terumen  Nenju',
   },
   {
     Index: 1265,
-    Tamil:
-      'காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்<br />நீங்குமென் மென்தோள் பசப்பு',
+    Tamil: 'காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்<br />நீங்குமென் மென்தோள் பசப்பு',
     line1: 'காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்',
     line2: 'நீங்குமென் மென்தோள் பசப்பு',
     KalaignarUrai:
@@ -23125,8 +21557,7 @@ const kurral = [
       'O let me see my spouse again and sate these longing eyes!<br />That instant from my wasted frame all pallor flies',
     EnglishMeaning:
       'May I look on my lover till I am satisfied and thereafter will vanish the sallowness of my slender shoulders',
-    Transliteration:
-      'Kaankaman Konkanaik  Kannaarak  Kantapin<br />Neengumen  Mendhol  Pasappu',
+    Transliteration: 'Kaankaman Konkanaik  Kannaarak  Kantapin<br />Neengumen  Mendhol  Pasappu',
   },
   {
     Index: 1266,
@@ -23143,13 +21574,11 @@ const kurral = [
       "O let my spouse but come again to me one day!<br />I'll drink that nectar: wasting grief shall flee away",
     EnglishMeaning:
       'May my husband return some day; and then will I enjoy (him) so as to destroy all this agonizing sorrow',
-    Transliteration:
-      'Varukaman Konkan  Orunaal  Parukuvan<br />Paidhalnoi  Ellaam  Keta',
+    Transliteration: 'Varukaman Konkan  Orunaal  Parukuvan<br />Paidhalnoi  Ellaam  Keta',
   },
   {
     Index: 1267,
-    Tamil:
-      'புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்<br />கண்ணன்ன கேளிர் வரின்',
+    Tamil: 'புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்<br />கண்ணன்ன கேளிர் வரின்',
     line1: 'புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்',
     line2: 'கண்ணன்ன கேளிர் வரின்',
     KalaignarUrai:
@@ -23162,8 +21591,7 @@ const kurral = [
       'Shall I draw back, or yield myself, or shall both mingled be,<br />When he returns, my spouse, dear as these eyes to me',
     EnglishMeaning:
       'On the return of him who is as dear as my eyes, am I displeased or am I to embrace (him); or am I to do both?',
-    Transliteration:
-      'Pulappenkol Pulluven  Kollo  Kalappenkol<br />Kananna  Kelir  Viran',
+    Transliteration: 'Pulappenkol Pulluven  Kollo  Kalappenkol<br />Kananna  Kelir  Viran',
   },
   {
     Index: 1268,
@@ -23185,8 +21613,7 @@ const kurral = [
   },
   {
     Index: 1269,
-    Tamil:
-      'ஒருநாள் எழுநாள்போல் செல்லும்சேண் சென்றார்<br />வருநாள்வைத் தேங்கு பவர்க்கு',
+    Tamil: 'ஒருநாள் எழுநாள்போல் செல்லும்சேண் சென்றார்<br />வருநாள்வைத் தேங்கு பவர்க்கு',
     line1: 'ஒருநாள் எழுநாள்போல் செல்லும்சேண் சென்றார்',
     line2: 'வருநாள்வைத் தேங்கு பவர்க்கு',
     KalaignarUrai:
@@ -23204,8 +21631,7 @@ const kurral = [
   },
   {
     Index: 1270,
-    Tamil:
-      'பெறினென்னாம் பெற்றக்கால் என்னாம் உறினென்னாம்<br />உள்ளம் உடைந்துக்கக் கால்',
+    Tamil: 'பெறினென்னாம் பெற்றக்கால் என்னாம் உறினென்னாம்<br />உள்ளம் உடைந்துக்கக் கால்',
     line1: 'பெறினென்னாம் பெற்றக்கால் என்னாம் உறினென்னாம்',
     line2: 'உள்ளம் உடைந்துக்கக் கால்',
     KalaignarUrai:
@@ -23218,8 +21644,7 @@ const kurral = [
       "What's my return, the meeting hour, the wished-for greeting worth,<br />If she heart-broken lie, with all her life poured forth",
     EnglishMeaning:
       'After (my wife) has died of a broken heart, what good will there be if she is to receive me, has received me, or has even embraced me?',
-    Transliteration:
-      'Perinennaam Petrakkaal  Ennaam  Urinennaam<br />Ullam  Utaindhukkak  Kaal',
+    Transliteration: 'Perinennaam Petrakkaal  Ennaam  Urinennaam<br />Ullam  Utaindhukkak  Kaal',
   },
   {
     Index: 1271,
@@ -23236,13 +21661,11 @@ const kurral = [
       "Thou hid'st it, yet thine eye, disdaining all restraint,<br />Something, I know not, what, would utter of complaint",
     EnglishMeaning:
       'Though you would conceal (your feelings), your painted eyes would not, for, transgressing (their bounds), they tell (me) something',
-    Transliteration:
-      'Karappinung Kaiyikan  Thollaanin  Unkan<br />Uraikkal  Uruvadhon  Runtu',
+    Transliteration: 'Karappinung Kaiyikan  Thollaanin  Unkan<br />Uraikkal  Uruvadhon  Runtu',
   },
   {
     Index: 1272,
-    Tamil:
-      'கண்ணிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்<br />பெண்நிறைந்த நீர்மை பெரிது',
+    Tamil: 'கண்ணிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்<br />பெண்நிறைந்த நீர்மை பெரிது',
     line1: 'கண்ணிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்',
     line2: 'பெண்நிறைந்த நீர்மை பெரிது',
     KalaignarUrai:
@@ -23273,13 +21696,11 @@ const kurral = [
       "As through the crystal beads is seen the thread on which they 're strung<br />So in her beauty gleams some thought cannot find a tongue",
     EnglishMeaning:
       'There is something that is implied in the beauty of this woman, like the thread that is visible in a garland of gems',
-    Transliteration:
-      'Maniyil Thikazhdharu  Noolpol  Matandhai<br />Aniyil  Thikazhvadhondru  Untu',
+    Transliteration: 'Maniyil Thikazhdharu  Noolpol  Matandhai<br />Aniyil  Thikazhvadhondru  Untu',
   },
   {
     Index: 1274,
-    Tamil:
-      'முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை<br />நகைமொக்குள் உள்ளதொன் றுண்டு',
+    Tamil: 'முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை<br />நகைமொக்குள் உள்ளதொன் றுண்டு',
     line1: 'முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை',
     line2: 'நகைமொக்குள் உள்ளதொன் றுண்டு',
     KalaignarUrai:
@@ -23292,13 +21713,11 @@ const kurral = [
       "As fragrance in the opening bud, some secret lies<br />Concealed in budding smile of this dear damsel's eyes",
     EnglishMeaning:
       'There is something in the unmatured smile of this maid like the fragrance that is contained in an unblossomed bud',
-    Transliteration:
-      'Mukaimokkul Ulladhu  Naatrampol  Pedhai<br />Nakaimokkul  Ulladhon  Runtu',
+    Transliteration: 'Mukaimokkul Ulladhu  Naatrampol  Pedhai<br />Nakaimokkul  Ulladhon  Runtu',
   },
   {
     Index: 1275,
-    Tamil:
-      'செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்<br />தீர்க்கும் மருந்தொன் றுடைத்து',
+    Tamil: 'செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்<br />தீர்க்கும் மருந்தொன் றுடைத்து',
     line1: 'செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்',
     line2: 'தீர்க்கும் மருந்தொன் றுடைத்து',
     KalaignarUrai:
@@ -23316,8 +21735,7 @@ const kurral = [
   },
   {
     Index: 1276,
-    Tamil:
-      'பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி<br />அன்பின்மை சூழ்வ துடைத்து',
+    Tamil: 'பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி<br />அன்பின்மை சூழ்வ துடைத்து',
     line1: 'பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி',
     line2: 'அன்பின்மை சூழ்வ துடைத்து',
     KalaignarUrai:
@@ -23348,8 +21766,7 @@ const kurral = [
       'My severance from the lord of this cool shore,<br />My very armlets told me long before',
     EnglishMeaning:
       'My bracelets have understood before me the (mental) separation of him who rules the cool seashore',
-    Transliteration:
-      'Thannan Thuraivan  Thanandhamai  Namminum<br />Munnam  Unarndha  Valai',
+    Transliteration: 'Thannan Thuraivan  Thanandhamai  Namminum<br />Munnam  Unarndha  Valai',
   },
   {
     Index: 1278,
@@ -23362,12 +21779,10 @@ const kurral = [
       'எம்முடைய காதலர் நேற்றுதான் பிரிந்து சென்றார்; யாமும் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆய்விட்ட நிலையில் இருக்கின்றோம்.',
     SolomonPaapaiyaUrai:
       'என் காதலர் நேற்றுத்தான் என்னைப் பிரிந்து போனார்; அப்பிரிவிற்கு வாடி என் மேனியின் நிறம் வேறுபட்டு ஏழு நாள்களாகிவிட்டன.',
-    English:
-      'My loved one left me, was it yesterday?<br />Days seven my pallid body wastes away',
+    English: 'My loved one left me, was it yesterday?<br />Days seven my pallid body wastes away',
     EnglishMeaning:
       'It was but yesterday my lover departed (from me); and it is seven days since my complexion turned sallow',
-    Transliteration:
-      'Nerunatruch Chendraarem  Kaadhalar  Yaamum<br />Ezhunaalem  Meni  Pasandhu',
+    Transliteration: 'Nerunatruch Chendraarem  Kaadhalar  Yaamum<br />Ezhunaalem  Meni  Pasandhu',
   },
   {
     Index: 1279,
@@ -23384,8 +21799,7 @@ const kurral = [
       'She viewed her tender arms, she viewed the armlets from them slid;<br />She viewed her feet: all this the lady did',
     EnglishMeaning:
       'She looked at her bracelets, her tender shoulders, and her feet; this was what she did there (significantly)',
-    Transliteration:
-      'Thotinokki Mendholum  Nokki  Atinokki<br />Aqdhaan  Tavalsey  Thadhu',
+    Transliteration: 'Thotinokki Mendholum  Nokki  Atinokki<br />Aqdhaan  Tavalsey  Thadhu',
   },
   {
     Index: 1280,
@@ -23402,8 +21816,7 @@ const kurral = [
       "To show by eye the pain of love, and for relief to pray,<br />Is womanhood's most womanly device, men say",
     EnglishMeaning:
       'To express their love-sickness by their eyes and resort to begging bespeaks more than ordinary female excellence',
-    Transliteration:
-      'Penninaal Penmai  Utaiththenpa  Kanninaal<br />Kaamanoi  Solli  Iravu',
+    Transliteration: 'Penninaal Penmai  Utaiththenpa  Kanninaal<br />Kaamanoi  Solli  Iravu',
   },
   {
     Index: 1281,
@@ -23418,18 +21831,15 @@ const kurral = [
       'நினைத்த அளவிலே உணர்வு அழியாமல்  உள்ளம் கிளர்தலும், பார்த்த அளவிலே உணர்வு அழிய உள்ளம் கிளர்தலும்  கள் உண்பவர்க்கு இல்லை; காதல் வசப்பட்டவர்க்கே உண்டு.',
     English:
       'Gladness at the thought, rejoicing at the sight,<br />Not palm-tree wine, but love, yields such delight',
-    EnglishMeaning:
-      'To please by thought and cheer by sight is peculiar, not to liquor but lust',
-    Transliteration:
-      'Ullak Kaliththalum  Kaana  Makizhdhalum<br />Kallukkil  Kaamaththir  Kuntu',
+    EnglishMeaning: 'To please by thought and cheer by sight is peculiar, not to liquor but lust',
+    Transliteration: 'Ullak Kaliththalum  Kaana  Makizhdhalum<br />Kallukkil  Kaamaththir  Kuntu',
   },
   {
     Index: 1282,
     Tamil: 'தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்<br />காமம் நிறைய வரின்',
     line1: 'தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்',
     line2: 'காமம் நிறைய வரின்',
-    KalaignarUrai:
-      'பனையளவாகக் காதல் பெருகிடும் போது தினையளவு ஊடலும் கொள்ளாமல் இருக்க வேண்டும்',
+    KalaignarUrai: 'பனையளவாகக் காதல் பெருகிடும் போது தினையளவு ஊடலும் கொள்ளாமல் இருக்க வேண்டும்',
     MuVaUrai:
       'காமம் பனையளவாக நிறைய வரும்போது காதலரோடு தினையளவாகச் சிறிதேனும் ஊடல் கொள்ளாமல் இருக்க வேண்டும்.',
     SolomonPaapaiyaUrai:
@@ -23456,8 +21866,7 @@ const kurral = [
       'Although his will his only law, he lightly value me,<br />My heart knows no repose unless my lord I see',
     EnglishMeaning:
       'Though my eyes disregard me and do what is pleasing to my husband, still will they not be satisfied unless they see him',
-    Transliteration:
-      'Penaadhu Petpave  Seyyinum  Konkanaik<br />Kaanaa  Thamaiyala  Kan',
+    Transliteration: 'Penaadhu Petpave  Seyyinum  Konkanaik<br />Kaanaa  Thamaiyala  Kan',
   },
   {
     Index: 1284,
@@ -23478,8 +21887,7 @@ const kurral = [
   },
   {
     Index: 1285,
-    Tamil:
-      'எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கண்<br />பழிகாணேன் கண்ட இடத்து',
+    Tamil: 'எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கண்<br />பழிகாணேன் கண்ட இடத்து',
     line1: 'எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கண்',
     line2: 'பழிகாணேன் கண்ட இடத்து',
     KalaignarUrai:
@@ -23492,8 +21900,7 @@ const kurral = [
       'The eye sees not the rod that paints it; nor can I<br />See any fault, when I behold my husband nigh',
     EnglishMeaning:
       "Like the eyes which see not the pencil that paints it, I cannot see my husband's fault (just) when I meet him",
-    Transliteration:
-      'Ezhudhungaal Kolkaanaak  Kannepol  Konkan<br />Pazhikaanen  Kanta  Itaththu',
+    Transliteration: 'Ezhudhungaal Kolkaanaak  Kannepol  Konkan<br />Pazhikaanen  Kanta  Itaththu',
   },
   {
     Index: 1286,
@@ -23510,13 +21917,11 @@ const kurral = [
       "When him I see, to all his faults I 'm blind;<br />But when I see him not, nothing but faults I find",
     EnglishMeaning:
       'When I see my husband, I do not see any faults; but when I do not see him, I do not see anything but faults',
-    Transliteration:
-      'Kaanungaal Kaanen  Thavaraaya  Kaanaakkaal<br />Kaanen  Thavaral  Lavai',
+    Transliteration: 'Kaanungaal Kaanen  Thavaraaya  Kaanaakkaal<br />Kaanen  Thavaral  Lavai',
   },
   {
     Index: 1287,
-    Tamil:
-      'உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்<br />பொய்த்தல் அறிந்தென் புலந்து',
+    Tamil: 'உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்<br />பொய்த்தல் அறிந்தென் புலந்து',
     line1: 'உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்',
     line2: 'பொய்த்தல் அறிந்தென் புலந்து',
     KalaignarUrai:
@@ -23529,13 +21934,11 @@ const kurral = [
       'As those of rescue sure, who plunge into the stream,<br />So did I anger feign, though it must falsehood seem',
     EnglishMeaning:
       'Like those who leap into a stream which they know will carry them off, why should a wife feign dislike which she knows cannot hold out long?',
-    Transliteration:
-      'Uyththal Arindhu  Punalpaai  Pavarepol<br />Poiththal  Arindhen  Pulandhu',
+    Transliteration: 'Uyththal Arindhu  Punalpaai  Pavarepol<br />Poiththal  Arindhen  Pulandhu',
   },
   {
     Index: 1288,
-    Tamil:
-      'இளித்தக்க இன்னா செயினும் களித்தார்க்குக்<br />கள்ளற்றே கள்வநின் மார்பு',
+    Tamil: 'இளித்தக்க இன்னா செயினும் களித்தார்க்குக்<br />கள்ளற்றே கள்வநின் மார்பு',
     line1: 'இளித்தக்க இன்னா செயினும் களித்தார்க்குக்',
     line2: 'கள்ளற்றே கள்வநின் மார்பு',
     KalaignarUrai:
@@ -23548,8 +21951,7 @@ const kurral = [
       'Though shameful ill it works, dear is the palm-tree wine<br />To drunkards; traitor, so to me that breast of thine',
     EnglishMeaning:
       'O you rogue! your breast is to me what liquor is to those who rejoice in it, though it only gives them an unpleasant disgrace',
-    Transliteration:
-      'Iliththakka Innaa  Seyinum  Kaliththaarkkuk<br />Kallatre  Kalvanin  Maarpu',
+    Transliteration: 'Iliththakka Innaa  Seyinum  Kaliththaarkkuk<br />Kallatre  Kalvanin  Maarpu',
   },
   {
     Index: 1289,
@@ -23566,13 +21968,11 @@ const kurral = [
       'Love is tender as an opening flower In season due<br />To gain its perfect bliss is rapture known to few',
     EnglishMeaning:
       'Sexual delight is more delicate than a flower, and few are those who understand its real nature',
-    Transliteration:
-      'Malarinum Mellidhu  Kaamam  Silaradhan<br />Sevvi  Thalaippatu  Vaar',
+    Transliteration: 'Malarinum Mellidhu  Kaamam  Silaradhan<br />Sevvi  Thalaippatu  Vaar',
   },
   {
     Index: 1290,
-    Tamil:
-      'கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்<br />என்னினும் தான்விதுப் புற்று',
+    Tamil: 'கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்<br />என்னினும் தான்விதுப் புற்று',
     line1: 'கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்',
     line2: 'என்னினும் தான்விதுப் புற்று',
     KalaignarUrai:
@@ -23585,8 +21985,7 @@ const kurral = [
       "Her eye, as I drew nigh one day, with anger shone:<br />By love o'erpowered, her tenderness surpassed my own",
     EnglishMeaning:
       'She once feigned dislike in her eyes, but the warmth of her embrace exceeded my own',
-    Transliteration:
-      'Kannin Thuniththe  Kalanginaal  Pulludhal<br />Enninum  Thaanvidhup  Putru',
+    Transliteration: 'Kannin Thuniththe  Kalanginaal  Pulludhal<br />Enninum  Thaanvidhup  Putru',
   },
   {
     Index: 1291,
@@ -23599,12 +21998,10 @@ const kurral = [
       'நெஞ்சே! அவருடைய நெஞ்சம் ( நம்மை நினையாமல் நம்மிடம் வராமல்) அவர்க்குத் துணையாதலைக் கண்டும் நீ எமக்குத் துணையாகாதது ஏன்?',
     SolomonPaapaiyaUrai:
       'நெஞ்சே!  அவருடைய நெஞ்சு நம்மை எண்ணாது அவருக்கே துணையாய் நிற்பதை அறிந்தும், நீ எனக்குத் துணை ஆகாமல் அவரையே நினைக்கக் காரணம் என்ன?',
-    English:
-      'You see his heart is his alone<br />O heart, why not be all my own',
+    English: 'You see his heart is his alone<br />O heart, why not be all my own',
     EnglishMeaning:
       'O my soul! although you have seen how his soul stands by him, how is it you do not stand by me?',
-    Transliteration:
-      'Avarnenju Avarkkaadhal  Kantum  Evannenje<br />Neeemakku  Aakaa  Thadhu',
+    Transliteration: 'Avarnenju Avarkkaadhal  Kantum  Evannenje<br />Neeemakku  Aakaa  Thadhu',
   },
   {
     Index: 1292,
@@ -23621,13 +22018,11 @@ const kurral = [
       "'Tis plain, my heart, that he 's estranged from thee;<br />Why go to him as though he were not enemy",
     EnglishMeaning:
       "O my soul! although you have known him who does not love me, still do you go to him, saying 'he will not be displeased.'",
-    Transliteration:
-      'Uraaa Thavarkkanta  Kannum  Avaraich<br />Cheraaarenach  Cheriyen  Nenju',
+    Transliteration: 'Uraaa Thavarkkanta  Kannum  Avaraich<br />Cheraaarenach  Cheriyen  Nenju',
   },
   {
     Index: 1293,
-    Tamil:
-      'கெட்டார்க்கு நட்டாரில் என்பதோ நெஞ்சேநீ<br />பெட்டாங் கவர்பின் செலல்',
+    Tamil: 'கெட்டார்க்கு நட்டாரில் என்பதோ நெஞ்சேநீ<br />பெட்டாங் கவர்பின் செலல்',
     line1: 'கெட்டார்க்கு நட்டாரில் என்பதோ நெஞ்சேநீ',
     line2: 'பெட்டாங் கவர்பின் செலல்',
     KalaignarUrai:
@@ -23640,13 +22035,11 @@ const kurral = [
       "'The ruined have no friends, 'they say; and so, my heart,<br />To follow him, at thy desire, from me thou dost depart",
     EnglishMeaning:
       'O my soul! do you follow him at pleasure under the belief that the ruined have no friends?',
-    Transliteration:
-      'Kettaarkku Nattaaril  Enpadho  Nenjenee<br />Pettaangu  Avarpin  Selal',
+    Transliteration: 'Kettaarkku Nattaaril  Enpadho  Nenjenee<br />Pettaangu  Avarpin  Selal',
   },
   {
     Index: 1294,
-    Tamil:
-      'இனியன்ன நின்னொடு சூழ்வார்யார் நெஞ்சே<br />துனிசெய்து துவ்வாய்காண் மற்று',
+    Tamil: 'இனியன்ன நின்னொடு சூழ்வார்யார் நெஞ்சே<br />துனிசெய்து துவ்வாய்காண் மற்று',
     line1: 'இனியன்ன நின்னொடு சூழ்வார்யார் நெஞ்சே',
     line2: 'துனிசெய்து துவ்வாய்காண் மற்று',
     KalaignarUrai:
@@ -23659,8 +22052,7 @@ const kurral = [
       "'See, thou first show offended pride, and then submit,' I bade;<br />Henceforth such council who will share with thee my heart",
     EnglishMeaning:
       'O my soul! you would not first seem sulky and then enjoy (him); who then would in future consult you about such things?',
-    Transliteration:
-      'Inianna Ninnotu  Soozhvaaryaar  Nenje<br />Thuniseydhu  Thuvvaaikaan  Matru',
+    Transliteration: 'Inianna Ninnotu  Soozhvaaryaar  Nenje<br />Thuniseydhu  Thuvvaaikaan  Matru',
   },
   {
     Index: 1295,
@@ -23677,8 +22069,7 @@ const kurral = [
       'I fear I shall not gain, I fear to lose him when I gain;<br />And thus my heart endures unceasing pain',
     EnglishMeaning:
       'My soul fears when it is without him; it also fears when it is with him; it is subject to incessant sorrow',
-    Transliteration:
-      'Peraaamai Anjum  Perinpirivu  Anjum<br />Araaa  Itumpaiththen  Nenju',
+    Transliteration: 'Peraaamai Anjum  Perinpirivu  Anjum<br />Araaa  Itumpaiththen  Nenju',
   },
   {
     Index: 1296,
@@ -23691,12 +22082,10 @@ const kurral = [
       'காதலரைப் பிரிந்து தனியே இருந்து அவருடைய தவறுகளை நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போல் துன்பம் செய்வதாக இருந்தது.',
     SolomonPaapaiyaUrai:
       'காதலர் பிரிவைத் தனியே இருந்து நினைத்தபோது என் நெஞ்சம் என்னைத் தின்பது போலக் கொடுமையாக இருந்தது.',
-    English:
-      "My heart consumes me when I ponder lone,<br />And all my lover's cruelty bemoan",
+    English: "My heart consumes me when I ponder lone,<br />And all my lover's cruelty bemoan",
     EnglishMeaning:
       'My mind has been (here) in order to eat me up (as it were) whenever I think of him in my solitude',
-    Transliteration:
-      'Thaniye Irundhu  Ninaiththakkaal  Ennaith<br />Thiniya  Irundhadhen  Nenju',
+    Transliteration: 'Thaniye Irundhu  Ninaiththakkaal  Ennaith<br />Thiniya  Irundhadhen  Nenju',
   },
   {
     Index: 1297,
@@ -23713,13 +22102,11 @@ const kurral = [
       "Fall'n 'neath the sway of this ignoble foolish heart,<br />Which will not him forget, I have forgotten shame",
     EnglishMeaning:
       'I have even forgotten my modesty, having been caught in my foolish mind which is not dignified enough to forget him',
-    Transliteration:
-      'Naanum Marandhen  Avarmarak  Kallaaen<br />Maanaa  Matanenjir  Pattu',
+    Transliteration: 'Naanum Marandhen  Avarmarak  Kallaaen<br />Maanaa  Matanenjir  Pattu',
   },
   {
     Index: 1298,
-    Tamil:
-      'எள்ளின் இளிவாமென் றெண்ணி அவர்திறம்<br />உள்ளும் உயிர்க்காதல் நெஞ்சு',
+    Tamil: 'எள்ளின் இளிவாமென் றெண்ணி அவர்திறம்<br />உள்ளும் உயிர்க்காதல் நெஞ்சு',
     line1: 'எள்ளின் இளிவாமென் றெண்ணி அவர்திறம்',
     line2: 'உள்ளும் உயிர்க்காதல் நெஞ்சு',
     KalaignarUrai:
@@ -23732,8 +22119,7 @@ const kurral = [
       "If I contemn him, then disgrace awaits me evermore;<br />My soul that seeks to live his virtues numbers o'er",
     EnglishMeaning:
       'My soul which clings to life thinks only of his (own) gain in the belief that it would be disgraceful for it to despise him',
-    Transliteration:
-      'Ellin Ilivaamendru  Enni  Avardhiram<br />Ullum  Uyirkkaadhal  Nenju',
+    Transliteration: 'Ellin Ilivaamendru  Enni  Avardhiram<br />Ullum  Uyirkkaadhal  Nenju',
   },
   {
     Index: 1299,
@@ -23746,8 +22132,7 @@ const kurral = [
       'ஒருவர்க்குத் துன்பம் வந்தபோது, தாம் உரிமையாகப் பெற்றுள்ள நெஞ்சமே துணையாகா விட்டால், வேறு யார் துணையாவார்?',
     SolomonPaapaiyaUrai:
       'ஒருவரது துன்பத்திற்குத்  தாம் உரிமையாகப் பெற்றிருக்கும் தம் நெஞ்சமே துணையாகாதபோது, வேறு யார் துணையாவார்?',
-    English:
-      'And who will aid me in my hour of grief,<br />If my own heart comes not to my relief',
+    English: 'And who will aid me in my hour of grief,<br />If my own heart comes not to my relief',
     EnglishMeaning:
       "Who would help me out of one's distress, when one's own soul refuses help to one?",
     Transliteration:
@@ -23768,8 +22153,7 @@ const kurral = [
       'A trifle is unfriendliness by aliens shown,<br />When our own heart itself is not our own',
     EnglishMeaning:
       "It is hardly possible for strangers to behave like relations, when one's own soul acts like a stranger",
-    Transliteration:
-      'Thanjam Thamarallar  Edhilaar  Thaamutaiya<br />Nenjam  Thamaral  Vazhi',
+    Transliteration: 'Thanjam Thamarallar  Edhilaar  Thaamutaiya<br />Nenjam  Thamaral  Vazhi',
   },
   {
     Index: 1301,
@@ -23786,8 +22170,7 @@ const kurral = [
       "Be still reserved, decline his profferred love;<br />A little while his sore distress we 'll prove",
     EnglishMeaning:
       'Let us witness awhile his keen suffering; just feign dislike and embrace him not',
-    Transliteration:
-      'Pullaa Thiraaap  Pulaththai  Avar  Urum<br />Allalnoi  Kaankam  Siridhu',
+    Transliteration: 'Pullaa Thiraaap  Pulaththai  Avar  Urum<br />Allalnoi  Kaankam  Siridhu',
   },
   {
     Index: 1302,
@@ -23804,13 +22187,11 @@ const kurral = [
       "A cool reserve is like the salt that seasons well the mess,<br />Too long maintained, 'tis like the salt's excess",
     EnglishMeaning:
       'A little dislike is like salt in proportion; to prolong it a little is like salt a little too much',
-    Transliteration:
-      'Uppamain Thatraal  Pulavi  Adhusiridhu<br />Mikkatraal  Neela  Vital',
+    Transliteration: 'Uppamain Thatraal  Pulavi  Adhusiridhu<br />Mikkatraal  Neela  Vital',
   },
   {
     Index: 1303,
-    Tamil:
-      'அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்<br />புலந்தாரைப் புல்லா விடல்',
+    Tamil: 'அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்<br />புலந்தாரைப் புல்லா விடல்',
     line1: 'அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்',
     line2: 'புலந்தாரைப் புல்லா விடல்',
     KalaignarUrai:
@@ -23841,8 +22222,7 @@ const kurral = [
       'To use no kind conciliating art when lover grieves,<br />Is cutting out the root of tender winding plant that droops',
     EnglishMeaning:
       'Not to reconcile those who have feigned dislike is like cutting a faded creeper at its root',
-    Transliteration:
-      'Ooti Yavarai  Unaraamai  Vaatiya<br />Valli  Mudhalarin  Thatru',
+    Transliteration: 'Ooti Yavarai  Unaraamai  Vaatiya<br />Valli  Mudhalarin  Thatru',
   },
   {
     Index: 1305,
@@ -23859,8 +22239,7 @@ const kurral = [
       'Even to men of good and worthy mind, the petulance<br />Of wives with flowery eyes lacks not a lovely grace',
     EnglishMeaning:
       'An increased shyness in those whose eyes are like flowers is beautiful even to good and virtuous husbands',
-    Transliteration:
-      'Nalaththakai Nallavarkku  Eer  Pulaththakai<br />Pooanna  Kannaar  Akaththu',
+    Transliteration: 'Nalaththakai Nallavarkku  Eer  Pulaththakai<br />Pooanna  Kannaar  Akaththu',
   },
   {
     Index: 1306,
@@ -23877,8 +22256,7 @@ const kurral = [
       'Love without hatred is ripened fruit;<br />Without some lesser strife, fruit immature',
     EnglishMeaning:
       'Sexual pleasure, without prolonged and short-lived dislike, is like too ripe, and unripe fruit',
-    Transliteration:
-      'Thuniyum Pulaviyum  Illaayin  Kaamam<br />Kaniyum  Karukkaayum  Atru',
+    Transliteration: 'Thuniyum Pulaviyum  Illaayin  Kaamam<br />Kaniyum  Karukkaayum  Atru',
   },
   {
     Index: 1307,
@@ -23895,8 +22273,7 @@ const kurral = [
       "A lovers' quarrel brings its pain, when mind afraid<br />Asks doubtful, 'Will reunion sweet be long delayed?'",
     EnglishMeaning:
       'The doubt as to whether intercourse would take place soon or not, creates a sorrow (even) in feigned dislike',
-    Transliteration:
-      'Ootalin Untaangor  Thunpam  Punarvadhu<br />Neetuva  Thandru  Kol  Endru',
+    Transliteration: 'Ootalin Untaangor  Thunpam  Punarvadhu<br />Neetuva  Thandru  Kol  Endru',
   },
   {
     Index: 1308,
@@ -23913,8 +22290,7 @@ const kurral = [
       'What good can grieving do, when none who love<br />Are there to know the grief thy soul endures',
     EnglishMeaning:
       'What avails sorrow when I am without a wife who can understand the cause of my sorrow?',
-    Transliteration:
-      'Nodhal Evanmatru  Nondhaarendru  Aqdhariyum<br />Kaadhalar  Illaa  Vazhi',
+    Transliteration: 'Nodhal Evanmatru  Nondhaarendru  Aqdhariyum<br />Kaadhalar  Illaa  Vazhi',
   },
   {
     Index: 1309,
@@ -23929,10 +22305,8 @@ const kurral = [
       'நீரும்கூட வெயிலுக்குக் கீழ் இராமல் நிழலுக்குக் கீழ் இருப்பது இனிமை; ஊடலும் அன்புள்ளவரிடம் மட்டுமே இனிமை ஆனது.',
     English:
       'Water is pleasant in the cooling shade;<br />So coolness for a time with those we love',
-    EnglishMeaning:
-      'Like water in the shade, dislike is delicious only in those who love',
-    Transliteration:
-      'Neerum Nizhaladhu  Inidhe  Pulaviyum<br />Veezhunar  Kanne  Inidhu',
+    EnglishMeaning: 'Like water in the shade, dislike is delicious only in those who love',
+    Transliteration: 'Neerum Nizhaladhu  Inidhe  Pulaviyum<br />Veezhunar  Kanne  Inidhu',
   },
   {
     Index: 1310,
@@ -23949,13 +22323,11 @@ const kurral = [
       'Of her who leaves me thus in variance languishing,<br />To think within my heart with love is fond desire',
     EnglishMeaning:
       'It is nothing but strong desire that makes her mind unite with me who can leave her to her own dislike',
-    Transliteration:
-      'Ootal Unanga  Vituvaarotu  Ennenjam<br />Kootuvem  Enpadhu  Avaa',
+    Transliteration: 'Ootal Unanga  Vituvaarotu  Ennenjam<br />Kootuvem  Enpadhu  Avaa',
   },
   {
     Index: 1311,
-    Tamil:
-      'பெண்ணியலார் எல்லாரும் கண்ணிற் பொதுவுண்பர்<br />நண்ணேன் பரத்தநின் மார்பு',
+    Tamil: 'பெண்ணியலார் எல்லாரும் கண்ணிற் பொதுவுண்பர்<br />நண்ணேன் பரத்தநின் மார்பு',
     line1: 'பெண்ணியலார் எல்லாரும் கண்ணிற் பொதுவுண்பர்',
     line2: 'நண்ணேன் பரத்தநின் மார்பு',
     KalaignarUrai:
@@ -23968,13 +22340,11 @@ const kurral = [
       'From thy regard all womankind Enjoys an equal grace;<br />O thou of wandering fickle mind, I shrink from thine embrace',
     EnglishMeaning:
       'You are given to prostitution; all those who are born as womankind enjoy you with their eyes in an ordinary way I will not embrace you',
-    Transliteration:
-      'Penniyalaar Ellaarum  Kannin  Podhuunpar<br />Nannen  Paraththanin  Maarpu',
+    Transliteration: 'Penniyalaar Ellaarum  Kannin  Podhuunpar<br />Nannen  Paraththanin  Maarpu',
   },
   {
     Index: 1312,
-    Tamil:
-      'ஊடி இருந்தேமாத் தும்மினார் யாம்தம்மை<br />நீடுவாழ் கென்பாக் கறிந்து',
+    Tamil: 'ஊடி இருந்தேமாத் தும்மினார் யாம்தம்மை<br />நீடுவாழ் கென்பாக் கறிந்து',
     line1: 'ஊடி இருந்தேமாத் தும்மினார் யாம்தம்மை',
     line2: 'நீடுவாழ் கென்பாக் கறிந்து',
     KalaignarUrai:
@@ -23992,8 +22362,7 @@ const kurral = [
   },
   {
     Index: 1313,
-    Tamil:
-      'கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்<br />காட்டிய சூடினீர் என்று',
+    Tamil: 'கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்<br />காட்டிய சூடினீர் என்று',
     line1: 'கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்',
     line2: 'காட்டிய சூடினீர் என்று',
     KalaignarUrai:
@@ -24024,8 +22393,7 @@ const kurral = [
       "'I love you more than all beside,' 'T was thus I gently spoke;<br />'What all, what all?' she instant cried; And all her anger woke",
     EnglishMeaning:
       "When I said I loved her more than any other woman, she said 'more than others, yes, more than others,' and remained sulky",
-    Transliteration:
-      'Yaarinum Kaadhalam  Endrenaa  Ootinaal<br />Yaarinum  Yaarinum  Endru',
+    Transliteration: 'Yaarinum Kaadhalam  Endrenaa  Ootinaal<br />Yaarinum  Yaarinum  Endru',
   },
   {
     Index: 1315,
@@ -24042,13 +22410,11 @@ const kurral = [
       "'While here I live, I leave you not,' I said to calm her fears<br />She cried, 'There, then, I read your thought'; And straight dissolved in tears",
     EnglishMeaning:
       'When I said I would never part from her in this life her eyes were filled with tears',
-    Transliteration:
-      'Immaip Pirappil  Piriyalam  Endrenaak<br />Kannirai  Neerkon  Tanal',
+    Transliteration: 'Immaip Pirappil  Piriyalam  Endrenaak<br />Kannirai  Neerkon  Tanal',
   },
   {
     Index: 1316,
-    Tamil:
-      'உள்ளினேன் என்றேன்மற் றென்மறந்தீர் என்றென்னைப்<br />புல்லாள் புலத்தக் கனள்',
+    Tamil: 'உள்ளினேன் என்றேன்மற் றென்மறந்தீர் என்றென்னைப்<br />புல்லாள் புலத்தக் கனள்',
     line1: 'உள்ளினேன் என்றேன்மற் றென்மறந்தீர் என்றென்னைப்',
     line2: 'புல்லாள் புலத்தக் கனள்',
     KalaignarUrai:
@@ -24061,13 +22427,11 @@ const kurral = [
       "'Each day I called to mind your charms,' 'O, then, you had forgot,'<br />She cried, and then her opened arms, Forthwith embraced me not",
     EnglishMeaning:
       'When I said I had remembered her, she said I had forgotten her and relaxing her embrace, began to feign dislike',
-    Transliteration:
-      'Ullinen Endrenmar  Renmarandheer  Endrennaip<br />Pullaal  Pulaththak  Kanal',
+    Transliteration: 'Ullinen Endrenmar  Renmarandheer  Endrennaip<br />Pullaal  Pulaththak  Kanal',
   },
   {
     Index: 1317,
-    Tamil:
-      'வழுத்தினாள் தும்மினேன் ஆக அழித்தழுதாள்<br />யாருள்ளித் தும்மினீர் என்று',
+    Tamil: 'வழுத்தினாள் தும்மினேன் ஆக அழித்தழுதாள்<br />யாருள்ளித் தும்மினீர் என்று',
     line1: 'வழுத்தினாள் தும்மினேன் ஆக அழித்தழுதாள்',
     line2: 'யாருள்ளித் தும்மினீர் என்று',
     KalaignarUrai:
@@ -24098,13 +22462,11 @@ const kurral = [
       "And so next time I checked my sneeze; She forthwith wept and cried,<br />(That woman difficult to please), 'Your thoughts from me you hide'",
     EnglishMeaning:
       "When I suppressed my sneezing, she wept saying, 'I suppose you (did so) to hide from me your own people's remembrance of you'",
-    Transliteration:
-      'Thummuch Cheruppa  Azhudhaal  Numarullal<br />Emmai  Maraiththiro  Endru',
+    Transliteration: 'Thummuch Cheruppa  Azhudhaal  Numarullal<br />Emmai  Maraiththiro  Endru',
   },
   {
     Index: 1319,
-    Tamil:
-      'தன்னை உணர்த்தினும் காயும் பிறர்க்கும்நீர்<br />இந்நீரர் ஆகுதிர் என்று',
+    Tamil: 'தன்னை உணர்த்தினும் காயும் பிறர்க்கும்நீர்<br />இந்நீரர் ஆகுதிர் என்று',
     line1: 'தன்னை உணர்த்தினும் காயும் பிறர்க்கும்நீர்',
     line2: 'இந்நீரர் ஆகுதிர் என்று',
     KalaignarUrai:
@@ -24117,13 +22479,11 @@ const kurral = [
       "I then began to soothe and coax, To calm her jealous mind;<br />'I see', quoth she, 'to other folks How you are wondrous kind",
     EnglishMeaning:
       "'I see', quoth she, 'to other folks How you are wondrous kind' Even when I try to remove her dislike, she is displeased and says, 'This is the way you behave",
-    Transliteration:
-      'Thannai Unarththinum  Kaayum  Pirarkkumneer<br />Inneerar  Aakudhir  Endru',
+    Transliteration: 'Thannai Unarththinum  Kaayum  Pirarkkumneer<br />Inneerar  Aakudhir  Endru',
   },
   {
     Index: 1320,
-    Tamil:
-      'நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்<br />யாருள்ளி நோக்கினீர் என்று',
+    Tamil: 'நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்<br />யாருள்ளி நோக்கினீர் என்று',
     line1: 'நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்',
     line2: 'யாருள்ளி நோக்கினீர் என்று',
     KalaignarUrai:
@@ -24154,8 +22514,7 @@ const kurral = [
       'Although there be no fault in him, the sweetness of his love<br />Hath power in me a fretful jealousy to move',
     EnglishMeaning:
       'Although my husband is free from defects, the way in which he embraces me is such as to make me feign dislike',
-    Transliteration:
-      'Illai Thavaravarkku  Aayinum  Ootudhal<br />Valladhu  Avaralikku  Maaru',
+    Transliteration: 'Illai Thavaravarkku  Aayinum  Ootudhal<br />Valladhu  Avaralikku  Maaru',
   },
   {
     Index: 1322,
@@ -24172,13 +22531,11 @@ const kurral = [
       "My 'anger feigned' gives but a little pain;<br />And when affection droops, it makes it bloom again",
     EnglishMeaning:
       'His love will increase though it may (at first seem to) fade through the short-lived distress caused by (my) dislike',
-    Transliteration:
-      'Ootalin Thondrum  Sirudhuni  Nallali<br />Vaatinum  Paatu  Perum',
+    Transliteration: 'Ootalin Thondrum  Sirudhuni  Nallali<br />Vaatinum  Paatu  Perum',
   },
   {
     Index: 1323,
-    Tamil:
-      'புலத்தலிற் புத்தேள்நா டுண்டோ நிலத்தொடு<br />நீரியைந் தன்னார் அகத்து',
+    Tamil: 'புலத்தலிற் புத்தேள்நா டுண்டோ நிலத்தொடு<br />நீரியைந் தன்னார் அகத்து',
     line1: 'புலத்தலிற் புத்தேள்நா டுண்டோ நிலத்தொடு',
     line2: 'நீரியைந் தன்னார் அகத்து',
     KalaignarUrai:
@@ -24209,13 +22566,11 @@ const kurral = [
       "'Within the anger feigned' that close love's tie doth bind,<br />A weapon lurks, which quite breaks down my mind",
     EnglishMeaning:
       'In prolonged dislike after an embrace there is a weapon that can break my heart',
-    Transliteration:
-      'Pulli Vitaaap  Pulaviyul  Thondrumen<br />Ullam  Utaikkum  Patai',
+    Transliteration: 'Pulli Vitaaap  Pulaviyul  Thondrumen<br />Ullam  Utaikkum  Patai',
   },
   {
     Index: 1325,
-    Tamil:
-      'தவறிலர் ஆயினும் தாம்வீழ்வார் மென்றோள்<br />அகறலின் ஆங்கொன் றுடைத்து',
+    Tamil: 'தவறிலர் ஆயினும் தாம்வீழ்வார் மென்றோள்<br />அகறலின் ஆங்கொன் றுடைத்து',
     line1: 'தவறிலர் ஆயினும் தாம்வீழ்வார் மென்றோள்',
     line2: 'அகறலின் ஆங்கொன் றுடைத்து',
     KalaignarUrai:
@@ -24246,8 +22601,7 @@ const kurral = [
       "'Tis sweeter to digest your food than 'tis to eat;<br />In love, than union's self is anger feigned more sweet",
     EnglishMeaning:
       'To digest what has been eaten is more delightful than to eat more; likewise love is more delightful in dislike than intercourse',
-    Transliteration:
-      'Unalinum Untadhu  Aralinidhu  Kaamam<br />Punardhalin  Ootal  Inidhu',
+    Transliteration: 'Unalinum Untadhu  Aralinidhu  Kaamam<br />Punardhalin  Ootal  Inidhu',
   },
   {
     Index: 1327,
@@ -24264,8 +22618,7 @@ const kurral = [
       "In lovers' quarrels, 'tis the one that first gives way,<br />That in re-union's joy is seen to win the day",
     EnglishMeaning:
       '160 Those are conquerors whose dislike has been defeated and that is proved by the love (which',
-    Transliteration:
-      'Ootalil Thotravar  Vendraar  Adhumannum<br />Kootalir  Kaanap  Patum',
+    Transliteration: 'Ootalil Thotravar  Vendraar  Adhumannum<br />Kootalir  Kaanap  Patum',
   },
   {
     Index: 1328,
@@ -24282,8 +22635,7 @@ const kurral = [
       "And shall we ever more the sweetness know of that embrace<br />With dewy brow; to which 'feigned anger' lent its piquant grace",
     EnglishMeaning:
       'Will I enjoy once more through her dislike, the pleasure of that love that makes her forehead perspire?',
-    Transliteration:
-      'Ootip Perukuvam  Kollo  Nudhalveyarppak<br />Kootalil  Thondriya  Uppu',
+    Transliteration: 'Ootip Perukuvam  Kollo  Nudhalveyarppak<br />Kootalil  Thondriya  Uppu',
   },
   {
     Index: 1329,
@@ -24300,8 +22652,7 @@ const kurral = [
       'Let her, whose jewels brightly shine, aversion feign<br />That I may still plead on, O night, prolong thy reign',
     EnglishMeaning:
       'May the bright-jewelled one feign dislike, and may the night be prolonged for me to implore her!',
-    Transliteration:
-      'Ootuka Manno  Oliyizhai  Yaamirappa<br />Neetuka  Manno  Iraa',
+    Transliteration: 'Ootuka Manno  Oliyizhai  Yaamirappa<br />Neetuka  Manno  Iraa',
   },
   {
     Index: 1330,
@@ -24318,8 +22669,7 @@ const kurral = [
       "A 'feigned aversion' coy to pleasure gives a zest;<br />The pleasure's crowned when breast is clasped to breast",
     EnglishMeaning:
       'Dislike adds delight to love; and a hearty embrace (thereafter) will add delight to dislike',
-    Transliteration:
-      'Ootudhal Kaamaththirku  Inpam  Adharkinpam<br />Kooti  Muyangap  Perin',
+    Transliteration: 'Ootudhal Kaamaththirku  Inpam  Adharkinpam<br />Kooti  Muyangap  Perin',
   },
 ];
 export default kurral;

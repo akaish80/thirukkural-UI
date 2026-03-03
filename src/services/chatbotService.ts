@@ -152,7 +152,14 @@ function searchKurrals(kurrals: KurralData[], query: string, topN = 10): KurralD
   const parts = qnorm.split(/\s+/).filter(Boolean);
 
   const scored = kurrals.map((item: KurralData, idx: number) => {
-    const t = [item.Tamil, item.English, item.Transliteration, item.EnglishMeaning, item.line1, item.line2]
+    const t = [
+      item.Tamil,
+      item.English,
+      item.Transliteration,
+      item.EnglishMeaning,
+      item.line1,
+      item.line2,
+    ]
       .filter(Boolean)
       .join(' | ')
       .toLowerCase();
@@ -166,7 +173,9 @@ function searchKurrals(kurrals: KurralData[], query: string, topN = 10): KurralD
     return { idx, score, item };
   });
 
-  const filtered = scored.filter((s: any) => s.score > 0).sort((a: any, b: any) => b.score - a.score || a.idx - b.idx);
+  const filtered = scored
+    .filter((s: any) => s.score > 0)
+    .sort((a: any, b: any) => b.score - a.score || a.idx - b.idx);
   return filtered.slice(0, topN).map((s: any) => s.item);
 }
 
@@ -187,7 +196,7 @@ module.exports = function buildService(): ChatbotService {
   if (!nestedData) {
     throw new Error('Failed to load thirukkural_complete_nested.json');
   }
-  
+
   const paalList: PaalData[] = extractPaalList(nestedData);
   const aikaram: AdikaramData[] = extractAdikaramList(nestedData);
   const kurrals: KurralData[] = extractKurralList(nestedData);
@@ -204,12 +213,19 @@ module.exports = function buildService(): ChatbotService {
       const mP = q.match(/paal[:#\s]*(\d+)/i);
       if (mP) return { paal: Number(mP[1]), paalInfo: findByPaal(paalList, mP[1]), results: [] };
       const mK = q.match(/kurral[:#\s]*(\d+)/i) || q.match(/^(\d+)$/);
-      if (mK) return { kurral: Number(mK[1]), results: kurrals.filter((k: KurralData) => Number(k.Kurral_id) === Number(mK[1])) };
+      if (mK)
+        return {
+          kurral: Number(mK[1]),
+          results: kurrals.filter((k: KurralData) => Number(k.Kurral_id) === Number(mK[1])),
+        };
 
       // fallback to fuzzy search across fields
       const results = searchKurrals(kurrals, q, topN);
       // also check if query contains words that match adikaram names
-      const adMatch = aikaram.find((a: AdikaramData) => normalizeText(a.Tamil).includes(q) || normalizeText(a.English).includes(q));
+      const adMatch = aikaram.find(
+        (a: AdikaramData) =>
+          normalizeText(a.Tamil).includes(q) || normalizeText(a.English).includes(q),
+      );
       return { results, adikaramInfo: adMatch || null };
     },
 
@@ -219,6 +235,6 @@ module.exports = function buildService(): ChatbotService {
 
     getAdikaramInfo(n: number): AdikaramData | null {
       return aikaram.find((a: AdikaramData) => Number(a.adikaram_number) === Number(n)) || null;
-    }
+    },
   };
 };

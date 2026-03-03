@@ -1,8 +1,5 @@
 module.exports = {
-  extends: [
-    'react-app',
-    'react-app/jest'
-  ],
+  extends: ['react-app', 'react-app/jest'],
   parserOptions: {
     ecmaVersion: 2022,
     sourceType: 'module',
@@ -12,7 +9,7 @@ module.exports = {
   },
   rules: {
     // Override indent rule to use 2 spaces (matching current codebase)
-    indent: ['error', 2],
+    indent: ['error', 2, { SwitchCase: 1 }],
     // Disable rules that might conflict with React app defaults
     'import/no-anonymous-default-export': 'warn',
     'no-unused-vars': 'warn',

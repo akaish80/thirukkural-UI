@@ -1,4 +1,11 @@
-import React, { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react';
+import React, {
+  createContext,
+  useContext,
+  useState,
+  useEffect,
+  useCallback,
+  ReactNode,
+} from 'react';
 
 interface ThemeContextType {
   themeMode: string;
@@ -26,7 +33,7 @@ export const useTheme = () => {
 export const THEMES = {
   AUTO: 'auto',
   LIGHT: 'light',
-  DARK: 'dark'
+  DARK: 'dark',
 };
 
 export const THEME_COLORS = {
@@ -36,7 +43,7 @@ export const THEME_COLORS = {
   GREEN: 'green',
   ORANGE: 'orange',
   RED: 'red',
-  TEAL: 'teal'
+  TEAL: 'teal',
 };
 
 interface ThemeProviderProps {
@@ -90,7 +97,7 @@ const ThemeProvider = ({ children }: ThemeProviderProps) => {
 
     // Remove existing theme classes
     root.classList.remove('theme-light', 'theme-dark');
-    Object.values(THEME_COLORS).forEach(color => {
+    Object.values(THEME_COLORS).forEach((color) => {
       root.classList.remove(`color-${color}`);
     });
 
@@ -131,14 +138,10 @@ const ThemeProvider = ({ children }: ThemeProviderProps) => {
     toggleTheme,
     isDark: getEffectiveTheme() === THEMES.DARK,
     isLight: getEffectiveTheme() === THEMES.LIGHT,
-    isAuto: themeMode === THEMES.AUTO
+    isAuto: themeMode === THEMES.AUTO,
   };
 
-  return (
-    <ThemeContext.Provider value={value}>
-      {children}
-    </ThemeContext.Provider>
-  );
+  return <ThemeContext.Provider value={value}>{children}</ThemeContext.Provider>;
 };
 
 // Theme variable generator
@@ -148,38 +151,38 @@ const getThemeVariables = (theme: string, colorScheme: string) => {
       primary: theme === THEMES.DARK ? '#4A90E2' : '#3498db',
       primaryDark: theme === THEMES.DARK ? '#357ABD' : '#2980b9',
       primaryLight: theme === THEMES.DARK ? '#6BA3E8' : '#5DADE2',
-      accent: theme === THEMES.DARK ? '#FF6B6B' : '#e74c3c'
+      accent: theme === THEMES.DARK ? '#FF6B6B' : '#e74c3c',
     },
     [THEME_COLORS.PURPLE]: {
       primary: theme === THEMES.DARK ? '#8E44AD' : '#9b59b6',
       primaryDark: theme === THEMES.DARK ? '#7D3C98' : '#8e44ad',
       primaryLight: theme === THEMES.DARK ? '#A569BD' : '#BB8FCE',
-      accent: theme === THEMES.DARK ? '#F39C12' : '#f39c12'
+      accent: theme === THEMES.DARK ? '#F39C12' : '#f39c12',
     },
     [THEME_COLORS.GREEN]: {
       primary: theme === THEMES.DARK ? '#2ECC71' : '#27ae60',
       primaryDark: theme === THEMES.DARK ? '#28B463' : '#229954',
       primaryLight: theme === THEMES.DARK ? '#58D68D' : '#52C977',
-      accent: theme === THEMES.DARK ? '#E67E22' : '#d35400'
+      accent: theme === THEMES.DARK ? '#E67E22' : '#d35400',
     },
     [THEME_COLORS.ORANGE]: {
       primary: theme === THEMES.DARK ? '#F39C12' : '#e67e22',
       primaryDark: theme === THEMES.DARK ? '#E67E22' : '#d35400',
       primaryLight: theme === THEMES.DARK ? '#F7DC6F' : '#F8C471',
-      accent: theme === THEMES.DARK ? '#9B59B6' : '#8e44ad'
+      accent: theme === THEMES.DARK ? '#9B59B6' : '#8e44ad',
     },
     [THEME_COLORS.RED]: {
       primary: theme === THEMES.DARK ? '#E74C3C' : '#c0392b',
       primaryDark: theme === THEMES.DARK ? '#C0392B' : '#a93226',
       primaryLight: theme === THEMES.DARK ? '#EC7063' : '#E74C3C',
-      accent: theme === THEMES.DARK ? '#3498DB' : '#2980b9'
+      accent: theme === THEMES.DARK ? '#3498DB' : '#2980b9',
     },
     [THEME_COLORS.TEAL]: {
       primary: theme === THEMES.DARK ? '#1ABC9C' : '#16a085',
       primaryDark: theme === THEMES.DARK ? '#17A2B8' : '#138496',
       primaryLight: theme === THEMES.DARK ? '#48C9B0' : '#5DADE2',
-      accent: theme === THEMES.DARK ? '#F1C40F' : '#f39c12'
-    }
+      accent: theme === THEMES.DARK ? '#F1C40F' : '#f39c12',
+    },
   };
 
   const colors = colorPalettes[colorScheme];
@@ -204,7 +207,7 @@ const getThemeVariables = (theme: string, colorScheme: string) => {
       '--color-accent': colors.accent,
       '--canvas-bg': '#2d2d2d',
       '--canvas-border': '#555555',
-      '--button-hover-bg': '#404040'
+      '--button-hover-bg': '#404040',
     };
   } else {
     return {
@@ -226,7 +229,7 @@ const getThemeVariables = (theme: string, colorScheme: string) => {
       '--color-accent': colors.accent,
       '--canvas-bg': '#ffffff',
       '--canvas-border': '#dee2e6',
-      '--button-hover-bg': '#f8f9fa'
+      '--button-hover-bg': '#f8f9fa',
     };
   }
 };

@@ -27,5 +27,6 @@ const kurralSlice = createSlice({
   },
 });
 
-export const { setKurralList, selectKurral, setKurralError, setKurralLoading } = kurralSlice.actions;
+export const { setKurralList, selectKurral, setKurralError, setKurralLoading } =
+  kurralSlice.actions;
 export default kurralSlice.reducer;

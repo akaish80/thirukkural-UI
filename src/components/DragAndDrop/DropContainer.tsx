@@ -10,13 +10,16 @@ interface DropContainerProps {
 }
 
 export const DropContainer = memo(({ name, type, isDropped }: DropContainerProps) => {
-  const [{ isDragging }, drag] = useDrag(() => ({
-    type,
-    item: { name },
-    collect: (monitor) => ({
-      isDragging: monitor.isDragging(),
+  const [{ isDragging }, drag] = useDrag(
+    () => ({
+      type,
+      item: { name },
+      collect: (monitor) => ({
+        isDragging: monitor.isDragging(),
+      }),
     }),
-  }), [name, type]);
+    [name, type],
+  );
 
   // Build CSS class names based on state
   let className = 'drop-container';

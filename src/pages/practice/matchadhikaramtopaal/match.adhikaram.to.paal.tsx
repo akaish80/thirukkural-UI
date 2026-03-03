@@ -33,7 +33,7 @@ interface PaalItem {
 const MatchAdhikaramToPaal = ({ selPractice }: MatchAdhikaramToPaalProps) => {
   const [listOfAdhikaram, setListOfAdhikaram] = useState<AdikaramItem[]>([]);
   const [currentPaalList, setCurrentPaalList] = useState<PaalItem[]>(
-    paalList.map((p: any) => ({ ...p, count: 0 }))
+    paalList.map((p: any) => ({ ...p, count: 0 })),
   );
 
   useEffect(() => {
@@ -45,7 +45,7 @@ const MatchAdhikaramToPaal = ({ selPractice }: MatchAdhikaramToPaalProps) => {
     const obj = adikaram.find((item: any) => item.Tamil === name);
     if (!obj) return;
     const sel = currentPaalList.find(
-      (paalItem) => obj.Index >= paalItem.adikaramStart && obj.Index <= paalItem.adikaramEnd
+      (paalItem) => obj.Index >= paalItem.adikaramStart && obj.Index <= paalItem.adikaramEnd,
     );
     if (!sel) return;
     currentPaalList[sel.Index - 1].count += 1;
@@ -96,7 +96,10 @@ const MatchAdhikaramToPaal = ({ selPractice }: MatchAdhikaramToPaalProps) => {
         </div>
       ) : (
         <div className="success-message">
-          <span role="img" aria-label="celebrate">🎉</span> வாழ்த்துகள்! அனைத்தையும் பொருத்திவிட்டீர்கள்!
+          <span role="img" aria-label="celebrate">
+            🎉
+          </span>{' '}
+          வாழ்த்துகள்! அனைத்தையும் பொருத்திவிட்டீர்கள்!
         </div>
       )}
     </div>
